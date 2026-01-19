@@ -4,34 +4,38 @@
   "sector": "Pharmaceuticals & Healthcare",
   "state": "Maharashtra",
   "revenue_cr": 4415.8,
-  "nii_score": 7.2,
-  "nii_rank": 145,
-  "nii_sector_rank": 19,
+  "nii_score": 6.9,
+  "nii_rank": 161,
+  "nii_sector_rank": 21,
   "nii_rating": "Good",
-  "nii_percentile": 72,
-  "taesc_cr": 172.89,
-  "nir": 0.0392,
-  "nir_pct": 3.92,
+  "nii_percentile": 69,
+  "taesc_cr": 196.2,
+  "nir": 0.0444,
+  "nir_pct": 4.44,
   "breakdown": {
     "climate": {
       "value_cr": 49.69,
-      "pct": 28.7
+      "pct": 25.3
     },
     "water": {
       "value_cr": 8.21,
-      "pct": 4.7
+      "pct": 4.2
     },
     "land": {
       "value_cr": 24.2,
-      "pct": 14.0
+      "pct": 12.3
     },
     "biodiversity": {
       "value_cr": 84.19,
-      "pct": 48.7
+      "pct": 42.9
     },
     "pollution": {
-      "value_cr": 6.61,
-      "pct": 3.8
+      "value_cr": 7.1,
+      "pct": 3.6
+    },
+    "energy_depletion": {
+      "value_cr": 22.82,
+      "pct": 11.6
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.42,
     "pa_proximity_score": 0.0119,
     "waste_generated_mt": 5039.0,
-    "renewable_energy_pct": 5.2
+    "renewable_energy_pct": 5.2,
+    "total_energy_gj": 845000.0,
+    "renewable_energy_gj": 84500.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.6,
-    "sector_best_score": 7.9,
-    "sector_median_taesc": 327.39,
-    "sector_best_taesc": 46.47
+    "sector_median_score": 6.5,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 351.59,
+    "sector_best_taesc": 49.58
   },
   "data_quality": {
     "tier": "Tier 2",

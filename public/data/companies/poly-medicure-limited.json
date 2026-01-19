@@ -4,34 +4,38 @@
   "sector": "Pharmaceuticals & Healthcare",
   "state": "Karnataka",
   "revenue_cr": 1601.8,
-  "nii_score": 6.6,
-  "nii_rank": 176,
-  "nii_sector_rank": 27,
+  "nii_score": 6.5,
+  "nii_rank": 182,
+  "nii_sector_rank": 28,
   "nii_rating": "Good",
-  "nii_percentile": 66,
-  "taesc_cr": 76.2,
-  "nir": 0.0476,
-  "nir_pct": 4.76,
+  "nii_percentile": 65,
+  "taesc_cr": 79.95,
+  "nir": 0.0499,
+  "nir_pct": 4.99,
   "breakdown": {
     "climate": {
       "value_cr": 37.0,
-      "pct": 48.6
+      "pct": 46.3
     },
     "water": {
       "value_cr": 3.24,
-      "pct": 4.2
+      "pct": 4.0
     },
     "land": {
       "value_cr": 4.22,
-      "pct": 5.5
+      "pct": 5.3
     },
     "biodiversity": {
       "value_cr": 29.26,
-      "pct": 38.4
+      "pct": 36.6
     },
     "pollution": {
-      "value_cr": 2.48,
-      "pct": 3.3
+      "value_cr": 2.54,
+      "pct": 3.2
+    },
+    "energy_depletion": {
+      "value_cr": 3.69,
+      "pct": 4.6
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.48,
     "pa_proximity_score": 0.0048,
     "waste_generated_mt": 2227.0,
-    "renewable_energy_pct": 15.2
+    "renewable_energy_pct": 15.2,
+    "total_energy_gj": 145000.0,
+    "renewable_energy_gj": 22040.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.6,
-    "sector_best_score": 7.9,
-    "sector_median_taesc": 327.39,
-    "sector_best_taesc": 46.47
+    "sector_median_score": 6.5,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 351.59,
+    "sector_best_taesc": 49.58
   },
   "data_quality": {
     "tier": "Tier 2",

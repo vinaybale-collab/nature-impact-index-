@@ -4,34 +4,38 @@
   "sector": "Energy & Power",
   "state": "Karnataka",
   "revenue_cr": 6762.79,
-  "nii_score": 0.3,
-  "nii_rank": 507,
+  "nii_score": 0.4,
+  "nii_rank": 502,
   "nii_sector_rank": 23,
   "nii_rating": "Critical",
-  "nii_percentile": 3,
-  "taesc_cr": 11125.74,
-  "nir": 1.6451,
-  "nir_pct": 164.51,
+  "nii_percentile": 4,
+  "taesc_cr": 11856.78,
+  "nir": 1.7532,
+  "nir_pct": 175.32,
   "breakdown": {
     "climate": {
       "value_cr": 7198.19,
-      "pct": 64.7
+      "pct": 60.7
     },
     "water": {
       "value_cr": 759.67,
-      "pct": 6.8
+      "pct": 6.4
     },
     "land": {
       "value_cr": 365.2,
-      "pct": 3.3
+      "pct": 3.1
     },
     "biodiversity": {
       "value_cr": 280.64,
-      "pct": 2.5
+      "pct": 2.4
     },
     "pollution": {
-      "value_cr": 2522.05,
-      "pct": 22.7
+      "value_cr": 2523.07,
+      "pct": 21.3
+    },
+    "energy_depletion": {
+      "value_cr": 730.02,
+      "pct": 6.2
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.48,
     "pa_proximity_score": 0.011,
     "waste_generated_mt": 2509222.0,
-    "renewable_energy_pct": 31.7
+    "renewable_energy_pct": 31.7,
+    "total_energy_gj": 35607065.0,
+    "renewable_energy_gj": 11273196.0
   },
   "peer_comparison": {
-    "sector_median_score": 2.9,
-    "sector_best_score": 7.1,
-    "sector_median_taesc": 1859.41,
-    "sector_best_taesc": 22.51
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.2,
+    "sector_median_taesc": 1977.07,
+    "sector_best_taesc": 22.61
   },
   "data_quality": {
     "tier": "Tier 2",

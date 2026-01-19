@@ -4,33 +4,37 @@
   "sector": "Information Technology",
   "state": "Karnataka",
   "revenue_cr": 1055.5,
-  "nii_score": 8.2,
-  "nii_rank": 92,
-  "nii_sector_rank": 25,
+  "nii_score": 8.3,
+  "nii_rank": 87,
+  "nii_sector_rank": 22,
   "nii_rating": "Excellent",
-  "nii_percentile": 82,
-  "taesc_cr": 7.33,
-  "nir": 0.0069,
-  "nir_pct": 0.69,
+  "nii_percentile": 83,
+  "taesc_cr": 8.06,
+  "nir": 0.0076,
+  "nir_pct": 0.76,
   "breakdown": {
     "climate": {
       "value_cr": 2.83,
-      "pct": 38.7
+      "pct": 35.1
     },
     "water": {
       "value_cr": 0.16,
-      "pct": 2.2
+      "pct": 2.0
     },
     "land": {
       "value_cr": 0.57,
-      "pct": 7.8
+      "pct": 7.1
     },
     "biodiversity": {
       "value_cr": 3.42,
-      "pct": 46.7
+      "pct": 42.5
     },
     "pollution": {
-      "value_cr": 0.34,
+      "value_cr": 0.7,
+      "pct": 8.7
+    },
+    "energy_depletion": {
+      "value_cr": 0.37,
       "pct": 4.6
     }
   },
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.48,
     "pa_proximity_score": 0.1291,
     "waste_generated_mt": 18.0,
-    "renewable_energy_pct": 0.0
+    "renewable_energy_pct": 0.0,
+    "total_energy_gj": 12450.0,
+    "renewable_energy_gj": 0.0
   },
   "peer_comparison": {
-    "sector_median_score": 8.5,
+    "sector_median_score": 8.4,
     "sector_best_score": 9.0,
-    "sector_median_taesc": 21.55,
-    "sector_best_taesc": 2.85
+    "sector_median_taesc": 22.84,
+    "sector_best_taesc": 3.05
   },
   "data_quality": {
     "tier": "Tier 2",

@@ -4,34 +4,38 @@
   "sector": "Chemicals & Fertilizers",
   "state": "West Bengal",
   "revenue_cr": 4062.04,
-  "nii_score": 3.4,
-  "nii_rank": 344,
-  "nii_sector_rank": 104,
+  "nii_score": 3.3,
+  "nii_rank": 350,
+  "nii_sector_rank": 108,
   "nii_rating": "Poor",
-  "nii_percentile": 34,
-  "taesc_cr": 454.21,
-  "nir": 0.1118,
-  "nir_pct": 11.18,
+  "nii_percentile": 33,
+  "taesc_cr": 500.01,
+  "nir": 0.1231,
+  "nir_pct": 12.31,
   "breakdown": {
     "climate": {
       "value_cr": 141.66,
-      "pct": 31.2
+      "pct": 28.3
     },
     "water": {
       "value_cr": 6.23,
-      "pct": 1.4
+      "pct": 1.2
     },
     "land": {
       "value_cr": 14.13,
-      "pct": 3.1
+      "pct": 2.8
     },
     "biodiversity": {
       "value_cr": 156.34,
-      "pct": 34.4
+      "pct": 31.3
     },
     "pollution": {
-      "value_cr": 135.86,
-      "pct": 29.9
+      "value_cr": 136.76,
+      "pct": 27.4
+    },
+    "energy_depletion": {
+      "value_cr": 44.9,
+      "pct": 9.0
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.58,
     "pa_proximity_score": 0.0173,
     "waste_generated_mt": 134380.0,
-    "renewable_energy_pct": 17.0
+    "renewable_energy_pct": 17.0,
+    "total_energy_gj": 1803142.0,
+    "renewable_energy_gj": 306458.0
   },
   "peer_comparison": {
     "sector_median_score": 4.6,
-    "sector_best_score": 7.4,
-    "sector_median_taesc": 340.82,
-    "sector_best_taesc": 8.38
+    "sector_best_score": 7.6,
+    "sector_median_taesc": 370.56,
+    "sector_best_taesc": 8.45
   },
   "data_quality": {
     "tier": "Tier 2",

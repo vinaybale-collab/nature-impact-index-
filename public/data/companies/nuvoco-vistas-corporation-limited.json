@@ -4,18 +4,18 @@
   "sector": "Cement Manufacturing",
   "state": "Gujarat",
   "revenue_cr": 103566.67,
-  "nii_score": 2.4,
-  "nii_rank": 397,
+  "nii_score": 2.3,
+  "nii_rank": 402,
   "nii_sector_rank": 3,
   "nii_rating": "Poor",
-  "nii_percentile": 24,
-  "taesc_cr": 17097.03,
-  "nir": 0.1651,
-  "nir_pct": 16.51,
+  "nii_percentile": 23,
+  "taesc_cr": 18138.74,
+  "nir": 0.1751,
+  "nir_pct": 17.51,
   "breakdown": {
     "climate": {
       "value_cr": 8009.87,
-      "pct": 46.8
+      "pct": 44.2
     },
     "water": {
       "value_cr": 64.43,
@@ -23,15 +23,19 @@
     },
     "land": {
       "value_cr": 437.48,
-      "pct": 2.6
+      "pct": 2.4
     },
     "biodiversity": {
       "value_cr": 8228.86,
-      "pct": 48.1
+      "pct": 45.4
     },
     "pollution": {
-      "value_cr": 356.39,
+      "value_cr": 386.32,
       "pct": 2.1
+    },
+    "energy_depletion": {
+      "value_cr": 1011.78,
+      "pct": 5.6
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.51,
     "pa_proximity_score": 0.1098,
     "waste_generated_mt": 307061.0,
-    "renewable_energy_pct": 12.4
+    "renewable_energy_pct": 12.4,
+    "total_energy_gj": 38500000.0,
+    "renewable_energy_gj": 4774000.0
   },
   "peer_comparison": {
-    "sector_median_score": 0.8,
-    "sector_best_score": 4.9,
-    "sector_median_taesc": 4113.3,
-    "sector_best_taesc": 185.22
+    "sector_median_score": 0.7,
+    "sector_best_score": 5.1,
+    "sector_median_taesc": 4419.77,
+    "sector_best_taesc": 197.59
   },
   "data_quality": {
     "tier": "Tier 2",

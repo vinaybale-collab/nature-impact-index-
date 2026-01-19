@@ -4,34 +4,38 @@
   "sector": "Financial Services - NBFC",
   "state": "Tamil Nadu",
   "revenue_cr": 7660.8,
-  "nii_score": 8.4,
-  "nii_rank": 82,
+  "nii_score": 8.5,
+  "nii_rank": 77,
   "nii_sector_rank": 2,
   "nii_rating": "Excellent",
-  "nii_percentile": 84,
-  "taesc_cr": 42.99,
-  "nir": 0.0056,
-  "nir_pct": 0.56,
+  "nii_percentile": 85,
+  "taesc_cr": 45.43,
+  "nir": 0.0059,
+  "nir_pct": 0.59,
   "breakdown": {
     "climate": {
       "value_cr": 16.27,
-      "pct": 37.9
+      "pct": 35.8
     },
     "water": {
       "value_cr": 1.66,
-      "pct": 3.9
+      "pct": 3.6
     },
     "land": {
       "value_cr": 3.69,
-      "pct": 8.6
+      "pct": 8.1
     },
     "biodiversity": {
       "value_cr": 20.01,
-      "pct": 46.6
+      "pct": 44.1
     },
     "pollution": {
-      "value_cr": 1.35,
-      "pct": 3.2
+      "value_cr": 2.52,
+      "pct": 5.5
+    },
+    "energy_depletion": {
+      "value_cr": 1.27,
+      "pct": 2.8
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.52,
     "pa_proximity_score": 0.006,
     "waste_generated_mt": 327.0,
-    "renewable_energy_pct": 0.0
+    "renewable_energy_pct": 0.0,
+    "total_energy_gj": 42500.0,
+    "renewable_energy_gj": 0.0
   },
   "peer_comparison": {
-    "sector_median_score": 8.4,
+    "sector_median_score": 8.5,
     "sector_best_score": 9.4,
-    "sector_median_taesc": 42.99,
-    "sector_best_taesc": 22.13
+    "sector_median_taesc": 45.43,
+    "sector_best_taesc": 24.93
   },
   "data_quality": {
     "tier": "Tier 2",

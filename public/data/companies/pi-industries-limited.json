@@ -4,34 +4,38 @@
   "sector": "Chemicals & Fertilizers",
   "state": "Gujarat",
   "revenue_cr": 7571.2,
-  "nii_score": 4.4,
-  "nii_rank": 292,
+  "nii_score": 4.5,
+  "nii_rank": 287,
   "nii_sector_rank": 80,
   "nii_rating": "Average",
-  "nii_percentile": 44,
-  "taesc_cr": 624.38,
-  "nir": 0.0825,
-  "nir_pct": 8.25,
+  "nii_percentile": 45,
+  "taesc_cr": 658.46,
+  "nir": 0.087,
+  "nir_pct": 8.7,
   "breakdown": {
     "climate": {
       "value_cr": 117.43,
-      "pct": 18.8
+      "pct": 17.8
     },
     "water": {
       "value_cr": 21.98,
-      "pct": 3.5
+      "pct": 3.3
     },
     "land": {
       "value_cr": 12.87,
-      "pct": 2.1
+      "pct": 2.0
     },
     "biodiversity": {
       "value_cr": 284.86,
-      "pct": 45.6
+      "pct": 43.3
     },
     "pollution": {
-      "value_cr": 187.23,
-      "pct": 30.0
+      "value_cr": 187.69,
+      "pct": 28.5
+    },
+    "energy_depletion": {
+      "value_cr": 33.62,
+      "pct": 5.1
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.51,
     "pa_proximity_score": 0.0134,
     "waste_generated_mt": 118031.0,
-    "renewable_energy_pct": 9.2
+    "renewable_energy_pct": 9.2,
+    "total_energy_gj": 1245000.0,
+    "renewable_energy_gj": 124500.0
   },
   "peer_comparison": {
     "sector_median_score": 4.6,
-    "sector_best_score": 7.4,
-    "sector_median_taesc": 340.82,
-    "sector_best_taesc": 8.38
+    "sector_best_score": 7.6,
+    "sector_median_taesc": 370.56,
+    "sector_best_taesc": 8.45
   },
   "data_quality": {
     "tier": "Tier 2",

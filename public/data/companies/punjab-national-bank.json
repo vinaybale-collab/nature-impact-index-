@@ -4,18 +4,18 @@
   "sector": "Banking & Financial Services",
   "state": "West Bengal",
   "revenue_cr": 138070.1,
-  "nii_score": 1.4,
-  "nii_rank": 449,
+  "nii_score": 1.5,
+  "nii_rank": 444,
   "nii_sector_rank": 63,
   "nii_rating": "Critical",
-  "nii_percentile": 14,
-  "taesc_cr": 43011.49,
-  "nir": 0.3115,
-  "nir_pct": 31.15,
+  "nii_percentile": 15,
+  "taesc_cr": 43063.44,
+  "nir": 0.3119,
+  "nir_pct": 31.19,
   "breakdown": {
     "climate": {
       "value_cr": 42924.27,
-      "pct": 99.8
+      "pct": 99.7
     },
     "water": {
       "value_cr": 53.85,
@@ -30,8 +30,12 @@
       "pct": 0.0
     },
     "pollution": {
-      "value_cr": 10.41,
-      "pct": 0.0
+      "value_cr": 22.26,
+      "pct": 0.1
+    },
+    "energy_depletion": {
+      "value_cr": 40.1,
+      "pct": 0.1
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.58,
     "pa_proximity_score": 0.0033,
     "waste_generated_mt": 25.0,
-    "renewable_energy_pct": 1.8
+    "renewable_energy_pct": 1.8,
+    "total_energy_gj": 1361000.0,
+    "renewable_energy_gj": 24498.0
   },
   "peer_comparison": {
     "sector_median_score": 9.3,
     "sector_best_score": 10.0,
-    "sector_median_taesc": 23.47,
-    "sector_best_taesc": 0.5
+    "sector_median_taesc": 24.88,
+    "sector_best_taesc": 0.56
   },
   "data_quality": {
     "tier": "Tier 2",

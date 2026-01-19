@@ -4,12 +4,12 @@
   "sector": "Energy & Power",
   "state": "Telangana",
   "revenue_cr": 2577.3,
-  "nii_score": 5.3,
-  "nii_rank": 245,
-  "nii_sector_rank": 6,
+  "nii_score": 5.6,
+  "nii_rank": 229,
+  "nii_sector_rank": 4,
   "nii_rating": "Average",
-  "nii_percentile": 53,
-  "taesc_cr": 172.83,
+  "nii_percentile": 56,
+  "taesc_cr": 172.86,
   "nir": 0.0671,
   "nir_pct": 6.71,
   "breakdown": {
@@ -30,8 +30,12 @@
       "pct": 71.1
     },
     "pollution": {
-      "value_cr": 0.31,
+      "value_cr": 0.34,
       "pct": 0.2
+    },
+    "energy_depletion": {
+      "value_cr": 0.0,
+      "pct": 0.0
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.45,
     "pa_proximity_score": 0.0356,
     "waste_generated_mt": 228.0,
-    "renewable_energy_pct": 100.0
+    "renewable_energy_pct": 100.0,
+    "total_energy_gj": 12400.0,
+    "renewable_energy_gj": 12400.0
   },
   "peer_comparison": {
-    "sector_median_score": 2.9,
-    "sector_best_score": 7.1,
-    "sector_median_taesc": 1859.41,
-    "sector_best_taesc": 22.51
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.2,
+    "sector_median_taesc": 1977.07,
+    "sector_best_taesc": 22.61
   },
   "data_quality": {
     "tier": "Tier 2",

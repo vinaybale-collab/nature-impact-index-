@@ -4,34 +4,38 @@
   "sector": "Cement Manufacturing",
   "state": "Unknown",
   "revenue_cr": 1787.89,
-  "nii_score": 0.8,
-  "nii_rank": 481,
-  "nii_sector_rank": 9,
+  "nii_score": 0.7,
+  "nii_rank": 486,
+  "nii_sector_rank": 10,
   "nii_rating": "Critical",
-  "nii_percentile": 8,
-  "taesc_cr": 1234.77,
-  "nir": 0.6906,
-  "nir_pct": 69.06,
+  "nii_percentile": 7,
+  "taesc_cr": 1460.9,
+  "nir": 0.8171,
+  "nir_pct": 81.71,
   "breakdown": {
     "climate": {
       "value_cr": 1008.52,
-      "pct": 81.7
+      "pct": 69.0
     },
     "water": {
       "value_cr": 22.73,
-      "pct": 1.8
+      "pct": 1.6
     },
     "land": {
       "value_cr": 96.61,
-      "pct": 7.8
+      "pct": 6.6
     },
     "biodiversity": {
       "value_cr": 86.97,
-      "pct": 7.0
+      "pct": 6.0
     },
     "pollution": {
-      "value_cr": 19.94,
-      "pct": 1.6
+      "value_cr": 24.51,
+      "pct": 1.7
+    },
+    "energy_depletion": {
+      "value_cr": 221.56,
+      "pct": 15.2
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.465,
     "pa_proximity_score": 0.0097,
     "waste_generated_mt": 12450.0,
-    "renewable_energy_pct": 12.6
+    "renewable_energy_pct": 12.6,
+    "total_energy_gj": 8450000.0,
+    "renewable_energy_gj": 1064700.0
   },
   "peer_comparison": {
-    "sector_median_score": 0.8,
-    "sector_best_score": 4.9,
-    "sector_median_taesc": 4113.3,
-    "sector_best_taesc": 185.22
+    "sector_median_score": 0.7,
+    "sector_best_score": 5.1,
+    "sector_median_taesc": 4419.77,
+    "sector_best_taesc": 197.59
   },
   "data_quality": {
     "tier": "Tier 3",

@@ -4,34 +4,38 @@
   "sector": "Manufacturing - Paints & Coatings",
   "state": "Karnataka",
   "revenue_cr": 13109.78,
-  "nii_score": 5.4,
-  "nii_rank": 239,
+  "nii_score": 5.0,
+  "nii_rank": 260,
   "nii_sector_rank": 1,
   "nii_rating": "Average",
-  "nii_percentile": 54,
-  "taesc_cr": 863.36,
-  "nir": 0.0659,
-  "nir_pct": 6.59,
+  "nii_percentile": 50,
+  "taesc_cr": 1024.6,
+  "nir": 0.0782,
+  "nir_pct": 7.82,
   "breakdown": {
     "climate": {
       "value_cr": 94.64,
-      "pct": 11.0
+      "pct": 9.2
     },
     "water": {
       "value_cr": 25.11,
-      "pct": 2.9
+      "pct": 2.5
     },
     "land": {
       "value_cr": 35.26,
-      "pct": 4.1
+      "pct": 3.4
     },
     "biodiversity": {
       "value_cr": 469.22,
-      "pct": 54.3
+      "pct": 45.8
     },
     "pollution": {
-      "value_cr": 239.13,
-      "pct": 27.7
+      "value_cr": 366.75,
+      "pct": 35.8
+    },
+    "energy_depletion": {
+      "value_cr": 33.62,
+      "pct": 3.3
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.48,
     "pa_proximity_score": 0.0941,
     "waste_generated_mt": 21757.0,
-    "renewable_energy_pct": 10.0
+    "renewable_energy_pct": 10.0,
+    "total_energy_gj": 1245000.0,
+    "renewable_energy_gj": 124500.0
   },
   "peer_comparison": {
-    "sector_median_score": 4.9,
-    "sector_best_score": 5.4,
-    "sector_median_taesc": 1977.37,
-    "sector_best_taesc": 863.36
+    "sector_median_score": 4.8,
+    "sector_best_score": 5.0,
+    "sector_median_taesc": 2137.61,
+    "sector_best_taesc": 1024.6
   },
   "data_quality": {
     "tier": "Tier 2",

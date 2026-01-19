@@ -4,18 +4,18 @@
   "sector": "Manufacturing - Automobiles",
   "state": "Karnataka",
   "revenue_cr": 6172.0,
-  "nii_score": 2.0,
-  "nii_rank": 418,
+  "nii_score": 2.1,
+  "nii_rank": 413,
   "nii_sector_rank": 10,
   "nii_rating": "Poor",
-  "nii_percentile": 20,
-  "taesc_cr": 1294.82,
-  "nir": 0.2098,
-  "nir_pct": 20.98,
+  "nii_percentile": 21,
+  "taesc_cr": 1309.33,
+  "nir": 0.2121,
+  "nir_pct": 21.21,
   "breakdown": {
     "climate": {
       "value_cr": 1056.08,
-      "pct": 81.6
+      "pct": 80.7
     },
     "water": {
       "value_cr": 8.2,
@@ -27,11 +27,15 @@
     },
     "biodiversity": {
       "value_cr": 179.67,
-      "pct": 13.9
+      "pct": 13.7
     },
     "pollution": {
-      "value_cr": 11.8,
-      "pct": 0.9
+      "value_cr": 13.16,
+      "pct": 1.0
+    },
+    "energy_depletion": {
+      "value_cr": 13.14,
+      "pct": 1.0
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.48,
     "pa_proximity_score": 0.0149,
     "waste_generated_mt": 8932.0,
-    "renewable_energy_pct": 22.0
+    "renewable_energy_pct": 22.0,
+    "total_energy_gj": 561865.0,
+    "renewable_energy_gj": 123858.0
   },
   "peer_comparison": {
-    "sector_median_score": 3.1,
-    "sector_best_score": 7.0,
-    "sector_median_taesc": 1910.81,
-    "sector_best_taesc": 77.36
+    "sector_median_score": 3.4,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1938.58,
+    "sector_best_taesc": 79.81
   },
   "data_quality": {
     "tier": "Tier 2",

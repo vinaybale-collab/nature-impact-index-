@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-19T11:23:28.661821",
+  "generated_at": "2026-01-19T11:55:17.443592",
   "database_version": "v7.8.0_NC_CALCULATED",
   "source_version": "v7.7.0_SECTORS_FINAL",
   "total_companies": 525,
@@ -7,17 +7,17 @@
   "statistics": {
     "avg_nii_score": 4.99,
     "median_nii_score": 5.0,
-    "avg_taesc_cr": 5832.63,
-    "total_taesc_cr": 3062129.2,
-    "avg_nir": 0.2685,
-    "median_nir": 0.0735
+    "avg_taesc_cr": 6278.93,
+    "total_taesc_cr": 3296440.69,
+    "avg_nir": 0.2895,
+    "median_nir": 0.0775
   },
   "dimension_totals_cr": {
     "climate": 1874711.51,
     "water": 143944.12,
     "land": 94155.99,
     "biodiversity": 427271.95,
-    "pollution": 522045.64
+    "pollution": 526723.9
   },
   "rating_distribution": {
     "Excellent": 107,
@@ -41,10 +41,11 @@
     "SCOPE3_BIO_DISCOUNT": 0.5,
     "OPERATIONAL_WASTE_COST": 20000,
     "OVERBURDEN_COST": 50,
-    "INTERNAL_PLASTIC_COST": 50000,
+    "INTERNAL_PLASTIC_COST": 80000,
     "EPR_PLASTIC_COST": 5000,
-    "EWASTE_COST": 70000,
-    "HAP_COST": 500,
-    "RECYCLING_CREDIT": 10000
+    "EWASTE_COST": 150000,
+    "HAP_COST": 3000,
+    "RECYCLING_CREDIT": 10000,
+    "ENERGY_DEPLETION_COST": 300
   }
 }

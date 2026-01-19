@@ -13,8 +13,15 @@ Session 21:
 
 Session 23 (v2.1):
 4. RE Credit: Only offsets Scope 2 emissions (not Scope 1 or 3)
-5. Sector MSA Overrides: 8→29 sector expansion with first-principles adjustments
+5. Sector MSA Overrides: 8->29 sector expansion with first-principles adjustments
    See: SECTOR_BIODIVERSITY_MAPPING_v1.md for full methodology
+
+Session 24 (v3.0) - COEFFICIENT ENHANCEMENT:
+6. HAP coefficient: Rs 500 -> Rs 3,000/kg (WHO health cost basis)
+7. E-Waste coefficient: Rs 70K -> Rs 150K/MT (CPCB toxicity)
+8. Plastic coefficient: Rs 50K -> Rs 80K/MT (OECD microplastics)
+9. NEW DIMENSION: Energy Resource Depletion (Rs 300/GJ non-renewable)
+   See: COEFFICIENT_METHODOLOGY_v3.md for justification
 
 Input:  data/company_biodiversity_scores_v7.7.0_SECTORS_FINAL_2026_01_18.csv
 Output: data/company_biodiversity_scores_v7.9.0_NC_CALCULATED.csv
@@ -25,7 +32,7 @@ Output: data/company_biodiversity_scores_v7.9.0_NC_CALCULATED.csv
 
 Author: Claude Code
 Date: January 19, 2026
-Version: 2.1
+Version: 3.0
 """
 
 import pandas as pd
@@ -70,14 +77,18 @@ COEFFICIENTS = {
     'MSA_FACTOR': 0.08,             # Direct MSA to revenue fraction
     'SCOPE3_BIO_DISCOUNT': 0.5,     # 50% for indirect
 
-    # Pollution - DIFFERENTIATED (Source: CPCB, EPR Rules, Mining practice)
+    # Pollution - ENHANCED v3.0 (Source: CPCB, WHO, OECD, EPR Rules)
     'OPERATIONAL_WASTE_COST': 20000,    # Rs per MT (general waste)
     'OVERBURDEN_COST': 50,              # Rs per MT (inert mining rock)
-    'INTERNAL_PLASTIC_COST': 50000,     # Rs per MT (high impact)
+    'INTERNAL_PLASTIC_COST': 80000,     # Rs per MT - INCREASED from 50K (OECD microplastics)
     'EPR_PLASTIC_COST': 5000,           # Rs per MT (collection, not generation)
-    'EWASTE_COST': 70000,               # Rs per MT (hazardous)
-    'HAP_COST': 500,                    # Rs per kg
+    'EWASTE_COST': 150000,              # Rs per MT - INCREASED from 70K (CPCB heavy metal toxicity)
+    'HAP_COST': 3000,                   # Rs per kg - INCREASED from 500 (WHO health cost)
     'RECYCLING_CREDIT': 10000,          # Rs per MT
+
+    # Energy Resource Depletion - NEW v3.0 (Source: World Bank shadow pricing)
+    # Distinct from climate: Climate = GHG damage, This = resource scarcity + extraction damage
+    'ENERGY_DEPLETION_COST': 300,       # Rs per GJ (non-renewable only)
 }
 
 # Sector-specific land multipliers
@@ -460,13 +471,13 @@ def calculate_nc_pollution(row):
     """
     Calculate Pollution Natural Capital (Rs Cr)
 
-    DIFFERENTIATED APPROACH:
+    DIFFERENTIATED APPROACH (v3.0 Enhanced):
     1. Operational waste: Full cost (Rs 20,000/MT)
     2. Mining overburden: Low cost (Rs 50/MT) - inert rock
-    3. Internal plastic: High cost (Rs 50,000/MT)
+    3. Internal plastic: High cost (Rs 80,000/MT) - INCREASED from 50K (OECD microplastics)
     4. EPR plastic: Collection cost only (Rs 5,000/MT)
-    5. E-waste: Hazardous cost (Rs 70,000/MT)
-    6. HAP: Air pollution (Rs 500/kg)
+    5. E-waste: Hazardous cost (Rs 150,000/MT) - INCREASED from 70K (CPCB heavy metals)
+    6. HAP: Air pollution (Rs 3,000/kg) - INCREASED from 500 (WHO health cost)
     7. Recycling credit on operational waste
     """
     # Parse notes for overburden and EPR separation
@@ -507,12 +518,51 @@ def calculate_nc_pollution(row):
     return max(total_cr, 0)
 
 
+def calculate_nc_energy_depletion(row):
+    """
+    Calculate Energy Resource Depletion Natural Capital (Rs Cr)
+
+    NEW DIMENSION v3.0 - Captures two distinct impacts NOT in climate calculation:
+
+    1. RESOURCE SCARCITY: Finite coal/oil/gas reserves being depleted
+       - Intergenerational equity: Future generations lose access
+       - This is NOT in GHG calculation (which measures atmospheric damage)
+
+    2. EXTRACTION ECOSYSTEM DAMAGE:
+       - Coal mining: Forest clearing, aquifer disruption, land subsidence
+       - Oil/gas extraction: Habitat fragmentation, spills risk
+       - This is NOT in Scope 1 GHG (which measures combustion emissions only)
+
+    DOUBLE-COUNTING SAFEGUARD:
+    - Climate dimension: Values GHG emissions (Rs 8,500/tCO2e) = atmospheric damage
+    - This dimension: Values non-renewable energy (Rs 300/GJ) = resource + extraction damage
+    - These are ADDITIVE, not overlapping
+
+    Applied ONLY to non-renewable energy (Total - Renewable)
+
+    Source: World Bank shadow pricing, TERI extraction studies
+    """
+    total_energy_gj = safe_value(row['Total_Energy_GJ'])
+    renewable_energy_gj = safe_value(row['Renewable_Energy_GJ'])
+
+    # Non-renewable energy = Total - Renewable
+    non_renewable_gj = max(total_energy_gj - renewable_energy_gj, 0)
+
+    # Resource depletion cost (Rs)
+    depletion_cost_rs = non_renewable_gj * COEFFICIENTS['ENERGY_DEPLETION_COST']
+
+    # Convert to Crores
+    total_cr = depletion_cost_rs / 1e7
+
+    return max(total_cr, 0)
+
+
 # =============================================================================
 # AGGREGATION & SCORING
 # =============================================================================
 
 def calculate_all_nc(df):
-    """Calculate all Natural Capital columns"""
+    """Calculate all Natural Capital columns (6 dimensions in v3.0)"""
     print("[INFO] Calculating NC_Climate_Cr...")
     df['NC_Climate_Cr'] = df.apply(calculate_nc_climate, axis=1)
 
@@ -528,14 +578,18 @@ def calculate_all_nc(df):
     print("[INFO] Calculating NC_Pollution_Cr...")
     df['NC_Pollution_Cr'] = df.apply(calculate_nc_pollution, axis=1)
 
-    # Aggregate: TAESC
+    print("[INFO] Calculating NC_Energy_Depletion_Cr...")
+    df['NC_Energy_Depletion_Cr'] = df.apply(calculate_nc_energy_depletion, axis=1)
+
+    # Aggregate: TAESC (Total Annualized Ecosystem Services Cost) - Now 6 dimensions
     print("[INFO] Calculating TAESC_Cr...")
     df['TAESC_Cr'] = (
         df['NC_Climate_Cr'] +
         df['NC_Water_Cr'] +
         df['NC_Land_Cr'] +
         df['NC_Biodiversity_Cr'] +
-        df['NC_Pollution_Cr']
+        df['NC_Pollution_Cr'] +
+        df['NC_Energy_Depletion_Cr']  # NEW in v3.0
     )
 
     # NIR: Nature Intensity Ratio
@@ -738,6 +792,10 @@ def generate_company_json(row, sector_stats):
             'pollution': {
                 'value_cr': round(row['NC_Pollution_Cr'], 2),
                 'pct': round(row['NC_Pollution_Cr'] / taesc * 100, 1)
+            },
+            'energy_depletion': {
+                'value_cr': round(row['NC_Energy_Depletion_Cr'], 2),
+                'pct': round(row['NC_Energy_Depletion_Cr'] / taesc * 100, 1)
             }
         },
 
@@ -752,6 +810,8 @@ def generate_company_json(row, sector_stats):
             'pa_proximity_score': round(safe_value(row['PA_Proximity_Score']), 4),
             'waste_generated_mt': round(safe_value(row['Waste_Generated_MT']), 0),
             'renewable_energy_pct': round(safe_value(row['Renewable_Energy_Pct']), 1),
+            'total_energy_gj': round(safe_value(row['Total_Energy_GJ']), 0),
+            'renewable_energy_gj': round(safe_value(row['Renewable_Energy_GJ']), 0),
         },
 
         'peer_comparison': {
@@ -933,11 +993,12 @@ def main():
 
     total_taesc = df['TAESC_Cr'].sum()
     print("Dimension Breakdown (Total Rs Cr):")
-    print(f"  Climate:      Rs {df['NC_Climate_Cr'].sum():>12,.0f} Cr ({df['NC_Climate_Cr'].sum()/total_taesc*100:.1f}%)")
-    print(f"  Water:        Rs {df['NC_Water_Cr'].sum():>12,.0f} Cr ({df['NC_Water_Cr'].sum()/total_taesc*100:.1f}%)")
-    print(f"  Land:         Rs {df['NC_Land_Cr'].sum():>12,.0f} Cr ({df['NC_Land_Cr'].sum()/total_taesc*100:.1f}%)")
-    print(f"  Biodiversity: Rs {df['NC_Biodiversity_Cr'].sum():>12,.0f} Cr ({df['NC_Biodiversity_Cr'].sum()/total_taesc*100:.1f}%)")
-    print(f"  Pollution:    Rs {df['NC_Pollution_Cr'].sum():>12,.0f} Cr ({df['NC_Pollution_Cr'].sum()/total_taesc*100:.1f}%)")
+    print(f"  Climate:         Rs {df['NC_Climate_Cr'].sum():>12,.0f} Cr ({df['NC_Climate_Cr'].sum()/total_taesc*100:.1f}%)")
+    print(f"  Water:           Rs {df['NC_Water_Cr'].sum():>12,.0f} Cr ({df['NC_Water_Cr'].sum()/total_taesc*100:.1f}%)")
+    print(f"  Land:            Rs {df['NC_Land_Cr'].sum():>12,.0f} Cr ({df['NC_Land_Cr'].sum()/total_taesc*100:.1f}%)")
+    print(f"  Biodiversity:    Rs {df['NC_Biodiversity_Cr'].sum():>12,.0f} Cr ({df['NC_Biodiversity_Cr'].sum()/total_taesc*100:.1f}%)")
+    print(f"  Pollution:       Rs {df['NC_Pollution_Cr'].sum():>12,.0f} Cr ({df['NC_Pollution_Cr'].sum()/total_taesc*100:.1f}%)")
+    print(f"  Energy Depletion:Rs {df['NC_Energy_Depletion_Cr'].sum():>12,.0f} Cr ({df['NC_Energy_Depletion_Cr'].sum()/total_taesc*100:.1f}%) [NEW v3.0]")
     print()
 
     print("Rating Distribution:")

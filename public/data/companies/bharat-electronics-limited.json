@@ -4,34 +4,38 @@
   "sector": "Manufacturing - Engineering",
   "state": "Tamil Nadu",
   "revenue_cr": 23024.1,
-  "nii_score": 7.4,
-  "nii_rank": 134,
+  "nii_score": 7.5,
+  "nii_rank": 129,
   "nii_sector_rank": 2,
   "nii_rating": "Good",
-  "nii_percentile": 74,
-  "taesc_cr": 819.99,
-  "nir": 0.0356,
-  "nir_pct": 3.56,
+  "nii_percentile": 75,
+  "taesc_cr": 845.22,
+  "nir": 0.0367,
+  "nir_pct": 3.67,
   "breakdown": {
     "climate": {
       "value_cr": 13.09,
-      "pct": 1.6
+      "pct": 1.5
     },
     "water": {
       "value_cr": 53.87,
-      "pct": 6.6
+      "pct": 6.4
     },
     "land": {
       "value_cr": 112.98,
-      "pct": 13.8
+      "pct": 13.4
     },
     "biodiversity": {
       "value_cr": 637.22,
-      "pct": 77.7
+      "pct": 75.4
     },
     "pollution": {
-      "value_cr": 2.82,
-      "pct": 0.3
+      "value_cr": 4.05,
+      "pct": 0.5
+    },
+    "energy_depletion": {
+      "value_cr": 24.0,
+      "pct": 2.8
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.52,
     "pa_proximity_score": 0.0063,
     "waste_generated_mt": 1346.0,
-    "renewable_energy_pct": 18.5
+    "renewable_energy_pct": 18.5,
+    "total_energy_gj": 985400.0,
+    "renewable_energy_gj": 185255.0
   },
   "peer_comparison": {
-    "sector_median_score": 4.3,
+    "sector_median_score": 4.4,
     "sector_best_score": 7.6,
-    "sector_median_taesc": 977.28,
-    "sector_best_taesc": 29.35
+    "sector_median_taesc": 994.84,
+    "sector_best_taesc": 31.34
   },
   "data_quality": {
     "tier": "Tier 2",

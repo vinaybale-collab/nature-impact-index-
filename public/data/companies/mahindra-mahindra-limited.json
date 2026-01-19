@@ -4,18 +4,18 @@
   "sector": "Manufacturing - Automobiles",
   "state": "Telangana",
   "revenue_cr": 116483.68,
-  "nii_score": 1.2,
-  "nii_rank": 460,
+  "nii_score": 1.3,
+  "nii_rank": 455,
   "nii_sector_rank": 12,
   "nii_rating": "Critical",
-  "nii_percentile": 12,
-  "taesc_cr": 45896.87,
-  "nir": 0.394,
-  "nir_pct": 39.4,
+  "nii_percentile": 13,
+  "taesc_cr": 46285.06,
+  "nir": 0.3974,
+  "nir_pct": 39.74,
   "breakdown": {
     "climate": {
       "value_cr": 40243.85,
-      "pct": 87.7
+      "pct": 86.9
     },
     "water": {
       "value_cr": 105.17,
@@ -27,11 +27,15 @@
     },
     "biodiversity": {
       "value_cr": 5171.6,
-      "pct": 11.3
+      "pct": 11.2
     },
     "pollution": {
-      "value_cr": 279.72,
-      "pct": 0.6
+      "value_cr": 320.28,
+      "pct": 0.7
+    },
+    "energy_depletion": {
+      "value_cr": 347.62,
+      "pct": 0.8
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.45,
     "pa_proximity_score": 0.1059,
     "waste_generated_mt": 195662.0,
-    "renewable_energy_pct": 25.0
+    "renewable_energy_pct": 25.0,
+    "total_energy_gj": 15450000.0,
+    "renewable_energy_gj": 3862500.0
   },
   "peer_comparison": {
-    "sector_median_score": 3.1,
-    "sector_best_score": 7.0,
-    "sector_median_taesc": 1910.81,
-    "sector_best_taesc": 77.36
+    "sector_median_score": 3.4,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1938.58,
+    "sector_best_taesc": 79.81
   },
   "data_quality": {
     "tier": "Tier 2",

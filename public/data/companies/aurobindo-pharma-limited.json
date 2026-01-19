@@ -4,34 +4,38 @@
   "sector": "Pharmaceuticals & Healthcare",
   "state": "West Bengal",
   "revenue_cr": 34498.99,
-  "nii_score": 5.7,
-  "nii_rank": 224,
-  "nii_sector_rank": 38,
+  "nii_score": 5.6,
+  "nii_rank": 229,
+  "nii_sector_rank": 37,
   "nii_rating": "Average",
-  "nii_percentile": 57,
-  "taesc_cr": 2096.03,
-  "nir": 0.0608,
-  "nir_pct": 6.08,
+  "nii_percentile": 56,
+  "taesc_cr": 2251.84,
+  "nir": 0.0653,
+  "nir_pct": 6.53,
   "breakdown": {
     "climate": {
       "value_cr": 1037.13,
-      "pct": 49.5
+      "pct": 46.1
     },
     "water": {
       "value_cr": 218.68,
-      "pct": 10.4
+      "pct": 9.7
     },
     "land": {
       "value_cr": 103.23,
-      "pct": 4.9
+      "pct": 4.6
     },
     "biodiversity": {
       "value_cr": 657.9,
-      "pct": 31.4
+      "pct": 29.2
     },
     "pollution": {
-      "value_cr": 79.09,
+      "value_cr": 85.08,
       "pct": 3.8
+    },
+    "energy_depletion": {
+      "value_cr": 149.81,
+      "pct": 6.7
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.58,
     "pa_proximity_score": 0.0119,
     "waste_generated_mt": 55538.0,
-    "renewable_energy_pct": 15.5
+    "renewable_energy_pct": 15.5,
+    "total_energy_gj": 5806600.0,
+    "renewable_energy_gj": 812924.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.6,
-    "sector_best_score": 7.9,
-    "sector_median_taesc": 327.39,
-    "sector_best_taesc": 46.47
+    "sector_median_score": 6.5,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 351.59,
+    "sector_best_taesc": 49.58
   },
   "data_quality": {
     "tier": "Tier 2",

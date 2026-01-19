@@ -4,14 +4,14 @@
   "sector": "Chemicals & Fertilizers",
   "state": "Telangana",
   "revenue_cr": 77305.0,
-  "nii_score": 7.1,
-  "nii_rank": 150,
+  "nii_score": 7.3,
+  "nii_rank": 140,
   "nii_sector_rank": 8,
   "nii_rating": "Good",
-  "nii_percentile": 71,
-  "taesc_cr": 3098.22,
-  "nir": 0.0401,
-  "nir_pct": 4.01,
+  "nii_percentile": 73,
+  "taesc_cr": 3121.5,
+  "nir": 0.0404,
+  "nir_pct": 4.04,
   "breakdown": {
     "climate": {
       "value_cr": 108.49,
@@ -23,15 +23,19 @@
     },
     "land": {
       "value_cr": 23.4,
-      "pct": 0.8
+      "pct": 0.7
     },
     "biodiversity": {
       "value_cr": 2935.0,
-      "pct": 94.7
+      "pct": 94.0
     },
     "pollution": {
-      "value_cr": 14.13,
+      "value_cr": 14.64,
       "pct": 0.5
+    },
+    "energy_depletion": {
+      "value_cr": 22.78,
+      "pct": 0.7
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.45,
     "pa_proximity_score": 0.015,
     "waste_generated_mt": 12375.0,
-    "renewable_energy_pct": 10.2
+    "renewable_energy_pct": 10.2,
+    "total_energy_gj": 845600.0,
+    "renewable_energy_gj": 86251.0
   },
   "peer_comparison": {
     "sector_median_score": 4.6,
-    "sector_best_score": 7.4,
-    "sector_median_taesc": 340.82,
-    "sector_best_taesc": 8.38
+    "sector_best_score": 7.6,
+    "sector_median_taesc": 370.56,
+    "sector_best_taesc": 8.45
   },
   "data_quality": {
     "tier": "Tier 2",

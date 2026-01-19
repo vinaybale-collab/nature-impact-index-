@@ -4,34 +4,38 @@
   "sector": "Metals & Mining",
   "state": "Gujarat",
   "revenue_cr": 40816.88,
-  "nii_score": 1.8,
-  "nii_rank": 428,
+  "nii_score": 1.9,
+  "nii_rank": 423,
   "nii_sector_rank": 7,
   "nii_rating": "Critical",
-  "nii_percentile": 18,
-  "taesc_cr": 9627.06,
-  "nir": 0.2359,
-  "nir_pct": 23.59,
+  "nii_percentile": 19,
+  "taesc_cr": 10167.37,
+  "nir": 0.2491,
+  "nir_pct": 24.91,
   "breakdown": {
     "climate": {
       "value_cr": 4342.27,
-      "pct": 45.1
+      "pct": 42.7
     },
     "water": {
       "value_cr": 668.32,
-      "pct": 6.9
+      "pct": 6.6
     },
     "land": {
       "value_cr": 267.11,
-      "pct": 2.8
+      "pct": 2.6
     },
     "biodiversity": {
       "value_cr": 2393.32,
-      "pct": 24.9
+      "pct": 23.5
     },
     "pollution": {
-      "value_cr": 1956.04,
-      "pct": 20.3
+      "value_cr": 1956.89,
+      "pct": 19.2
+    },
+    "energy_depletion": {
+      "value_cr": 539.46,
+      "pct": 5.3
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.51,
     "pa_proximity_score": 0.0111,
     "waste_generated_mt": 1945438.0,
-    "renewable_energy_pct": 2.8
+    "renewable_energy_pct": 2.8,
+    "total_energy_gj": 18500000.0,
+    "renewable_energy_gj": 518000.0
   },
   "peer_comparison": {
-    "sector_median_score": 1.0,
-    "sector_best_score": 4.8,
-    "sector_median_taesc": 4974.86,
-    "sector_best_taesc": 378.47
+    "sector_median_score": 1.1,
+    "sector_best_score": 5.0,
+    "sector_median_taesc": 5326.54,
+    "sector_best_taesc": 421.93
   },
   "data_quality": {
     "tier": "Tier 2",

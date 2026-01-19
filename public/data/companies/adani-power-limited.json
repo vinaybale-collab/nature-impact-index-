@@ -4,22 +4,22 @@
   "sector": "Energy & Power",
   "state": "Tamil Nadu",
   "revenue_cr": 60281.0,
-  "nii_score": 0.3,
-  "nii_rank": 507,
-  "nii_sector_rank": 23,
+  "nii_score": 0.2,
+  "nii_rank": 512,
+  "nii_sector_rank": 26,
   "nii_rating": "Critical",
-  "nii_percentile": 3,
-  "taesc_cr": 124657.58,
-  "nir": 2.0679,
-  "nir_pct": 206.79,
+  "nii_percentile": 2,
+  "taesc_cr": 141177.51,
+  "nir": 2.342,
+  "nir_pct": 234.2,
   "breakdown": {
     "climate": {
       "value_cr": 83722.31,
-      "pct": 67.2
+      "pct": 59.3
     },
     "water": {
       "value_cr": 22414.89,
-      "pct": 18.0
+      "pct": 15.9
     },
     "land": {
       "value_cr": 514.5,
@@ -27,11 +27,15 @@
     },
     "biodiversity": {
       "value_cr": 2474.44,
-      "pct": 2.0
+      "pct": 1.8
     },
     "pollution": {
-      "value_cr": 15531.45,
-      "pct": 12.5
+      "value_cr": 15535.65,
+      "pct": 11.0
+    },
+    "energy_depletion": {
+      "value_cr": 16515.72,
+      "pct": 11.7
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.52,
     "pa_proximity_score": 0.0092,
     "waste_generated_mt": 15451984.0,
-    "renewable_energy_pct": 0.0
+    "renewable_energy_pct": 0.0,
+    "total_energy_gj": 550524092.0,
+    "renewable_energy_gj": 0.0
   },
   "peer_comparison": {
-    "sector_median_score": 2.9,
-    "sector_best_score": 7.1,
-    "sector_median_taesc": 1859.41,
-    "sector_best_taesc": 22.51
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.2,
+    "sector_median_taesc": 1977.07,
+    "sector_best_taesc": 22.61
   },
   "data_quality": {
     "tier": "Tier 2",

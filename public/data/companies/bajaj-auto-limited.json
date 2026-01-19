@@ -4,18 +4,18 @@
   "sector": "Manufacturing - Automobiles",
   "state": "Maharashtra",
   "revenue_cr": 51431.0,
-  "nii_score": 4.0,
-  "nii_rank": 313,
+  "nii_score": 4.2,
+  "nii_rank": 302,
   "nii_sector_rank": 6,
   "nii_rating": "Average",
-  "nii_percentile": 40,
-  "taesc_cr": 4782.59,
-  "nir": 0.093,
-  "nir_pct": 9.3,
+  "nii_percentile": 42,
+  "taesc_cr": 4807.41,
+  "nir": 0.0935,
+  "nir_pct": 9.35,
   "breakdown": {
     "climate": {
       "value_cr": 2483.55,
-      "pct": 51.9
+      "pct": 51.7
     },
     "water": {
       "value_cr": 20.55,
@@ -27,11 +27,15 @@
     },
     "biodiversity": {
       "value_cr": 2220.06,
-      "pct": 46.4
+      "pct": 46.2
     },
     "pollution": {
-      "value_cr": 24.32,
-      "pct": 0.5
+      "value_cr": 28.88,
+      "pct": 0.6
+    },
+    "energy_depletion": {
+      "value_cr": 20.27,
+      "pct": 0.4
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.42,
     "pa_proximity_score": 0.0985,
     "waste_generated_mt": 15587.0,
-    "renewable_energy_pct": 6.9
+    "renewable_energy_pct": 6.9,
+    "total_energy_gj": 725430.0,
+    "renewable_energy_gj": 49764.0
   },
   "peer_comparison": {
-    "sector_median_score": 3.1,
-    "sector_best_score": 7.0,
-    "sector_median_taesc": 1910.81,
-    "sector_best_taesc": 77.36
+    "sector_median_score": 3.4,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1938.58,
+    "sector_best_taesc": 79.81
   },
   "data_quality": {
     "tier": "Tier 2",

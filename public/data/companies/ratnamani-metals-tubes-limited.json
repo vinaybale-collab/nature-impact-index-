@@ -4,34 +4,38 @@
   "sector": "Metals & Mining",
   "state": "Telangana",
   "revenue_cr": 4876.14,
-  "nii_score": 4.1,
-  "nii_rank": 308,
+  "nii_score": 4.4,
+  "nii_rank": 292,
   "nii_sector_rank": 2,
   "nii_rating": "Average",
-  "nii_percentile": 41,
-  "taesc_cr": 432.89,
-  "nir": 0.0888,
-  "nir_pct": 8.88,
+  "nii_percentile": 44,
+  "taesc_cr": 444.4,
+  "nir": 0.0911,
+  "nir_pct": 9.11,
   "breakdown": {
     "climate": {
       "value_cr": 50.45,
-      "pct": 11.7
+      "pct": 11.4
     },
     "water": {
       "value_cr": 12.51,
-      "pct": 2.9
+      "pct": 2.8
     },
     "land": {
       "value_cr": 28.32,
-      "pct": 6.5
+      "pct": 6.4
     },
     "biodiversity": {
       "value_cr": 340.21,
-      "pct": 78.6
+      "pct": 76.6
     },
     "pollution": {
-      "value_cr": 1.4,
+      "value_cr": 1.46,
       "pct": 0.3
+    },
+    "energy_depletion": {
+      "value_cr": 11.45,
+      "pct": 2.6
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.45,
     "pa_proximity_score": 0.0356,
     "waste_generated_mt": 1223.0,
-    "renewable_energy_pct": 14.2
+    "renewable_energy_pct": 14.2,
+    "total_energy_gj": 445000.0,
+    "renewable_energy_gj": 63190.0
   },
   "peer_comparison": {
-    "sector_median_score": 1.0,
-    "sector_best_score": 4.8,
-    "sector_median_taesc": 4974.86,
-    "sector_best_taesc": 378.47
+    "sector_median_score": 1.1,
+    "sector_best_score": 5.0,
+    "sector_median_taesc": 5326.54,
+    "sector_best_taesc": 421.93
   },
   "data_quality": {
     "tier": "Tier 2",

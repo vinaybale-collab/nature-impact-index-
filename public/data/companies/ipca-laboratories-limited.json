@@ -4,34 +4,38 @@
   "sector": "Pharmaceuticals & Healthcare",
   "state": "Gujarat",
   "revenue_cr": 674.92,
-  "nii_score": 0.7,
-  "nii_rank": 486,
+  "nii_score": 0.8,
+  "nii_rank": 481,
   "nii_sector_rank": 56,
   "nii_rating": "Critical",
-  "nii_percentile": 7,
-  "taesc_cr": 482.98,
-  "nir": 0.7156,
-  "nir_pct": 71.56,
+  "nii_percentile": 8,
+  "taesc_cr": 517.54,
+  "nir": 0.7668,
+  "nir_pct": 76.68,
   "breakdown": {
     "climate": {
       "value_cr": 348.55,
-      "pct": 72.2
+      "pct": 67.3
     },
     "water": {
       "value_cr": 27.11,
-      "pct": 5.6
+      "pct": 5.2
     },
     "land": {
       "value_cr": 43.29,
-      "pct": 9.0
+      "pct": 8.4
     },
     "biodiversity": {
       "value_cr": 18.88,
-      "pct": 3.9
+      "pct": 3.6
     },
     "pollution": {
-      "value_cr": 45.14,
-      "pct": 9.3
+      "value_cr": 46.08,
+      "pct": 8.9
+    },
+    "energy_depletion": {
+      "value_cr": 33.62,
+      "pct": 6.5
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.51,
     "pa_proximity_score": 0.0836,
     "waste_generated_mt": 37813.0,
-    "renewable_energy_pct": 8.4
+    "renewable_energy_pct": 8.4,
+    "total_energy_gj": 1245000.0,
+    "renewable_energy_gj": 124500.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.6,
-    "sector_best_score": 7.9,
-    "sector_median_taesc": 327.39,
-    "sector_best_taesc": 46.47
+    "sector_median_score": 6.5,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 351.59,
+    "sector_best_taesc": 49.58
   },
   "data_quality": {
     "tier": "Tier 2",

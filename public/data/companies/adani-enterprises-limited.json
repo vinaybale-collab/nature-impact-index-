@@ -4,18 +4,18 @@
   "sector": "Diversified Conglomerate",
   "state": "Maharashtra",
   "revenue_cr": 97894.75,
-  "nii_score": 2.8,
-  "nii_rank": 376,
+  "nii_score": 3.0,
+  "nii_rank": 365,
   "nii_sector_rank": 1,
   "nii_rating": "Poor",
-  "nii_percentile": 28,
-  "taesc_cr": 13114.43,
-  "nir": 0.134,
-  "nir_pct": 13.4,
+  "nii_percentile": 30,
+  "taesc_cr": 13228.41,
+  "nir": 0.1351,
+  "nir_pct": 13.51,
   "breakdown": {
     "climate": {
       "value_cr": 5305.77,
-      "pct": 40.5
+      "pct": 40.1
     },
     "water": {
       "value_cr": 274.35,
@@ -27,11 +27,15 @@
     },
     "biodiversity": {
       "value_cr": 3072.69,
-      "pct": 23.4
+      "pct": 23.2
     },
     "pollution": {
-      "value_cr": 3330.11,
-      "pct": 25.4
+      "value_cr": 3331.62,
+      "pct": 25.2
+    },
+    "energy_depletion": {
+      "value_cr": 112.46,
+      "pct": 0.9
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.55,
     "pa_proximity_score": 0.004,
     "waste_generated_mt": 247572956.0,
-    "renewable_energy_pct": 12.0
+    "renewable_energy_pct": 12.0,
+    "total_energy_gj": 4260000.0,
+    "renewable_energy_gj": 511200.0
   },
   "peer_comparison": {
     "sector_median_score": 2.0,
-    "sector_best_score": 2.8,
-    "sector_median_taesc": 12301.58,
-    "sector_best_taesc": 11488.73
+    "sector_best_score": 3.0,
+    "sector_median_taesc": 14433.44,
+    "sector_best_taesc": 13228.41
   },
   "data_quality": {
     "tier": "Tier 2",

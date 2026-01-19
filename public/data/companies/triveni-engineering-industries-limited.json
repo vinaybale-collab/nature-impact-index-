@@ -4,34 +4,38 @@
   "sector": "Manufacturing - Agro Processing",
   "state": "Maharashtra",
   "revenue_cr": 6655.4,
-  "nii_score": 4.8,
-  "nii_rank": 271,
+  "nii_score": 4.7,
+  "nii_rank": 276,
   "nii_sector_rank": 1,
   "nii_rating": "Average",
-  "nii_percentile": 48,
-  "taesc_cr": 511.32,
-  "nir": 0.0768,
-  "nir_pct": 7.68,
+  "nii_percentile": 47,
+  "taesc_cr": 553.63,
+  "nir": 0.0832,
+  "nir_pct": 8.32,
   "breakdown": {
     "climate": {
       "value_cr": 55.25,
-      "pct": 10.8
+      "pct": 10.0
     },
     "water": {
       "value_cr": 64.37,
-      "pct": 12.6
+      "pct": 11.6
     },
     "land": {
       "value_cr": 72.92,
-      "pct": 14.3
+      "pct": 13.2
     },
     "biodiversity": {
       "value_cr": 316.65,
-      "pct": 61.9
+      "pct": 57.2
     },
     "pollution": {
-      "value_cr": 2.12,
+      "value_cr": 2.37,
       "pct": 0.4
+    },
+    "energy_depletion": {
+      "value_cr": 42.07,
+      "pct": 7.6
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.42,
     "pa_proximity_score": 0.0356,
     "waste_generated_mt": 1843.0,
-    "renewable_energy_pct": 92.4
+    "renewable_energy_pct": 92.4,
+    "total_energy_gj": 18450000.0,
+    "renewable_energy_gj": 17047800.0
   },
   "peer_comparison": {
-    "sector_median_score": 2.8,
-    "sector_best_score": 4.8,
-    "sector_median_taesc": 751.17,
-    "sector_best_taesc": 511.32
+    "sector_median_score": 3.0,
+    "sector_best_score": 4.7,
+    "sector_median_taesc": 752.45,
+    "sector_best_taesc": 553.63
   },
   "data_quality": {
     "tier": "Tier 2",

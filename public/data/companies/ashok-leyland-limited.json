@@ -4,18 +4,18 @@
   "sector": "Manufacturing - Automobiles",
   "state": "West Bengal",
   "revenue_cr": 45276.0,
-  "nii_score": 7.0,
-  "nii_rank": 155,
+  "nii_score": 7.1,
+  "nii_rank": 150,
   "nii_sector_rank": 1,
   "nii_rating": "Good",
-  "nii_percentile": 70,
-  "taesc_cr": 1910.81,
-  "nir": 0.0422,
-  "nir_pct": 4.22,
+  "nii_percentile": 71,
+  "taesc_cr": 1938.58,
+  "nir": 0.0428,
+  "nir_pct": 4.28,
   "breakdown": {
     "climate": {
       "value_cr": 87.63,
-      "pct": 4.6
+      "pct": 4.5
     },
     "water": {
       "value_cr": 32.07,
@@ -27,11 +27,15 @@
     },
     "biodiversity": {
       "value_cr": 1534.25,
-      "pct": 80.3
+      "pct": 79.1
     },
     "pollution": {
-      "value_cr": 179.95,
+      "value_cr": 181.35,
       "pct": 9.4
+    },
+    "energy_depletion": {
+      "value_cr": 26.37,
+      "pct": 1.4
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.58,
     "pa_proximity_score": 0.0433,
     "waste_generated_mt": 165364.0,
-    "renewable_energy_pct": 43.5
+    "renewable_energy_pct": 43.5,
+    "total_energy_gj": 1556090.0,
+    "renewable_energy_gj": 677040.0
   },
   "peer_comparison": {
-    "sector_median_score": 3.1,
-    "sector_best_score": 7.0,
-    "sector_median_taesc": 1910.81,
-    "sector_best_taesc": 77.36
+    "sector_median_score": 3.4,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1938.58,
+    "sector_best_taesc": 79.81
   },
   "data_quality": {
     "tier": "Tier 2",

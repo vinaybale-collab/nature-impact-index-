@@ -4,18 +4,18 @@
   "sector": "Construction & Engineering",
   "state": "Unknown",
   "revenue_cr": 275513.5,
-  "nii_score": 6.5,
-  "nii_rank": 182,
+  "nii_score": 6.6,
+  "nii_rank": 176,
   "nii_sector_rank": 1,
   "nii_rating": "Good",
-  "nii_percentile": 65,
-  "taesc_cr": 13149.1,
-  "nir": 0.0477,
-  "nir_pct": 4.77,
+  "nii_percentile": 66,
+  "taesc_cr": 13652.42,
+  "nir": 0.0496,
+  "nir_pct": 4.96,
   "breakdown": {
     "climate": {
       "value_cr": 4123.26,
-      "pct": 31.4
+      "pct": 30.2
     },
     "water": {
       "value_cr": 188.7,
@@ -23,15 +23,19 @@
     },
     "land": {
       "value_cr": 286.54,
-      "pct": 2.2
+      "pct": 2.1
     },
     "biodiversity": {
       "value_cr": 8393.65,
-      "pct": 63.8
+      "pct": 61.5
     },
     "pollution": {
-      "value_cr": 156.95,
+      "value_cr": 159.56,
       "pct": 1.2
+    },
+    "energy_depletion": {
+      "value_cr": 500.71,
+      "pct": 3.7
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.48,
     "pa_proximity_score": 0.0116,
     "waste_generated_mt": 154000.0,
-    "renewable_energy_pct": 10.0
+    "renewable_energy_pct": 10.0,
+    "total_energy_gj": 18545000.0,
+    "renewable_energy_gj": 1854500.0
   },
   "peer_comparison": {
-    "sector_median_score": 5.4,
-    "sector_best_score": 6.5,
-    "sector_median_taesc": 6895.07,
-    "sector_best_taesc": 641.04
+    "sector_median_score": 5.6,
+    "sector_best_score": 6.6,
+    "sector_median_taesc": 7159.41,
+    "sector_best_taesc": 666.4
   },
   "data_quality": {
     "tier": "Tier 3",

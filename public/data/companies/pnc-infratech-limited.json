@@ -4,34 +4,38 @@
   "sector": "Construction & Engineering",
   "state": "Delhi",
   "revenue_cr": 7699.2,
-  "nii_score": 4.4,
-  "nii_rank": 292,
+  "nii_score": 4.6,
+  "nii_rank": 281,
   "nii_sector_rank": 2,
   "nii_rating": "Average",
-  "nii_percentile": 44,
-  "taesc_cr": 641.04,
-  "nir": 0.0833,
-  "nir_pct": 8.33,
+  "nii_percentile": 46,
+  "taesc_cr": 666.4,
+  "nir": 0.0866,
+  "nir_pct": 8.66,
   "breakdown": {
     "climate": {
       "value_cr": 196.62,
-      "pct": 30.7
+      "pct": 29.5
     },
     "water": {
       "value_cr": 167.18,
-      "pct": 26.1
+      "pct": 25.1
     },
     "land": {
       "value_cr": 38.0,
-      "pct": 5.9
+      "pct": 5.7
     },
     "biodiversity": {
       "value_cr": 235.93,
-      "pct": 36.8
+      "pct": 35.4
     },
     "pollution": {
-      "value_cr": 3.32,
+      "value_cr": 3.33,
       "pct": 0.5
+    },
+    "energy_depletion": {
+      "value_cr": 25.35,
+      "pct": 3.8
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.62,
     "pa_proximity_score": 0.0125,
     "waste_generated_mt": 2089.0,
-    "renewable_energy_pct": 0.0
+    "renewable_energy_pct": 0.0,
+    "total_energy_gj": 845000.0,
+    "renewable_energy_gj": 0.0
   },
   "peer_comparison": {
-    "sector_median_score": 5.4,
-    "sector_best_score": 6.5,
-    "sector_median_taesc": 6895.07,
-    "sector_best_taesc": 641.04
+    "sector_median_score": 5.6,
+    "sector_best_score": 6.6,
+    "sector_median_taesc": 7159.41,
+    "sector_best_taesc": 666.4
   },
   "data_quality": {
     "tier": "Tier 2",

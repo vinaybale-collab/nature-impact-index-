@@ -4,18 +4,18 @@
   "sector": "Manufacturing - Paints & Coatings",
   "state": "Telangana",
   "revenue_cr": 37172.75,
-  "nii_score": 4.4,
-  "nii_rank": 292,
+  "nii_score": 4.5,
+  "nii_rank": 287,
   "nii_sector_rank": 2,
   "nii_rating": "Average",
-  "nii_percentile": 44,
-  "taesc_cr": 3091.38,
-  "nir": 0.0832,
-  "nir_pct": 8.32,
+  "nii_percentile": 45,
+  "taesc_cr": 3250.63,
+  "nir": 0.0874,
+  "nir_pct": 8.74,
   "breakdown": {
     "climate": {
       "value_cr": 1442.82,
-      "pct": 46.7
+      "pct": 44.4
     },
     "water": {
       "value_cr": 37.92,
@@ -23,15 +23,19 @@
     },
     "land": {
       "value_cr": 43.39,
-      "pct": 1.4
+      "pct": 1.3
     },
     "biodiversity": {
       "value_cr": 1330.87,
-      "pct": 43.1
+      "pct": 40.9
     },
     "pollution": {
-      "value_cr": 236.37,
-      "pct": 7.6
+      "value_cr": 364.0,
+      "pct": 11.2
+    },
+    "energy_depletion": {
+      "value_cr": 31.61,
+      "pct": 1.0
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.45,
     "pa_proximity_score": 0.0942,
     "waste_generated_mt": 19490.0,
-    "renewable_energy_pct": 18.5
+    "renewable_energy_pct": 18.5,
+    "total_energy_gj": 1292545.0,
+    "renewable_energy_gj": 238733.0
   },
   "peer_comparison": {
-    "sector_median_score": 4.9,
-    "sector_best_score": 5.4,
-    "sector_median_taesc": 1977.37,
-    "sector_best_taesc": 863.36
+    "sector_median_score": 4.8,
+    "sector_best_score": 5.0,
+    "sector_median_taesc": 2137.61,
+    "sector_best_taesc": 1024.6
   },
   "data_quality": {
     "tier": "Tier 2",

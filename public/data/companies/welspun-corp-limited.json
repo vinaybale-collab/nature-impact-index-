@@ -4,34 +4,38 @@
   "sector": "Textiles & Apparel",
   "state": "Telangana",
   "revenue_cr": 9081.78,
-  "nii_score": 1.3,
-  "nii_rank": 455,
+  "nii_score": 1.4,
+  "nii_rank": 449,
   "nii_sector_rank": 10,
   "nii_rating": "Critical",
-  "nii_percentile": 13,
-  "taesc_cr": 2941.26,
-  "nir": 0.3239,
-  "nir_pct": 32.39,
+  "nii_percentile": 14,
+  "taesc_cr": 3006.91,
+  "nir": 0.3311,
+  "nir_pct": 33.11,
   "breakdown": {
     "climate": {
       "value_cr": 2143.41,
-      "pct": 72.9
+      "pct": 71.3
     },
     "water": {
       "value_cr": 73.19,
-      "pct": 2.5
+      "pct": 2.4
     },
     "land": {
       "value_cr": 96.62,
-      "pct": 3.3
+      "pct": 3.2
     },
     "biodiversity": {
       "value_cr": 271.41,
-      "pct": 9.2
+      "pct": 9.0
     },
     "pollution": {
-      "value_cr": 356.63,
-      "pct": 12.1
+      "value_cr": 357.89,
+      "pct": 11.9
+    },
+    "energy_depletion": {
+      "value_cr": 64.39,
+      "pct": 2.1
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.45,
     "pa_proximity_score": 0.0172,
     "waste_generated_mt": 336069.0,
-    "renewable_energy_pct": 12.4
+    "renewable_energy_pct": 12.4,
+    "total_energy_gj": 2450000.0,
+    "renewable_energy_gj": 303800.0
   },
   "peer_comparison": {
-    "sector_median_score": 4.0,
-    "sector_best_score": 6.4,
-    "sector_median_taesc": 748.42,
-    "sector_best_taesc": 136.09
+    "sector_median_score": 3.4,
+    "sector_best_score": 6.3,
+    "sector_median_taesc": 923.06,
+    "sector_best_taesc": 137.03
   },
   "data_quality": {
     "tier": "Tier 2",

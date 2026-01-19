@@ -4,18 +4,18 @@
   "sector": "Metals & Mining",
   "state": "Karnataka",
   "revenue_cr": 4476.14,
-  "nii_score": 1.5,
-  "nii_rank": 444,
-  "nii_sector_rank": 12,
+  "nii_score": 1.6,
+  "nii_rank": 439,
+  "nii_sector_rank": 8,
   "nii_rating": "Critical",
-  "nii_percentile": 15,
-  "taesc_cr": 1289.74,
-  "nir": 0.2881,
-  "nir_pct": 28.81,
+  "nii_percentile": 16,
+  "taesc_cr": 1303.09,
+  "nir": 0.2911,
+  "nir_pct": 29.11,
   "breakdown": {
     "climate": {
       "value_cr": 121.07,
-      "pct": 9.4
+      "pct": 9.3
     },
     "water": {
       "value_cr": 11.13,
@@ -23,15 +23,19 @@
     },
     "land": {
       "value_cr": 672.5,
-      "pct": 52.1
+      "pct": 51.6
     },
     "biodiversity": {
       "value_cr": 433.52,
-      "pct": 33.6
+      "pct": 33.3
     },
     "pollution": {
-      "value_cr": 51.51,
+      "value_cr": 51.7,
       "pct": 4.0
+    },
+    "energy_depletion": {
+      "value_cr": 13.17,
+      "pct": 1.0
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.48,
     "pa_proximity_score": 0.11,
     "waste_generated_mt": 43430.0,
-    "renewable_energy_pct": 0.9
+    "renewable_energy_pct": 0.9,
+    "total_energy_gj": 442981.0,
+    "renewable_energy_gj": 4075.0
   },
   "peer_comparison": {
-    "sector_median_score": 1.0,
-    "sector_best_score": 4.8,
-    "sector_median_taesc": 4974.86,
-    "sector_best_taesc": 378.47
+    "sector_median_score": 1.1,
+    "sector_best_score": 5.0,
+    "sector_median_taesc": 5326.54,
+    "sector_best_taesc": 421.93
   },
   "data_quality": {
     "tier": "Tier 2",

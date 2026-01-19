@@ -4,22 +4,22 @@
   "sector": "Manufacturing - Agro Processing",
   "state": "Tamil Nadu",
   "revenue_cr": 5593.74,
-  "nii_score": 2.8,
-  "nii_rank": 376,
+  "nii_score": 3.0,
+  "nii_rank": 365,
   "nii_sector_rank": 2,
   "nii_rating": "Poor",
-  "nii_percentile": 28,
-  "taesc_cr": 751.17,
-  "nir": 0.1343,
-  "nir_pct": 13.43,
+  "nii_percentile": 30,
+  "taesc_cr": 752.45,
+  "nir": 0.1345,
+  "nir_pct": 13.45,
   "breakdown": {
     "climate": {
       "value_cr": 305.02,
-      "pct": 40.6
+      "pct": 40.5
     },
     "water": {
       "value_cr": 25.2,
-      "pct": 3.4
+      "pct": 3.3
     },
     "land": {
       "value_cr": 100.68,
@@ -27,11 +27,15 @@
     },
     "biodiversity": {
       "value_cr": 220.73,
-      "pct": 29.4
+      "pct": 29.3
     },
     "pollution": {
-      "value_cr": 99.55,
+      "value_cr": 99.73,
       "pct": 13.3
+    },
+    "energy_depletion": {
+      "value_cr": 1.1,
+      "pct": 0.1
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.52,
     "pa_proximity_score": 0.0034,
     "waste_generated_mt": 97370.0,
-    "renewable_energy_pct": 99.9
+    "renewable_energy_pct": 99.9,
+    "total_energy_gj": 29758408.0,
+    "renewable_energy_gj": 29721662.0
   },
   "peer_comparison": {
-    "sector_median_score": 2.8,
-    "sector_best_score": 4.8,
-    "sector_median_taesc": 751.17,
-    "sector_best_taesc": 511.32
+    "sector_median_score": 3.0,
+    "sector_best_score": 4.7,
+    "sector_median_taesc": 752.45,
+    "sector_best_taesc": 553.63
   },
   "data_quality": {
     "tier": "Tier 2",

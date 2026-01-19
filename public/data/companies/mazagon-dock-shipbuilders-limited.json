@@ -4,14 +4,14 @@
   "sector": "Transportation & Logistics",
   "state": "Maharashtra",
   "revenue_cr": 11431.88,
-  "nii_score": 6.9,
-  "nii_rank": 161,
+  "nii_score": 7.0,
+  "nii_rank": 155,
   "nii_sector_rank": 2,
   "nii_rating": "Good",
-  "nii_percentile": 69,
-  "taesc_cr": 491.54,
-  "nir": 0.043,
-  "nir_pct": 4.3,
+  "nii_percentile": 70,
+  "taesc_cr": 499.88,
+  "nir": 0.0437,
+  "nir_pct": 4.37,
   "breakdown": {
     "climate": {
       "value_cr": 0.64,
@@ -23,15 +23,19 @@
     },
     "land": {
       "value_cr": 7.74,
-      "pct": 1.6
+      "pct": 1.5
     },
     "biodiversity": {
       "value_cr": 395.2,
-      "pct": 80.4
+      "pct": 79.1
     },
     "pollution": {
-      "value_cr": 78.94,
-      "pct": 16.1
+      "value_cr": 79.03,
+      "pct": 15.8
+    },
+    "energy_depletion": {
+      "value_cr": 8.25,
+      "pct": 1.7
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.42,
     "pa_proximity_score": 0.11,
     "waste_generated_mt": 70372.0,
-    "renewable_energy_pct": 15.4
+    "renewable_energy_pct": 15.4,
+    "total_energy_gj": 325000.0,
+    "renewable_energy_gj": 50050.0
   },
   "peer_comparison": {
-    "sector_median_score": 3.1,
+    "sector_median_score": 3.4,
     "sector_best_score": 7.3,
-    "sector_median_taesc": 599.33,
-    "sector_best_taesc": 125.54
+    "sector_median_taesc": 645.28,
+    "sector_best_taesc": 128.11
   },
   "data_quality": {
     "tier": "Tier 2",

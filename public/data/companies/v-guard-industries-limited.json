@@ -4,34 +4,38 @@
   "sector": "Manufacturing - Consumer Electronics",
   "state": "Karnataka",
   "revenue_cr": 5308.87,
-  "nii_score": 7.8,
-  "nii_rank": 113,
+  "nii_score": 7.9,
+  "nii_rank": 108,
   "nii_sector_rank": 2,
   "nii_rating": "Good",
-  "nii_percentile": 78,
-  "taesc_cr": 124.95,
-  "nir": 0.0235,
-  "nir_pct": 2.35,
+  "nii_percentile": 79,
+  "taesc_cr": 136.15,
+  "nir": 0.0256,
+  "nir_pct": 2.56,
   "breakdown": {
     "climate": {
       "value_cr": 17.97,
-      "pct": 14.4
+      "pct": 13.2
     },
     "water": {
       "value_cr": 3.67,
-      "pct": 2.9
+      "pct": 2.7
     },
     "land": {
       "value_cr": 11.23,
-      "pct": 9.0
+      "pct": 8.3
     },
     "biodiversity": {
       "value_cr": 75.98,
-      "pct": 60.8
+      "pct": 55.8
     },
     "pollution": {
-      "value_cr": 16.1,
-      "pct": 12.9
+      "value_cr": 23.45,
+      "pct": 17.2
+    },
+    "energy_depletion": {
+      "value_cr": 3.85,
+      "pct": 2.8
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.48,
     "pa_proximity_score": 0.0069,
     "waste_generated_mt": 3865.0,
-    "renewable_energy_pct": 8.2
+    "renewable_energy_pct": 8.2,
+    "total_energy_gj": 142500.0,
+    "renewable_energy_gj": 14250.0
   },
   "peer_comparison": {
-    "sector_median_score": 5.7,
+    "sector_median_score": 5.8,
     "sector_best_score": 8.0,
-    "sector_median_taesc": 314.02,
-    "sector_best_taesc": 120.08
+    "sector_median_taesc": 324.52,
+    "sector_best_taesc": 127.05
   },
   "data_quality": {
     "tier": "Tier 2",

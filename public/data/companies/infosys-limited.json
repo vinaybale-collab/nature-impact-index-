@@ -4,34 +4,38 @@
   "sector": "Information Technology",
   "state": "Tamil Nadu",
   "revenue_cr": 162989.65,
-  "nii_score": 8.9,
-  "nii_rank": 56,
-  "nii_sector_rank": 2,
+  "nii_score": 9.0,
+  "nii_rank": 50,
+  "nii_sector_rank": 1,
   "nii_rating": "Excellent",
-  "nii_percentile": 89,
-  "taesc_cr": 487.2,
-  "nir": 0.003,
-  "nir_pct": 0.3,
+  "nii_percentile": 90,
+  "taesc_cr": 509.72,
+  "nir": 0.0031,
+  "nir_pct": 0.31,
   "breakdown": {
     "climate": {
       "value_cr": 83.67,
-      "pct": 17.2
+      "pct": 16.4
     },
     "water": {
       "value_cr": 39.64,
-      "pct": 8.1
+      "pct": 7.8
     },
     "land": {
       "value_cr": 19.29,
-      "pct": 4.0
+      "pct": 3.8
     },
     "biodiversity": {
       "value_cr": 323.98,
-      "pct": 66.5
+      "pct": 63.6
     },
     "pollution": {
-      "value_cr": 20.61,
-      "pct": 4.2
+      "value_cr": 30.7,
+      "pct": 6.0
+    },
+    "energy_depletion": {
+      "value_cr": 12.44,
+      "pct": 2.4
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.52,
     "pa_proximity_score": 0.0169,
     "waste_generated_mt": 11690.0,
-    "renewable_energy_pct": 57.9
+    "renewable_energy_pct": 57.9,
+    "total_energy_gj": 984107.0,
+    "renewable_energy_gj": 569503.0
   },
   "peer_comparison": {
-    "sector_median_score": 8.5,
+    "sector_median_score": 8.4,
     "sector_best_score": 9.0,
-    "sector_median_taesc": 21.55,
-    "sector_best_taesc": 2.85
+    "sector_median_taesc": 22.84,
+    "sector_best_taesc": 3.05
   },
   "data_quality": {
     "tier": "Tier 2",

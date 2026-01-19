@@ -4,34 +4,38 @@
   "sector": "Healthcare Services",
   "state": "West Bengal",
   "revenue_cr": 1060.0,
-  "nii_score": 8.0,
-  "nii_rank": 103,
+  "nii_score": 7.9,
+  "nii_rank": 108,
   "nii_sector_rank": 1,
-  "nii_rating": "Excellent",
-  "nii_percentile": 80,
-  "taesc_cr": 21.79,
-  "nir": 0.0206,
-  "nir_pct": 2.06,
+  "nii_rating": "Good",
+  "nii_percentile": 79,
+  "taesc_cr": 23.59,
+  "nir": 0.0223,
+  "nir_pct": 2.23,
   "breakdown": {
     "climate": {
       "value_cr": 7.47,
-      "pct": 34.3
+      "pct": 31.7
     },
     "water": {
       "value_cr": 4.48,
-      "pct": 20.5
+      "pct": 19.0
     },
     "land": {
       "value_cr": 1.42,
-      "pct": 6.5
+      "pct": 6.0
     },
     "biodiversity": {
       "value_cr": 7.41,
-      "pct": 34.0
+      "pct": 31.4
     },
     "pollution": {
-      "value_cr": 1.0,
-      "pct": 4.6
+      "value_cr": 1.16,
+      "pct": 4.9
+    },
+    "energy_depletion": {
+      "value_cr": 1.64,
+      "pct": 7.0
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.58,
     "pa_proximity_score": 0.1017,
     "waste_generated_mt": 462.0,
-    "renewable_energy_pct": 0.5
+    "renewable_energy_pct": 0.5,
+    "total_energy_gj": 55000.0,
+    "renewable_energy_gj": 275.0
   },
   "peer_comparison": {
     "sector_median_score": 7.8,
-    "sector_best_score": 8.0,
-    "sector_median_taesc": 145.82,
-    "sector_best_taesc": 21.79
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 161.29,
+    "sector_best_taesc": 23.59
   },
   "data_quality": {
     "tier": "Tier 2",

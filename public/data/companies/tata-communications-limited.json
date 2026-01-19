@@ -4,34 +4,38 @@
   "sector": "Telecom & Communication",
   "state": "Gujarat",
   "revenue_cr": 7277.86,
-  "nii_score": 6.4,
-  "nii_rank": 187,
-  "nii_sector_rank": 5,
+  "nii_score": 6.1,
+  "nii_rank": 203,
+  "nii_sector_rank": 4,
   "nii_rating": "Good",
-  "nii_percentile": 64,
-  "taesc_cr": 357.21,
-  "nir": 0.0491,
-  "nir_pct": 4.91,
+  "nii_percentile": 61,
+  "taesc_cr": 405.32,
+  "nir": 0.0557,
+  "nir_pct": 5.57,
   "breakdown": {
     "climate": {
       "value_cr": 105.46,
-      "pct": 29.5
+      "pct": 26.0
     },
     "water": {
       "value_cr": 4.11,
-      "pct": 1.2
+      "pct": 1.0
     },
     "land": {
       "value_cr": 135.31,
-      "pct": 37.9
+      "pct": 33.4
     },
     "biodiversity": {
       "value_cr": 103.0,
-      "pct": 28.8
+      "pct": 25.4
     },
     "pollution": {
-      "value_cr": 9.33,
-      "pct": 2.6
+      "value_cr": 19.33,
+      "pct": 4.8
+    },
+    "energy_depletion": {
+      "value_cr": 38.11,
+      "pct": 9.4
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.51,
     "pa_proximity_score": 0.1147,
     "waste_generated_mt": 548.0,
-    "renewable_energy_pct": 12.4
+    "renewable_energy_pct": 12.4,
+    "total_energy_gj": 1450000.0,
+    "renewable_energy_gj": 179800.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.9,
+    "sector_median_score": 6.0,
     "sector_best_score": 8.0,
-    "sector_median_taesc": 714.01,
-    "sector_best_taesc": 47.35
+    "sector_median_taesc": 738.83,
+    "sector_best_taesc": 49.54
   },
   "data_quality": {
     "tier": "Tier 2",

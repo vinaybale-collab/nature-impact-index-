@@ -4,34 +4,38 @@
   "sector": "Metals & Mining",
   "state": "Tamil Nadu",
   "revenue_cr": 133609.0,
-  "nii_score": 0.8,
-  "nii_rank": 481,
+  "nii_score": 0.7,
+  "nii_rank": 486,
   "nii_sector_rank": 21,
   "nii_rating": "Critical",
-  "nii_percentile": 8,
-  "taesc_cr": 89177.04,
-  "nir": 0.6674,
-  "nir_pct": 66.74,
+  "nii_percentile": 7,
+  "taesc_cr": 106662.92,
+  "nir": 0.7983,
+  "nir_pct": 79.83,
   "breakdown": {
     "climate": {
       "value_cr": 54130.04,
-      "pct": 60.7
+      "pct": 50.7
     },
     "water": {
       "value_cr": 2179.32,
-      "pct": 2.4
+      "pct": 2.0
     },
     "land": {
       "value_cr": 946.1,
-      "pct": 1.1
+      "pct": 0.9
     },
     "biodiversity": {
       "value_cr": 12704.47,
-      "pct": 14.2
+      "pct": 11.9
     },
     "pollution": {
-      "value_cr": 19217.11,
-      "pct": 21.5
+      "value_cr": 19234.63,
+      "pct": 18.0
+    },
+    "energy_depletion": {
+      "value_cr": 17468.37,
+      "pct": 16.4
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.52,
     "pa_proximity_score": 0.1051,
     "waste_generated_mt": 19109339.0,
-    "renewable_energy_pct": 0.4
+    "renewable_energy_pct": 0.4,
+    "total_energy_gj": 584500000.0,
+    "renewable_energy_gj": 2221100.0
   },
   "peer_comparison": {
-    "sector_median_score": 1.0,
-    "sector_best_score": 4.8,
-    "sector_median_taesc": 4974.86,
-    "sector_best_taesc": 378.47
+    "sector_median_score": 1.1,
+    "sector_best_score": 5.0,
+    "sector_median_taesc": 5326.54,
+    "sector_best_taesc": 421.93
   },
   "data_quality": {
     "tier": "Tier 2",

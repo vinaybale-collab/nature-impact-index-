@@ -4,34 +4,38 @@
   "sector": "Pharmaceuticals & Healthcare",
   "state": "Delhi",
   "revenue_cr": 32643.76,
-  "nii_score": 6.7,
-  "nii_rank": 171,
-  "nii_sector_rank": 25,
+  "nii_score": 6.6,
+  "nii_rank": 176,
+  "nii_sector_rank": 26,
   "nii_rating": "Good",
-  "nii_percentile": 67,
-  "taesc_cr": 1505.99,
-  "nir": 0.0461,
-  "nir_pct": 4.61,
+  "nii_percentile": 66,
+  "taesc_cr": 1591.2,
+  "nir": 0.0487,
+  "nir_pct": 4.87,
   "breakdown": {
     "climate": {
       "value_cr": 480.84,
-      "pct": 31.9
+      "pct": 30.2
     },
     "water": {
       "value_cr": 88.72,
-      "pct": 5.9
+      "pct": 5.6
     },
     "land": {
       "value_cr": 88.69,
-      "pct": 5.9
+      "pct": 5.6
     },
     "biodiversity": {
       "value_cr": 707.19,
-      "pct": 47.0
+      "pct": 44.4
     },
     "pollution": {
-      "value_cr": 140.55,
-      "pct": 9.3
+      "value_cr": 149.24,
+      "pct": 9.4
+    },
+    "energy_depletion": {
+      "value_cr": 76.53,
+      "pct": 4.8
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.62,
     "pa_proximity_score": 0.0351,
     "waste_generated_mt": 112677.0,
-    "renewable_energy_pct": 47.7
+    "renewable_energy_pct": 47.7,
+    "total_energy_gj": 4873328.0,
+    "renewable_energy_gj": 2322468.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.6,
-    "sector_best_score": 7.9,
-    "sector_median_taesc": 327.39,
-    "sector_best_taesc": 46.47
+    "sector_median_score": 6.5,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 351.59,
+    "sector_best_taesc": 49.58
   },
   "data_quality": {
     "tier": "Tier 2",

@@ -4,18 +4,18 @@
   "sector": "Cement Manufacturing",
   "state": "Delhi",
   "revenue_cr": 8201.76,
-  "nii_score": 1.7,
-  "nii_rank": 434,
+  "nii_score": 1.8,
+  "nii_rank": 428,
   "nii_sector_rank": 5,
   "nii_rating": "Critical",
-  "nii_percentile": 17,
-  "taesc_cr": 2015.77,
-  "nir": 0.2458,
-  "nir_pct": 24.58,
+  "nii_percentile": 18,
+  "taesc_cr": 2046.91,
+  "nir": 0.2496,
+  "nir_pct": 24.96,
   "breakdown": {
     "climate": {
       "value_cr": 124.63,
-      "pct": 6.2
+      "pct": 6.1
     },
     "water": {
       "value_cr": 49.14,
@@ -23,15 +23,19 @@
     },
     "land": {
       "value_cr": 58.2,
-      "pct": 2.9
+      "pct": 2.8
     },
     "biodiversity": {
       "value_cr": 627.95,
-      "pct": 31.2
+      "pct": 30.7
     },
     "pollution": {
-      "value_cr": 1155.85,
-      "pct": 57.3
+      "value_cr": 1158.97,
+      "pct": 56.6
+    },
+    "energy_depletion": {
+      "value_cr": 28.03,
+      "pct": 1.4
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.62,
     "pa_proximity_score": 0.1004,
     "waste_generated_mt": 745298.0,
-    "renewable_energy_pct": 0.0
+    "renewable_energy_pct": 0.0,
+    "total_energy_gj": 934215.0,
+    "renewable_energy_gj": 0.0
   },
   "peer_comparison": {
-    "sector_median_score": 0.8,
-    "sector_best_score": 4.9,
-    "sector_median_taesc": 4113.3,
-    "sector_best_taesc": 185.22
+    "sector_median_score": 0.7,
+    "sector_best_score": 5.1,
+    "sector_median_taesc": 4419.77,
+    "sector_best_taesc": 197.59
   },
   "data_quality": {
     "tier": "Tier 2",

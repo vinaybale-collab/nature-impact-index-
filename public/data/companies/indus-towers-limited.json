@@ -4,18 +4,18 @@
   "sector": "Telecom & Communication",
   "state": "Maharashtra",
   "revenue_cr": 30122.78,
-  "nii_score": 1.5,
-  "nii_rank": 444,
+  "nii_score": 1.6,
+  "nii_rank": 439,
   "nii_sector_rank": 7,
   "nii_rating": "Critical",
-  "nii_percentile": 15,
-  "taesc_cr": 9046.14,
-  "nir": 0.3003,
-  "nir_pct": 30.03,
+  "nii_percentile": 16,
+  "taesc_cr": 9088.6,
+  "nir": 0.3017,
+  "nir_pct": 30.17,
   "breakdown": {
     "climate": {
       "value_cr": 7335.64,
-      "pct": 81.1
+      "pct": 80.7
     },
     "water": {
       "value_cr": 16.74,
@@ -23,15 +23,19 @@
     },
     "land": {
       "value_cr": 1421.39,
-      "pct": 15.7
+      "pct": 15.6
     },
     "biodiversity": {
       "value_cr": 203.98,
-      "pct": 2.3
+      "pct": 2.2
     },
     "pollution": {
-      "value_cr": 68.39,
+      "value_cr": 70.35,
       "pct": 0.8
+    },
+    "energy_depletion": {
+      "value_cr": 40.5,
+      "pct": 0.4
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.55,
     "pa_proximity_score": 0.0039,
     "waste_generated_mt": 65360.0,
-    "renewable_energy_pct": 10.0
+    "renewable_energy_pct": 10.0,
+    "total_energy_gj": 1500000.0,
+    "renewable_energy_gj": 150000.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.9,
+    "sector_median_score": 6.0,
     "sector_best_score": 8.0,
-    "sector_median_taesc": 714.01,
-    "sector_best_taesc": 47.35
+    "sector_median_taesc": 738.83,
+    "sector_best_taesc": 49.54
   },
   "data_quality": {
     "tier": "Tier 2",

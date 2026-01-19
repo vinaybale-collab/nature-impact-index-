@@ -4,14 +4,14 @@
   "sector": "Construction & Real Estate",
   "state": "Maharashtra",
   "revenue_cr": 5313.54,
-  "nii_score": 1.7,
-  "nii_rank": 434,
+  "nii_score": 1.8,
+  "nii_rank": 428,
   "nii_sector_rank": 8,
   "nii_rating": "Critical",
-  "nii_percentile": 17,
-  "taesc_cr": 1377.67,
-  "nir": 0.2593,
-  "nir_pct": 25.93,
+  "nii_percentile": 18,
+  "taesc_cr": 1380.23,
+  "nir": 0.2598,
+  "nir_pct": 25.98,
   "breakdown": {
     "climate": {
       "value_cr": 220.97,
@@ -30,8 +30,12 @@
       "pct": 12.9
     },
     "pollution": {
-      "value_cr": 819.42,
-      "pct": 59.5
+      "value_cr": 819.45,
+      "pct": 59.4
+    },
+    "energy_depletion": {
+      "value_cr": 2.52,
+      "pct": 0.2
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.55,
     "pa_proximity_score": 0.0187,
     "waste_generated_mt": 620739.0,
-    "renewable_energy_pct": 1.5
+    "renewable_energy_pct": 1.5,
+    "total_energy_gj": 85400.0,
+    "renewable_energy_gj": 1281.0
   },
   "peer_comparison": {
-    "sector_median_score": 3.0,
-    "sector_best_score": 4.9,
-    "sector_median_taesc": 806.39,
-    "sector_best_taesc": 50.51
+    "sector_median_score": 2.6,
+    "sector_best_score": 5.1,
+    "sector_median_taesc": 832.46,
+    "sector_best_taesc": 73.79
   },
   "data_quality": {
     "tier": "Tier 2",

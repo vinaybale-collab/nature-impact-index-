@@ -4,18 +4,18 @@
   "sector": "Banking & Financial Services",
   "state": "Karnataka",
   "revenue_cr": 36751.77,
-  "nii_score": 7.8,
-  "nii_rank": 113,
-  "nii_sector_rank": 61,
+  "nii_score": 7.9,
+  "nii_rank": 108,
+  "nii_sector_rank": 60,
   "nii_rating": "Good",
-  "nii_percentile": 78,
-  "taesc_cr": 913.72,
-  "nir": 0.0249,
-  "nir_pct": 2.49,
+  "nii_percentile": 79,
+  "taesc_cr": 917.92,
+  "nir": 0.025,
+  "nir_pct": 2.5,
   "breakdown": {
     "climate": {
       "value_cr": 900.33,
-      "pct": 98.5
+      "pct": 98.1
     },
     "water": {
       "value_cr": 6.38,
@@ -30,8 +30,12 @@
       "pct": 0.6
     },
     "pollution": {
-      "value_cr": 1.4,
-      "pct": 0.2
+      "value_cr": 2.39,
+      "pct": 0.3
+    },
+    "energy_depletion": {
+      "value_cr": 3.2,
+      "pct": 0.3
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.48,
     "pa_proximity_score": 0.1322,
     "waste_generated_mt": 484.0,
-    "renewable_energy_pct": 1.8
+    "renewable_energy_pct": 1.8,
+    "total_energy_gj": 112400.0,
+    "renewable_energy_gj": 5620.0
   },
   "peer_comparison": {
     "sector_median_score": 9.3,
     "sector_best_score": 10.0,
-    "sector_median_taesc": 23.47,
-    "sector_best_taesc": 0.5
+    "sector_median_taesc": 24.88,
+    "sector_best_taesc": 0.56
   },
   "data_quality": {
     "tier": "Tier 2",

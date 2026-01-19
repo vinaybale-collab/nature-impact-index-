@@ -4,34 +4,38 @@
   "sector": "Chemicals & Fertilizers",
   "state": "Tamil Nadu",
   "revenue_cr": 12672.0,
-  "nii_score": 1.8,
-  "nii_rank": 428,
-  "nii_sector_rank": 137,
+  "nii_score": 1.7,
+  "nii_rank": 434,
+  "nii_sector_rank": 136,
   "nii_rating": "Critical",
-  "nii_percentile": 18,
-  "taesc_cr": 3096.22,
-  "nir": 0.2443,
-  "nir_pct": 24.43,
+  "nii_percentile": 17,
+  "taesc_cr": 3525.97,
+  "nir": 0.2782,
+  "nir_pct": 27.82,
   "breakdown": {
     "climate": {
       "value_cr": 2057.98,
-      "pct": 66.5
+      "pct": 58.4
     },
     "water": {
       "value_cr": 130.48,
-      "pct": 4.2
+      "pct": 3.7
     },
     "land": {
       "value_cr": 186.32,
-      "pct": 6.0
+      "pct": 5.3
     },
     "biodiversity": {
       "value_cr": 483.95,
-      "pct": 15.6
+      "pct": 13.7
     },
     "pollution": {
-      "value_cr": 237.49,
-      "pct": 7.7
+      "value_cr": 250.1,
+      "pct": 7.1
+    },
+    "energy_depletion": {
+      "value_cr": 417.15,
+      "pct": 11.8
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.52,
     "pa_proximity_score": 0.016,
     "waste_generated_mt": 183596.0,
-    "renewable_energy_pct": 10.5
+    "renewable_energy_pct": 10.5,
+    "total_energy_gj": 15450000.0,
+    "renewable_energy_gj": 1545000.0
   },
   "peer_comparison": {
     "sector_median_score": 4.6,
-    "sector_best_score": 7.4,
-    "sector_median_taesc": 340.82,
-    "sector_best_taesc": 8.38
+    "sector_best_score": 7.6,
+    "sector_median_taesc": 370.56,
+    "sector_best_taesc": 8.45
   },
   "data_quality": {
     "tier": "Tier 2",

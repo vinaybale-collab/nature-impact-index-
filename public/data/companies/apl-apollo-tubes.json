@@ -4,18 +4,18 @@
   "sector": "Metals & Mining",
   "state": "Unknown",
   "revenue_cr": 21325.99,
-  "nii_score": 4.8,
-  "nii_rank": 271,
+  "nii_score": 5.0,
+  "nii_rank": 260,
   "nii_sector_rank": 1,
   "nii_rating": "Average",
-  "nii_percentile": 48,
-  "taesc_cr": 1603.17,
-  "nir": 0.0752,
-  "nir_pct": 7.52,
+  "nii_percentile": 50,
+  "taesc_cr": 1644.42,
+  "nir": 0.0771,
+  "nir_pct": 7.71,
   "breakdown": {
     "climate": {
       "value_cr": 175.64,
-      "pct": 11.0
+      "pct": 10.7
     },
     "water": {
       "value_cr": 11.18,
@@ -27,11 +27,15 @@
     },
     "biodiversity": {
       "value_cr": 1286.98,
-      "pct": 80.3
+      "pct": 78.3
     },
     "pollution": {
-      "value_cr": 90.43,
-      "pct": 5.6
+      "value_cr": 90.5,
+      "pct": 5.5
+    },
+    "energy_depletion": {
+      "value_cr": 41.18,
+      "pct": 2.5
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.52,
     "pa_proximity_score": 0.0097,
     "waste_generated_mt": 45200.0,
-    "renewable_energy_pct": 13.1
+    "renewable_energy_pct": 13.1,
+    "total_energy_gj": 1580000.0,
+    "renewable_energy_gj": 207296.0
   },
   "peer_comparison": {
-    "sector_median_score": 1.0,
-    "sector_best_score": 4.8,
-    "sector_median_taesc": 4974.86,
-    "sector_best_taesc": 378.47
+    "sector_median_score": 1.1,
+    "sector_best_score": 5.0,
+    "sector_median_taesc": 5326.54,
+    "sector_best_taesc": 421.93
   },
   "data_quality": {
     "tier": "Tier 3",

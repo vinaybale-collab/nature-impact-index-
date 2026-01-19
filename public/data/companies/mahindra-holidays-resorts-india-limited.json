@@ -4,34 +4,38 @@
   "sector": "Hospitality & Leisure",
   "state": "Unknown",
   "revenue_cr": 2876.0,
-  "nii_score": 7.5,
-  "nii_rank": 129,
+  "nii_score": 7.6,
+  "nii_rank": 124,
   "nii_sector_rank": 1,
   "nii_rating": "Good",
-  "nii_percentile": 75,
-  "taesc_cr": 98.26,
-  "nir": 0.0342,
-  "nir_pct": 3.42,
+  "nii_percentile": 76,
+  "taesc_cr": 102.53,
+  "nir": 0.0356,
+  "nir_pct": 3.56,
   "breakdown": {
     "climate": {
       "value_cr": 25.79,
-      "pct": 26.2
+      "pct": 25.2
     },
     "water": {
       "value_cr": 24.09,
-      "pct": 24.5
+      "pct": 23.5
     },
     "land": {
       "value_cr": 9.28,
-      "pct": 9.4
+      "pct": 9.1
     },
     "biodiversity": {
       "value_cr": 37.43,
-      "pct": 38.1
+      "pct": 36.5
     },
     "pollution": {
-      "value_cr": 1.67,
+      "value_cr": 1.75,
       "pct": 1.7
+    },
+    "energy_depletion": {
+      "value_cr": 4.19,
+      "pct": 4.1
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.48,
     "pa_proximity_score": 0.0097,
     "waste_generated_mt": 1188.0,
-    "renewable_energy_pct": 24.3
+    "renewable_energy_pct": 24.3,
+    "total_energy_gj": 184500.0,
+    "renewable_energy_gj": 44828.0
   },
   "peer_comparison": {
     "sector_median_score": 5.6,
-    "sector_best_score": 7.5,
-    "sector_median_taesc": 125.8,
-    "sector_best_taesc": 98.26
+    "sector_best_score": 7.6,
+    "sector_median_taesc": 133.86,
+    "sector_best_taesc": 102.53
   },
   "data_quality": {
     "tier": "Tier 3",

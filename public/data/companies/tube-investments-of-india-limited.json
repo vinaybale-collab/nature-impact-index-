@@ -4,34 +4,38 @@
   "sector": "Manufacturing - Engineering",
   "state": "Maharashtra",
   "revenue_cr": 7892.51,
-  "nii_score": 5.5,
-  "nii_rank": 234,
+  "nii_score": 5.4,
+  "nii_rank": 239,
   "nii_sector_rank": 6,
   "nii_rating": "Average",
-  "nii_percentile": 55,
-  "taesc_cr": 505.73,
-  "nir": 0.0641,
-  "nir_pct": 6.41,
+  "nii_percentile": 54,
+  "taesc_cr": 539.65,
+  "nir": 0.0684,
+  "nir_pct": 6.84,
   "breakdown": {
     "climate": {
       "value_cr": 59.24,
-      "pct": 11.7
+      "pct": 11.0
     },
     "water": {
       "value_cr": 24.88,
-      "pct": 4.9
+      "pct": 4.6
     },
     "land": {
       "value_cr": 31.03,
-      "pct": 6.1
+      "pct": 5.7
     },
     "biodiversity": {
       "value_cr": 254.83,
-      "pct": 50.4
+      "pct": 47.2
     },
     "pollution": {
-      "value_cr": 135.75,
-      "pct": 26.8
+      "value_cr": 136.06,
+      "pct": 25.2
+    },
+    "energy_depletion": {
+      "value_cr": 33.62,
+      "pct": 6.2
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.55,
     "pa_proximity_score": 0.0484,
     "waste_generated_mt": 125274.0,
-    "renewable_energy_pct": 10.0
+    "renewable_energy_pct": 10.0,
+    "total_energy_gj": 1245000.0,
+    "renewable_energy_gj": 124500.0
   },
   "peer_comparison": {
-    "sector_median_score": 4.3,
+    "sector_median_score": 4.4,
     "sector_best_score": 7.6,
-    "sector_median_taesc": 977.28,
-    "sector_best_taesc": 29.35
+    "sector_median_taesc": 994.84,
+    "sector_best_taesc": 31.34
   },
   "data_quality": {
     "tier": "Tier 2",

@@ -4,22 +4,22 @@
   "sector": "Pharmaceuticals & Healthcare",
   "state": "Tamil Nadu",
   "revenue_cr": 57790.0,
-  "nii_score": 7.3,
-  "nii_rank": 140,
-  "nii_sector_rank": 17,
+  "nii_score": 7.4,
+  "nii_rank": 134,
+  "nii_sector_rank": 14,
   "nii_rating": "Good",
-  "nii_percentile": 73,
-  "taesc_cr": 2155.97,
-  "nir": 0.0373,
-  "nir_pct": 3.73,
+  "nii_percentile": 74,
+  "taesc_cr": 2233.94,
+  "nir": 0.0387,
+  "nir_pct": 3.87,
   "breakdown": {
     "climate": {
       "value_cr": 186.68,
-      "pct": 8.7
+      "pct": 8.4
     },
     "water": {
       "value_cr": 33.98,
-      "pct": 1.6
+      "pct": 1.5
     },
     "land": {
       "value_cr": 39.59,
@@ -27,11 +27,15 @@
     },
     "biodiversity": {
       "value_cr": 1743.62,
-      "pct": 80.9
+      "pct": 78.1
     },
     "pollution": {
-      "value_cr": 152.1,
-      "pct": 7.1
+      "value_cr": 177.48,
+      "pct": 7.9
+    },
+    "energy_depletion": {
+      "value_cr": 52.58,
+      "pct": 2.4
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.52,
     "pa_proximity_score": 0.1111,
     "waste_generated_mt": 83198.0,
-    "renewable_energy_pct": 1.5
+    "renewable_energy_pct": 1.5,
+    "total_energy_gj": 1845000.0,
+    "renewable_energy_gj": 92250.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.6,
-    "sector_best_score": 7.9,
-    "sector_median_taesc": 327.39,
-    "sector_best_taesc": 46.47
+    "sector_median_score": 6.5,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 351.59,
+    "sector_best_taesc": 49.58
   },
   "data_quality": {
     "tier": "Tier 2",

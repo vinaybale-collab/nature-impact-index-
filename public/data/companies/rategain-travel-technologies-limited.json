@@ -4,34 +4,38 @@
   "sector": "Information Technology",
   "state": "West Bengal",
   "revenue_cr": 279.83,
-  "nii_score": 8.1,
-  "nii_rank": 98,
-  "nii_sector_rank": 30,
+  "nii_score": 8.2,
+  "nii_rank": 92,
+  "nii_sector_rank": 26,
   "nii_rating": "Excellent",
-  "nii_percentile": 81,
-  "taesc_cr": 2.85,
-  "nir": 0.0102,
-  "nir_pct": 1.02,
+  "nii_percentile": 82,
+  "taesc_cr": 3.05,
+  "nir": 0.0109,
+  "nir_pct": 1.09,
   "breakdown": {
     "climate": {
       "value_cr": 0.66,
-      "pct": 23.1
+      "pct": 21.5
     },
     "water": {
       "value_cr": 1.24,
-      "pct": 43.4
+      "pct": 40.6
     },
     "land": {
       "value_cr": 0.3,
-      "pct": 10.7
+      "pct": 10.0
     },
     "biodiversity": {
       "value_cr": 0.56,
-      "pct": 19.5
+      "pct": 18.3
     },
     "pollution": {
-      "value_cr": 0.09,
-      "pct": 3.3
+      "value_cr": 0.2,
+      "pct": 6.5
+    },
+    "energy_depletion": {
+      "value_cr": 0.1,
+      "pct": 3.2
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.58,
     "pa_proximity_score": 0.0173,
     "waste_generated_mt": 2.0,
-    "renewable_energy_pct": 0.0
+    "renewable_energy_pct": 0.0,
+    "total_energy_gj": 3250.0,
+    "renewable_energy_gj": 0.0
   },
   "peer_comparison": {
-    "sector_median_score": 8.5,
+    "sector_median_score": 8.4,
     "sector_best_score": 9.0,
-    "sector_median_taesc": 21.55,
-    "sector_best_taesc": 2.85
+    "sector_median_taesc": 22.84,
+    "sector_best_taesc": 3.05
   },
   "data_quality": {
     "tier": "Tier 2",

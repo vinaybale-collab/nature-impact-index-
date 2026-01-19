@@ -4,34 +4,38 @@
   "sector": "Chemicals & Fertilizers",
   "state": "Delhi",
   "revenue_cr": 2693.0,
-  "nii_score": 5.0,
-  "nii_rank": 260,
-  "nii_sector_rank": 62,
+  "nii_score": 4.8,
+  "nii_rank": 271,
+  "nii_sector_rank": 69,
   "nii_rating": "Average",
-  "nii_percentile": 50,
-  "taesc_cr": 198.07,
-  "nir": 0.0735,
-  "nir_pct": 7.35,
+  "nii_percentile": 48,
+  "taesc_cr": 220.32,
+  "nir": 0.0818,
+  "nir_pct": 8.18,
   "breakdown": {
     "climate": {
       "value_cr": 39.63,
-      "pct": 20.0
+      "pct": 18.0
     },
     "water": {
       "value_cr": 17.74,
-      "pct": 9.0
+      "pct": 8.1
     },
     "land": {
       "value_cr": 32.4,
-      "pct": 16.4
+      "pct": 14.7
     },
     "biodiversity": {
       "value_cr": 100.77,
-      "pct": 50.9
+      "pct": 45.7
     },
     "pollution": {
-      "value_cr": 7.53,
-      "pct": 3.8
+      "value_cr": 8.1,
+      "pct": 3.7
+    },
+    "energy_depletion": {
+      "value_cr": 21.67,
+      "pct": 9.8
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.62,
     "pa_proximity_score": 0.0125,
     "waste_generated_mt": 5581.0,
-    "renewable_energy_pct": 14.5
+    "renewable_energy_pct": 14.5,
+    "total_energy_gj": 845000.0,
+    "renewable_energy_gj": 122525.0
   },
   "peer_comparison": {
     "sector_median_score": 4.6,
-    "sector_best_score": 7.4,
-    "sector_median_taesc": 340.82,
-    "sector_best_taesc": 8.38
+    "sector_best_score": 7.6,
+    "sector_median_taesc": 370.56,
+    "sector_best_taesc": 8.45
   },
   "data_quality": {
     "tier": "Tier 2",

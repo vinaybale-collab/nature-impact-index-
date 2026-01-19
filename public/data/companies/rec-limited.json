@@ -4,12 +4,12 @@
   "sector": "Chemicals & Fertilizers",
   "state": "West Bengal",
   "revenue_cr": 56367.0,
-  "nii_score": 7.4,
-  "nii_rank": 134,
+  "nii_score": 7.6,
+  "nii_rank": 124,
   "nii_sector_rank": 1,
   "nii_rating": "Good",
-  "nii_percentile": 74,
-  "taesc_cr": 2033.3,
+  "nii_percentile": 76,
+  "taesc_cr": 2033.41,
   "nir": 0.0361,
   "nir_pct": 3.61,
   "breakdown": {
@@ -30,7 +30,11 @@
       "pct": 99.7
     },
     "pollution": {
-      "value_cr": 0.15,
+      "value_cr": 0.26,
+      "pct": 0.0
+    },
+    "energy_depletion": {
+      "value_cr": 0.0,
       "pct": 0.0
     }
   },
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.58,
     "pa_proximity_score": 0.006,
     "waste_generated_mt": 42.0,
-    "renewable_energy_pct": 100.0
+    "renewable_energy_pct": 100.0,
+    "total_energy_gj": 14500.0,
+    "renewable_energy_gj": 14500.0
   },
   "peer_comparison": {
     "sector_median_score": 4.6,
-    "sector_best_score": 7.4,
-    "sector_median_taesc": 340.82,
-    "sector_best_taesc": 8.38
+    "sector_best_score": 7.6,
+    "sector_median_taesc": 370.56,
+    "sector_best_taesc": 8.45
   },
   "data_quality": {
     "tier": "Tier 2",

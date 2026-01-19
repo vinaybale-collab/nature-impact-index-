@@ -4,34 +4,38 @@
   "sector": "Pharmaceuticals & Healthcare",
   "state": "Unknown",
   "revenue_cr": 2810.79,
-  "nii_score": 7.4,
-  "nii_rank": 134,
-  "nii_sector_rank": 16,
+  "nii_score": 7.5,
+  "nii_rank": 129,
+  "nii_sector_rank": 12,
   "nii_rating": "Good",
-  "nii_percentile": 74,
-  "taesc_cr": 101.02,
-  "nir": 0.0359,
-  "nir_pct": 3.59,
+  "nii_percentile": 75,
+  "taesc_cr": 102.14,
+  "nir": 0.0363,
+  "nir_pct": 3.63,
   "breakdown": {
     "climate": {
       "value_cr": 26.36,
-      "pct": 26.1
+      "pct": 25.8
     },
     "water": {
       "value_cr": 6.72,
-      "pct": 6.7
+      "pct": 6.6
     },
     "land": {
       "value_cr": 10.14,
-      "pct": 10.0
+      "pct": 9.9
     },
     "biodiversity": {
       "value_cr": 52.9,
-      "pct": 52.4
+      "pct": 51.8
     },
     "pollution": {
-      "value_cr": 4.9,
-      "pct": 4.9
+      "value_cr": 4.91,
+      "pct": 4.8
+    },
+    "energy_depletion": {
+      "value_cr": 1.11,
+      "pct": 1.1
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.55,
     "pa_proximity_score": 0.0097,
     "waste_generated_mt": 2450.0,
-    "renewable_energy_pct": 17.7
+    "renewable_energy_pct": 17.7,
+    "total_energy_gj": 45000.0,
+    "renewable_energy_gj": 7961.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.6,
-    "sector_best_score": 7.9,
-    "sector_median_taesc": 327.39,
-    "sector_best_taesc": 46.47
+    "sector_median_score": 6.5,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 351.59,
+    "sector_best_taesc": 49.58
   },
   "data_quality": {
     "tier": "Tier 3",

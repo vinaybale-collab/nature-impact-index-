@@ -4,34 +4,38 @@
   "sector": "Chemicals & Fertilizers",
   "state": "Karnataka",
   "revenue_cr": 3965.0,
-  "nii_score": 4.6,
-  "nii_rank": 281,
-  "nii_sector_rank": 70,
+  "nii_score": 4.8,
+  "nii_rank": 271,
+  "nii_sector_rank": 69,
   "nii_rating": "Average",
-  "nii_percentile": 46,
-  "taesc_cr": 316.82,
-  "nir": 0.0799,
-  "nir_pct": 7.99,
+  "nii_percentile": 48,
+  "taesc_cr": 326.73,
+  "nir": 0.0824,
+  "nir_pct": 8.24,
   "breakdown": {
     "climate": {
       "value_cr": 27.7,
-      "pct": 8.7
+      "pct": 8.5
     },
     "water": {
       "value_cr": 16.6,
-      "pct": 5.2
+      "pct": 5.1
     },
     "land": {
       "value_cr": 121.06,
-      "pct": 38.2
+      "pct": 37.1
     },
     "biodiversity": {
       "value_cr": 142.86,
-      "pct": 45.1
+      "pct": 43.7
     },
     "pollution": {
-      "value_cr": 8.6,
-      "pct": 2.7
+      "value_cr": 8.63,
+      "pct": 2.6
+    },
+    "energy_depletion": {
+      "value_cr": 9.88,
+      "pct": 3.0
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.48,
     "pa_proximity_score": 0.0063,
     "waste_generated_mt": 7512.0,
-    "renewable_energy_pct": 14.5
+    "renewable_energy_pct": 14.5,
+    "total_energy_gj": 385000.0,
+    "renewable_energy_gj": 55825.0
   },
   "peer_comparison": {
     "sector_median_score": 4.6,
-    "sector_best_score": 7.4,
-    "sector_median_taesc": 340.82,
-    "sector_best_taesc": 8.38
+    "sector_best_score": 7.6,
+    "sector_median_taesc": 370.56,
+    "sector_best_taesc": 8.45
   },
   "data_quality": {
     "tier": "Tier 2",

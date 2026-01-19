@@ -4,22 +4,22 @@
   "sector": "FMCG & Consumer Goods",
   "state": "Tamil Nadu",
   "revenue_cr": 74325.65,
-  "nii_score": 6.8,
-  "nii_rank": 166,
+  "nii_score": 6.7,
+  "nii_rank": 171,
   "nii_sector_rank": 2,
   "nii_rating": "Good",
-  "nii_percentile": 68,
-  "taesc_cr": 3245.1,
-  "nir": 0.0437,
-  "nir_pct": 4.37,
+  "nii_percentile": 67,
+  "taesc_cr": 3588.31,
+  "nir": 0.0483,
+  "nir_pct": 4.83,
   "breakdown": {
     "climate": {
       "value_cr": 108.46,
-      "pct": 3.3
+      "pct": 3.0
     },
     "water": {
       "value_cr": 357.72,
-      "pct": 11.0
+      "pct": 10.0
     },
     "land": {
       "value_cr": 0.0,
@@ -27,11 +27,15 @@
     },
     "biodiversity": {
       "value_cr": 1692.99,
-      "pct": 52.2
+      "pct": 47.2
     },
     "pollution": {
-      "value_cr": 1085.94,
-      "pct": 33.5
+      "value_cr": 1302.3,
+      "pct": 36.3
+    },
+    "energy_depletion": {
+      "value_cr": 126.84,
+      "pct": 3.5
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.52,
     "pa_proximity_score": 0.0075,
     "waste_generated_mt": 722010.0,
-    "renewable_energy_pct": 50.0
+    "renewable_energy_pct": 50.0,
+    "total_energy_gj": 8456000.0,
+    "renewable_energy_gj": 4228000.0
   },
   "peer_comparison": {
-    "sector_median_score": 5.3,
+    "sector_median_score": 5.2,
     "sector_best_score": 7.7,
-    "sector_median_taesc": 1532.67,
-    "sector_best_taesc": 118.39
+    "sector_median_taesc": 1707.27,
+    "sector_best_taesc": 131.15
   },
   "data_quality": {
     "tier": "Tier 2",

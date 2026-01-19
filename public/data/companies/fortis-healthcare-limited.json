@@ -4,34 +4,38 @@
   "sector": "Healthcare Services",
   "state": "Gujarat",
   "revenue_cr": 6931.17,
-  "nii_score": 7.9,
-  "nii_rank": 108,
-  "nii_sector_rank": 2,
+  "nii_score": 7.8,
+  "nii_rank": 113,
+  "nii_sector_rank": 3,
   "nii_rating": "Good",
-  "nii_percentile": 79,
-  "taesc_cr": 154.88,
-  "nir": 0.0223,
-  "nir_pct": 2.23,
+  "nii_percentile": 78,
+  "taesc_cr": 180.14,
+  "nir": 0.026,
+  "nir_pct": 2.6,
   "breakdown": {
     "climate": {
       "value_cr": 46.2,
-      "pct": 29.8
+      "pct": 25.6
     },
     "water": {
       "value_cr": 41.86,
-      "pct": 27.0
+      "pct": 23.2
     },
     "land": {
       "value_cr": 16.4,
-      "pct": 10.6
+      "pct": 9.1
     },
     "biodiversity": {
       "value_cr": 42.16,
-      "pct": 27.2
+      "pct": 23.4
     },
     "pollution": {
-      "value_cr": 8.26,
-      "pct": 5.3
+      "value_cr": 9.29,
+      "pct": 5.2
+    },
+    "energy_depletion": {
+      "value_cr": 24.23,
+      "pct": 13.4
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.51,
     "pa_proximity_score": 0.0125,
     "waste_generated_mt": 3992.0,
-    "renewable_energy_pct": 4.5
+    "renewable_energy_pct": 4.5,
+    "total_energy_gj": 845600.0,
+    "renewable_energy_gj": 38052.0
   },
   "peer_comparison": {
     "sector_median_score": 7.8,
-    "sector_best_score": 8.0,
-    "sector_median_taesc": 145.82,
-    "sector_best_taesc": 21.79
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 161.29,
+    "sector_best_taesc": 23.59
   },
   "data_quality": {
     "tier": "Tier 2",

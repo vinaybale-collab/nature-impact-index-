@@ -4,18 +4,18 @@
   "sector": "Construction & Real Estate",
   "state": "West Bengal",
   "revenue_cr": 4922.84,
-  "nii_score": 0.7,
-  "nii_rank": 486,
+  "nii_score": 0.8,
+  "nii_rank": 481,
   "nii_sector_rank": 10,
   "nii_rating": "Critical",
-  "nii_percentile": 7,
-  "taesc_cr": 3675.53,
-  "nir": 0.7466,
-  "nir_pct": 74.66,
+  "nii_percentile": 8,
+  "taesc_cr": 3679.51,
+  "nir": 0.7474,
+  "nir_pct": 74.74,
   "breakdown": {
     "climate": {
       "value_cr": 1164.23,
-      "pct": 31.7
+      "pct": 31.6
     },
     "water": {
       "value_cr": 4.25,
@@ -30,8 +30,12 @@
       "pct": 6.9
     },
     "pollution": {
-      "value_cr": 1985.37,
+      "value_cr": 1985.51,
       "pct": 54.0
+    },
+    "energy_depletion": {
+      "value_cr": 3.83,
+      "pct": 0.1
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.58,
     "pa_proximity_score": 0.11,
     "waste_generated_mt": 1838084.0,
-    "renewable_energy_pct": 12.0
+    "renewable_energy_pct": 12.0,
+    "total_energy_gj": 145200.0,
+    "renewable_energy_gj": 17424.0
   },
   "peer_comparison": {
-    "sector_median_score": 3.0,
-    "sector_best_score": 4.9,
-    "sector_median_taesc": 806.39,
-    "sector_best_taesc": 50.51
+    "sector_median_score": 2.6,
+    "sector_best_score": 5.1,
+    "sector_median_taesc": 832.46,
+    "sector_best_taesc": 73.79
   },
   "data_quality": {
     "tier": "Tier 2",

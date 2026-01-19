@@ -4,34 +4,38 @@
   "sector": "FMCG & Consumer Goods",
   "state": "Karnataka",
   "revenue_cr": 9135.6,
-  "nii_score": 4.8,
-  "nii_rank": 271,
+  "nii_score": 4.9,
+  "nii_rank": 266,
   "nii_sector_rank": 8,
   "nii_rating": "Average",
-  "nii_percentile": 48,
-  "taesc_cr": 700.12,
-  "nir": 0.0766,
-  "nir_pct": 7.66,
+  "nii_percentile": 49,
+  "taesc_cr": 721.55,
+  "nir": 0.079,
+  "nir_pct": 7.9,
   "breakdown": {
     "climate": {
       "value_cr": 339.27,
-      "pct": 48.5
+      "pct": 47.0
     },
     "water": {
       "value_cr": 57.25,
-      "pct": 8.2
+      "pct": 7.9
     },
     "land": {
       "value_cr": 36.97,
-      "pct": 5.3
+      "pct": 5.1
     },
     "biodiversity": {
       "value_cr": 207.16,
-      "pct": 29.6
+      "pct": 28.7
     },
     "pollution": {
-      "value_cr": 59.46,
-      "pct": 8.5
+      "value_cr": 70.03,
+      "pct": 9.7
+    },
+    "energy_depletion": {
+      "value_cr": 10.85,
+      "pct": 1.5
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.48,
     "pa_proximity_score": 0.0067,
     "waste_generated_mt": 22180.0,
-    "renewable_energy_pct": 51.0
+    "renewable_energy_pct": 51.0,
+    "total_energy_gj": 732710.0,
+    "renewable_energy_gj": 370971.0
   },
   "peer_comparison": {
-    "sector_median_score": 5.3,
+    "sector_median_score": 5.2,
     "sector_best_score": 7.7,
-    "sector_median_taesc": 1532.67,
-    "sector_best_taesc": 118.39
+    "sector_median_taesc": 1707.27,
+    "sector_best_taesc": 131.15
   },
   "data_quality": {
     "tier": "Tier 2",

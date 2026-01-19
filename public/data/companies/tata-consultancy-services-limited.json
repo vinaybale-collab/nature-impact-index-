@@ -6,32 +6,36 @@
   "revenue_cr": 255324.0,
   "nii_score": 8.7,
   "nii_rank": 66,
-  "nii_sector_rank": 7,
+  "nii_sector_rank": 8,
   "nii_rating": "Excellent",
   "nii_percentile": 87,
-  "taesc_cr": 1060.35,
-  "nir": 0.0042,
-  "nir_pct": 0.42,
+  "taesc_cr": 1101.68,
+  "nir": 0.0043,
+  "nir_pct": 0.43,
   "breakdown": {
     "climate": {
       "value_cr": 240.04,
-      "pct": 22.6
+      "pct": 21.8
     },
     "water": {
       "value_cr": 99.07,
-      "pct": 9.3
+      "pct": 9.0
     },
     "land": {
       "value_cr": 20.06,
-      "pct": 1.9
+      "pct": 1.8
     },
     "biodiversity": {
       "value_cr": 669.78,
-      "pct": 63.2
+      "pct": 60.8
     },
     "pollution": {
-      "value_cr": 31.41,
-      "pct": 3.0
+      "value_cr": 54.59,
+      "pct": 5.0
+    },
+    "energy_depletion": {
+      "value_cr": 18.14,
+      "pct": 1.6
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.58,
     "pa_proximity_score": 0.0737,
     "waste_generated_mt": 9983.0,
-    "renewable_energy_pct": 60.0
+    "renewable_energy_pct": 60.0,
+    "total_energy_gj": 1512000.0,
+    "renewable_energy_gj": 907200.0
   },
   "peer_comparison": {
-    "sector_median_score": 8.5,
+    "sector_median_score": 8.4,
     "sector_best_score": 9.0,
-    "sector_median_taesc": 21.55,
-    "sector_best_taesc": 2.85
+    "sector_median_taesc": 22.84,
+    "sector_best_taesc": 3.05
   },
   "data_quality": {
     "tier": "Tier 2",

@@ -4,12 +4,12 @@
   "sector": "Energy & Power",
   "state": "Maharashtra",
   "revenue_cr": 6302.0,
-  "nii_score": 4.8,
-  "nii_rank": 271,
+  "nii_score": 5.2,
+  "nii_rank": 250,
   "nii_sector_rank": 8,
   "nii_rating": "Average",
-  "nii_percentile": 48,
-  "taesc_cr": 473.42,
+  "nii_percentile": 52,
+  "taesc_cr": 473.52,
   "nir": 0.0751,
   "nir_pct": 7.51,
   "breakdown": {
@@ -30,8 +30,12 @@
       "pct": 79.3
     },
     "pollution": {
-      "value_cr": 2.88,
+      "value_cr": 2.99,
       "pct": 0.6
+    },
+    "energy_depletion": {
+      "value_cr": 0.0,
+      "pct": 0.0
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.42,
     "pa_proximity_score": 0.0827,
     "waste_generated_mt": 2380.0,
-    "renewable_energy_pct": 100.0
+    "renewable_energy_pct": 100.0,
+    "total_energy_gj": 42500.0,
+    "renewable_energy_gj": 42500.0
   },
   "peer_comparison": {
-    "sector_median_score": 2.9,
-    "sector_best_score": 7.1,
-    "sector_median_taesc": 1859.41,
-    "sector_best_taesc": 22.51
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.2,
+    "sector_median_taesc": 1977.07,
+    "sector_best_taesc": 22.61
   },
   "data_quality": {
     "tier": "Tier 2",

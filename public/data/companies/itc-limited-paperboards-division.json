@@ -4,22 +4,22 @@
   "sector": "Manufacturing - Paper & Pulp",
   "state": "Unknown",
   "revenue_cr": 78551.59,
-  "nii_score": 4.7,
-  "nii_rank": 276,
-  "nii_sector_rank": 2,
+  "nii_score": 4.8,
+  "nii_rank": 271,
+  "nii_sector_rank": 1,
   "nii_rating": "Average",
-  "nii_percentile": 47,
-  "taesc_cr": 6172.62,
-  "nir": 0.0786,
-  "nir_pct": 7.86,
+  "nii_percentile": 48,
+  "taesc_cr": 6442.37,
+  "nir": 0.082,
+  "nir_pct": 8.2,
   "breakdown": {
     "climate": {
       "value_cr": 1094.38,
-      "pct": 17.7
+      "pct": 17.0
     },
     "water": {
       "value_cr": 1200.65,
-      "pct": 19.5
+      "pct": 18.6
     },
     "land": {
       "value_cr": 17.22,
@@ -27,11 +27,15 @@
     },
     "biodiversity": {
       "value_cr": 3491.79,
-      "pct": 56.6
+      "pct": 54.2
     },
     "pollution": {
-      "value_cr": 368.58,
-      "pct": 6.0
+      "value_cr": 454.58,
+      "pct": 7.1
+    },
+    "energy_depletion": {
+      "value_cr": 183.75,
+      "pct": 2.9
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.48,
     "pa_proximity_score": 0.0097,
     "waste_generated_mt": 225000.0,
-    "renewable_energy_pct": 51.0
+    "renewable_energy_pct": 51.0,
+    "total_energy_gj": 12500000.0,
+    "renewable_energy_gj": 6375000.0
   },
   "peer_comparison": {
     "sector_median_score": 1.2,
-    "sector_best_score": 5.5,
-    "sector_median_taesc": 902.84,
-    "sector_best_taesc": 256.11
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 1050.59,
+    "sector_best_taesc": 426.83
   },
   "data_quality": {
     "tier": "Tier 3",

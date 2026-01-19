@@ -4,18 +4,18 @@
   "sector": "Manufacturing - Consumer Electronics",
   "state": "Telangana",
   "revenue_cr": 5157.5,
-  "nii_score": 5.7,
-  "nii_rank": 224,
+  "nii_score": 5.8,
+  "nii_rank": 218,
   "nii_sector_rank": 3,
   "nii_rating": "Average",
-  "nii_percentile": 57,
-  "taesc_cr": 314.02,
-  "nir": 0.0609,
-  "nir_pct": 6.09,
+  "nii_percentile": 58,
+  "taesc_cr": 324.52,
+  "nir": 0.0629,
+  "nir_pct": 6.29,
   "breakdown": {
     "climate": {
       "value_cr": 187.7,
-      "pct": 59.8
+      "pct": 57.8
     },
     "water": {
       "value_cr": 1.5,
@@ -23,15 +23,19 @@
     },
     "land": {
       "value_cr": 8.2,
-      "pct": 2.6
+      "pct": 2.5
     },
     "biodiversity": {
       "value_cr": 103.25,
-      "pct": 32.9
+      "pct": 31.8
     },
     "pollution": {
-      "value_cr": 13.38,
-      "pct": 4.3
+      "value_cr": 19.95,
+      "pct": 6.1
+    },
+    "energy_depletion": {
+      "value_cr": 3.93,
+      "pct": 1.2
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.45,
     "pa_proximity_score": 0.0748,
     "waste_generated_mt": 2142.0,
-    "renewable_energy_pct": 8.4
+    "renewable_energy_pct": 8.4,
+    "total_energy_gj": 142500.0,
+    "renewable_energy_gj": 11400.0
   },
   "peer_comparison": {
-    "sector_median_score": 5.7,
+    "sector_median_score": 5.8,
     "sector_best_score": 8.0,
-    "sector_median_taesc": 314.02,
-    "sector_best_taesc": 120.08
+    "sector_median_taesc": 324.52,
+    "sector_best_taesc": 127.05
   },
   "data_quality": {
     "tier": "Tier 2",

@@ -4,18 +4,18 @@
   "sector": "Pharmaceuticals & Healthcare",
   "state": "Gujarat",
   "revenue_cr": 37234.88,
-  "nii_score": 6.2,
-  "nii_rank": 197,
-  "nii_sector_rank": 35,
+  "nii_score": 6.5,
+  "nii_rank": 182,
+  "nii_sector_rank": 28,
   "nii_rating": "Good",
-  "nii_percentile": 62,
-  "taesc_cr": 1896.49,
-  "nir": 0.0509,
-  "nir_pct": 5.09,
+  "nii_percentile": 65,
+  "taesc_cr": 1899.67,
+  "nir": 0.051,
+  "nir_pct": 5.1,
   "breakdown": {
     "climate": {
       "value_cr": 805.09,
-      "pct": 42.5
+      "pct": 42.4
     },
     "water": {
       "value_cr": 1.15,
@@ -27,10 +27,14 @@
     },
     "biodiversity": {
       "value_cr": 1078.82,
-      "pct": 56.9
+      "pct": 56.8
     },
     "pollution": {
-      "value_cr": 2.03,
+      "value_cr": 2.9,
+      "pct": 0.2
+    },
+    "energy_depletion": {
+      "value_cr": 2.31,
       "pct": 0.1
     }
   },
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.51,
     "pa_proximity_score": 0.1004,
     "waste_generated_mt": 508.0,
-    "renewable_energy_pct": 12.0
+    "renewable_energy_pct": 12.0,
+    "total_energy_gj": 85400.0,
+    "renewable_energy_gj": 8540.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.6,
-    "sector_best_score": 7.9,
-    "sector_median_taesc": 327.39,
-    "sector_best_taesc": 46.47
+    "sector_median_score": 6.5,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 351.59,
+    "sector_best_taesc": 49.58
   },
   "data_quality": {
     "tier": "Tier 2",

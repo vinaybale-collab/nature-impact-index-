@@ -4,34 +4,38 @@
   "sector": "Telecom & Communication",
   "state": "Delhi",
   "revenue_cr": 43157.22,
-  "nii_score": 7.7,
-  "nii_rank": 119,
-  "nii_sector_rank": 2,
-  "nii_rating": "Good",
-  "nii_percentile": 77,
-  "taesc_cr": 1324.61,
-  "nir": 0.0307,
-  "nir_pct": 3.07,
+  "nii_score": 5.9,
+  "nii_rank": 213,
+  "nii_sector_rank": 5,
+  "nii_rating": "Average",
+  "nii_percentile": 59,
+  "taesc_cr": 2664.51,
+  "nir": 0.0617,
+  "nir_pct": 6.17,
   "breakdown": {
     "climate": {
       "value_cr": 149.09,
-      "pct": 11.3
+      "pct": 5.6
     },
     "water": {
       "value_cr": 8.51,
-      "pct": 0.6
+      "pct": 0.3
     },
     "land": {
       "value_cr": 841.93,
-      "pct": 63.6
+      "pct": 31.6
     },
     "biodiversity": {
       "value_cr": 302.83,
-      "pct": 22.9
+      "pct": 11.4
     },
     "pollution": {
-      "value_cr": 22.25,
-      "pct": 1.7
+      "value_cr": 42.28,
+      "pct": 1.6
+    },
+    "energy_depletion": {
+      "value_cr": 1319.87,
+      "pct": 49.5
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.62,
     "pa_proximity_score": 0.0094,
     "waste_generated_mt": 4287.0,
-    "renewable_energy_pct": 3.2
+    "renewable_energy_pct": 3.2,
+    "total_energy_gj": 45450000.0,
+    "renewable_energy_gj": 1454400.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.9,
+    "sector_median_score": 6.0,
     "sector_best_score": 8.0,
-    "sector_median_taesc": 714.01,
-    "sector_best_taesc": 47.35
+    "sector_median_taesc": 738.83,
+    "sector_best_taesc": 49.54
   },
   "data_quality": {
     "tier": "Tier 2",

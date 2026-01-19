@@ -4,34 +4,38 @@
   "sector": "Manufacturing - Engineering",
   "state": "West Bengal",
   "revenue_cr": 28842.87,
-  "nii_score": 4.3,
-  "nii_rank": 297,
+  "nii_score": 4.4,
+  "nii_rank": 292,
   "nii_sector_rank": 7,
   "nii_rating": "Average",
-  "nii_percentile": 43,
-  "taesc_cr": 2422.08,
-  "nir": 0.084,
-  "nir_pct": 8.4,
+  "nii_percentile": 44,
+  "taesc_cr": 2555.62,
+  "nir": 0.0886,
+  "nir_pct": 8.86,
   "breakdown": {
     "climate": {
       "value_cr": 171.66,
-      "pct": 7.1
+      "pct": 6.7
     },
     "water": {
       "value_cr": 330.38,
-      "pct": 13.6
+      "pct": 12.9
     },
     "land": {
       "value_cr": 1068.61,
-      "pct": 44.1
+      "pct": 41.8
     },
     "biodiversity": {
       "value_cr": 789.53,
-      "pct": 32.6
+      "pct": 30.9
     },
     "pollution": {
-      "value_cr": 61.91,
-      "pct": 2.6
+      "value_cr": 63.05,
+      "pct": 2.5
+    },
+    "energy_depletion": {
+      "value_cr": 132.41,
+      "pct": 5.2
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.58,
     "pa_proximity_score": 0.0045,
     "waste_generated_mt": 56296.0,
-    "renewable_energy_pct": 9.0
+    "renewable_energy_pct": 9.0,
+    "total_energy_gj": 4850000.0,
+    "renewable_energy_gj": 436500.0
   },
   "peer_comparison": {
-    "sector_median_score": 4.3,
+    "sector_median_score": 4.4,
     "sector_best_score": 7.6,
-    "sector_median_taesc": 977.28,
-    "sector_best_taesc": 29.35
+    "sector_median_taesc": 994.84,
+    "sector_best_taesc": 31.34
   },
   "data_quality": {
     "tier": "Tier 2",

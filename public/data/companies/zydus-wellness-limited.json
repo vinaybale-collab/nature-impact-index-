@@ -4,34 +4,38 @@
   "sector": "FMCG & Consumer Goods",
   "state": "Maharashtra",
   "revenue_cr": 2708.9,
-  "nii_score": 6.8,
-  "nii_rank": 166,
+  "nii_score": 6.7,
+  "nii_rank": 171,
   "nii_sector_rank": 2,
   "nii_rating": "Good",
-  "nii_percentile": 68,
-  "taesc_cr": 118.39,
-  "nir": 0.0437,
-  "nir_pct": 4.37,
+  "nii_percentile": 67,
+  "taesc_cr": 131.15,
+  "nir": 0.0484,
+  "nir_pct": 4.84,
   "breakdown": {
     "climate": {
       "value_cr": 23.58,
-      "pct": 19.9
+      "pct": 18.0
     },
     "water": {
       "value_cr": 19.43,
-      "pct": 16.4
+      "pct": 14.8
     },
     "land": {
       "value_cr": 7.0,
-      "pct": 5.9
+      "pct": 5.3
     },
     "biodiversity": {
       "value_cr": 64.19,
-      "pct": 54.2
+      "pct": 48.9
     },
     "pollution": {
-      "value_cr": 4.19,
-      "pct": 3.5
+      "value_cr": 5.47,
+      "pct": 4.2
+    },
+    "energy_depletion": {
+      "value_cr": 11.49,
+      "pct": 8.8
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.55,
     "pa_proximity_score": 0.0077,
     "waste_generated_mt": 1712.0,
-    "renewable_energy_pct": 8.2
+    "renewable_energy_pct": 8.2,
+    "total_energy_gj": 425600.0,
+    "renewable_energy_gj": 42560.0
   },
   "peer_comparison": {
-    "sector_median_score": 5.3,
+    "sector_median_score": 5.2,
     "sector_best_score": 7.7,
-    "sector_median_taesc": 1532.67,
-    "sector_best_taesc": 118.39
+    "sector_median_taesc": 1707.27,
+    "sector_best_taesc": 131.15
   },
   "data_quality": {
     "tier": "Tier 2",

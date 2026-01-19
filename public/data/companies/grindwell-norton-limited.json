@@ -4,34 +4,38 @@
   "sector": "Chemicals & Fertilizers",
   "state": "Maharashtra",
   "revenue_cr": 2737.36,
-  "nii_score": 4.3,
-  "nii_rank": 297,
-  "nii_sector_rank": 83,
+  "nii_score": 4.2,
+  "nii_rank": 302,
+  "nii_sector_rank": 86,
   "nii_rating": "Average",
-  "nii_percentile": 43,
-  "taesc_cr": 231.8,
-  "nir": 0.0847,
-  "nir_pct": 8.47,
+  "nii_percentile": 42,
+  "taesc_cr": 260.3,
+  "nir": 0.0951,
+  "nir_pct": 9.51,
   "breakdown": {
     "climate": {
       "value_cr": 43.9,
-      "pct": 18.9
+      "pct": 16.9
     },
     "water": {
       "value_cr": 4.55,
-      "pct": 2.0
+      "pct": 1.7
     },
     "land": {
       "value_cr": 18.0,
-      "pct": 7.8
+      "pct": 6.9
     },
     "biodiversity": {
       "value_cr": 157.08,
-      "pct": 67.8
+      "pct": 60.3
     },
     "pollution": {
-      "value_cr": 8.26,
-      "pct": 3.6
+      "value_cr": 8.66,
+      "pct": 3.3
+    },
+    "energy_depletion": {
+      "value_cr": 28.11,
+      "pct": 10.8
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.42,
     "pa_proximity_score": 0.1017,
     "waste_generated_mt": 6461.0,
-    "renewable_energy_pct": 18.0
+    "renewable_energy_pct": 18.0,
+    "total_energy_gj": 1142500.0,
+    "renewable_energy_gj": 205650.0
   },
   "peer_comparison": {
     "sector_median_score": 4.6,
-    "sector_best_score": 7.4,
-    "sector_median_taesc": 340.82,
-    "sector_best_taesc": 8.38
+    "sector_best_score": 7.6,
+    "sector_median_taesc": 370.56,
+    "sector_best_taesc": 8.45
   },
   "data_quality": {
     "tier": "Tier 2",

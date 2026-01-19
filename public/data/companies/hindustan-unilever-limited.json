@@ -4,18 +4,18 @@
   "sector": "FMCG & Consumer Goods",
   "state": "Delhi",
   "revenue_cr": 63121.0,
-  "nii_score": 3.4,
-  "nii_rank": 344,
-  "nii_sector_rank": 10,
+  "nii_score": 3.6,
+  "nii_rank": 334,
+  "nii_sector_rank": 9,
   "nii_rating": "Poor",
-  "nii_percentile": 34,
-  "taesc_cr": 6766.49,
-  "nir": 0.1072,
-  "nir_pct": 10.72,
+  "nii_percentile": 36,
+  "taesc_cr": 6915.8,
+  "nir": 0.1096,
+  "nir_pct": 10.96,
   "breakdown": {
     "climate": {
       "value_cr": 4080.28,
-      "pct": 60.3
+      "pct": 59.0
     },
     "water": {
       "value_cr": 65.75,
@@ -27,11 +27,15 @@
     },
     "biodiversity": {
       "value_cr": 2374.04,
-      "pct": 35.1
+      "pct": 34.3
     },
     "pollution": {
-      "value_cr": 213.66,
-      "pct": 3.2
+      "value_cr": 252.82,
+      "pct": 3.7
+    },
+    "energy_depletion": {
+      "value_cr": 110.14,
+      "pct": 1.6
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.62,
     "pa_proximity_score": 0.1134,
     "waste_generated_mt": 90977.0,
-    "renewable_energy_pct": 30.0
+    "renewable_energy_pct": 30.0,
+    "total_energy_gj": 5245000.0,
+    "renewable_energy_gj": 1573500.0
   },
   "peer_comparison": {
-    "sector_median_score": 5.3,
+    "sector_median_score": 5.2,
     "sector_best_score": 7.7,
-    "sector_median_taesc": 1532.67,
-    "sector_best_taesc": 118.39
+    "sector_median_taesc": 1707.27,
+    "sector_best_taesc": 131.15
   },
   "data_quality": {
     "tier": "Tier 2",

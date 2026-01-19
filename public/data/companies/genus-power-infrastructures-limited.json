@@ -4,18 +4,18 @@
   "sector": "Energy & Power",
   "state": "Telangana",
   "revenue_cr": 2442.01,
-  "nii_score": 1.8,
-  "nii_rank": 428,
+  "nii_score": 1.9,
+  "nii_rank": 423,
   "nii_sector_rank": 18,
   "nii_rating": "Critical",
-  "nii_percentile": 18,
-  "taesc_cr": 593.02,
-  "nir": 0.2428,
-  "nir_pct": 24.28,
+  "nii_percentile": 19,
+  "taesc_cr": 595.71,
+  "nir": 0.2439,
+  "nir_pct": 24.39,
   "breakdown": {
     "climate": {
       "value_cr": 474.01,
-      "pct": 79.9
+      "pct": 79.6
     },
     "water": {
       "value_cr": 1.83,
@@ -23,15 +23,19 @@
     },
     "land": {
       "value_cr": 8.6,
-      "pct": 1.5
+      "pct": 1.4
     },
     "biodiversity": {
       "value_cr": 105.22,
       "pct": 17.7
     },
     "pollution": {
-      "value_cr": 3.36,
-      "pct": 0.6
+      "value_cr": 4.94,
+      "pct": 0.8
+    },
+    "energy_depletion": {
+      "value_cr": 1.11,
+      "pct": 0.2
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.45,
     "pa_proximity_score": 0.0173,
     "waste_generated_mt": 1788.0,
-    "renewable_energy_pct": 23.3
+    "renewable_energy_pct": 23.3,
+    "total_energy_gj": 48114.0,
+    "renewable_energy_gj": 11235.0
   },
   "peer_comparison": {
-    "sector_median_score": 2.9,
-    "sector_best_score": 7.1,
-    "sector_median_taesc": 1859.41,
-    "sector_best_taesc": 22.51
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.2,
+    "sector_median_taesc": 1977.07,
+    "sector_best_taesc": 22.61
   },
   "data_quality": {
     "tier": "Tier 2",

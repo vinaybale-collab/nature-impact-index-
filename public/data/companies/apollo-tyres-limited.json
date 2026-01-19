@@ -4,34 +4,38 @@
   "sector": "Manufacturing - Automobiles",
   "state": "Delhi",
   "revenue_cr": 17870.6,
-  "nii_score": 5.9,
-  "nii_rank": 213,
+  "nii_score": 5.5,
+  "nii_rank": 234,
   "nii_sector_rank": 4,
   "nii_rating": "Average",
-  "nii_percentile": 59,
-  "taesc_cr": 1037.36,
-  "nir": 0.058,
-  "nir_pct": 5.8,
+  "nii_percentile": 55,
+  "taesc_cr": 1205.21,
+  "nir": 0.0674,
+  "nir_pct": 6.74,
   "breakdown": {
     "climate": {
       "value_cr": 350.66,
-      "pct": 33.8
+      "pct": 29.1
     },
     "water": {
       "value_cr": 64.81,
-      "pct": 6.2
+      "pct": 5.4
     },
     "land": {
       "value_cr": 59.47,
-      "pct": 5.7
+      "pct": 4.9
     },
     "biodiversity": {
       "value_cr": 524.08,
-      "pct": 50.5
+      "pct": 43.5
     },
     "pollution": {
-      "value_cr": 38.35,
-      "pct": 3.7
+      "value_cr": 39.96,
+      "pct": 3.3
+    },
+    "energy_depletion": {
+      "value_cr": 166.24,
+      "pct": 13.8
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.62,
     "pa_proximity_score": 0.0162,
     "waste_generated_mt": 32091.0,
-    "renewable_energy_pct": 15.5
+    "renewable_energy_pct": 15.5,
+    "total_energy_gj": 6307029.0,
+    "renewable_energy_gj": 765648.0
   },
   "peer_comparison": {
-    "sector_median_score": 3.1,
-    "sector_best_score": 7.0,
-    "sector_median_taesc": 1910.81,
-    "sector_best_taesc": 77.36
+    "sector_median_score": 3.4,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1938.58,
+    "sector_best_taesc": 79.81
   },
   "data_quality": {
     "tier": "Tier 2",

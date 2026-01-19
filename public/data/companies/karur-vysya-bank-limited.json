@@ -4,34 +4,38 @@
   "sector": "Banking & Financial Services",
   "state": "Gujarat",
   "revenue_cr": 11507.59,
-  "nii_score": 9.0,
-  "nii_rank": 50,
-  "nii_sector_rank": 45,
+  "nii_score": 9.1,
+  "nii_rank": 45,
+  "nii_sector_rank": 40,
   "nii_rating": "Excellent",
-  "nii_percentile": 90,
-  "taesc_cr": 29.04,
-  "nir": 0.0025,
-  "nir_pct": 0.25,
+  "nii_percentile": 91,
+  "taesc_cr": 31.1,
+  "nir": 0.0027,
+  "nir_pct": 0.27,
   "breakdown": {
     "climate": {
       "value_cr": 20.29,
-      "pct": 69.9
+      "pct": 65.3
     },
     "water": {
       "value_cr": 3.37,
-      "pct": 11.6
+      "pct": 10.8
     },
     "land": {
       "value_cr": 2.67,
-      "pct": 9.2
+      "pct": 8.6
     },
     "biodiversity": {
       "value_cr": 1.71,
-      "pct": 5.9
+      "pct": 5.5
     },
     "pollution": {
-      "value_cr": 1.0,
-      "pct": 3.4
+      "value_cr": 1.9,
+      "pct": 6.1
+    },
+    "energy_depletion": {
+      "value_cr": 1.15,
+      "pct": 3.7
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.51,
     "pa_proximity_score": 0.009,
     "waste_generated_mt": 175.0,
-    "renewable_energy_pct": 0.2
+    "renewable_energy_pct": 0.2,
+    "total_energy_gj": 38400.0,
+    "renewable_energy_gj": 77.0
   },
   "peer_comparison": {
     "sector_median_score": 9.3,
     "sector_best_score": 10.0,
-    "sector_median_taesc": 23.47,
-    "sector_best_taesc": 0.5
+    "sector_median_taesc": 24.88,
+    "sector_best_taesc": 0.56
   },
   "data_quality": {
     "tier": "Tier 2",

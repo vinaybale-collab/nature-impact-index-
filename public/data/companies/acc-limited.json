@@ -4,34 +4,38 @@
   "sector": "Cement Manufacturing",
   "state": "Karnataka",
   "revenue_cr": 20594.0,
-  "nii_score": 0.7,
-  "nii_rank": 486,
-  "nii_sector_rank": 11,
+  "nii_score": 0.6,
+  "nii_rank": 491,
+  "nii_sector_rank": 12,
   "nii_rating": "Critical",
-  "nii_percentile": 7,
-  "taesc_cr": 15018.19,
-  "nir": 0.7293,
-  "nir_pct": 72.93,
+  "nii_percentile": 6,
+  "taesc_cr": 17102.46,
+  "nir": 0.8305,
+  "nir_pct": 83.05,
   "breakdown": {
     "climate": {
       "value_cr": 12676.88,
-      "pct": 84.4
+      "pct": 74.1
     },
     "water": {
       "value_cr": 222.24,
-      "pct": 1.5
+      "pct": 1.3
     },
     "land": {
       "value_cr": 605.32,
-      "pct": 4.0
+      "pct": 3.5
     },
     "biodiversity": {
       "value_cr": 967.73,
-      "pct": 6.4
+      "pct": 5.7
     },
     "pollution": {
-      "value_cr": 546.02,
-      "pct": 3.6
+      "value_cr": 590.6,
+      "pct": 3.5
+    },
+    "energy_depletion": {
+      "value_cr": 2039.7,
+      "pct": 11.9
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.48,
     "pa_proximity_score": 0.0044,
     "waste_generated_mt": 477486.0,
-    "renewable_energy_pct": 16.5
+    "renewable_energy_pct": 16.5,
+    "total_energy_gj": 81425000.0,
+    "renewable_energy_gj": 13435125.0
   },
   "peer_comparison": {
-    "sector_median_score": 0.8,
-    "sector_best_score": 4.9,
-    "sector_median_taesc": 4113.3,
-    "sector_best_taesc": 185.22
+    "sector_median_score": 0.7,
+    "sector_best_score": 5.1,
+    "sector_median_taesc": 4419.77,
+    "sector_best_taesc": 197.59
   },
   "data_quality": {
     "tier": "Tier 2",

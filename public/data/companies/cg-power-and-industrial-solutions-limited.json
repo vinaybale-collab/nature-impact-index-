@@ -4,14 +4,14 @@
   "sector": "Energy & Power",
   "state": "Gujarat",
   "revenue_cr": 76099.09,
-  "nii_score": 5.2,
-  "nii_rank": 250,
-  "nii_sector_rank": 7,
+  "nii_score": 5.4,
+  "nii_rank": 239,
+  "nii_sector_rank": 5,
   "nii_rating": "Average",
-  "nii_percentile": 52,
-  "taesc_cr": 5270.51,
-  "nir": 0.0693,
-  "nir_pct": 6.93,
+  "nii_percentile": 54,
+  "taesc_cr": 5282.67,
+  "nir": 0.0694,
+  "nir_pct": 6.94,
   "breakdown": {
     "climate": {
       "value_cr": 143.64,
@@ -27,11 +27,15 @@
     },
     "biodiversity": {
       "value_cr": 5056.18,
-      "pct": 95.9
+      "pct": 95.7
     },
     "pollution": {
-      "value_cr": 20.84,
+      "value_cr": 22.16,
       "pct": 0.4
+    },
+    "energy_depletion": {
+      "value_cr": 10.85,
+      "pct": 0.2
     }
   },
   "raw_data": {
@@ -44,13 +48,15 @@
     "base_msa_loss": 0.51,
     "pa_proximity_score": 0.11,
     "waste_generated_mt": 16934.0,
-    "renewable_energy_pct": 14.5
+    "renewable_energy_pct": 14.5,
+    "total_energy_gj": 425600.0,
+    "renewable_energy_gj": 63840.0
   },
   "peer_comparison": {
-    "sector_median_score": 2.9,
-    "sector_best_score": 7.1,
-    "sector_median_taesc": 1859.41,
-    "sector_best_taesc": 22.51
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.2,
+    "sector_median_taesc": 1977.07,
+    "sector_best_taesc": 22.61
   },
   "data_quality": {
     "tier": "Tier 2",
