@@ -1,0 +1,59 @@
+{
+  "company_name": "Cummins India Limited",
+  "slug": "cummins-india-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Tamil Nadu",
+  "revenue_cr": 10166.2,
+  "nii_score": 4.1,
+  "nii_rank": 308,
+  "nii_sector_rank": 88,
+  "nii_rating": "Average",
+  "nii_percentile": 41,
+  "taesc_cr": 942.18,
+  "nir": 0.0927,
+  "nir_pct": 9.27,
+  "breakdown": {
+    "climate": {
+      "value_cr": 535.53,
+      "pct": 56.8
+    },
+    "water": {
+      "value_cr": 6.06,
+      "pct": 0.6
+    },
+    "land": {
+      "value_cr": 20.5,
+      "pct": 2.2
+    },
+    "biodiversity": {
+      "value_cr": 372.31,
+      "pct": 39.5
+    },
+    "pollution": {
+      "value_cr": 7.77,
+      "pct": 0.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 7541.0,
+    "scope2_ghg_tco2e": 18548.0,
+    "scope3_ghg_tco2e": 1245000.0,
+    "water_consumption_kl": 177917.0,
+    "water_stress_score": 4.55,
+    "total_land_ha": 230.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.009,
+    "waste_generated_mt": 6716.0,
+    "renewable_energy_pct": 24.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

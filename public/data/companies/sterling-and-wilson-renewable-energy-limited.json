@@ -1,0 +1,59 @@
+{
+  "company_name": "Sterling and Wilson Renewable Energy Limited",
+  "slug": "sterling-and-wilson-renewable-energy-limited",
+  "sector": "Energy & Power",
+  "state": "Maharashtra",
+  "revenue_cr": 6302.0,
+  "nii_score": 4.8,
+  "nii_rank": 271,
+  "nii_sector_rank": 8,
+  "nii_rating": "Average",
+  "nii_percentile": 48,
+  "taesc_cr": 473.42,
+  "nir": 0.0751,
+  "nir_pct": 7.51,
+  "breakdown": {
+    "climate": {
+      "value_cr": 18.0,
+      "pct": 3.8
+    },
+    "water": {
+      "value_cr": 4.14,
+      "pct": 0.9
+    },
+    "land": {
+      "value_cr": 73.1,
+      "pct": 15.4
+    },
+    "biodiversity": {
+      "value_cr": 375.3,
+      "pct": 79.3
+    },
+    "pollution": {
+      "value_cr": 2.88,
+      "pct": 0.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 4975.0,
+    "scope2_ghg_tco2e": 946.0,
+    "scope3_ghg_tco2e": 32400.0,
+    "water_consumption_kl": 123835.0,
+    "water_stress_score": 3.16,
+    "total_land_ha": 850.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.0827,
+    "waste_generated_mt": 2380.0,
+    "renewable_energy_pct": 100.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.9,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1859.41,
+    "sector_best_taesc": 22.51
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

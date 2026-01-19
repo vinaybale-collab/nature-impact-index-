@@ -1,0 +1,59 @@
+{
+  "company_name": "NTPC LIMITED",
+  "slug": "ntpc-limited",
+  "sector": "Energy & Power",
+  "state": "Gujarat",
+  "revenue_cr": 170037.37,
+  "nii_score": 0.3,
+  "nii_rank": 507,
+  "nii_sector_rank": 23,
+  "nii_rating": "Critical",
+  "nii_percentile": 3,
+  "taesc_cr": 317564.47,
+  "nir": 1.8676,
+  "nir_pct": 186.76,
+  "breakdown": {
+    "climate": {
+      "value_cr": 278754.5,
+      "pct": 87.8
+    },
+    "water": {
+      "value_cr": 28734.19,
+      "pct": 9.0
+    },
+    "land": {
+      "value_cr": 3073.6,
+      "pct": 1.0
+    },
+    "biodiversity": {
+      "value_cr": 6940.77,
+      "pct": 2.2
+    },
+    "pollution": {
+      "value_cr": 61.41,
+      "pct": 0.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 326959946.0,
+    "scope2_ghg_tco2e": 64980.0,
+    "scope3_ghg_tco2e": 1973050.0,
+    "water_consumption_kl": 1043186029.0,
+    "water_stress_score": 4.46,
+    "total_land_ha": 36600.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0083,
+    "waste_generated_mt": 60294.0,
+    "renewable_energy_pct": 10.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.9,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1859.41,
+    "sector_best_taesc": 22.51
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

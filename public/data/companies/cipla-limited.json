@@ -1,0 +1,59 @@
+{
+  "company_name": "Cipla Limited",
+  "slug": "cipla-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Delhi",
+  "revenue_cr": 27547.62,
+  "nii_score": 2.7,
+  "nii_rank": 381,
+  "nii_sector_rank": 53,
+  "nii_rating": "Poor",
+  "nii_percentile": 27,
+  "taesc_cr": 3744.15,
+  "nir": 0.1359,
+  "nir_pct": 13.59,
+  "breakdown": {
+    "climate": {
+      "value_cr": 2798.52,
+      "pct": 74.7
+    },
+    "water": {
+      "value_cr": 36.51,
+      "pct": 1.0
+    },
+    "land": {
+      "value_cr": 66.23,
+      "pct": 1.8
+    },
+    "biodiversity": {
+      "value_cr": 798.15,
+      "pct": 21.3
+    },
+    "pollution": {
+      "value_cr": 44.74,
+      "pct": 1.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 778218.0,
+    "scope2_ghg_tco2e": 129087.0,
+    "scope3_ghg_tco2e": 5028316.0,
+    "water_consumption_kl": 1632537.0,
+    "water_stress_score": 2.73,
+    "total_land_ha": 895.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.1004,
+    "waste_generated_mt": 32213.0,
+    "renewable_energy_pct": 29.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "Quess Corp Limited",
+  "slug": "quess-corp-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Gujarat",
+  "revenue_cr": 17541.28,
+  "nii_score": 7.2,
+  "nii_rank": 145,
+  "nii_sector_rank": 6,
+  "nii_rating": "Good",
+  "nii_percentile": 72,
+  "taesc_cr": 682.39,
+  "nir": 0.0389,
+  "nir_pct": 3.89,
+  "breakdown": {
+    "climate": {
+      "value_cr": 4.79,
+      "pct": 0.7
+    },
+    "water": {
+      "value_cr": 1.04,
+      "pct": 0.2
+    },
+    "land": {
+      "value_cr": 2.52,
+      "pct": 0.4
+    },
+    "biodiversity": {
+      "value_cr": 673.72,
+      "pct": 98.7
+    },
+    "pollution": {
+      "value_cr": 0.33,
+      "pct": 0.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 389.0,
+    "scope2_ghg_tco2e": 795.0,
+    "scope3_ghg_tco2e": 8900.0,
+    "water_consumption_kl": 41982.0,
+    "water_stress_score": 2.19,
+    "total_land_ha": 28.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0169,
+    "waste_generated_mt": 4.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

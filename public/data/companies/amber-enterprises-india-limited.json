@@ -1,0 +1,59 @@
+{
+  "company_name": "Amber Enterprises India Limited",
+  "slug": "amber-enterprises-india-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "West Bengal",
+  "revenue_cr": 9973.02,
+  "nii_score": 6.2,
+  "nii_rank": 197,
+  "nii_sector_rank": 26,
+  "nii_rating": "Good",
+  "nii_percentile": 62,
+  "taesc_cr": 513.69,
+  "nir": 0.0515,
+  "nir_pct": 5.15,
+  "breakdown": {
+    "climate": {
+      "value_cr": 62.92,
+      "pct": 12.2
+    },
+    "water": {
+      "value_cr": 9.1,
+      "pct": 1.8
+    },
+    "land": {
+      "value_cr": 2.47,
+      "pct": 0.5
+    },
+    "biodiversity": {
+      "value_cr": 403.15,
+      "pct": 78.5
+    },
+    "pollution": {
+      "value_cr": 36.05,
+      "pct": 7.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 8150.0,
+    "scope2_ghg_tco2e": 57551.0,
+    "scope3_ghg_tco2e": 32400.0,
+    "water_consumption_kl": 277749.0,
+    "water_stress_score": 3.32,
+    "total_land_ha": 27.4,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.0259,
+    "waste_generated_mt": 26753.0,
+    "renewable_energy_pct": 5.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "Siemens Limited",
+  "slug": "siemens-limited",
+  "sector": "Manufacturing - Engineering",
+  "state": "Unknown",
+  "revenue_cr": 20496.6,
+  "nii_score": 2.5,
+  "nii_rank": 392,
+  "nii_sector_rank": 11,
+  "nii_rating": "Poor",
+  "nii_percentile": 25,
+  "taesc_cr": 3074.02,
+  "nir": 0.15,
+  "nir_pct": 15.0,
+  "breakdown": {
+    "climate": {
+      "value_cr": 2306.83,
+      "pct": 75.0
+    },
+    "water": {
+      "value_cr": 6.53,
+      "pct": 0.2
+    },
+    "land": {
+      "value_cr": 5.8,
+      "pct": 0.2
+    },
+    "biodiversity": {
+      "value_cr": 748.83,
+      "pct": 24.4
+    },
+    "pollution": {
+      "value_cr": 6.02,
+      "pct": 0.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 3420.0,
+    "scope2_ghg_tco2e": 14250.0,
+    "scope3_ghg_tco2e": 5421000.0,
+    "water_consumption_kl": 242000.0,
+    "water_stress_score": 2.81,
+    "total_land_ha": 100.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0734,
+    "waste_generated_mt": 4850.0,
+    "renewable_energy_pct": 90.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.3,
+    "sector_best_score": 7.6,
+    "sector_median_taesc": 977.28,
+    "sector_best_taesc": 29.35
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

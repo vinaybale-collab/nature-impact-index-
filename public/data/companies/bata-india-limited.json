@@ -1,0 +1,59 @@
+{
+  "company_name": "BATA INDIA LIMITED",
+  "slug": "bata-india-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Delhi",
+  "revenue_cr": 3488.03,
+  "nii_score": 5.3,
+  "nii_rank": 245,
+  "nii_sector_rank": 54,
+  "nii_rating": "Average",
+  "nii_percentile": 53,
+  "taesc_cr": 232.63,
+  "nir": 0.0667,
+  "nir_pct": 6.67,
+  "breakdown": {
+    "climate": {
+      "value_cr": 8.01,
+      "pct": 3.4
+    },
+    "water": {
+      "value_cr": 10.09,
+      "pct": 4.3
+    },
+    "land": {
+      "value_cr": 80.29,
+      "pct": 34.5
+    },
+    "biodiversity": {
+      "value_cr": 131.46,
+      "pct": 56.5
+    },
+    "pollution": {
+      "value_cr": 2.79,
+      "pct": 1.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 342.0,
+    "scope2_ghg_tco2e": 4453.0,
+    "scope3_ghg_tco2e": 15400.0,
+    "water_consumption_kl": 488359.0,
+    "water_stress_score": 2.35,
+    "total_land_ha": 892.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.0137,
+    "waste_generated_mt": 580.0,
+    "renewable_energy_pct": 12.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

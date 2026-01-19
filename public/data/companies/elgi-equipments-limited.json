@@ -1,0 +1,59 @@
+{
+  "company_name": "Elgi Equipments Limited",
+  "slug": "elgi-equipments-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Gujarat",
+  "revenue_cr": 2080.9,
+  "nii_score": 5.9,
+  "nii_rank": 213,
+  "nii_sector_rank": 38,
+  "nii_rating": "Average",
+  "nii_percentile": 59,
+  "taesc_cr": 122.63,
+  "nir": 0.0589,
+  "nir_pct": 5.89,
+  "breakdown": {
+    "climate": {
+      "value_cr": 25.32,
+      "pct": 20.7
+    },
+    "water": {
+      "value_cr": 1.48,
+      "pct": 1.2
+    },
+    "land": {
+      "value_cr": 8.73,
+      "pct": 7.1
+    },
+    "biodiversity": {
+      "value_cr": 82.73,
+      "pct": 67.5
+    },
+    "pollution": {
+      "value_cr": 4.36,
+      "pct": 3.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 1456.0,
+    "scope2_ghg_tco2e": 7340.0,
+    "scope3_ghg_tco2e": 54000.0,
+    "water_consumption_kl": 47822.0,
+    "water_stress_score": 3.23,
+    "total_land_ha": 97.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.023,
+    "waste_generated_mt": 3561.0,
+    "renewable_energy_pct": 14.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

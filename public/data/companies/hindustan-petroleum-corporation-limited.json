@@ -1,0 +1,59 @@
+{
+  "company_name": "Hindustan Petroleum Corporation Limited",
+  "slug": "hindustan-petroleum-corporation-limited",
+  "sector": "Oil & Gas",
+  "state": "Maharashtra",
+  "revenue_cr": 468762.09,
+  "nii_score": 1.9,
+  "nii_rank": 423,
+  "nii_sector_rank": 6,
+  "nii_rating": "Critical",
+  "nii_percentile": 19,
+  "taesc_cr": 107944.74,
+  "nir": 0.2303,
+  "nir_pct": 23.03,
+  "breakdown": {
+    "climate": {
+      "value_cr": 66649.17,
+      "pct": 61.7
+    },
+    "water": {
+      "value_cr": 1323.06,
+      "pct": 1.2
+    },
+    "land": {
+      "value_cr": 692.64,
+      "pct": 0.6
+    },
+    "biodiversity": {
+      "value_cr": 39087.29,
+      "pct": 36.2
+    },
+    "pollution": {
+      "value_cr": 192.59,
+      "pct": 0.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 5513044.0,
+    "scope2_ghg_tco2e": 1199251.0,
+    "scope3_ghg_tco2e": 143923201.0,
+    "water_consumption_kl": 56497276.0,
+    "water_stress_score": 2.51,
+    "total_land_ha": 6540.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.1028,
+    "waste_generated_mt": 134594.0,
+    "renewable_energy_pct": 0.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.6,
+    "sector_best_score": 5.4,
+    "sector_median_taesc": 7850.63,
+    "sector_best_taesc": 258.92
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

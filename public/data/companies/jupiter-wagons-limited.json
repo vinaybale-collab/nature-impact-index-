@@ -1,0 +1,59 @@
+{
+  "company_name": "Jupiter Wagons Limited",
+  "slug": "jupiter-wagons-limited",
+  "sector": "Manufacturing - Engineering",
+  "state": "Telangana",
+  "revenue_cr": 3870.62,
+  "nii_score": 3.3,
+  "nii_rank": 350,
+  "nii_sector_rank": 8,
+  "nii_rating": "Poor",
+  "nii_percentile": 33,
+  "taesc_cr": 439.76,
+  "nir": 0.1136,
+  "nir_pct": 11.36,
+  "breakdown": {
+    "climate": {
+      "value_cr": 292.29,
+      "pct": 66.5
+    },
+    "water": {
+      "value_cr": 6.53,
+      "pct": 1.5
+    },
+    "land": {
+      "value_cr": 10.66,
+      "pct": 2.4
+    },
+    "biodiversity": {
+      "value_cr": 114.26,
+      "pct": 26.0
+    },
+    "pollution": {
+      "value_cr": 16.02,
+      "pct": 3.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 9578.0,
+    "scope2_ghg_tco2e": 38087.0,
+    "scope3_ghg_tco2e": 592410.0,
+    "water_consumption_kl": 158025.0,
+    "water_stress_score": 4.39,
+    "total_land_ha": 130.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.0173,
+    "waste_generated_mt": 14238.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.3,
+    "sector_best_score": 7.6,
+    "sector_median_taesc": 977.28,
+    "sector_best_taesc": 29.35
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

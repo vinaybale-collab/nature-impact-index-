@@ -1,0 +1,59 @@
+{
+  "company_name": "Tamilnad Mercantile Bank Limited",
+  "slug": "tamilnad-mercantile-bank-limited",
+  "sector": "Banking & Financial Services",
+  "state": "Karnataka",
+  "revenue_cr": 6141.75,
+  "nii_score": 8.8,
+  "nii_rank": 61,
+  "nii_sector_rank": 51,
+  "nii_rating": "Excellent",
+  "nii_percentile": 88,
+  "taesc_cr": 23.47,
+  "nir": 0.0038,
+  "nir_pct": 0.38,
+  "breakdown": {
+    "climate": {
+      "value_cr": 17.16,
+      "pct": 73.1
+    },
+    "water": {
+      "value_cr": 4.42,
+      "pct": 18.8
+    },
+    "land": {
+      "value_cr": 0.1,
+      "pct": 0.4
+    },
+    "biodiversity": {
+      "value_cr": 0.91,
+      "pct": 3.9
+    },
+    "pollution": {
+      "value_cr": 0.88,
+      "pct": 3.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 1644.0,
+    "scope2_ghg_tco2e": 18443.0,
+    "scope3_ghg_tco2e": 450.0,
+    "water_consumption_kl": 148500.0,
+    "water_stress_score": 2.75,
+    "total_land_ha": 3.2,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0048,
+    "waste_generated_mt": 11.0,
+    "renewable_energy_pct": 4.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 9.3,
+    "sector_best_score": 10.0,
+    "sector_median_taesc": 23.47,
+    "sector_best_taesc": 0.5
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

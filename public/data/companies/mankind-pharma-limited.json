@@ -1,0 +1,59 @@
+{
+  "company_name": "MANKIND PHARMA LIMITED",
+  "slug": "mankind-pharma-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "West Bengal",
+  "revenue_cr": 9497.8,
+  "nii_score": 7.7,
+  "nii_rank": 119,
+  "nii_sector_rank": 6,
+  "nii_rating": "Good",
+  "nii_percentile": 77,
+  "taesc_cr": 288.03,
+  "nir": 0.0303,
+  "nir_pct": 3.03,
+  "breakdown": {
+    "climate": {
+      "value_cr": 34.31,
+      "pct": 11.9
+    },
+    "water": {
+      "value_cr": 9.68,
+      "pct": 3.4
+    },
+    "land": {
+      "value_cr": 36.78,
+      "pct": 12.8
+    },
+    "biodiversity": {
+      "value_cr": 181.72,
+      "pct": 63.1
+    },
+    "pollution": {
+      "value_cr": 25.54,
+      "pct": 8.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 6538.0,
+    "scope2_ghg_tco2e": 29205.0,
+    "scope3_ghg_tco2e": 42000.0,
+    "water_consumption_kl": 414162.0,
+    "water_stress_score": 4.64,
+    "total_land_ha": 497.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.0125,
+    "waste_generated_mt": 14955.0,
+    "renewable_energy_pct": 8.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

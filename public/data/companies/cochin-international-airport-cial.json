@@ -1,0 +1,59 @@
+{
+  "company_name": "Cochin International Airport (CIAL)",
+  "slug": "cochin-international-airport-cial",
+  "sector": "Transportation & Logistics",
+  "state": "Unknown",
+  "revenue_cr": 951.0,
+  "nii_score": 2.8,
+  "nii_rank": 376,
+  "nii_sector_rank": 11,
+  "nii_rating": "Poor",
+  "nii_percentile": 28,
+  "taesc_cr": 125.54,
+  "nir": 0.132,
+  "nir_pct": 13.2,
+  "breakdown": {
+    "climate": {
+      "value_cr": 57.31,
+      "pct": 45.6
+    },
+    "water": {
+      "value_cr": 6.75,
+      "pct": 5.4
+    },
+    "land": {
+      "value_cr": 34.65,
+      "pct": 27.6
+    },
+    "biodiversity": {
+      "value_cr": 21.23,
+      "pct": 16.9
+    },
+    "pollution": {
+      "value_cr": 5.6,
+      "pct": 4.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 5420.0,
+    "scope2_ghg_tco2e": 0.0,
+    "scope3_ghg_tco2e": 124000.0,
+    "water_consumption_kl": 354000.0,
+    "water_stress_score": 3.13,
+    "total_land_ha": 495.0,
+    "base_msa_loss": 0.465,
+    "pa_proximity_score": 0.0007,
+    "waste_generated_mt": 1245.0,
+    "renewable_energy_pct": 100.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.3,
+    "sector_median_taesc": 599.33,
+    "sector_best_taesc": 125.54
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

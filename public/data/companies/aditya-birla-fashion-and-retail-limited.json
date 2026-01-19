@@ -1,0 +1,59 @@
+{
+  "company_name": "Aditya Birla Fashion and Retail Limited",
+  "slug": "aditya-birla-fashion-and-retail-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "West Bengal",
+  "revenue_cr": 7733.12,
+  "nii_score": 2.9,
+  "nii_rank": 371,
+  "nii_sector_rank": 50,
+  "nii_rating": "Poor",
+  "nii_percentile": 29,
+  "taesc_cr": 996.74,
+  "nir": 0.1289,
+  "nir_pct": 12.89,
+  "breakdown": {
+    "climate": {
+      "value_cr": 742.95,
+      "pct": 74.5
+    },
+    "water": {
+      "value_cr": 3.59,
+      "pct": 0.4
+    },
+    "land": {
+      "value_cr": 3.49,
+      "pct": 0.3
+    },
+    "biodiversity": {
+      "value_cr": 233.35,
+      "pct": 23.4
+    },
+    "pollution": {
+      "value_cr": 13.36,
+      "pct": 1.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 3024.0,
+    "scope2_ghg_tco2e": 106953.0,
+    "scope3_ghg_tco2e": 1584928.0,
+    "water_consumption_kl": 204591.0,
+    "water_stress_score": 2.34,
+    "total_land_ha": 47.1,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.1111,
+    "waste_generated_mt": 5156.0,
+    "renewable_energy_pct": 10.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

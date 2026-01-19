@@ -1,0 +1,59 @@
+{
+  "company_name": "360 ONE WAM LIMITED",
+  "slug": "360-one-wam-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Maharashtra",
+  "revenue_cr": 3295.09,
+  "nii_score": 5.5,
+  "nii_rank": 234,
+  "nii_sector_rank": 51,
+  "nii_rating": "Average",
+  "nii_percentile": 55,
+  "taesc_cr": 212.93,
+  "nir": 0.0646,
+  "nir_pct": 6.46,
+  "breakdown": {
+    "climate": {
+      "value_cr": 0.51,
+      "pct": 0.2
+    },
+    "water": {
+      "value_cr": 0.29,
+      "pct": 0.1
+    },
+    "land": {
+      "value_cr": 0.45,
+      "pct": 0.2
+    },
+    "biodiversity": {
+      "value_cr": 211.63,
+      "pct": 99.4
+    },
+    "pollution": {
+      "value_cr": 0.05,
+      "pct": 0.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 0.0,
+    "scope2_ghg_tco2e": 381.0,
+    "scope3_ghg_tco2e": 1200.0,
+    "water_consumption_kl": 14350.0,
+    "water_stress_score": 1.67,
+    "total_land_ha": 5.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.1322,
+    "waste_generated_mt": 36.0,
+    "renewable_energy_pct": 83.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

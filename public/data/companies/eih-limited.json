@@ -1,0 +1,59 @@
+{
+  "company_name": "EIH Limited",
+  "slug": "eih-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Tamil Nadu",
+  "revenue_cr": 2879.51,
+  "nii_score": 2.4,
+  "nii_rank": 397,
+  "nii_sector_rank": 123,
+  "nii_rating": "Poor",
+  "nii_percentile": 24,
+  "taesc_cr": 475.69,
+  "nir": 0.1652,
+  "nir_pct": 16.52,
+  "breakdown": {
+    "climate": {
+      "value_cr": 260.8,
+      "pct": 54.8
+    },
+    "water": {
+      "value_cr": 33.95,
+      "pct": 7.1
+    },
+    "land": {
+      "value_cr": 68.86,
+      "pct": 14.5
+    },
+    "biodiversity": {
+      "value_cr": 104.71,
+      "pct": 22.0
+    },
+    "pollution": {
+      "value_cr": 7.37,
+      "pct": 1.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 44778.0,
+    "scope2_ghg_tco2e": 88959.0,
+    "scope3_ghg_tco2e": 348979.0,
+    "water_consumption_kl": 2959576.0,
+    "water_stress_score": 1.6,
+    "total_land_ha": 765.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0078,
+    "waste_generated_mt": 5471.0,
+    "renewable_energy_pct": 6.8
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

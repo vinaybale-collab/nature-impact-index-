@@ -1,0 +1,59 @@
+{
+  "company_name": "Thermax Limited",
+  "slug": "thermax-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Maharashtra",
+  "revenue_cr": 6254.07,
+  "nii_score": 6.0,
+  "nii_rank": 208,
+  "nii_sector_rank": 33,
+  "nii_rating": "Good",
+  "nii_percentile": 60,
+  "taesc_cr": 341.88,
+  "nir": 0.0547,
+  "nir_pct": 5.47,
+  "breakdown": {
+    "climate": {
+      "value_cr": 24.13,
+      "pct": 7.1
+    },
+    "water": {
+      "value_cr": 32.74,
+      "pct": 9.6
+    },
+    "land": {
+      "value_cr": 20.7,
+      "pct": 6.1
+    },
+    "biodiversity": {
+      "value_cr": 244.03,
+      "pct": 71.4
+    },
+    "pollution": {
+      "value_cr": 20.28,
+      "pct": 5.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 7384.0,
+    "scope2_ghg_tco2e": 12059.0,
+    "scope3_ghg_tco2e": 42000.0,
+    "water_consumption_kl": 772484.0,
+    "water_stress_score": 4.75,
+    "total_land_ha": 230.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0197,
+    "waste_generated_mt": 17716.0,
+    "renewable_energy_pct": 24.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

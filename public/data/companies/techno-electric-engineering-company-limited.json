@@ -1,0 +1,59 @@
+{
+  "company_name": "Techno Electric  Engineering Company Limited",
+  "slug": "techno-electric-engineering-company-limited",
+  "sector": "Energy & Power",
+  "state": "Telangana",
+  "revenue_cr": 2577.3,
+  "nii_score": 5.3,
+  "nii_rank": 245,
+  "nii_sector_rank": 6,
+  "nii_rating": "Average",
+  "nii_percentile": 53,
+  "taesc_cr": 172.83,
+  "nir": 0.0671,
+  "nir_pct": 6.71,
+  "breakdown": {
+    "climate": {
+      "value_cr": 8.06,
+      "pct": 4.7
+    },
+    "water": {
+      "value_cr": 1.56,
+      "pct": 0.9
+    },
+    "land": {
+      "value_cr": 39.99,
+      "pct": 23.1
+    },
+    "biodiversity": {
+      "value_cr": 122.91,
+      "pct": 71.1
+    },
+    "pollution": {
+      "value_cr": 0.31,
+      "pct": 0.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 1788.0,
+    "scope2_ghg_tco2e": 1005.0,
+    "scope3_ghg_tco2e": 15400.0,
+    "water_consumption_kl": 33127.0,
+    "water_stress_score": 4.81,
+    "total_land_ha": 465.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.0356,
+    "waste_generated_mt": 228.0,
+    "renewable_energy_pct": 100.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.9,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1859.41,
+    "sector_best_taesc": 22.51
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

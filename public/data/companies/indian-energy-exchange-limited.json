@@ -1,0 +1,59 @@
+{
+  "company_name": "Indian Energy Exchange Limited",
+  "slug": "indian-energy-exchange-limited",
+  "sector": "Energy & Power",
+  "state": "Telangana",
+  "revenue_cr": 535.37,
+  "nii_score": 7.0,
+  "nii_rank": 155,
+  "nii_sector_rank": 2,
+  "nii_rating": "Good",
+  "nii_percentile": 70,
+  "taesc_cr": 22.51,
+  "nir": 0.042,
+  "nir_pct": 4.2,
+  "breakdown": {
+    "climate": {
+      "value_cr": 0.47,
+      "pct": 2.1
+    },
+    "water": {
+      "value_cr": 0.03,
+      "pct": 0.1
+    },
+    "land": {
+      "value_cr": 0.43,
+      "pct": 1.9
+    },
+    "biodiversity": {
+      "value_cr": 21.54,
+      "pct": 95.7
+    },
+    "pollution": {
+      "value_cr": 0.04,
+      "pct": 0.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 44.0,
+    "scope2_ghg_tco2e": 445.0,
+    "scope3_ghg_tco2e": 175.0,
+    "water_consumption_kl": 581.0,
+    "water_stress_score": 4.38,
+    "total_land_ha": 5.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.006,
+    "waste_generated_mt": 8.0,
+    "renewable_energy_pct": 5.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.9,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1859.41,
+    "sector_best_taesc": 22.51
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "CCL Products (India) Limited",
+  "slug": "ccl-products-india-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Unknown",
+  "revenue_cr": 3784.99,
+  "nii_score": 6.3,
+  "nii_rank": 192,
+  "nii_sector_rank": 32,
+  "nii_rating": "Good",
+  "nii_percentile": 63,
+  "taesc_cr": 188.62,
+  "nir": 0.0498,
+  "nir_pct": 4.98,
+  "breakdown": {
+    "climate": {
+      "value_cr": 47.89,
+      "pct": 25.4
+    },
+    "water": {
+      "value_cr": 32.05,
+      "pct": 17.0
+    },
+    "land": {
+      "value_cr": 6.35,
+      "pct": 3.4
+    },
+    "biodiversity": {
+      "value_cr": 65.43,
+      "pct": 34.7
+    },
+    "pollution": {
+      "value_cr": 36.9,
+      "pct": 19.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 50739.0,
+    "scope2_ghg_tco2e": 12450.0,
+    "scope3_ghg_tco2e": 11200.0,
+    "water_consumption_kl": 845000.0,
+    "water_stress_score": 4.65,
+    "total_land_ha": 127.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 18450.0,
+    "renewable_energy_pct": 62.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

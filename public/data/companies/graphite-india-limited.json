@@ -1,0 +1,59 @@
+{
+  "company_name": "GRAPHITE INDIA LIMITED",
+  "slug": "graphite-india-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Delhi",
+  "revenue_cr": 2894.38,
+  "nii_score": 1.9,
+  "nii_rank": 423,
+  "nii_sector_rank": 134,
+  "nii_rating": "Critical",
+  "nii_percentile": 19,
+  "taesc_cr": 655.88,
+  "nir": 0.2266,
+  "nir_pct": 22.66,
+  "breakdown": {
+    "climate": {
+      "value_cr": 482.41,
+      "pct": 73.6
+    },
+    "water": {
+      "value_cr": 4.15,
+      "pct": 0.6
+    },
+    "land": {
+      "value_cr": 20.43,
+      "pct": 3.1
+    },
+    "biodiversity": {
+      "value_cr": 111.31,
+      "pct": 17.0
+    },
+    "pollution": {
+      "value_cr": 37.58,
+      "pct": 5.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 89350.0,
+    "scope2_ghg_tco2e": 181590.0,
+    "scope3_ghg_tco2e": 649973.0,
+    "water_consumption_kl": 187167.0,
+    "water_stress_score": 2.21,
+    "total_land_ha": 227.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.0172,
+    "waste_generated_mt": 33479.0,
+    "renewable_energy_pct": 12.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

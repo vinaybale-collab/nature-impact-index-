@@ -1,0 +1,59 @@
+{
+  "company_name": "Mahindra  Mahindra Financial Services Limited",
+  "slug": "mahindra-mahindra-financial-services-limited",
+  "sector": "Financial Services - NBFC",
+  "state": "West Bengal",
+  "revenue_cr": 16074.96,
+  "nii_score": 9.4,
+  "nii_rank": 29,
+  "nii_sector_rank": 1,
+  "nii_rating": "Excellent",
+  "nii_percentile": 94,
+  "taesc_cr": 22.13,
+  "nir": 0.0014,
+  "nir_pct": 0.14,
+  "breakdown": {
+    "climate": {
+      "value_cr": 17.09,
+      "pct": 77.3
+    },
+    "water": {
+      "value_cr": 0.18,
+      "pct": 0.8
+    },
+    "land": {
+      "value_cr": 2.14,
+      "pct": 9.7
+    },
+    "biodiversity": {
+      "value_cr": 2.39,
+      "pct": 10.8
+    },
+    "pollution": {
+      "value_cr": 0.33,
+      "pct": 1.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 4022.0,
+    "scope2_ghg_tco2e": 13183.0,
+    "scope3_ghg_tco2e": 7758.0,
+    "water_consumption_kl": 8302.0,
+    "water_stress_score": 1.79,
+    "total_land_ha": 45.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.1059,
+    "waste_generated_mt": 5.0,
+    "renewable_energy_pct": 0.8
+  },
+  "peer_comparison": {
+    "sector_median_score": 8.4,
+    "sector_best_score": 9.4,
+    "sector_median_taesc": 42.99,
+    "sector_best_taesc": 22.13
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

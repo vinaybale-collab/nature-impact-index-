@@ -1,0 +1,59 @@
+{
+  "company_name": "Concord Biotech Limited",
+  "slug": "concord-biotech-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Maharashtra",
+  "revenue_cr": 1200.09,
+  "nii_score": 7.2,
+  "nii_rank": 145,
+  "nii_sector_rank": 19,
+  "nii_rating": "Good",
+  "nii_percentile": 72,
+  "taesc_cr": 46.47,
+  "nir": 0.0387,
+  "nir_pct": 3.87,
+  "breakdown": {
+    "climate": {
+      "value_cr": 2.31,
+      "pct": 5.0
+    },
+    "water": {
+      "value_cr": 9.62,
+      "pct": 20.7
+    },
+    "land": {
+      "value_cr": 7.18,
+      "pct": 15.4
+    },
+    "biodiversity": {
+      "value_cr": 22.96,
+      "pct": 49.4
+    },
+    "pollution": {
+      "value_cr": 4.4,
+      "pct": 9.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 13.0,
+    "scope2_ghg_tco2e": 0.0,
+    "scope3_ghg_tco2e": 5400.0,
+    "water_consumption_kl": 385410.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 97.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.0125,
+    "waste_generated_mt": 2878.0,
+    "renewable_energy_pct": 5.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

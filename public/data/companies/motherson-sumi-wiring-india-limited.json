@@ -1,0 +1,59 @@
+{
+  "company_name": "Motherson Sumi Wiring India Limited",
+  "slug": "motherson-sumi-wiring-india-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Tamil Nadu",
+  "revenue_cr": 9319.4,
+  "nii_score": 5.7,
+  "nii_rank": 224,
+  "nii_sector_rank": 44,
+  "nii_rating": "Average",
+  "nii_percentile": 57,
+  "taesc_cr": 575.89,
+  "nir": 0.0618,
+  "nir_pct": 6.18,
+  "breakdown": {
+    "climate": {
+      "value_cr": 41.86,
+      "pct": 7.3
+    },
+    "water": {
+      "value_cr": 20.49,
+      "pct": 3.6
+    },
+    "land": {
+      "value_cr": 8.72,
+      "pct": 1.5
+    },
+    "biodiversity": {
+      "value_cr": 495.4,
+      "pct": 86.0
+    },
+    "pollution": {
+      "value_cr": 9.41,
+      "pct": 1.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 1491.0,
+    "scope2_ghg_tco2e": 23471.0,
+    "scope3_ghg_tco2e": 54000.0,
+    "water_consumption_kl": 671518.0,
+    "water_stress_score": 3.09,
+    "total_land_ha": 96.9,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0828,
+    "waste_generated_mt": 7188.0,
+    "renewable_energy_pct": 8.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "Indus Towers Limited",
+  "slug": "indus-towers-limited",
+  "sector": "Telecom & Communication",
+  "state": "Maharashtra",
+  "revenue_cr": 30122.78,
+  "nii_score": 1.5,
+  "nii_rank": 444,
+  "nii_sector_rank": 7,
+  "nii_rating": "Critical",
+  "nii_percentile": 15,
+  "taesc_cr": 9046.14,
+  "nir": 0.3003,
+  "nir_pct": 30.03,
+  "breakdown": {
+    "climate": {
+      "value_cr": 7335.64,
+      "pct": 81.1
+    },
+    "water": {
+      "value_cr": 16.74,
+      "pct": 0.2
+    },
+    "land": {
+      "value_cr": 1421.39,
+      "pct": 15.7
+    },
+    "biodiversity": {
+      "value_cr": 203.98,
+      "pct": 2.3
+    },
+    "pollution": {
+      "value_cr": 68.39,
+      "pct": 0.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 691756.0,
+    "scope2_ghg_tco2e": 6727950.0,
+    "scope3_ghg_tco2e": 2489309.0,
+    "water_consumption_kl": 334772.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 24500.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0039,
+    "waste_generated_mt": 65360.0,
+    "renewable_energy_pct": 10.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.9,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 714.01,
+    "sector_best_taesc": 47.35
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

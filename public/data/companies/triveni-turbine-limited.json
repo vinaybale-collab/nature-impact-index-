@@ -1,0 +1,59 @@
+{
+  "company_name": "Triveni Turbine Limited",
+  "slug": "triveni-turbine-limited",
+  "sector": "Manufacturing - Engineering",
+  "state": "Gujarat",
+  "revenue_cr": 1795.2,
+  "nii_score": 7.2,
+  "nii_rank": 145,
+  "nii_sector_rank": 3,
+  "nii_rating": "Good",
+  "nii_percentile": 72,
+  "taesc_cr": 69.3,
+  "nir": 0.0386,
+  "nir_pct": 3.86,
+  "breakdown": {
+    "climate": {
+      "value_cr": 7.3,
+      "pct": 10.5
+    },
+    "water": {
+      "value_cr": 3.9,
+      "pct": 5.6
+    },
+    "land": {
+      "value_cr": 4.67,
+      "pct": 6.7
+    },
+    "biodiversity": {
+      "value_cr": 52.94,
+      "pct": 76.4
+    },
+    "pollution": {
+      "value_cr": 0.48,
+      "pct": 0.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 4143.0,
+    "scope2_ghg_tco2e": 3354.0,
+    "scope3_ghg_tco2e": 8900.0,
+    "water_consumption_kl": 88662.0,
+    "water_stress_score": 4.7,
+    "total_land_ha": 57.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0171,
+    "waste_generated_mt": 376.0,
+    "renewable_energy_pct": 12.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.3,
+    "sector_best_score": 7.6,
+    "sector_median_taesc": 977.28,
+    "sector_best_taesc": 29.35
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

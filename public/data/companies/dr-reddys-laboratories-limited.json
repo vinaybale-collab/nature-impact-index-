@@ -1,0 +1,59 @@
+{
+  "company_name": "Dr Reddys Laboratories Limited",
+  "slug": "dr-reddys-laboratories-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Delhi",
+  "revenue_cr": 32643.76,
+  "nii_score": 6.7,
+  "nii_rank": 171,
+  "nii_sector_rank": 25,
+  "nii_rating": "Good",
+  "nii_percentile": 67,
+  "taesc_cr": 1505.99,
+  "nir": 0.0461,
+  "nir_pct": 4.61,
+  "breakdown": {
+    "climate": {
+      "value_cr": 480.84,
+      "pct": 31.9
+    },
+    "water": {
+      "value_cr": 88.72,
+      "pct": 5.9
+    },
+    "land": {
+      "value_cr": 88.69,
+      "pct": 5.9
+    },
+    "biodiversity": {
+      "value_cr": 707.19,
+      "pct": 47.0
+    },
+    "pollution": {
+      "value_cr": 140.55,
+      "pct": 9.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 142772.0,
+    "scope2_ghg_tco2e": 94690.0,
+    "scope3_ghg_tco2e": 845849.0,
+    "water_consumption_kl": 2123116.0,
+    "water_stress_score": 4.97,
+    "total_land_ha": 1205.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.0351,
+    "waste_generated_mt": 112677.0,
+    "renewable_energy_pct": 47.7
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

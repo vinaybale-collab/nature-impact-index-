@@ -1,0 +1,59 @@
+{
+  "company_name": "ARVIND LIMITED",
+  "slug": "arvind-limited",
+  "sector": "Textiles & Apparel",
+  "state": "Karnataka",
+  "revenue_cr": 8621.95,
+  "nii_score": 4.3,
+  "nii_rank": 297,
+  "nii_sector_rank": 5,
+  "nii_rating": "Average",
+  "nii_percentile": 43,
+  "taesc_cr": 728.43,
+  "nir": 0.0845,
+  "nir_pct": 8.45,
+  "breakdown": {
+    "climate": {
+      "value_cr": 280.74,
+      "pct": 38.5
+    },
+    "water": {
+      "value_cr": 76.38,
+      "pct": 10.5
+    },
+    "land": {
+      "value_cr": 74.27,
+      "pct": 10.2
+    },
+    "biodiversity": {
+      "value_cr": 257.91,
+      "pct": 35.4
+    },
+    "pollution": {
+      "value_cr": 39.14,
+      "pct": 5.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 253283.0,
+    "scope2_ghg_tco2e": 190808.0,
+    "scope3_ghg_tco2e": 154000.0,
+    "water_consumption_kl": 2684426.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 965.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0173,
+    "waste_generated_mt": 34493.0,
+    "renewable_energy_pct": 43.3
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.0,
+    "sector_best_score": 6.4,
+    "sector_median_taesc": 748.42,
+    "sector_best_taesc": 136.09
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

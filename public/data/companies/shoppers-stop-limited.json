@@ -1,0 +1,59 @@
+{
+  "company_name": "Shoppers Stop Limited",
+  "slug": "shoppers-stop-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Karnataka",
+  "revenue_cr": 4435.61,
+  "nii_score": 6.3,
+  "nii_rank": 192,
+  "nii_sector_rank": 32,
+  "nii_rating": "Good",
+  "nii_percentile": 63,
+  "taesc_cr": 219.31,
+  "nir": 0.0494,
+  "nir_pct": 4.94,
+  "breakdown": {
+    "climate": {
+      "value_cr": 46.35,
+      "pct": 21.1
+    },
+    "water": {
+      "value_cr": 5.61,
+      "pct": 2.6
+    },
+    "land": {
+      "value_cr": 33.3,
+      "pct": 15.2
+    },
+    "biodiversity": {
+      "value_cr": 129.16,
+      "pct": 58.9
+    },
+    "pollution": {
+      "value_cr": 4.9,
+      "pct": 2.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 739.0,
+    "scope2_ghg_tco2e": 52437.0,
+    "scope3_ghg_tco2e": 12400.0,
+    "water_consumption_kl": 200098.0,
+    "water_stress_score": 2.81,
+    "total_land_ha": 450.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.1017,
+    "waste_generated_mt": 506.0,
+    "renewable_energy_pct": 5.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

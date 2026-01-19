@@ -1,0 +1,59 @@
+{
+  "company_name": "IndiGo (InterGlobe Aviation)",
+  "slug": "indigo-interglobe-aviation",
+  "sector": "Transportation & Logistics",
+  "state": "Unknown",
+  "revenue_cr": 68904.0,
+  "nii_score": 2.2,
+  "nii_rank": 407,
+  "nii_sector_rank": 14,
+  "nii_rating": "Poor",
+  "nii_percentile": 22,
+  "taesc_cr": 13182.98,
+  "nir": 0.1913,
+  "nir_pct": 19.13,
+  "breakdown": {
+    "climate": {
+      "value_cr": 11540.18,
+      "pct": 87.5
+    },
+    "water": {
+      "value_cr": 19.3,
+      "pct": 0.1
+    },
+    "land": {
+      "value_cr": 3.85,
+      "pct": 0.0
+    },
+    "biodiversity": {
+      "value_cr": 1608.07,
+      "pct": 12.2
+    },
+    "pollution": {
+      "value_cr": 11.58,
+      "pct": 0.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 13442100.0,
+    "scope2_ghg_tco2e": 15400.0,
+    "scope3_ghg_tco2e": 245000.0,
+    "water_consumption_kl": 425000.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 55.0,
+    "base_msa_loss": 0.465,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 1542.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.3,
+    "sector_median_taesc": 599.33,
+    "sector_best_taesc": 125.54
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

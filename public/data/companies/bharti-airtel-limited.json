@@ -1,0 +1,59 @@
+{
+  "company_name": "Bharti Airtel Limited",
+  "slug": "bharti-airtel-limited",
+  "sector": "Telecom & Communication",
+  "state": "Gujarat",
+  "revenue_cr": 108943.85,
+  "nii_score": 7.5,
+  "nii_rank": 129,
+  "nii_sector_rank": 3,
+  "nii_rating": "Good",
+  "nii_percentile": 75,
+  "taesc_cr": 3689.61,
+  "nir": 0.0339,
+  "nir_pct": 3.39,
+  "breakdown": {
+    "climate": {
+      "value_cr": 2814.17,
+      "pct": 76.3
+    },
+    "water": {
+      "value_cr": 6.02,
+      "pct": 0.2
+    },
+    "land": {
+      "value_cr": 72.06,
+      "pct": 2.0
+    },
+    "biodiversity": {
+      "value_cr": 764.34,
+      "pct": 20.7
+    },
+    "pollution": {
+      "value_cr": 33.02,
+      "pct": 0.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 23218.0,
+    "scope2_ghg_tco2e": 490367.0,
+    "scope3_ghg_tco2e": 6575139.0,
+    "water_consumption_kl": 128286.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 1242.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0093,
+    "waste_generated_mt": 8209.0,
+    "renewable_energy_pct": 8.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.9,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 714.01,
+    "sector_best_taesc": 47.35
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

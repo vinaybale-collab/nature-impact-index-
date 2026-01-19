@@ -1,0 +1,59 @@
+{
+  "company_name": "HERO MOTOCORP LIMITED",
+  "slug": "hero-motocorp-limited",
+  "sector": "Manufacturing - Automobiles",
+  "state": "Maharashtra",
+  "revenue_cr": 40756.37,
+  "nii_score": 1.8,
+  "nii_rank": 428,
+  "nii_sector_rank": 11,
+  "nii_rating": "Critical",
+  "nii_percentile": 18,
+  "taesc_cr": 9398.57,
+  "nir": 0.2306,
+  "nir_pct": 23.06,
+  "breakdown": {
+    "climate": {
+      "value_cr": 8097.8,
+      "pct": 86.2
+    },
+    "water": {
+      "value_cr": 26.43,
+      "pct": 0.3
+    },
+    "land": {
+      "value_cr": 52.94,
+      "pct": 0.6
+    },
+    "biodiversity": {
+      "value_cr": 1186.45,
+      "pct": 12.6
+    },
+    "pollution": {
+      "value_cr": 34.96,
+      "pct": 0.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 19938.0,
+    "scope2_ghg_tco2e": 70547.0,
+    "scope3_ghg_tco2e": 18940829.0,
+    "water_consumption_kl": 784577.0,
+    "water_stress_score": 4.52,
+    "total_land_ha": 695.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0149,
+    "waste_generated_mt": 19076.0,
+    "renewable_energy_pct": 8.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.0,
+    "sector_median_taesc": 1910.81,
+    "sector_best_taesc": 77.36
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

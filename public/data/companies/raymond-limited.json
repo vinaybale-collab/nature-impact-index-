@@ -1,0 +1,59 @@
+{
+  "company_name": "Raymond Limited",
+  "slug": "raymond-limited",
+  "sector": "Textiles & Apparel",
+  "state": "Maharashtra",
+  "revenue_cr": 1814.65,
+  "nii_score": 4.7,
+  "nii_rank": 276,
+  "nii_sector_rank": 3,
+  "nii_rating": "Average",
+  "nii_percentile": 47,
+  "taesc_cr": 139.62,
+  "nir": 0.0769,
+  "nir_pct": 7.69,
+  "breakdown": {
+    "climate": {
+      "value_cr": 11.35,
+      "pct": 8.1
+    },
+    "water": {
+      "value_cr": 1.7,
+      "pct": 1.2
+    },
+    "land": {
+      "value_cr": 54.99,
+      "pct": 39.4
+    },
+    "biodiversity": {
+      "value_cr": 54.27,
+      "pct": 38.9
+    },
+    "pollution": {
+      "value_cr": 17.32,
+      "pct": 12.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 11.0,
+    "scope2_ghg_tco2e": 657.0,
+    "scope3_ghg_tco2e": 26678.0,
+    "water_consumption_kl": 57700.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 705.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.0173,
+    "waste_generated_mt": 14405.0,
+    "renewable_energy_pct": 14.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.0,
+    "sector_best_score": 6.4,
+    "sector_median_taesc": 748.42,
+    "sector_best_taesc": 136.09
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

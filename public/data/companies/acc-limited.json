@@ -1,0 +1,59 @@
+{
+  "company_name": "ACC Limited",
+  "slug": "acc-limited",
+  "sector": "Cement Manufacturing",
+  "state": "Karnataka",
+  "revenue_cr": 20594.0,
+  "nii_score": 0.7,
+  "nii_rank": 486,
+  "nii_sector_rank": 11,
+  "nii_rating": "Critical",
+  "nii_percentile": 7,
+  "taesc_cr": 15018.19,
+  "nir": 0.7293,
+  "nir_pct": 72.93,
+  "breakdown": {
+    "climate": {
+      "value_cr": 12676.88,
+      "pct": 84.4
+    },
+    "water": {
+      "value_cr": 222.24,
+      "pct": 1.5
+    },
+    "land": {
+      "value_cr": 605.32,
+      "pct": 4.0
+    },
+    "biodiversity": {
+      "value_cr": 967.73,
+      "pct": 6.4
+    },
+    "pollution": {
+      "value_cr": 546.02,
+      "pct": 3.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 13488976.0,
+    "scope2_ghg_tco2e": 625212.0,
+    "scope3_ghg_tco2e": 2850000.0,
+    "water_consumption_kl": 4799920.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 6500.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0044,
+    "waste_generated_mt": 477486.0,
+    "renewable_energy_pct": 16.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 0.8,
+    "sector_best_score": 4.9,
+    "sector_median_taesc": 4113.3,
+    "sector_best_taesc": 185.22
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

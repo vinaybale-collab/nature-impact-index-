@@ -1,0 +1,59 @@
+{
+  "company_name": "Kalpataru Projects International Limited",
+  "slug": "kalpataru-projects-international-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Karnataka",
+  "revenue_cr": 18888.0,
+  "nii_score": 5.9,
+  "nii_rank": 213,
+  "nii_sector_rank": 38,
+  "nii_rating": "Average",
+  "nii_percentile": 59,
+  "taesc_cr": 1055.04,
+  "nir": 0.0559,
+  "nir_pct": 5.59,
+  "breakdown": {
+    "climate": {
+      "value_cr": 112.04,
+      "pct": 10.6
+    },
+    "water": {
+      "value_cr": 161.58,
+      "pct": 15.3
+    },
+    "land": {
+      "value_cr": 6.03,
+      "pct": 0.6
+    },
+    "biodiversity": {
+      "value_cr": 706.31,
+      "pct": 66.9
+    },
+    "pollution": {
+      "value_cr": 69.08,
+      "pct": 6.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 82563.0,
+    "scope2_ghg_tco2e": 25682.0,
+    "scope3_ghg_tco2e": 98500.0,
+    "water_consumption_kl": 3442256.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 67.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0124,
+    "waste_generated_mt": 61206.0,
+    "renewable_energy_pct": 5.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

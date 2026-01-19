@@ -1,0 +1,59 @@
+{
+  "company_name": "INTELLECT DESIGN ARENA LIMITED",
+  "slug": "intellect-design-arena-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Maharashtra",
+  "revenue_cr": 1735.25,
+  "nii_score": 6.2,
+  "nii_rank": 197,
+  "nii_sector_rank": 26,
+  "nii_rating": "Good",
+  "nii_percentile": 62,
+  "taesc_cr": 89.54,
+  "nir": 0.0516,
+  "nir_pct": 5.16,
+  "breakdown": {
+    "climate": {
+      "value_cr": 2.18,
+      "pct": 2.4
+    },
+    "water": {
+      "value_cr": 1.68,
+      "pct": 1.9
+    },
+    "land": {
+      "value_cr": 3.33,
+      "pct": 3.7
+    },
+    "biodiversity": {
+      "value_cr": 82.06,
+      "pct": 91.6
+    },
+    "pollution": {
+      "value_cr": 0.29,
+      "pct": 0.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 466.0,
+    "scope2_ghg_tco2e": 2829.0,
+    "scope3_ghg_tco2e": 472.0,
+    "water_consumption_kl": 42991.0,
+    "water_stress_score": 4.95,
+    "total_land_ha": 37.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0566,
+    "waste_generated_mt": 112.0,
+    "renewable_energy_pct": 10.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

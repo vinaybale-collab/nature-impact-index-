@@ -1,0 +1,59 @@
+{
+  "company_name": "Amara Raja Energy  Mobility Limited",
+  "slug": "amara-raja-energy-mobility-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Tamil Nadu",
+  "revenue_cr": 12404.9,
+  "nii_score": 4.5,
+  "nii_rank": 287,
+  "nii_sector_rank": 75,
+  "nii_rating": "Average",
+  "nii_percentile": 45,
+  "taesc_cr": 997.49,
+  "nir": 0.0804,
+  "nir_pct": 8.04,
+  "breakdown": {
+    "climate": {
+      "value_cr": 347.07,
+      "pct": 34.8
+    },
+    "water": {
+      "value_cr": 39.61,
+      "pct": 4.0
+    },
+    "land": {
+      "value_cr": 42.48,
+      "pct": 4.3
+    },
+    "biodiversity": {
+      "value_cr": 528.48,
+      "pct": 53.0
+    },
+    "pollution": {
+      "value_cr": 39.85,
+      "pct": 4.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 6816.0,
+    "scope2_ghg_tco2e": 230765.0,
+    "scope3_ghg_tco2e": 451864.0,
+    "water_consumption_kl": 941500.0,
+    "water_stress_score": 4.47,
+    "total_land_ha": 472.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0357,
+    "waste_generated_mt": 27573.0,
+    "renewable_energy_pct": 18.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

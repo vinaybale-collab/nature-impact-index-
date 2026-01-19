@@ -1,0 +1,59 @@
+{
+  "company_name": "Mishra Dhatu Nigam Limited",
+  "slug": "mishra-dhatu-nigam-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Karnataka",
+  "revenue_cr": 1105.02,
+  "nii_score": 3.3,
+  "nii_rank": 350,
+  "nii_sector_rank": 107,
+  "nii_rating": "Poor",
+  "nii_percentile": 33,
+  "taesc_cr": 126.63,
+  "nir": 0.1146,
+  "nir_pct": 11.46,
+  "breakdown": {
+    "climate": {
+      "value_cr": 34.03,
+      "pct": 26.9
+    },
+    "water": {
+      "value_cr": 15.87,
+      "pct": 12.5
+    },
+    "land": {
+      "value_cr": 37.35,
+      "pct": 29.5
+    },
+    "biodiversity": {
+      "value_cr": 39.2,
+      "pct": 31.0
+    },
+    "pollution": {
+      "value_cr": 0.17,
+      "pct": 0.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 15295.0,
+    "scope2_ghg_tco2e": 44832.0,
+    "scope3_ghg_tco2e": 16585.0,
+    "water_consumption_kl": 357682.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 435.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0039,
+    "waste_generated_mt": 112.0,
+    "renewable_energy_pct": 5.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

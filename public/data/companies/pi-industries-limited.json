@@ -1,0 +1,59 @@
+{
+  "company_name": "PI INDUSTRIES LIMITED",
+  "slug": "pi-industries-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Gujarat",
+  "revenue_cr": 7571.2,
+  "nii_score": 4.4,
+  "nii_rank": 292,
+  "nii_sector_rank": 80,
+  "nii_rating": "Average",
+  "nii_percentile": 44,
+  "taesc_cr": 624.38,
+  "nir": 0.0825,
+  "nir_pct": 8.25,
+  "breakdown": {
+    "climate": {
+      "value_cr": 117.43,
+      "pct": 18.8
+    },
+    "water": {
+      "value_cr": 21.98,
+      "pct": 3.5
+    },
+    "land": {
+      "value_cr": 12.87,
+      "pct": 2.1
+    },
+    "biodiversity": {
+      "value_cr": 284.86,
+      "pct": 45.6
+    },
+    "pollution": {
+      "value_cr": 187.23,
+      "pct": 30.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 37200.0,
+    "scope2_ghg_tco2e": 113144.0,
+    "scope3_ghg_tco2e": 32400.0,
+    "water_consumption_kl": 880411.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 143.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0134,
+    "waste_generated_mt": 118031.0,
+    "renewable_energy_pct": 9.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

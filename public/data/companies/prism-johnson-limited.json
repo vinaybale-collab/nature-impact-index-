@@ -1,0 +1,59 @@
+{
+  "company_name": "Prism Johnson Limited",
+  "slug": "prism-johnson-limited",
+  "sector": "Cement Manufacturing",
+  "state": "West Bengal",
+  "revenue_cr": 7068.59,
+  "nii_score": 0.9,
+  "nii_rank": 476,
+  "nii_sector_rank": 8,
+  "nii_rating": "Critical",
+  "nii_percentile": 9,
+  "taesc_cr": 4191.64,
+  "nir": 0.593,
+  "nir_pct": 59.3,
+  "breakdown": {
+    "climate": {
+      "value_cr": 3448.32,
+      "pct": 82.3
+    },
+    "water": {
+      "value_cr": 75.25,
+      "pct": 1.8
+    },
+    "land": {
+      "value_cr": 210.23,
+      "pct": 5.0
+    },
+    "biodiversity": {
+      "value_cr": 348.61,
+      "pct": 8.3
+    },
+    "pollution": {
+      "value_cr": 109.23,
+      "pct": 2.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 3828849.0,
+    "scope2_ghg_tco2e": 263658.0,
+    "scope3_ghg_tco2e": 456000.0,
+    "water_consumption_kl": 1627069.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 2290.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.0119,
+    "waste_generated_mt": 66545.0,
+    "renewable_energy_pct": 18.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 0.8,
+    "sector_best_score": 4.9,
+    "sector_median_taesc": 4113.3,
+    "sector_best_taesc": 185.22
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

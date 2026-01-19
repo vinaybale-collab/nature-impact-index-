@@ -1,0 +1,59 @@
+{
+  "company_name": "SARDA ENERGY & MINERALS LIMITED",
+  "slug": "sarda-energy-minerals-limited",
+  "sector": "Metals & Mining",
+  "state": "Unknown",
+  "revenue_cr": 3889.0,
+  "nii_score": 0.6,
+  "nii_rank": 491,
+  "nii_sector_rank": 23,
+  "nii_rating": "Critical",
+  "nii_percentile": 6,
+  "taesc_cr": 3271.91,
+  "nir": 0.8413,
+  "nir_pct": 84.13,
+  "breakdown": {
+    "climate": {
+      "value_cr": 2138.85,
+      "pct": 65.4
+    },
+    "water": {
+      "value_cr": 387.95,
+      "pct": 11.9
+    },
+    "land": {
+      "value_cr": 25.11,
+      "pct": 0.8
+    },
+    "biodiversity": {
+      "value_cr": 234.69,
+      "pct": 7.2
+    },
+    "pollution": {
+      "value_cr": 485.31,
+      "pct": 14.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 2450000.0,
+    "scope2_ghg_tco2e": 12500.0,
+    "scope3_ghg_tco2e": 124000.0,
+    "water_consumption_kl": 11245000.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 217.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 452100.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "Adani Airports (Mumbai, Ahmedabad, 6 others)",
+  "slug": "adani-airports-mumbai-ahmedabad-6-others",
+  "sector": "Transportation & Logistics",
+  "state": "Unknown",
+  "revenue_cr": 8062.0,
+  "nii_score": 2.1,
+  "nii_rank": 413,
+  "nii_sector_rank": 16,
+  "nii_rating": "Poor",
+  "nii_percentile": 21,
+  "taesc_cr": 1601.53,
+  "nir": 0.1987,
+  "nir_pct": 19.87,
+  "breakdown": {
+    "climate": {
+      "value_cr": 385.98,
+      "pct": 24.1
+    },
+    "water": {
+      "value_cr": 15.23,
+      "pct": 1.0
+    },
+    "land": {
+      "value_cr": 999.95,
+      "pct": 62.4
+    },
+    "biodiversity": {
+      "value_cr": 188.15,
+      "pct": 11.7
+    },
+    "pollution": {
+      "value_cr": 12.21,
+      "pct": 0.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 12094.0,
+    "scope2_ghg_tco2e": 16506.0,
+    "scope3_ghg_tco2e": 884000.0,
+    "water_consumption_kl": 499477.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 14285.0,
+    "base_msa_loss": 0.465,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 4352.0,
+    "renewable_energy_pct": 56.6
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.3,
+    "sector_median_taesc": 599.33,
+    "sector_best_taesc": 125.54
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

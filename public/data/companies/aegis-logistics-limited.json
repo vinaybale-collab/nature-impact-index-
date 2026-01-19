@@ -1,0 +1,59 @@
+{
+  "company_name": "Aegis Logistics Limited",
+  "slug": "aegis-logistics-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Maharashtra",
+  "revenue_cr": 2980.35,
+  "nii_score": 6.0,
+  "nii_rank": 208,
+  "nii_sector_rank": 33,
+  "nii_rating": "Good",
+  "nii_percentile": 60,
+  "taesc_cr": 164.04,
+  "nir": 0.055,
+  "nir_pct": 5.5,
+  "breakdown": {
+    "climate": {
+      "value_cr": 27.55,
+      "pct": 16.8
+    },
+    "water": {
+      "value_cr": 0.56,
+      "pct": 0.3
+    },
+    "land": {
+      "value_cr": 20.7,
+      "pct": 12.6
+    },
+    "biodiversity": {
+      "value_cr": 115.19,
+      "pct": 70.2
+    },
+    "pollution": {
+      "value_cr": 0.04,
+      "pct": 0.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 17458.0,
+    "scope2_ghg_tco2e": 4250.0,
+    "scope3_ghg_tco2e": 21500.0,
+    "water_consumption_kl": 13388.0,
+    "water_stress_score": 4.06,
+    "total_land_ha": 230.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.018,
+    "waste_generated_mt": 15.0,
+    "renewable_energy_pct": 0.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

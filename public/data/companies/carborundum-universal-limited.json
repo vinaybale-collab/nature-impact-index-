@@ -1,0 +1,59 @@
+{
+  "company_name": "Carborundum Universal Limited",
+  "slug": "carborundum-universal-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Delhi",
+  "revenue_cr": 2998.13,
+  "nii_score": 3.2,
+  "nii_rank": 355,
+  "nii_sector_rank": 109,
+  "nii_rating": "Poor",
+  "nii_percentile": 32,
+  "taesc_cr": 350.47,
+  "nir": 0.1169,
+  "nir_pct": 11.69,
+  "breakdown": {
+    "climate": {
+      "value_cr": 152.28,
+      "pct": 43.4
+    },
+    "water": {
+      "value_cr": 17.13,
+      "pct": 4.9
+    },
+    "land": {
+      "value_cr": 23.4,
+      "pct": 6.7
+    },
+    "biodiversity": {
+      "value_cr": 139.81,
+      "pct": 39.9
+    },
+    "pollution": {
+      "value_cr": 17.86,
+      "pct": 5.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 54519.0,
+    "scope2_ghg_tco2e": 133529.0,
+    "scope3_ghg_tco2e": 67400.0,
+    "water_consumption_kl": 388962.0,
+    "water_stress_score": 4.96,
+    "total_land_ha": 260.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.0537,
+    "waste_generated_mt": 14746.0,
+    "renewable_energy_pct": 14.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

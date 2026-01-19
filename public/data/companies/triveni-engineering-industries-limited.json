@@ -1,0 +1,59 @@
+{
+  "company_name": "Triveni Engineering  Industries Limited",
+  "slug": "triveni-engineering-industries-limited",
+  "sector": "Manufacturing - Agro Processing",
+  "state": "Maharashtra",
+  "revenue_cr": 6655.4,
+  "nii_score": 4.8,
+  "nii_rank": 271,
+  "nii_sector_rank": 1,
+  "nii_rating": "Average",
+  "nii_percentile": 48,
+  "taesc_cr": 511.32,
+  "nir": 0.0768,
+  "nir_pct": 7.68,
+  "breakdown": {
+    "climate": {
+      "value_cr": 55.25,
+      "pct": 10.8
+    },
+    "water": {
+      "value_cr": 64.37,
+      "pct": 12.6
+    },
+    "land": {
+      "value_cr": 72.92,
+      "pct": 14.3
+    },
+    "biodiversity": {
+      "value_cr": 316.65,
+      "pct": 61.9
+    },
+    "pollution": {
+      "value_cr": 2.12,
+      "pct": 0.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 42859.0,
+    "scope2_ghg_tco2e": 2133.0,
+    "scope3_ghg_tco2e": 44288.0,
+    "water_consumption_kl": 1461879.0,
+    "water_stress_score": 4.96,
+    "total_land_ha": 895.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.0356,
+    "waste_generated_mt": 1843.0,
+    "renewable_energy_pct": 92.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.8,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 751.17,
+    "sector_best_taesc": 511.32
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

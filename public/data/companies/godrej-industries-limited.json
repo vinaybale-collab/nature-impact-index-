@@ -1,0 +1,59 @@
+{
+  "company_name": "Godrej Industries Limited",
+  "slug": "godrej-industries-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Tamil Nadu",
+  "revenue_cr": 4171.22,
+  "nii_score": 2.8,
+  "nii_rank": 376,
+  "nii_sector_rank": 117,
+  "nii_rating": "Poor",
+  "nii_percentile": 28,
+  "taesc_cr": 556.06,
+  "nir": 0.1333,
+  "nir_pct": 13.33,
+  "breakdown": {
+    "climate": {
+      "value_cr": 211.42,
+      "pct": 38.0
+    },
+    "water": {
+      "value_cr": 23.52,
+      "pct": 4.2
+    },
+    "land": {
+      "value_cr": 58.96,
+      "pct": 10.6
+    },
+    "biodiversity": {
+      "value_cr": 239.36,
+      "pct": 43.0
+    },
+    "pollution": {
+      "value_cr": 22.81,
+      "pct": 4.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 32796.0,
+    "scope2_ghg_tco2e": 44487.0,
+    "scope3_ghg_tco2e": 431864.0,
+    "water_consumption_kl": 926067.0,
+    "water_stress_score": 2.81,
+    "total_land_ha": 655.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.1017,
+    "waste_generated_mt": 14780.0,
+    "renewable_energy_pct": 30.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

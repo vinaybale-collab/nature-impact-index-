@@ -1,0 +1,59 @@
+{
+  "company_name": "Capri Global Capital Limited",
+  "slug": "capri-global-capital-limited",
+  "sector": "Banking & Financial Services",
+  "state": "Maharashtra",
+  "revenue_cr": 775299.56,
+  "nii_score": 10.0,
+  "nii_rank": 1,
+  "nii_sector_rank": 1,
+  "nii_rating": "Excellent",
+  "nii_percentile": 100,
+  "taesc_cr": 122.92,
+  "nir": 0.0002,
+  "nir_pct": 0.02,
+  "breakdown": {
+    "climate": {
+      "value_cr": 5.44,
+      "pct": 4.4
+    },
+    "water": {
+      "value_cr": 1.13,
+      "pct": 0.9
+    },
+    "land": {
+      "value_cr": 0.15,
+      "pct": 0.1
+    },
+    "biodiversity": {
+      "value_cr": 115.13,
+      "pct": 93.7
+    },
+    "pollution": {
+      "value_cr": 1.07,
+      "pct": 0.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 84.0,
+    "scope2_ghg_tco2e": 5153.0,
+    "scope3_ghg_tco2e": 2331.0,
+    "water_consumption_kl": 56316.0,
+    "water_stress_score": 1.67,
+    "total_land_ha": 5.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.1322,
+    "waste_generated_mt": 952.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 9.3,
+    "sector_best_score": 10.0,
+    "sector_median_taesc": 23.47,
+    "sector_best_taesc": 0.5
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

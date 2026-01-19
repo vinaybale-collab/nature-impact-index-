@@ -1,0 +1,59 @@
+{
+  "company_name": "Responsive Industries Limited",
+  "slug": "responsive-industries-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "West Bengal",
+  "revenue_cr": 1401.09,
+  "nii_score": 4.6,
+  "nii_rank": 281,
+  "nii_sector_rank": 70,
+  "nii_rating": "Average",
+  "nii_percentile": 46,
+  "taesc_cr": 112.07,
+  "nir": 0.08,
+  "nir_pct": 8.0,
+  "breakdown": {
+    "climate": {
+      "value_cr": 36.94,
+      "pct": 33.0
+    },
+    "water": {
+      "value_cr": 0.07,
+      "pct": 0.1
+    },
+    "land": {
+      "value_cr": 20.7,
+      "pct": 18.5
+    },
+    "biodiversity": {
+      "value_cr": 50.0,
+      "pct": 44.6
+    },
+    "pollution": {
+      "value_cr": 4.36,
+      "pct": 3.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 8450.0,
+    "scope2_ghg_tco2e": 24500.0,
+    "scope3_ghg_tco2e": 21029.0,
+    "water_consumption_kl": 2431.0,
+    "water_stress_score": 2.75,
+    "total_land_ha": 230.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.0048,
+    "waste_generated_mt": 3850.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

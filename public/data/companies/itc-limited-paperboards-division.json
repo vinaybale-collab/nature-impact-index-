@@ -1,0 +1,59 @@
+{
+  "company_name": "ITC Limited (Paperboards Division)",
+  "slug": "itc-limited-paperboards-division",
+  "sector": "Manufacturing - Paper & Pulp",
+  "state": "Unknown",
+  "revenue_cr": 78551.59,
+  "nii_score": 4.7,
+  "nii_rank": 276,
+  "nii_sector_rank": 2,
+  "nii_rating": "Average",
+  "nii_percentile": 47,
+  "taesc_cr": 6172.62,
+  "nir": 0.0786,
+  "nir_pct": 7.86,
+  "breakdown": {
+    "climate": {
+      "value_cr": 1094.38,
+      "pct": 17.7
+    },
+    "water": {
+      "value_cr": 1200.65,
+      "pct": 19.5
+    },
+    "land": {
+      "value_cr": 17.22,
+      "pct": 0.3
+    },
+    "biodiversity": {
+      "value_cr": 3491.79,
+      "pct": 56.6
+    },
+    "pollution": {
+      "value_cr": 368.58,
+      "pct": 6.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 1125000.0,
+    "scope2_ghg_tco2e": 84200.0,
+    "scope3_ghg_tco2e": 325000.0,
+    "water_consumption_kl": 32450000.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 210.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 225000.0,
+    "renewable_energy_pct": 51.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.2,
+    "sector_best_score": 5.5,
+    "sector_median_taesc": 902.84,
+    "sector_best_taesc": 256.11
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "HINDUSTAN COPPER LIMITED",
+  "slug": "hindustan-copper-limited",
+  "sector": "Metals & Mining",
+  "state": "West Bengal",
+  "revenue_cr": 2070.97,
+  "nii_score": 0.1,
+  "nii_rank": 518,
+  "nii_sector_rank": 33,
+  "nii_rating": "Critical",
+  "nii_percentile": 1,
+  "taesc_cr": 8209.4,
+  "nir": 3.964,
+  "nir_pct": 396.4,
+  "breakdown": {
+    "climate": {
+      "value_cr": 153.12,
+      "pct": 1.9
+    },
+    "water": {
+      "value_cr": 174.89,
+      "pct": 2.1
+    },
+    "land": {
+      "value_cr": 1737.3,
+      "pct": 21.2
+    },
+    "biodiversity": {
+      "value_cr": 126.14,
+      "pct": 1.5
+    },
+    "pollution": {
+      "value_cr": 6017.94,
+      "pct": 73.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 9186.0,
+    "scope2_ghg_tco2e": 107638.0,
+    "scope3_ghg_tco2e": 154000.0,
+    "water_consumption_kl": 11420715.0,
+    "water_stress_score": 1.91,
+    "total_land_ha": 15350.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.0113,
+    "waste_generated_mt": 3200997.0,
+    "renewable_energy_pct": 5.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

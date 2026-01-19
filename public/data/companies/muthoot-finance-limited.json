@@ -1,0 +1,59 @@
+{
+  "company_name": "MUTHOOT FINANCE LIMITED",
+  "slug": "muthoot-finance-limited",
+  "sector": "Banking & Financial Services",
+  "state": "Delhi",
+  "revenue_cr": 17155.95,
+  "nii_score": 8.4,
+  "nii_rank": 82,
+  "nii_sector_rank": 58,
+  "nii_rating": "Excellent",
+  "nii_percentile": 84,
+  "taesc_cr": 96.4,
+  "nir": 0.0056,
+  "nir_pct": 0.56,
+  "breakdown": {
+    "climate": {
+      "value_cr": 77.94,
+      "pct": 80.9
+    },
+    "water": {
+      "value_cr": 13.63,
+      "pct": 14.1
+    },
+    "land": {
+      "value_cr": 1.35,
+      "pct": 1.4
+    },
+    "biodiversity": {
+      "value_cr": 2.55,
+      "pct": 2.6
+    },
+    "pollution": {
+      "value_cr": 0.93,
+      "pct": 1.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 129.0,
+    "scope2_ghg_tco2e": 75723.0,
+    "scope3_ghg_tco2e": 31686.0,
+    "water_consumption_kl": 394484.0,
+    "water_stress_score": 3.28,
+    "total_land_ha": 45.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.0051,
+    "waste_generated_mt": 10.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 9.3,
+    "sector_best_score": 10.0,
+    "sector_median_taesc": 23.47,
+    "sector_best_taesc": 0.5
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

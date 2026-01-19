@@ -1,0 +1,59 @@
+{
+  "company_name": "MAHARASHTRA SCOOTERS LIMITED",
+  "slug": "maharashtra-scooters-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Tamil Nadu",
+  "revenue_cr": 223.54,
+  "nii_score": 4.5,
+  "nii_rank": 287,
+  "nii_sector_rank": 75,
+  "nii_rating": "Average",
+  "nii_percentile": 45,
+  "taesc_cr": 18.01,
+  "nir": 0.0806,
+  "nir_pct": 8.06,
+  "breakdown": {
+    "climate": {
+      "value_cr": 2.14,
+      "pct": 11.9
+    },
+    "water": {
+      "value_cr": 0.27,
+      "pct": 1.5
+    },
+    "land": {
+      "value_cr": 1.35,
+      "pct": 7.5
+    },
+    "biodiversity": {
+      "value_cr": 14.2,
+      "pct": 78.8
+    },
+    "pollution": {
+      "value_cr": 0.05,
+      "pct": 0.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 0.0,
+    "scope2_ghg_tco2e": 845.0,
+    "scope3_ghg_tco2e": 3355.0,
+    "water_consumption_kl": 12450.0,
+    "water_stress_score": 1.82,
+    "total_land_ha": 15.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.1291,
+    "waste_generated_mt": 28.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "PNB Housing Finance Limited",
+  "slug": "pnb-housing-finance-limited",
+  "sector": "Banking & Financial Services",
+  "state": "Maharashtra",
+  "revenue_cr": 7661.22,
+  "nii_score": 9.6,
+  "nii_rank": 19,
+  "nii_sector_rank": 15,
+  "nii_rating": "Excellent",
+  "nii_percentile": 96,
+  "taesc_cr": 6.85,
+  "nir": 0.0009,
+  "nir_pct": 0.09,
+  "breakdown": {
+    "climate": {
+      "value_cr": 4.19,
+      "pct": 61.1
+    },
+    "water": {
+      "value_cr": 1.22,
+      "pct": 17.8
+    },
+    "land": {
+      "value_cr": 0.24,
+      "pct": 3.5
+    },
+    "biodiversity": {
+      "value_cr": 1.14,
+      "pct": 16.6
+    },
+    "pollution": {
+      "value_cr": 0.07,
+      "pct": 1.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 7.0,
+    "scope2_ghg_tco2e": 4656.0,
+    "scope3_ghg_tco2e": 531.0,
+    "water_consumption_kl": 27464.0,
+    "water_stress_score": 4.38,
+    "total_land_ha": 8.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.006,
+    "waste_generated_mt": 4.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 9.3,
+    "sector_best_score": 10.0,
+    "sector_median_taesc": 23.47,
+    "sector_best_taesc": 0.5
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

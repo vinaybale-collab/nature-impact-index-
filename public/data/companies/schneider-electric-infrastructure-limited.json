@@ -1,0 +1,59 @@
+{
+  "company_name": "Schneider Electric Infrastructure Limited",
+  "slug": "schneider-electric-infrastructure-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Maharashtra",
+  "revenue_cr": 2637.0,
+  "nii_score": 5.8,
+  "nii_rank": 218,
+  "nii_sector_rank": 40,
+  "nii_rating": "Average",
+  "nii_percentile": 58,
+  "taesc_cr": 157.3,
+  "nir": 0.0596,
+  "nir_pct": 5.96,
+  "breakdown": {
+    "climate": {
+      "value_cr": 37.6,
+      "pct": 23.9
+    },
+    "water": {
+      "value_cr": 2.93,
+      "pct": 1.9
+    },
+    "land": {
+      "value_cr": 12.33,
+      "pct": 7.8
+    },
+    "biodiversity": {
+      "value_cr": 101.63,
+      "pct": 64.6
+    },
+    "pollution": {
+      "value_cr": 2.8,
+      "pct": 1.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 1436.0,
+    "scope2_ghg_tco2e": 5446.0,
+    "scope3_ghg_tco2e": 85600.0,
+    "water_consumption_kl": 75783.0,
+    "water_stress_score": 4.06,
+    "total_land_ha": 137.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0175,
+    "waste_generated_mt": 2112.0,
+    "renewable_energy_pct": 50.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

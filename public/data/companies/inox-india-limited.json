@@ -1,0 +1,59 @@
+{
+  "company_name": "INOX India Limited",
+  "slug": "inox-india-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Gujarat",
+  "revenue_cr": 1296.3,
+  "nii_score": 5.7,
+  "nii_rank": 224,
+  "nii_sector_rank": 44,
+  "nii_rating": "Average",
+  "nii_percentile": 57,
+  "taesc_cr": 80.0,
+  "nir": 0.0617,
+  "nir_pct": 6.17,
+  "breakdown": {
+    "climate": {
+      "value_cr": 15.27,
+      "pct": 19.1
+    },
+    "water": {
+      "value_cr": 5.23,
+      "pct": 6.5
+    },
+    "land": {
+      "value_cr": 5.4,
+      "pct": 6.8
+    },
+    "biodiversity": {
+      "value_cr": 50.02,
+      "pct": 62.5
+    },
+    "pollution": {
+      "value_cr": 4.09,
+      "pct": 5.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 716.0,
+    "scope2_ghg_tco2e": 9550.0,
+    "scope3_ghg_tco2e": 15400.0,
+    "water_consumption_kl": 112931.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 60.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0177,
+    "waste_generated_mt": 3406.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

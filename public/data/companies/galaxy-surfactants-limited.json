@@ -1,0 +1,59 @@
+{
+  "company_name": "GALAXY SURFACTANTS LIMITED",
+  "slug": "galaxy-surfactants-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Karnataka",
+  "revenue_cr": 3001.27,
+  "nii_score": 2.3,
+  "nii_rank": 402,
+  "nii_sector_rank": 125,
+  "nii_rating": "Poor",
+  "nii_percentile": 23,
+  "taesc_cr": 520.76,
+  "nir": 0.1735,
+  "nir_pct": 17.35,
+  "breakdown": {
+    "climate": {
+      "value_cr": 310.27,
+      "pct": 59.6
+    },
+    "water": {
+      "value_cr": 4.19,
+      "pct": 0.8
+    },
+    "land": {
+      "value_cr": 11.43,
+      "pct": 2.2
+    },
+    "biodiversity": {
+      "value_cr": 177.83,
+      "pct": 34.1
+    },
+    "pollution": {
+      "value_cr": 17.04,
+      "pct": 3.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 14649.0,
+    "scope2_ghg_tco2e": 27000.0,
+    "scope3_ghg_tco2e": 661027.0,
+    "water_consumption_kl": 328626.0,
+    "water_stress_score": 2.28,
+    "total_land_ha": 127.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.11,
+    "waste_generated_mt": 13814.0,
+    "renewable_energy_pct": 6.3
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "Indegene Limited",
+  "slug": "indegene-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "West Bengal",
+  "revenue_cr": 1184.0,
+  "nii_score": 7.1,
+  "nii_rank": 150,
+  "nii_sector_rank": 8,
+  "nii_rating": "Good",
+  "nii_percentile": 71,
+  "taesc_cr": 46.76,
+  "nir": 0.0395,
+  "nir_pct": 3.95,
+  "breakdown": {
+    "climate": {
+      "value_cr": 2.46,
+      "pct": 5.3
+    },
+    "water": {
+      "value_cr": 0.12,
+      "pct": 0.3
+    },
+    "land": {
+      "value_cr": 1.35,
+      "pct": 2.9
+    },
+    "biodiversity": {
+      "value_cr": 42.67,
+      "pct": 91.3
+    },
+    "pollution": {
+      "value_cr": 0.15,
+      "pct": 0.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 197.0,
+    "scope2_ghg_tco2e": 273.0,
+    "scope3_ghg_tco2e": 5400.0,
+    "water_consumption_kl": 2638.0,
+    "water_stress_score": 4.6,
+    "total_land_ha": 15.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.0064,
+    "waste_generated_mt": 18.0,
+    "renewable_energy_pct": 63.3
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

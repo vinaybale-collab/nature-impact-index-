@@ -1,0 +1,59 @@
+{
+  "company_name": "RELIANCE POWER LIMITED",
+  "slug": "reliance-power-limited",
+  "sector": "Oil & Gas",
+  "state": "Telangana",
+  "revenue_cr": 7892.6,
+  "nii_score": 0.0,
+  "nii_rank": 523,
+  "nii_sector_rank": 16,
+  "nii_rating": "Critical",
+  "nii_percentile": 0,
+  "taesc_cr": 135002.64,
+  "nir": 17.105,
+  "nir_pct": 1710.5,
+  "breakdown": {
+    "climate": {
+      "value_cr": 28549.74,
+      "pct": 21.1
+    },
+    "water": {
+      "value_cr": 994.96,
+      "pct": 0.7
+    },
+    "land": {
+      "value_cr": 565.3,
+      "pct": 0.4
+    },
+    "biodiversity": {
+      "value_cr": 702.25,
+      "pct": 0.5
+    },
+    "pollution": {
+      "value_cr": 104190.39,
+      "pct": 77.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 32965431.0,
+    "scope2_ghg_tco2e": 0.0,
+    "scope3_ghg_tco2e": 1245000.0,
+    "water_consumption_kl": 74005015.0,
+    "water_stress_score": 1.98,
+    "total_land_ha": 5350.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.121,
+    "waste_generated_mt": 103671661.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.6,
+    "sector_best_score": 5.4,
+    "sector_median_taesc": 7850.63,
+    "sector_best_taesc": 258.92
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

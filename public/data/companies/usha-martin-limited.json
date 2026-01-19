@@ -1,0 +1,59 @@
+{
+  "company_name": "Usha Martin Limited",
+  "slug": "usha-martin-limited",
+  "sector": "Metals & Mining",
+  "state": "Delhi",
+  "revenue_cr": 2171.06,
+  "nii_score": 1.6,
+  "nii_rank": 439,
+  "nii_sector_rank": 10,
+  "nii_rating": "Critical",
+  "nii_percentile": 16,
+  "taesc_cr": 579.98,
+  "nir": 0.2671,
+  "nir_pct": 26.71,
+  "breakdown": {
+    "climate": {
+      "value_cr": 262.79,
+      "pct": 45.3
+    },
+    "water": {
+      "value_cr": 20.82,
+      "pct": 3.6
+    },
+    "land": {
+      "value_cr": 42.0,
+      "pct": 7.2
+    },
+    "biodiversity": {
+      "value_cr": 137.17,
+      "pct": 23.7
+    },
+    "pollution": {
+      "value_cr": 117.2,
+      "pct": 20.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 187662.0,
+    "scope2_ghg_tco2e": 21106.0,
+    "scope3_ghg_tco2e": 243007.0,
+    "water_consumption_kl": 1080418.0,
+    "water_stress_score": 2.79,
+    "total_land_ha": 360.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.0175,
+    "waste_generated_mt": 114804.0,
+    "renewable_energy_pct": 1.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

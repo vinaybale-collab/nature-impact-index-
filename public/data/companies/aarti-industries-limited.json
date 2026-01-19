@@ -1,0 +1,59 @@
+{
+  "company_name": "Aarti Industries Limited",
+  "slug": "aarti-industries-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Telangana",
+  "revenue_cr": 8078.58,
+  "nii_score": 1.4,
+  "nii_rank": 449,
+  "nii_sector_rank": 140,
+  "nii_rating": "Critical",
+  "nii_percentile": 14,
+  "taesc_cr": 2461.65,
+  "nir": 0.3047,
+  "nir_pct": 30.47,
+  "breakdown": {
+    "climate": {
+      "value_cr": 1352.7,
+      "pct": 55.0
+    },
+    "water": {
+      "value_cr": 104.0,
+      "pct": 4.2
+    },
+    "land": {
+      "value_cr": 48.15,
+      "pct": 2.0
+    },
+    "biodiversity": {
+      "value_cr": 308.8,
+      "pct": 12.5
+    },
+    "pollution": {
+      "value_cr": 647.99,
+      "pct": 26.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 620823.0,
+    "scope2_ghg_tco2e": 171010.0,
+    "scope3_ghg_tco2e": 1941181.0,
+    "water_consumption_kl": 2931534.0,
+    "water_stress_score": 4.31,
+    "total_land_ha": 535.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.0161,
+    "waste_generated_mt": 468736.0,
+    "renewable_energy_pct": 14.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

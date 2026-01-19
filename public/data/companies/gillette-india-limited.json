@@ -1,0 +1,59 @@
+{
+  "company_name": "Gillette India Limited",
+  "slug": "gillette-india-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Maharashtra",
+  "revenue_cr": 3217.39,
+  "nii_score": 4.8,
+  "nii_rank": 271,
+  "nii_sector_rank": 69,
+  "nii_rating": "Average",
+  "nii_percentile": 48,
+  "taesc_cr": 243.14,
+  "nir": 0.0756,
+  "nir_pct": 7.56,
+  "breakdown": {
+    "climate": {
+      "value_cr": 11.47,
+      "pct": 4.7
+    },
+    "water": {
+      "value_cr": 1.14,
+      "pct": 0.5
+    },
+    "land": {
+      "value_cr": 2.43,
+      "pct": 1.0
+    },
+    "biodiversity": {
+      "value_cr": 202.6,
+      "pct": 83.3
+    },
+    "pollution": {
+      "value_cr": 25.51,
+      "pct": 10.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 288.0,
+    "scope2_ghg_tco2e": 11925.0,
+    "scope3_ghg_tco2e": 4500.0,
+    "water_consumption_kl": 58272.0,
+    "water_stress_score": 1.83,
+    "total_land_ha": 27.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.1266,
+    "waste_generated_mt": 4396.0,
+    "renewable_energy_pct": 10.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

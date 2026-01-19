@@ -1,0 +1,59 @@
+{
+  "company_name": "Wipro Limited",
+  "slug": "wipro-limited",
+  "sector": "Information Technology",
+  "state": "Maharashtra",
+  "revenue_cr": 89088.4,
+  "nii_score": 8.7,
+  "nii_rank": 66,
+  "nii_sector_rank": 7,
+  "nii_rating": "Excellent",
+  "nii_percentile": 87,
+  "taesc_cr": 357.37,
+  "nir": 0.004,
+  "nir_pct": 0.4,
+  "breakdown": {
+    "climate": {
+      "value_cr": 86.83,
+      "pct": 24.3
+    },
+    "water": {
+      "value_cr": 47.26,
+      "pct": 13.2
+    },
+    "land": {
+      "value_cr": 9.92,
+      "pct": 2.8
+    },
+    "biodiversity": {
+      "value_cr": 178.87,
+      "pct": 50.0
+    },
+    "pollution": {
+      "value_cr": 34.49,
+      "pct": 9.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 8046.0,
+    "scope2_ghg_tco2e": 23416.0,
+    "scope3_ghg_tco2e": 188224.0,
+    "water_consumption_kl": 1308480.0,
+    "water_stress_score": 4.63,
+    "total_land_ha": 280.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0187,
+    "waste_generated_mt": 13540.0,
+    "renewable_energy_pct": 72.6
+  },
+  "peer_comparison": {
+    "sector_median_score": 8.5,
+    "sector_best_score": 9.0,
+    "sector_median_taesc": 21.55,
+    "sector_best_taesc": 2.85
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

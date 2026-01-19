@@ -1,0 +1,59 @@
+{
+  "company_name": "Schaeffler India Limited",
+  "slug": "schaeffler-india-limited",
+  "sector": "Manufacturing - Engineering",
+  "state": "Unknown",
+  "revenue_cr": 8076.29,
+  "nii_score": 7.6,
+  "nii_rank": 124,
+  "nii_sector_rank": 1,
+  "nii_rating": "Good",
+  "nii_percentile": 76,
+  "taesc_cr": 269.9,
+  "nir": 0.0334,
+  "nir_pct": 3.34,
+  "breakdown": {
+    "climate": {
+      "value_cr": 25.03,
+      "pct": 9.3
+    },
+    "water": {
+      "value_cr": 13.39,
+      "pct": 5.0
+    },
+    "land": {
+      "value_cr": 7.37,
+      "pct": 2.7
+    },
+    "biodiversity": {
+      "value_cr": 207.28,
+      "pct": 76.8
+    },
+    "pollution": {
+      "value_cr": 16.83,
+      "pct": 6.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 8450.0,
+    "scope2_ghg_tco2e": 42500.0,
+    "scope3_ghg_tco2e": 42000.0,
+    "water_consumption_kl": 324000.0,
+    "water_stress_score": 4.6,
+    "total_land_ha": 127.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0087,
+    "waste_generated_mt": 15420.0,
+    "renewable_energy_pct": 24.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.3,
+    "sector_best_score": 7.6,
+    "sector_median_taesc": 977.28,
+    "sector_best_taesc": 29.35
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

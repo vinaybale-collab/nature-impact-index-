@@ -1,0 +1,59 @@
+{
+  "company_name": "Deepak Nitrite Limited",
+  "slug": "deepak-nitrite-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Telangana",
+  "revenue_cr": 2724.35,
+  "nii_score": 2.0,
+  "nii_rank": 418,
+  "nii_sector_rank": 131,
+  "nii_rating": "Poor",
+  "nii_percentile": 20,
+  "taesc_cr": 559.42,
+  "nir": 0.2053,
+  "nir_pct": 20.53,
+  "breakdown": {
+    "climate": {
+      "value_cr": 259.61,
+      "pct": 46.4
+    },
+    "water": {
+      "value_cr": 48.95,
+      "pct": 8.8
+    },
+    "land": {
+      "value_cr": 14.94,
+      "pct": 2.7
+    },
+    "biodiversity": {
+      "value_cr": 103.01,
+      "pct": 18.4
+    },
+    "pollution": {
+      "value_cr": 132.9,
+      "pct": 23.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 121129.0,
+    "scope2_ghg_tco2e": 101908.0,
+    "scope3_ghg_tco2e": 246570.0,
+    "water_consumption_kl": 1167269.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 166.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.0143,
+    "waste_generated_mt": 83619.0,
+    "renewable_energy_pct": 5.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

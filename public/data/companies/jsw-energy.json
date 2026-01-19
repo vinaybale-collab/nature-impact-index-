@@ -1,0 +1,59 @@
+{
+  "company_name": "JSW Energy",
+  "slug": "jsw-energy",
+  "sector": "Energy & Power",
+  "state": "Unknown",
+  "revenue_cr": 15949.06,
+  "nii_score": 5.4,
+  "nii_rank": 239,
+  "nii_sector_rank": 5,
+  "nii_rating": "Average",
+  "nii_percentile": 54,
+  "taesc_cr": 1046.03,
+  "nir": 0.0656,
+  "nir_pct": 6.56,
+  "breakdown": {
+    "climate": {
+      "value_cr": 58.64,
+      "pct": 5.6
+    },
+    "water": {
+      "value_cr": 11.86,
+      "pct": 1.1
+    },
+    "land": {
+      "value_cr": 307.02,
+      "pct": 29.4
+    },
+    "biodiversity": {
+      "value_cr": 656.63,
+      "pct": 62.8
+    },
+    "pollution": {
+      "value_cr": 11.88,
+      "pct": 1.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 6988.0,
+    "scope2_ghg_tco2e": 16721.0,
+    "scope3_ghg_tco2e": 124000.0,
+    "water_consumption_kl": 466756.0,
+    "water_stress_score": 2.48,
+    "total_land_ha": 3570.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 8968.0,
+    "renewable_energy_pct": 5.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.9,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1859.41,
+    "sector_best_taesc": 22.51
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

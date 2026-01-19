@@ -1,0 +1,59 @@
+{
+  "company_name": "Balkrishna Industries Limited",
+  "slug": "balkrishna-industries-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Karnataka",
+  "revenue_cr": 10412.88,
+  "nii_score": 3.0,
+  "nii_rank": 365,
+  "nii_sector_rank": 114,
+  "nii_rating": "Poor",
+  "nii_percentile": 30,
+  "taesc_cr": 1290.14,
+  "nir": 0.1239,
+  "nir_pct": 12.39,
+  "breakdown": {
+    "climate": {
+      "value_cr": 718.38,
+      "pct": 55.7
+    },
+    "water": {
+      "value_cr": 76.79,
+      "pct": 6.0
+    },
+    "land": {
+      "value_cr": 80.56,
+      "pct": 6.2
+    },
+    "biodiversity": {
+      "value_cr": 389.63,
+      "pct": 30.2
+    },
+    "pollution": {
+      "value_cr": 24.78,
+      "pct": 1.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 675773.0,
+    "scope2_ghg_tco2e": 83684.0,
+    "scope3_ghg_tco2e": 185000.0,
+    "water_consumption_kl": 2087281.0,
+    "water_stress_score": 4.62,
+    "total_land_ha": 895.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0125,
+    "waste_generated_mt": 20494.0,
+    "renewable_energy_pct": 0.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

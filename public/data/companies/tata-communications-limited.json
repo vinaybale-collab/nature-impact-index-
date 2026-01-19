@@ -1,0 +1,59 @@
+{
+  "company_name": "TATA COMMUNICATIONS LIMITED",
+  "slug": "tata-communications-limited",
+  "sector": "Telecom & Communication",
+  "state": "Gujarat",
+  "revenue_cr": 7277.86,
+  "nii_score": 6.4,
+  "nii_rank": 187,
+  "nii_sector_rank": 5,
+  "nii_rating": "Good",
+  "nii_percentile": 64,
+  "taesc_cr": 357.21,
+  "nir": 0.0491,
+  "nir_pct": 4.91,
+  "breakdown": {
+    "climate": {
+      "value_cr": 105.46,
+      "pct": 29.5
+    },
+    "water": {
+      "value_cr": 4.11,
+      "pct": 1.2
+    },
+    "land": {
+      "value_cr": 135.31,
+      "pct": 37.9
+    },
+    "biodiversity": {
+      "value_cr": 103.0,
+      "pct": 28.8
+    },
+    "pollution": {
+      "value_cr": 9.33,
+      "pct": 2.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 4424.0,
+    "scope2_ghg_tco2e": 68911.0,
+    "scope3_ghg_tco2e": 183454.0,
+    "water_consumption_kl": 204365.0,
+    "water_stress_score": 2.27,
+    "total_land_ha": 1650.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.1147,
+    "waste_generated_mt": 548.0,
+    "renewable_energy_pct": 12.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.9,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 714.01,
+    "sector_best_taesc": 47.35
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

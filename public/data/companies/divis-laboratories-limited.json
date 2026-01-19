@@ -1,0 +1,59 @@
+{
+  "company_name": "DIVI'S LABORATORIES LIMITED",
+  "slug": "divis-laboratories-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Unknown",
+  "revenue_cr": 2715.0,
+  "nii_score": 2.1,
+  "nii_rank": 413,
+  "nii_sector_rank": 55,
+  "nii_rating": "Poor",
+  "nii_percentile": 21,
+  "taesc_cr": 552.48,
+  "nir": 0.2035,
+  "nir_pct": 20.35,
+  "breakdown": {
+    "climate": {
+      "value_cr": 297.56,
+      "pct": 53.9
+    },
+    "water": {
+      "value_cr": 102.9,
+      "pct": 18.6
+    },
+    "land": {
+      "value_cr": 88.43,
+      "pct": 16.0
+    },
+    "biodiversity": {
+      "value_cr": 50.8,
+      "pct": 9.2
+    },
+    "pollution": {
+      "value_cr": 12.78,
+      "pct": 2.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 185200.0,
+    "scope2_ghg_tco2e": 142500.0,
+    "scope3_ghg_tco2e": 45600.0,
+    "water_consumption_kl": 2450000.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 1195.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0087,
+    "waste_generated_mt": 12540.0,
+    "renewable_energy_pct": 0.1
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "Indian Oil Corporation Limited",
+  "slug": "indian-oil-corporation-limited",
+  "sector": "Oil & Gas",
+  "state": "Maharashtra",
+  "revenue_cr": 866345.0,
+  "nii_score": 1.6,
+  "nii_rank": 439,
+  "nii_sector_rank": 8,
+  "nii_rating": "Critical",
+  "nii_percentile": 16,
+  "taesc_cr": 225346.08,
+  "nir": 0.2601,
+  "nir_pct": 26.01,
+  "breakdown": {
+    "climate": {
+      "value_cr": 168608.79,
+      "pct": 74.8
+    },
+    "water": {
+      "value_cr": 3296.1,
+      "pct": 1.5
+    },
+    "land": {
+      "value_cr": 1509.2,
+      "pct": 0.7
+    },
+    "biodiversity": {
+      "value_cr": 51178.24,
+      "pct": 22.7
+    },
+    "pollution": {
+      "value_cr": 753.75,
+      "pct": 0.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 21240000.0,
+    "scope2_ghg_tco2e": 1290000.0,
+    "scope3_ghg_tco2e": 353880000.0,
+    "water_consumption_kl": 117305900.0,
+    "water_stress_score": 3.41,
+    "total_land_ha": 14283.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.0239,
+    "waste_generated_mt": 464362.0,
+    "renewable_energy_pct": 0.3
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.6,
+    "sector_best_score": 5.4,
+    "sector_median_taesc": 7850.63,
+    "sector_best_taesc": 258.92
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "Delhivery Limited",
+  "slug": "delhivery-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Maharashtra",
+  "revenue_cr": 8931.9,
+  "nii_score": 3.7,
+  "nii_rank": 329,
+  "nii_sector_rank": 97,
+  "nii_rating": "Poor",
+  "nii_percentile": 37,
+  "taesc_cr": 912.53,
+  "nir": 0.1022,
+  "nir_pct": 10.22,
+  "breakdown": {
+    "climate": {
+      "value_cr": 447.58,
+      "pct": 49.0
+    },
+    "water": {
+      "value_cr": 21.03,
+      "pct": 2.3
+    },
+    "land": {
+      "value_cr": 76.51,
+      "pct": 8.4
+    },
+    "biodiversity": {
+      "value_cr": 343.74,
+      "pct": 37.7
+    },
+    "pollution": {
+      "value_cr": 23.67,
+      "pct": 2.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 186223.0,
+    "scope2_ghg_tco2e": 61144.0,
+    "scope3_ghg_tco2e": 569766.0,
+    "water_consumption_kl": 456540.0,
+    "water_stress_score": 4.56,
+    "total_land_ha": 850.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.0173,
+    "waste_generated_mt": 2480.0,
+    "renewable_energy_pct": 2.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

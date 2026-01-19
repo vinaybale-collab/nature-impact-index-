@@ -1,0 +1,59 @@
+{
+  "company_name": "Vodafone Idea Limited",
+  "slug": "vodafone-idea-limited",
+  "sector": "Telecom & Communication",
+  "state": "Delhi",
+  "revenue_cr": 43157.22,
+  "nii_score": 7.7,
+  "nii_rank": 119,
+  "nii_sector_rank": 2,
+  "nii_rating": "Good",
+  "nii_percentile": 77,
+  "taesc_cr": 1324.61,
+  "nir": 0.0307,
+  "nir_pct": 3.07,
+  "breakdown": {
+    "climate": {
+      "value_cr": 149.09,
+      "pct": 11.3
+    },
+    "water": {
+      "value_cr": 8.51,
+      "pct": 0.6
+    },
+    "land": {
+      "value_cr": 841.93,
+      "pct": 63.6
+    },
+    "biodiversity": {
+      "value_cr": 302.83,
+      "pct": 22.9
+    },
+    "pollution": {
+      "value_cr": 22.25,
+      "pct": 1.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 8538.0,
+    "scope2_ghg_tco2e": 336218.0,
+    "scope3_ghg_tco2e": 324500.0,
+    "water_consumption_kl": 170370.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 14512.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.0094,
+    "waste_generated_mt": 4287.0,
+    "renewable_energy_pct": 3.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.9,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 714.01,
+    "sector_best_taesc": 47.35
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

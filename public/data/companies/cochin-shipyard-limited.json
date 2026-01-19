@@ -1,0 +1,59 @@
+{
+  "company_name": "Cochin Shipyard Limited",
+  "slug": "cochin-shipyard-limited",
+  "sector": "Transportation & Logistics",
+  "state": "Tamil Nadu",
+  "revenue_cr": 4527.84,
+  "nii_score": 6.9,
+  "nii_rank": 161,
+  "nii_sector_rank": 2,
+  "nii_rating": "Good",
+  "nii_percentile": 69,
+  "taesc_cr": 191.99,
+  "nir": 0.0424,
+  "nir_pct": 4.24,
+  "breakdown": {
+    "climate": {
+      "value_cr": 30.6,
+      "pct": 15.9
+    },
+    "water": {
+      "value_cr": 20.12,
+      "pct": 10.5
+    },
+    "land": {
+      "value_cr": 23.1,
+      "pct": 12.0
+    },
+    "biodiversity": {
+      "value_cr": 103.77,
+      "pct": 54.1
+    },
+    "pollution": {
+      "value_cr": 14.41,
+      "pct": 7.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 2688.0,
+    "scope2_ghg_tco2e": 28736.0,
+    "scope3_ghg_tco2e": 32400.0,
+    "water_consumption_kl": 573954.0,
+    "water_stress_score": 3.6,
+    "total_land_ha": 330.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.006,
+    "waste_generated_mt": 12621.0,
+    "renewable_energy_pct": 12.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.3,
+    "sector_median_taesc": 599.33,
+    "sector_best_taesc": 125.54
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

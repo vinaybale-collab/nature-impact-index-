@@ -1,0 +1,59 @@
+{
+  "company_name": "Bosch limited",
+  "slug": "bosch-limited",
+  "sector": "Manufacturing - Engineering",
+  "state": "Gujarat",
+  "revenue_cr": 18087.5,
+  "nii_score": 6.1,
+  "nii_rank": 203,
+  "nii_sector_rank": 5,
+  "nii_rating": "Good",
+  "nii_percentile": 61,
+  "taesc_cr": 977.28,
+  "nir": 0.054,
+  "nir_pct": 5.4,
+  "breakdown": {
+    "climate": {
+      "value_cr": 382.89,
+      "pct": 39.2
+    },
+    "water": {
+      "value_cr": 18.19,
+      "pct": 1.9
+    },
+    "land": {
+      "value_cr": 34.82,
+      "pct": 3.6
+    },
+    "biodiversity": {
+      "value_cr": 531.41,
+      "pct": 54.4
+    },
+    "pollution": {
+      "value_cr": 9.98,
+      "pct": 1.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 8455.0,
+    "scope2_ghg_tco2e": 12450.0,
+    "scope3_ghg_tco2e": 884000.0,
+    "water_consumption_kl": 473149.0,
+    "water_stress_score": 4.59,
+    "total_land_ha": 427.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0165,
+    "waste_generated_mt": 7428.0,
+    "renewable_energy_pct": 18.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.3,
+    "sector_best_score": 7.6,
+    "sector_median_taesc": 977.28,
+    "sector_best_taesc": 29.35
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

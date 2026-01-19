@@ -1,0 +1,59 @@
+{
+  "company_name": "V-GUARD INDUSTRIES LIMITED",
+  "slug": "v-guard-industries-limited",
+  "sector": "Manufacturing - Consumer Electronics",
+  "state": "Karnataka",
+  "revenue_cr": 5308.87,
+  "nii_score": 7.8,
+  "nii_rank": 113,
+  "nii_sector_rank": 2,
+  "nii_rating": "Good",
+  "nii_percentile": 78,
+  "taesc_cr": 124.95,
+  "nir": 0.0235,
+  "nir_pct": 2.35,
+  "breakdown": {
+    "climate": {
+      "value_cr": 17.97,
+      "pct": 14.4
+    },
+    "water": {
+      "value_cr": 3.67,
+      "pct": 2.9
+    },
+    "land": {
+      "value_cr": 11.23,
+      "pct": 9.0
+    },
+    "biodiversity": {
+      "value_cr": 75.98,
+      "pct": 60.8
+    },
+    "pollution": {
+      "value_cr": 16.1,
+      "pct": 12.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 2434.0,
+    "scope2_ghg_tco2e": 12708.0,
+    "scope3_ghg_tco2e": 18500.0,
+    "water_consumption_kl": 96114.0,
+    "water_stress_score": 3.96,
+    "total_land_ha": 137.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0069,
+    "waste_generated_mt": 3865.0,
+    "renewable_energy_pct": 8.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 5.7,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 314.02,
+    "sector_best_taesc": 120.08
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

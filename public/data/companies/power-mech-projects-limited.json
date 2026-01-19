@@ -1,0 +1,59 @@
+{
+  "company_name": "Power Mech Projects Limited",
+  "slug": "power-mech-projects-limited",
+  "sector": "Energy & Power",
+  "state": "Delhi",
+  "revenue_cr": 4435.42,
+  "nii_score": 5.5,
+  "nii_rank": 234,
+  "nii_sector_rank": 3,
+  "nii_rating": "Average",
+  "nii_percentile": 55,
+  "taesc_cr": 283.74,
+  "nir": 0.064,
+  "nir_pct": 6.4,
+  "breakdown": {
+    "climate": {
+      "value_cr": 30.0,
+      "pct": 10.6
+    },
+    "water": {
+      "value_cr": 0.51,
+      "pct": 0.2
+    },
+    "land": {
+      "value_cr": 74.39,
+      "pct": 26.2
+    },
+    "biodiversity": {
+      "value_cr": 176.42,
+      "pct": 62.2
+    },
+    "pollution": {
+      "value_cr": 2.41,
+      "pct": 0.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 4250.0,
+    "scope2_ghg_tco2e": 8450.0,
+    "scope3_ghg_tco2e": 45192.0,
+    "water_consumption_kl": 10501.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 865.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.0042,
+    "waste_generated_mt": 1540.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.9,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1859.41,
+    "sector_best_taesc": 22.51
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

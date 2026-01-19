@@ -1,0 +1,59 @@
+{
+  "company_name": "Brigade Enterprises Limited",
+  "slug": "brigade-enterprises-limited",
+  "sector": "Construction & Real Estate",
+  "state": "Maharashtra",
+  "revenue_cr": 5313.54,
+  "nii_score": 1.7,
+  "nii_rank": 434,
+  "nii_sector_rank": 8,
+  "nii_rating": "Critical",
+  "nii_percentile": 17,
+  "taesc_cr": 1377.67,
+  "nir": 0.2593,
+  "nir_pct": 25.93,
+  "breakdown": {
+    "climate": {
+      "value_cr": 220.97,
+      "pct": 16.0
+    },
+    "water": {
+      "value_cr": 53.23,
+      "pct": 3.9
+    },
+    "land": {
+      "value_cr": 106.47,
+      "pct": 7.7
+    },
+    "biodiversity": {
+      "value_cr": 177.58,
+      "pct": 12.9
+    },
+    "pollution": {
+      "value_cr": 819.42,
+      "pct": 59.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 6401.0,
+    "scope2_ghg_tco2e": 30757.0,
+    "scope3_ghg_tco2e": 446204.0,
+    "water_consumption_kl": 1782472.0,
+    "water_stress_score": 4.63,
+    "total_land_ha": 1365.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0187,
+    "waste_generated_mt": 620739.0,
+    "renewable_energy_pct": 1.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.0,
+    "sector_best_score": 4.9,
+    "sector_median_taesc": 806.39,
+    "sector_best_taesc": 50.51
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

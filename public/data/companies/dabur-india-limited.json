@@ -1,0 +1,59 @@
+{
+  "company_name": "Dabur India Limited",
+  "slug": "dabur-india-limited",
+  "sector": "FMCG & Consumer Goods",
+  "state": "Karnataka",
+  "revenue_cr": 9135.6,
+  "nii_score": 4.8,
+  "nii_rank": 271,
+  "nii_sector_rank": 8,
+  "nii_rating": "Average",
+  "nii_percentile": 48,
+  "taesc_cr": 700.12,
+  "nir": 0.0766,
+  "nir_pct": 7.66,
+  "breakdown": {
+    "climate": {
+      "value_cr": 339.27,
+      "pct": 48.5
+    },
+    "water": {
+      "value_cr": 57.25,
+      "pct": 8.2
+    },
+    "land": {
+      "value_cr": 36.97,
+      "pct": 5.3
+    },
+    "biodiversity": {
+      "value_cr": 207.16,
+      "pct": 29.6
+    },
+    "pollution": {
+      "value_cr": 59.46,
+      "pct": 8.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 10970.0,
+    "scope2_ghg_tco2e": 51705.0,
+    "scope3_ghg_tco2e": 776352.0,
+    "water_consumption_kl": 1380303.0,
+    "water_stress_score": 4.52,
+    "total_land_ha": 535.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0067,
+    "waste_generated_mt": 22180.0,
+    "renewable_energy_pct": 51.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 5.3,
+    "sector_best_score": 7.7,
+    "sector_median_taesc": 1532.67,
+    "sector_best_taesc": 118.39
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "KOTAK MAHINDRA BANK LIMITED",
+  "slug": "kotak-mahindra-bank-limited",
+  "sector": "Banking & Financial Services",
+  "state": "Telangana",
+  "revenue_cr": 67880.86,
+  "nii_score": 9.2,
+  "nii_rank": 40,
+  "nii_sector_rank": 35,
+  "nii_rating": "Excellent",
+  "nii_percentile": 92,
+  "taesc_cr": 137.86,
+  "nir": 0.002,
+  "nir_pct": 0.2,
+  "breakdown": {
+    "climate": {
+      "value_cr": 101.95,
+      "pct": 74.0
+    },
+    "water": {
+      "value_cr": 5.29,
+      "pct": 3.8
+    },
+    "land": {
+      "value_cr": 10.05,
+      "pct": 7.3
+    },
+    "biodiversity": {
+      "value_cr": 10.08,
+      "pct": 7.3
+    },
+    "pollution": {
+      "value_cr": 10.48,
+      "pct": 7.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 14701.0,
+    "scope2_ghg_tco2e": 87287.0,
+    "scope3_ghg_tco2e": 42397.0,
+    "water_consumption_kl": 263790.0,
+    "water_stress_score": 1.67,
+    "total_land_ha": 335.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.1322,
+    "waste_generated_mt": 1537.0,
+    "renewable_energy_pct": 3.1
+  },
+  "peer_comparison": {
+    "sector_median_score": 9.3,
+    "sector_best_score": 10.0,
+    "sector_median_taesc": 23.47,
+    "sector_best_taesc": 0.5
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "Tejas Networks Limited",
+  "slug": "tejas-networks-limited",
+  "sector": "Telecom & Communication",
+  "state": "Maharashtra",
+  "revenue_cr": 2663.25,
+  "nii_score": 8.0,
+  "nii_rank": 103,
+  "nii_sector_rank": 1,
+  "nii_rating": "Excellent",
+  "nii_percentile": 80,
+  "taesc_cr": 47.35,
+  "nir": 0.0178,
+  "nir_pct": 1.78,
+  "breakdown": {
+    "climate": {
+      "value_cr": 12.91,
+      "pct": 27.3
+    },
+    "water": {
+      "value_cr": 1.25,
+      "pct": 2.6
+    },
+    "land": {
+      "value_cr": 4.92,
+      "pct": 10.4
+    },
+    "biodiversity": {
+      "value_cr": 25.32,
+      "pct": 53.5
+    },
+    "pollution": {
+      "value_cr": 2.95,
+      "pct": 6.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 583.0,
+    "scope2_ghg_tco2e": 9028.0,
+    "scope3_ghg_tco2e": 15420.0,
+    "water_consumption_kl": 29189.0,
+    "water_stress_score": 4.55,
+    "total_land_ha": 60.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.0111,
+    "waste_generated_mt": 1737.0,
+    "renewable_energy_pct": 22.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.9,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 714.01,
+    "sector_best_taesc": 47.35
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

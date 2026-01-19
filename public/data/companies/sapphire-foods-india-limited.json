@@ -1,0 +1,59 @@
+{
+  "company_name": "SAPPHIRE FOODS INDIA LIMITED",
+  "slug": "sapphire-foods-india-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Gujarat",
+  "revenue_cr": 2451.08,
+  "nii_score": 2.9,
+  "nii_rank": 371,
+  "nii_sector_rank": 50,
+  "nii_rating": "Poor",
+  "nii_percentile": 29,
+  "taesc_cr": 318.54,
+  "nir": 0.13,
+  "nir_pct": 13.0,
+  "breakdown": {
+    "climate": {
+      "value_cr": 119.32,
+      "pct": 37.5
+    },
+    "water": {
+      "value_cr": 18.87,
+      "pct": 5.9
+    },
+    "land": {
+      "value_cr": 85.14,
+      "pct": 26.7
+    },
+    "biodiversity": {
+      "value_cr": 76.67,
+      "pct": 24.1
+    },
+    "pollution": {
+      "value_cr": 18.54,
+      "pct": 5.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 33624.0,
+    "scope2_ghg_tco2e": 69360.0,
+    "scope3_ghg_tco2e": 84484.0,
+    "water_consumption_kl": 828107.0,
+    "water_stress_score": 1.98,
+    "total_land_ha": 1150.5,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.121,
+    "waste_generated_mt": 5632.0,
+    "renewable_energy_pct": 2.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

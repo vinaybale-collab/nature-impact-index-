@@ -1,0 +1,59 @@
+{
+  "company_name": "Safari Industries India Limited",
+  "slug": "safari-industries-india-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Maharashtra",
+  "revenue_cr": 1771.58,
+  "nii_score": 6.8,
+  "nii_rank": 166,
+  "nii_sector_rank": 23,
+  "nii_rating": "Good",
+  "nii_percentile": 68,
+  "taesc_cr": 76.54,
+  "nir": 0.0432,
+  "nir_pct": 4.32,
+  "breakdown": {
+    "climate": {
+      "value_cr": 11.25,
+      "pct": 14.7
+    },
+    "water": {
+      "value_cr": 0.45,
+      "pct": 0.6
+    },
+    "land": {
+      "value_cr": 2.52,
+      "pct": 3.3
+    },
+    "biodiversity": {
+      "value_cr": 59.76,
+      "pct": 78.1
+    },
+    "pollution": {
+      "value_cr": 2.57,
+      "pct": 3.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 83.0,
+    "scope2_ghg_tco2e": 12554.0,
+    "scope3_ghg_tco2e": 1200.0,
+    "water_consumption_kl": 25742.0,
+    "water_stress_score": 1.37,
+    "total_land_ha": 34.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.1434,
+    "waste_generated_mt": 1673.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

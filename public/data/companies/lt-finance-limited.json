@@ -1,0 +1,59 @@
+{
+  "company_name": "L&T Finance Limited",
+  "slug": "lt-finance-limited",
+  "sector": "Banking & Financial Services",
+  "state": "Unknown",
+  "revenue_cr": 7988.13,
+  "nii_score": 9.2,
+  "nii_rank": 40,
+  "nii_sector_rank": 35,
+  "nii_rating": "Excellent",
+  "nii_percentile": 92,
+  "taesc_cr": 16.83,
+  "nir": 0.0021,
+  "nir_pct": 0.21,
+  "breakdown": {
+    "climate": {
+      "value_cr": 12.2,
+      "pct": 72.5
+    },
+    "water": {
+      "value_cr": 2.98,
+      "pct": 17.7
+    },
+    "land": {
+      "value_cr": 0.08,
+      "pct": 0.5
+    },
+    "biodiversity": {
+      "value_cr": 1.19,
+      "pct": 7.0
+    },
+    "pollution": {
+      "value_cr": 0.38,
+      "pct": 2.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 544.0,
+    "scope2_ghg_tco2e": 12772.0,
+    "scope3_ghg_tco2e": 4500.0,
+    "water_consumption_kl": 148500.0,
+    "water_stress_score": 1.67,
+    "total_land_ha": 2.8,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.1322,
+    "waste_generated_mt": 58.0,
+    "renewable_energy_pct": 12.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 9.3,
+    "sector_best_score": 10.0,
+    "sector_median_taesc": 23.47,
+    "sector_best_taesc": 0.5
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

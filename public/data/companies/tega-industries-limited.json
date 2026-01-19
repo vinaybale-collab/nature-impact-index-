@@ -1,0 +1,59 @@
+{
+  "company_name": "TEGA INDUSTRIES LIMITED",
+  "slug": "tega-industries-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Delhi",
+  "revenue_cr": 895.1,
+  "nii_score": 5.8,
+  "nii_rank": 218,
+  "nii_sector_rank": 40,
+  "nii_rating": "Average",
+  "nii_percentile": 58,
+  "taesc_cr": 52.87,
+  "nir": 0.0591,
+  "nir_pct": 5.91,
+  "breakdown": {
+    "climate": {
+      "value_cr": 12.6,
+      "pct": 23.8
+    },
+    "water": {
+      "value_cr": 1.73,
+      "pct": 3.3
+    },
+    "land": {
+      "value_cr": 5.13,
+      "pct": 9.7
+    },
+    "biodiversity": {
+      "value_cr": 31.86,
+      "pct": 60.3
+    },
+    "pollution": {
+      "value_cr": 1.55,
+      "pct": 2.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 6539.0,
+    "scope2_ghg_tco2e": 8627.0,
+    "scope3_ghg_tco2e": 5180.0,
+    "water_consumption_kl": 99466.0,
+    "water_stress_score": 1.53,
+    "total_land_ha": 57.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.0044,
+    "waste_generated_mt": 1271.0,
+    "renewable_energy_pct": 15.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

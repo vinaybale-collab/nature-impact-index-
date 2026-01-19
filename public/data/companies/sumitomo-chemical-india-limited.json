@@ -1,0 +1,59 @@
+{
+  "company_name": "SUMITOMO CHEMICAL INDIA LIMITED",
+  "slug": "sumitomo-chemical-india-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Karnataka",
+  "revenue_cr": 3060.83,
+  "nii_score": 4.2,
+  "nii_rank": 302,
+  "nii_sector_rank": 85,
+  "nii_rating": "Average",
+  "nii_percentile": 42,
+  "taesc_cr": 269.83,
+  "nir": 0.0882,
+  "nir_pct": 8.82,
+  "breakdown": {
+    "climate": {
+      "value_cr": 28.73,
+      "pct": 10.6
+    },
+    "water": {
+      "value_cr": 7.72,
+      "pct": 2.9
+    },
+    "land": {
+      "value_cr": 29.7,
+      "pct": 11.0
+    },
+    "biodiversity": {
+      "value_cr": 170.1,
+      "pct": 63.0
+    },
+    "pollution": {
+      "value_cr": 33.58,
+      "pct": 12.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 29556.0,
+    "scope2_ghg_tco2e": 17763.0,
+    "scope3_ghg_tco2e": 8483.0,
+    "water_consumption_kl": 493537.0,
+    "water_stress_score": 2.92,
+    "total_land_ha": 330.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0936,
+    "waste_generated_mt": 14438.0,
+    "renewable_energy_pct": 18.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

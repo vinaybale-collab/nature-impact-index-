@@ -1,0 +1,59 @@
+{
+  "company_name": "Asian Paints Limited",
+  "slug": "asian-paints-limited",
+  "sector": "Manufacturing - Paints & Coatings",
+  "state": "Telangana",
+  "revenue_cr": 37172.75,
+  "nii_score": 4.4,
+  "nii_rank": 292,
+  "nii_sector_rank": 2,
+  "nii_rating": "Average",
+  "nii_percentile": 44,
+  "taesc_cr": 3091.38,
+  "nir": 0.0832,
+  "nir_pct": 8.32,
+  "breakdown": {
+    "climate": {
+      "value_cr": 1442.82,
+      "pct": 46.7
+    },
+    "water": {
+      "value_cr": 37.92,
+      "pct": 1.2
+    },
+    "land": {
+      "value_cr": 43.39,
+      "pct": 1.4
+    },
+    "biodiversity": {
+      "value_cr": 1330.87,
+      "pct": 43.1
+    },
+    "pollution": {
+      "value_cr": 236.37,
+      "pct": 7.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 87435.0,
+    "scope2_ghg_tco2e": 52727.0,
+    "scope3_ghg_tco2e": 3220000.0,
+    "water_consumption_kl": 1365903.0,
+    "water_stress_score": 2.92,
+    "total_land_ha": 535.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.0942,
+    "waste_generated_mt": 19490.0,
+    "renewable_energy_pct": 18.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.9,
+    "sector_best_score": 5.4,
+    "sector_median_taesc": 1977.37,
+    "sector_best_taesc": 863.36
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "Jubilant Pharmova Limited",
+  "slug": "jubilant-pharmova-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Karnataka",
+  "revenue_cr": 7234.5,
+  "nii_score": 4.6,
+  "nii_rank": 281,
+  "nii_sector_rank": 70,
+  "nii_rating": "Average",
+  "nii_percentile": 46,
+  "taesc_cr": 577.3,
+  "nir": 0.0798,
+  "nir_pct": 7.98,
+  "breakdown": {
+    "climate": {
+      "value_cr": 250.21,
+      "pct": 43.3
+    },
+    "water": {
+      "value_cr": 13.31,
+      "pct": 2.3
+    },
+    "land": {
+      "value_cr": 30.33,
+      "pct": 5.3
+    },
+    "biodiversity": {
+      "value_cr": 270.33,
+      "pct": 46.8
+    },
+    "pollution": {
+      "value_cr": 13.11,
+      "pct": 2.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 10084.0,
+    "scope2_ghg_tco2e": 64219.0,
+    "scope3_ghg_tco2e": 527407.0,
+    "water_consumption_kl": 532922.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 337.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0123,
+    "waste_generated_mt": 9854.0,
+    "renewable_energy_pct": 13.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

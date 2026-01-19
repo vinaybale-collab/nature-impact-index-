@@ -1,0 +1,59 @@
+{
+  "company_name": "Mrs. Bectors Food Specialities",
+  "slug": "mrs-bectors-food-specialities",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Unknown",
+  "revenue_cr": 1962.57,
+  "nii_score": 5.6,
+  "nii_rank": 229,
+  "nii_sector_rank": 39,
+  "nii_rating": "Average",
+  "nii_percentile": 56,
+  "taesc_cr": 121.85,
+  "nir": 0.0621,
+  "nir_pct": 6.21,
+  "breakdown": {
+    "climate": {
+      "value_cr": 17.64,
+      "pct": 14.5
+    },
+    "water": {
+      "value_cr": 19.28,
+      "pct": 15.8
+    },
+    "land": {
+      "value_cr": 4.22,
+      "pct": 3.5
+    },
+    "biodiversity": {
+      "value_cr": 36.94,
+      "pct": 30.3
+    },
+    "pollution": {
+      "value_cr": 43.77,
+      "pct": 35.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 8450.0,
+    "scope2_ghg_tco2e": 15420.0,
+    "scope3_ghg_tco2e": 4200.0,
+    "water_consumption_kl": 425000.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 57.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 1240.0,
+    "renewable_energy_pct": 12.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

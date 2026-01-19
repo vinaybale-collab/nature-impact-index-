@@ -1,0 +1,59 @@
+{
+  "company_name": "Dalmia Bharat Limited",
+  "slug": "dalmia-bharat-limited",
+  "sector": "Cement Manufacturing",
+  "state": "Tamil Nadu",
+  "revenue_cr": 21348.64,
+  "nii_score": 3.9,
+  "nii_rank": 318,
+  "nii_sector_rank": 2,
+  "nii_rating": "Poor",
+  "nii_percentile": 39,
+  "taesc_cr": 2007.44,
+  "nir": 0.094,
+  "nir_pct": 9.4,
+  "breakdown": {
+    "climate": {
+      "value_cr": 0.01,
+      "pct": 0.0
+    },
+    "water": {
+      "value_cr": 210.54,
+      "pct": 10.5
+    },
+    "land": {
+      "value_cr": 631.57,
+      "pct": 31.5
+    },
+    "biodiversity": {
+      "value_cr": 1065.7,
+      "pct": 53.1
+    },
+    "pollution": {
+      "value_cr": 99.62,
+      "pct": 5.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 15.0,
+    "scope2_ghg_tco2e": 0.0,
+    "scope3_ghg_tco2e": 1.0,
+    "water_consumption_kl": 4902013.0,
+    "water_stress_score": 4.6,
+    "total_land_ha": 6850.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0139,
+    "waste_generated_mt": 24260.0,
+    "renewable_energy_pct": 24.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 0.8,
+    "sector_best_score": 4.9,
+    "sector_median_taesc": 4113.3,
+    "sector_best_taesc": 185.22
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

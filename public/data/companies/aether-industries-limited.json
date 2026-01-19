@@ -1,0 +1,59 @@
+{
+  "company_name": "Aether Industries Limited",
+  "slug": "aether-industries-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Gujarat",
+  "revenue_cr": 991.99,
+  "nii_score": 5.0,
+  "nii_rank": 260,
+  "nii_sector_rank": 62,
+  "nii_rating": "Average",
+  "nii_percentile": 50,
+  "taesc_cr": 73.04,
+  "nir": 0.0736,
+  "nir_pct": 7.36,
+  "breakdown": {
+    "climate": {
+      "value_cr": 13.89,
+      "pct": 19.0
+    },
+    "water": {
+      "value_cr": 3.63,
+      "pct": 5.0
+    },
+    "land": {
+      "value_cr": 11.7,
+      "pct": 16.0
+    },
+    "biodiversity": {
+      "value_cr": 35.55,
+      "pct": 48.7
+    },
+    "pollution": {
+      "value_cr": 8.27,
+      "pct": 11.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 7719.0,
+    "scope2_ghg_tco2e": 16497.0,
+    "scope3_ghg_tco2e": 562.0,
+    "water_consumption_kl": 183505.0,
+    "water_stress_score": 3.84,
+    "total_land_ha": 130.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0055,
+    "waste_generated_mt": 5062.0,
+    "renewable_energy_pct": 8.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

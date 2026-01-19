@@ -1,0 +1,59 @@
+{
+  "company_name": "Life Insurance Corporation of India",
+  "slug": "life-insurance-corporation-of-india",
+  "sector": "Insurance",
+  "state": "Maharashtra",
+  "revenue_cr": 965969.5,
+  "nii_score": 9.8,
+  "nii_rank": 8,
+  "nii_sector_rank": 2,
+  "nii_rating": "Excellent",
+  "nii_percentile": 98,
+  "taesc_cr": 530.28,
+  "nir": 0.0005,
+  "nir_pct": 0.05,
+  "breakdown": {
+    "climate": {
+      "value_cr": 279.0,
+      "pct": 52.6
+    },
+    "water": {
+      "value_cr": 25.43,
+      "pct": 4.8
+    },
+    "land": {
+      "value_cr": 69.32,
+      "pct": 13.1
+    },
+    "biodiversity": {
+      "value_cr": 143.45,
+      "pct": 27.1
+    },
+    "pollution": {
+      "value_cr": 13.08,
+      "pct": 2.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 27014.0,
+    "scope2_ghg_tco2e": 84102.0,
+    "scope3_ghg_tco2e": 434234.0,
+    "water_consumption_kl": 1267441.0,
+    "water_stress_score": 1.67,
+    "total_land_ha": 1195.2,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.1322,
+    "waste_generated_mt": 2372.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 9.8,
+    "sector_best_score": 9.9,
+    "sector_median_taesc": 48.71,
+    "sector_best_taesc": 28.33
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

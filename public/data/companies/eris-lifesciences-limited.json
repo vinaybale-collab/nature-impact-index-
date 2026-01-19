@@ -1,0 +1,59 @@
+{
+  "company_name": "Eris Lifesciences Limited",
+  "slug": "eris-lifesciences-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "West Bengal",
+  "revenue_cr": 1663.63,
+  "nii_score": 7.7,
+  "nii_rank": 119,
+  "nii_sector_rank": 6,
+  "nii_rating": "Good",
+  "nii_percentile": 77,
+  "taesc_cr": 47.81,
+  "nir": 0.0287,
+  "nir_pct": 2.87,
+  "breakdown": {
+    "climate": {
+      "value_cr": 5.49,
+      "pct": 11.5
+    },
+    "water": {
+      "value_cr": 0.42,
+      "pct": 0.9
+    },
+    "land": {
+      "value_cr": 9.62,
+      "pct": 20.1
+    },
+    "biodiversity": {
+      "value_cr": 31.7,
+      "pct": 66.3
+    },
+    "pollution": {
+      "value_cr": 0.57,
+      "pct": 1.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 343.0,
+    "scope2_ghg_tco2e": 1667.0,
+    "scope3_ghg_tco2e": 8900.0,
+    "water_consumption_kl": 19125.0,
+    "water_stress_score": 4.37,
+    "total_land_ha": 130.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.0118,
+    "waste_generated_mt": 116.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

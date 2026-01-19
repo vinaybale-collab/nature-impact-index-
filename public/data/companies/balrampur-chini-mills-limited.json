@@ -1,0 +1,59 @@
+{
+  "company_name": "Balrampur Chini Mills Limited",
+  "slug": "balrampur-chini-mills-limited",
+  "sector": "Manufacturing - Agro Processing",
+  "state": "Tamil Nadu",
+  "revenue_cr": 5593.74,
+  "nii_score": 2.8,
+  "nii_rank": 376,
+  "nii_sector_rank": 2,
+  "nii_rating": "Poor",
+  "nii_percentile": 28,
+  "taesc_cr": 751.17,
+  "nir": 0.1343,
+  "nir_pct": 13.43,
+  "breakdown": {
+    "climate": {
+      "value_cr": 305.02,
+      "pct": 40.6
+    },
+    "water": {
+      "value_cr": 25.2,
+      "pct": 3.4
+    },
+    "land": {
+      "value_cr": 100.68,
+      "pct": 13.4
+    },
+    "biodiversity": {
+      "value_cr": 220.73,
+      "pct": 29.4
+    },
+    "pollution": {
+      "value_cr": 99.55,
+      "pct": 13.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 3492.0,
+    "scope2_ghg_tco2e": 2088.0,
+    "scope3_ghg_tco2e": 710707.0,
+    "water_consumption_kl": 2086269.0,
+    "water_stress_score": 0.95,
+    "total_land_ha": 1235.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0034,
+    "waste_generated_mt": 97370.0,
+    "renewable_energy_pct": 99.9
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.8,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 751.17,
+    "sector_best_taesc": 511.32
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

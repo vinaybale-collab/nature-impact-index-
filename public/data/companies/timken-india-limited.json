@@ -1,0 +1,59 @@
+{
+  "company_name": "Timken India Limited",
+  "slug": "timken-india-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Karnataka",
+  "revenue_cr": 3147.81,
+  "nii_score": 6.1,
+  "nii_rank": 203,
+  "nii_sector_rank": 30,
+  "nii_rating": "Good",
+  "nii_percentile": 61,
+  "taesc_cr": 164.89,
+  "nir": 0.0524,
+  "nir_pct": 5.24,
+  "breakdown": {
+    "climate": {
+      "value_cr": 35.11,
+      "pct": 21.3
+    },
+    "water": {
+      "value_cr": 3.02,
+      "pct": 1.8
+    },
+    "land": {
+      "value_cr": 8.73,
+      "pct": 5.3
+    },
+    "biodiversity": {
+      "value_cr": 111.85,
+      "pct": 67.8
+    },
+    "pollution": {
+      "value_cr": 6.19,
+      "pct": 3.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 4483.0,
+    "scope2_ghg_tco2e": 32755.0,
+    "scope3_ghg_tco2e": 32400.0,
+    "water_consumption_kl": 175510.0,
+    "water_stress_score": 1.5,
+    "total_land_ha": 97.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0041,
+    "waste_generated_mt": 5524.0,
+    "renewable_energy_pct": 12.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

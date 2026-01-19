@@ -1,0 +1,59 @@
+{
+  "company_name": "HEG Limited",
+  "slug": "heg-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Gujarat",
+  "revenue_cr": 2394.9,
+  "nii_score": 1.5,
+  "nii_rank": 444,
+  "nii_sector_rank": 138,
+  "nii_rating": "Critical",
+  "nii_percentile": 15,
+  "taesc_cr": 645.12,
+  "nir": 0.2694,
+  "nir_pct": 26.94,
+  "breakdown": {
+    "climate": {
+      "value_cr": 508.36,
+      "pct": 78.8
+    },
+    "water": {
+      "value_cr": 17.47,
+      "pct": 2.7
+    },
+    "land": {
+      "value_cr": 20.7,
+      "pct": 3.2
+    },
+    "biodiversity": {
+      "value_cr": 92.99,
+      "pct": 14.4
+    },
+    "pollution": {
+      "value_cr": 5.6,
+      "pct": 0.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 178393.0,
+    "scope2_ghg_tco2e": 306219.0,
+    "scope3_ghg_tco2e": 360639.0,
+    "water_consumption_kl": 394428.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 230.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0188,
+    "waste_generated_mt": 4751.0,
+    "renewable_energy_pct": 8.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

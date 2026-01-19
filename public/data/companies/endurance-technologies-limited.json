@@ -1,0 +1,59 @@
+{
+  "company_name": "Endurance Technologies Limited",
+  "slug": "endurance-technologies-limited",
+  "sector": "Manufacturing - Automobiles",
+  "state": "Delhi",
+  "revenue_cr": 8846.15,
+  "nii_score": 6.1,
+  "nii_rank": 203,
+  "nii_sector_rank": 3,
+  "nii_rating": "Good",
+  "nii_percentile": 61,
+  "taesc_cr": 477.35,
+  "nir": 0.054,
+  "nir_pct": 5.4,
+  "breakdown": {
+    "climate": {
+      "value_cr": 143.68,
+      "pct": 30.1
+    },
+    "water": {
+      "value_cr": 42.4,
+      "pct": 8.9
+    },
+    "land": {
+      "value_cr": 19.45,
+      "pct": 4.1
+    },
+    "biodiversity": {
+      "value_cr": 236.18,
+      "pct": 49.5
+    },
+    "pollution": {
+      "value_cr": 35.65,
+      "pct": 7.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 53761.0,
+    "scope2_ghg_tco2e": 129279.0,
+    "scope3_ghg_tco2e": 10547.0,
+    "water_consumption_kl": 954516.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 360.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.0149,
+    "waste_generated_mt": 33230.0,
+    "renewable_energy_pct": 10.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.0,
+    "sector_median_taesc": 1910.81,
+    "sector_best_taesc": 77.36
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "Sun Pharma Advanced Research Company Limited",
+  "slug": "sun-pharma-advanced-research-company-limited",
+  "sector": "R&D Services",
+  "state": "Gujarat",
+  "revenue_cr": 105.01,
+  "nii_score": 2.6,
+  "nii_rank": 386,
+  "nii_sector_rank": 1,
+  "nii_rating": "Poor",
+  "nii_percentile": 26,
+  "taesc_cr": 15.02,
+  "nir": 0.143,
+  "nir_pct": 14.3,
+  "breakdown": {
+    "climate": {
+      "value_cr": 2.62,
+      "pct": 17.5
+    },
+    "water": {
+      "value_cr": 1.78,
+      "pct": 11.9
+    },
+    "land": {
+      "value_cr": 10.17,
+      "pct": 67.7
+    },
+    "biodiversity": {
+      "value_cr": 0.37,
+      "pct": 2.4
+    },
+    "pollution": {
+      "value_cr": 0.08,
+      "pct": 0.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 245.0,
+    "scope2_ghg_tco2e": 1240.0,
+    "scope3_ghg_tco2e": 3200.0,
+    "water_consumption_kl": 35665.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 124.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0129,
+    "waste_generated_mt": 50.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.6,
+    "sector_best_score": 2.6,
+    "sector_median_taesc": 15.02,
+    "sector_best_taesc": 15.02
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

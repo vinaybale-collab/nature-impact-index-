@@ -1,0 +1,59 @@
+{
+  "company_name": "Maharashtra Seamless Limited",
+  "slug": "maharashtra-seamless-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Tamil Nadu",
+  "revenue_cr": 5544.28,
+  "nii_score": 4.6,
+  "nii_rank": 281,
+  "nii_sector_rank": 70,
+  "nii_rating": "Average",
+  "nii_percentile": 46,
+  "taesc_cr": 444.2,
+  "nir": 0.0801,
+  "nir_pct": 8.01,
+  "breakdown": {
+    "climate": {
+      "value_cr": 172.42,
+      "pct": 38.8
+    },
+    "water": {
+      "value_cr": 25.9,
+      "pct": 5.8
+    },
+    "land": {
+      "value_cr": 32.4,
+      "pct": 7.3
+    },
+    "biodiversity": {
+      "value_cr": 213.38,
+      "pct": 48.0
+    },
+    "pollution": {
+      "value_cr": 0.1,
+      "pct": 0.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 99103.0,
+    "scope2_ghg_tco2e": 84500.0,
+    "scope3_ghg_tco2e": 83215.0,
+    "water_consumption_kl": 559712.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 360.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0173,
+    "waste_generated_mt": 22.0,
+    "renewable_energy_pct": 7.9
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "Sagar Cements",
+  "slug": "sagar-cements",
+  "sector": "Cement Manufacturing",
+  "state": "Unknown",
+  "revenue_cr": 2494.44,
+  "nii_score": 0.8,
+  "nii_rank": 481,
+  "nii_sector_rank": 9,
+  "nii_rating": "Critical",
+  "nii_percentile": 8,
+  "taesc_cr": 1588.49,
+  "nir": 0.6368,
+  "nir_pct": 63.68,
+  "breakdown": {
+    "climate": {
+      "value_cr": 1270.11,
+      "pct": 80.0
+    },
+    "water": {
+      "value_cr": 39.47,
+      "pct": 2.5
+    },
+    "land": {
+      "value_cr": 143.69,
+      "pct": 9.0
+    },
+    "biodiversity": {
+      "value_cr": 121.33,
+      "pct": 7.6
+    },
+    "pollution": {
+      "value_cr": 13.89,
+      "pct": 0.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 1452000.0,
+    "scope2_ghg_tco2e": 124500.0,
+    "scope3_ghg_tco2e": 84500.0,
+    "water_consumption_kl": 842000.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 1570.0,
+    "base_msa_loss": 0.465,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 4520.0,
+    "renewable_energy_pct": 14.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 0.8,
+    "sector_best_score": 4.9,
+    "sector_median_taesc": 4113.3,
+    "sector_best_taesc": 185.22
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

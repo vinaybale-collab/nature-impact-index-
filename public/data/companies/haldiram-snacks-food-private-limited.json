@@ -1,0 +1,59 @@
+{
+  "company_name": "Haldiram Snacks Food Private Limited",
+  "slug": "haldiram-snacks-food-private-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Unknown",
+  "revenue_cr": 10500.0,
+  "nii_score": 7.3,
+  "nii_rank": 140,
+  "nii_sector_rank": 17,
+  "nii_rating": "Good",
+  "nii_percentile": 73,
+  "taesc_cr": 388.29,
+  "nir": 0.037,
+  "nir_pct": 3.7,
+  "breakdown": {
+    "climate": {
+      "value_cr": 42.81,
+      "pct": 11.0
+    },
+    "water": {
+      "value_cr": 53.09,
+      "pct": 13.7
+    },
+    "land": {
+      "value_cr": 14.8,
+      "pct": 3.8
+    },
+    "biodiversity": {
+      "value_cr": 198.17,
+      "pct": 51.0
+    },
+    "pollution": {
+      "value_cr": 79.42,
+      "pct": 20.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 18500.0,
+    "scope2_ghg_tco2e": 42500.0,
+    "scope3_ghg_tco2e": 63740.0,
+    "water_consumption_kl": 1250000.0,
+    "water_stress_score": 4.64,
+    "total_land_ha": 200.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0102,
+    "waste_generated_mt": 5400.0,
+    "renewable_energy_pct": 28.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "JSW Infrastructure Limited",
+  "slug": "jsw-infrastructure-limited",
+  "sector": "Metals & Mining",
+  "state": "Karnataka",
+  "revenue_cr": 4476.14,
+  "nii_score": 1.5,
+  "nii_rank": 444,
+  "nii_sector_rank": 12,
+  "nii_rating": "Critical",
+  "nii_percentile": 15,
+  "taesc_cr": 1289.74,
+  "nir": 0.2881,
+  "nir_pct": 28.81,
+  "breakdown": {
+    "climate": {
+      "value_cr": 121.07,
+      "pct": 9.4
+    },
+    "water": {
+      "value_cr": 11.13,
+      "pct": 0.9
+    },
+    "land": {
+      "value_cr": 672.5,
+      "pct": 52.1
+    },
+    "biodiversity": {
+      "value_cr": 433.52,
+      "pct": 33.6
+    },
+    "pollution": {
+      "value_cr": 51.51,
+      "pct": 4.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 29642.0,
+    "scope2_ghg_tco2e": 81996.0,
+    "scope3_ghg_tco2e": 63449.0,
+    "water_consumption_kl": 490404.0,
+    "water_stress_score": 2.28,
+    "total_land_ha": 5750.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.11,
+    "waste_generated_mt": 43430.0,
+    "renewable_energy_pct": 0.9
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

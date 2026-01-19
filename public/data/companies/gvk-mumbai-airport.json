@@ -1,0 +1,59 @@
+{
+  "company_name": "GVK Mumbai Airport",
+  "slug": "gvk-mumbai-airport",
+  "sector": "Transportation & Logistics",
+  "state": "Unknown",
+  "revenue_cr": 4964.0,
+  "nii_score": 2.6,
+  "nii_rank": 386,
+  "nii_sector_rank": 12,
+  "nii_rating": "Poor",
+  "nii_percentile": 26,
+  "taesc_cr": 723.62,
+  "nir": 0.1458,
+  "nir_pct": 14.58,
+  "breakdown": {
+    "climate": {
+      "value_cr": 482.34,
+      "pct": 66.7
+    },
+    "water": {
+      "value_cr": 29.06,
+      "pct": 4.0
+    },
+    "land": {
+      "value_cr": 86.8,
+      "pct": 12.0
+    },
+    "biodiversity": {
+      "value_cr": 115.85,
+      "pct": 16.0
+    },
+    "pollution": {
+      "value_cr": 9.57,
+      "pct": 1.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 5214.0,
+    "scope2_ghg_tco2e": 64250.0,
+    "scope3_ghg_tco2e": 1124500.0,
+    "water_consumption_kl": 985000.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 1240.0,
+    "base_msa_loss": 0.465,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 4850.0,
+    "renewable_energy_pct": 100.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.3,
+    "sector_median_taesc": 599.33,
+    "sector_best_taesc": 125.54
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

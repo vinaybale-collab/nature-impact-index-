@@ -1,0 +1,59 @@
+{
+  "company_name": "eClerx Services Limited",
+  "slug": "eclerx-services-limited",
+  "sector": "Information Technology",
+  "state": "Delhi",
+  "revenue_cr": 2484.36,
+  "nii_score": 8.2,
+  "nii_rank": 92,
+  "nii_sector_rank": 25,
+  "nii_rating": "Excellent",
+  "nii_percentile": 82,
+  "taesc_cr": 16.76,
+  "nir": 0.0067,
+  "nir_pct": 0.67,
+  "breakdown": {
+    "climate": {
+      "value_cr": 6.49,
+      "pct": 38.7
+    },
+    "water": {
+      "value_cr": 2.13,
+      "pct": 12.7
+    },
+    "land": {
+      "value_cr": 0.57,
+      "pct": 3.4
+    },
+    "biodiversity": {
+      "value_cr": 7.3,
+      "pct": 43.5
+    },
+    "pollution": {
+      "value_cr": 0.27,
+      "pct": 1.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 549.0,
+    "scope2_ghg_tco2e": 3970.0,
+    "scope3_ghg_tco2e": 14173.0,
+    "water_consumption_kl": 86722.0,
+    "water_stress_score": 2.81,
+    "total_land_ha": 15.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.1017,
+    "waste_generated_mt": 99.0,
+    "renewable_energy_pct": 64.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 8.5,
+    "sector_best_score": 9.0,
+    "sector_median_taesc": 21.55,
+    "sector_best_taesc": 2.85
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

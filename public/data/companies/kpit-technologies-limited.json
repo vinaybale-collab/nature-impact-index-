@@ -1,0 +1,59 @@
+{
+  "company_name": "KPIT Technologies Limited",
+  "slug": "kpit-technologies-limited",
+  "sector": "Information Technology",
+  "state": "Gujarat",
+  "revenue_cr": 2563.93,
+  "nii_score": 8.3,
+  "nii_rank": 87,
+  "nii_sector_rank": 22,
+  "nii_rating": "Excellent",
+  "nii_percentile": 83,
+  "taesc_cr": 17.2,
+  "nir": 0.0067,
+  "nir_pct": 0.67,
+  "breakdown": {
+    "climate": {
+      "value_cr": 2.57,
+      "pct": 14.9
+    },
+    "water": {
+      "value_cr": 2.79,
+      "pct": 16.2
+    },
+    "land": {
+      "value_cr": 5.97,
+      "pct": 34.7
+    },
+    "biodiversity": {
+      "value_cr": 5.21,
+      "pct": 30.3
+    },
+    "pollution": {
+      "value_cr": 0.67,
+      "pct": 3.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 769.0,
+    "scope2_ghg_tco2e": 2647.0,
+    "scope3_ghg_tco2e": 4500.0,
+    "water_consumption_kl": 73708.0,
+    "water_stress_score": 4.63,
+    "total_land_ha": 157.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0208,
+    "waste_generated_mt": 68.0,
+    "renewable_energy_pct": 25.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 8.5,
+    "sector_best_score": 9.0,
+    "sector_median_taesc": 21.55,
+    "sector_best_taesc": 2.85
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "Waaree Renewable Technologies Limited",
+  "slug": "waaree-renewable-technologies-limited",
+  "sector": "Energy & Power",
+  "state": "West Bengal",
+  "revenue_cr": 1597.46,
+  "nii_score": 3.0,
+  "nii_rank": 365,
+  "nii_sector_rank": 14,
+  "nii_rating": "Poor",
+  "nii_percentile": 30,
+  "taesc_cr": 196.18,
+  "nir": 0.1228,
+  "nir_pct": 12.28,
+  "breakdown": {
+    "climate": {
+      "value_cr": 14.04,
+      "pct": 7.2
+    },
+    "water": {
+      "value_cr": 2.04,
+      "pct": 1.0
+    },
+    "land": {
+      "value_cr": 77.83,
+      "pct": 39.7
+    },
+    "biodiversity": {
+      "value_cr": 102.11,
+      "pct": 52.0
+    },
+    "pollution": {
+      "value_cr": 0.16,
+      "pct": 0.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 313.0,
+    "scope2_ghg_tco2e": 214.0,
+    "scope3_ghg_tco2e": 32400.0,
+    "water_consumption_kl": 80066.0,
+    "water_stress_score": 2.28,
+    "total_land_ha": 1255.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.11,
+    "waste_generated_mt": 66.0,
+    "renewable_energy_pct": 100.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.9,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1859.41,
+    "sector_best_taesc": 22.51
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

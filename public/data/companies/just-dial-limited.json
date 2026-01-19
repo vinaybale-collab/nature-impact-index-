@@ -1,0 +1,59 @@
+{
+  "company_name": "Just Dial Limited",
+  "slug": "just-dial-limited",
+  "sector": "Information Technology",
+  "state": "Maharashtra",
+  "revenue_cr": 1141.93,
+  "nii_score": 8.3,
+  "nii_rank": 87,
+  "nii_sector_rank": 22,
+  "nii_rating": "Excellent",
+  "nii_percentile": 83,
+  "taesc_cr": 7.05,
+  "nir": 0.0062,
+  "nir_pct": 0.62,
+  "breakdown": {
+    "climate": {
+      "value_cr": 2.35,
+      "pct": 33.3
+    },
+    "water": {
+      "value_cr": 0.56,
+      "pct": 8.0
+    },
+    "land": {
+      "value_cr": 0.46,
+      "pct": 6.5
+    },
+    "biodiversity": {
+      "value_cr": 3.35,
+      "pct": 47.6
+    },
+    "pollution": {
+      "value_cr": 0.33,
+      "pct": 4.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 35.0,
+    "scope2_ghg_tco2e": 7261.0,
+    "scope3_ghg_tco2e": 2100.0,
+    "water_consumption_kl": 18540.0,
+    "water_stress_score": 2.81,
+    "total_land_ha": 12.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.1017,
+    "waste_generated_mt": 9.0,
+    "renewable_energy_pct": 100.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 8.5,
+    "sector_best_score": 9.0,
+    "sector_median_taesc": 21.55,
+    "sector_best_taesc": 2.85
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

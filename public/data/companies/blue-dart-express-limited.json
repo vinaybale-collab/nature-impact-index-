@@ -1,0 +1,59 @@
+{
+  "company_name": "Blue Dart Express Limited",
+  "slug": "blue-dart-express-limited",
+  "sector": "Transportation & Logistics",
+  "state": "Telangana",
+  "revenue_cr": 5720.18,
+  "nii_score": 3.7,
+  "nii_rank": 329,
+  "nii_sector_rank": 8,
+  "nii_rating": "Poor",
+  "nii_percentile": 37,
+  "taesc_cr": 577.89,
+  "nir": 0.101,
+  "nir_pct": 10.1,
+  "breakdown": {
+    "climate": {
+      "value_cr": 286.87,
+      "pct": 49.6
+    },
+    "water": {
+      "value_cr": 2.22,
+      "pct": 0.4
+    },
+    "land": {
+      "value_cr": 88.55,
+      "pct": 15.3
+    },
+    "biodiversity": {
+      "value_cr": 197.75,
+      "pct": 34.2
+    },
+    "pollution": {
+      "value_cr": 2.5,
+      "pct": 0.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 170806.0,
+    "scope2_ghg_tco2e": 15906.0,
+    "scope3_ghg_tco2e": 309989.0,
+    "water_consumption_kl": 87154.0,
+    "water_stress_score": 2.28,
+    "total_land_ha": 1265.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.11,
+    "waste_generated_mt": 235.0,
+    "renewable_energy_pct": 1.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.3,
+    "sector_median_taesc": 599.33,
+    "sector_best_taesc": 125.54
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

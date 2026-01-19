@@ -1,0 +1,59 @@
+{
+  "company_name": "Birlasoft Limited",
+  "slug": "birlasoft-limited",
+  "sector": "Information Technology",
+  "state": "West Bengal",
+  "revenue_cr": 2657.88,
+  "nii_score": 8.2,
+  "nii_rank": 92,
+  "nii_sector_rank": 25,
+  "nii_rating": "Excellent",
+  "nii_percentile": 82,
+  "taesc_cr": 22.94,
+  "nir": 0.0086,
+  "nir_pct": 0.86,
+  "breakdown": {
+    "climate": {
+      "value_cr": 14.16,
+      "pct": 61.7
+    },
+    "water": {
+      "value_cr": 1.44,
+      "pct": 6.3
+    },
+    "land": {
+      "value_cr": 0.95,
+      "pct": 4.1
+    },
+    "biodiversity": {
+      "value_cr": 5.4,
+      "pct": 23.5
+    },
+    "pollution": {
+      "value_cr": 0.99,
+      "pct": 4.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 472.0,
+    "scope2_ghg_tco2e": 3721.0,
+    "scope3_ghg_tco2e": 25607.0,
+    "water_consumption_kl": 38163.0,
+    "water_stress_score": 4.63,
+    "total_land_ha": 25.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.0208,
+    "waste_generated_mt": 102.0,
+    "renewable_energy_pct": 10.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 8.5,
+    "sector_best_score": 9.0,
+    "sector_median_taesc": 21.55,
+    "sector_best_taesc": 2.85
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

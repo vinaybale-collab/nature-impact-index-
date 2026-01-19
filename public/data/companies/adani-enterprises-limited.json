@@ -1,0 +1,59 @@
+{
+  "company_name": "Adani Enterprises Limited",
+  "slug": "adani-enterprises-limited",
+  "sector": "Diversified Conglomerate",
+  "state": "Maharashtra",
+  "revenue_cr": 97894.75,
+  "nii_score": 2.8,
+  "nii_rank": 376,
+  "nii_sector_rank": 1,
+  "nii_rating": "Poor",
+  "nii_percentile": 28,
+  "taesc_cr": 13114.43,
+  "nir": 0.134,
+  "nir_pct": 13.4,
+  "breakdown": {
+    "climate": {
+      "value_cr": 5305.77,
+      "pct": 40.5
+    },
+    "water": {
+      "value_cr": 274.35,
+      "pct": 2.1
+    },
+    "land": {
+      "value_cr": 1131.51,
+      "pct": 8.6
+    },
+    "biodiversity": {
+      "value_cr": 3072.69,
+      "pct": 23.4
+    },
+    "pollution": {
+      "value_cr": 3330.11,
+      "pct": 25.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 1255719.0,
+    "scope2_ghg_tco2e": 419927.0,
+    "scope3_ghg_tco2e": 9365982.0,
+    "water_consumption_kl": 5852818.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 13900.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.004,
+    "waste_generated_mt": 247572956.0,
+    "renewable_energy_pct": 12.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.0,
+    "sector_best_score": 2.8,
+    "sector_median_taesc": 12301.58,
+    "sector_best_taesc": 11488.73
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

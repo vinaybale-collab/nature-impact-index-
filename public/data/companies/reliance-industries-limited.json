@@ -1,0 +1,59 @@
+{
+  "company_name": "Reliance Industries Limited",
+  "slug": "reliance-industries-limited",
+  "sector": "Oil & Gas",
+  "state": "Karnataka",
+  "revenue_cr": 574956.49,
+  "nii_score": 1.7,
+  "nii_rank": 434,
+  "nii_sector_rank": 7,
+  "nii_rating": "Critical",
+  "nii_percentile": 17,
+  "taesc_cr": 145109.14,
+  "nir": 0.2524,
+  "nir_pct": 25.24,
+  "breakdown": {
+    "climate": {
+      "value_cr": 93517.97,
+      "pct": 64.4
+    },
+    "water": {
+      "value_cr": 4740.73,
+      "pct": 3.3
+    },
+    "land": {
+      "value_cr": 1466.61,
+      "pct": 1.0
+    },
+    "biodiversity": {
+      "value_cr": 44303.31,
+      "pct": 30.5
+    },
+    "pollution": {
+      "value_cr": 1080.53,
+      "pct": 0.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 36459294.0,
+    "scope2_ghg_tco2e": 1470097.0,
+    "scope3_ghg_tco2e": 147123685.0,
+    "water_consumption_kl": 208465383.0,
+    "water_stress_score": 2.57,
+    "total_land_ha": 13965.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0823,
+    "waste_generated_mt": 760123.0,
+    "renewable_energy_pct": 2.3
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.6,
+    "sector_best_score": 5.4,
+    "sector_median_taesc": 7850.63,
+    "sector_best_taesc": 258.92
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

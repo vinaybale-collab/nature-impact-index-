@@ -1,0 +1,59 @@
+{
+  "company_name": "Tata Steel Limited",
+  "slug": "tata-steel-limited",
+  "sector": "Metals & Mining",
+  "state": "Delhi",
+  "revenue_cr": 140932.65,
+  "nii_score": 1.4,
+  "nii_rank": 449,
+  "nii_sector_rank": 14,
+  "nii_rating": "Critical",
+  "nii_percentile": 14,
+  "taesc_cr": 44708.96,
+  "nir": 0.3172,
+  "nir_pct": 31.72,
+  "breakdown": {
+    "climate": {
+      "value_cr": 9987.55,
+      "pct": 22.3
+    },
+    "water": {
+      "value_cr": 2765.81,
+      "pct": 6.2
+    },
+    "land": {
+      "value_cr": 2651.1,
+      "pct": 5.9
+    },
+    "biodiversity": {
+      "value_cr": 11840.67,
+      "pct": 26.5
+    },
+    "pollution": {
+      "value_cr": 17463.83,
+      "pct": 39.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 61.0,
+    "scope2_ghg_tco2e": 5.0,
+    "scope3_ghg_tco2e": 23500000.0,
+    "water_consumption_kl": 110829245.0,
+    "water_stress_score": 2.75,
+    "total_land_ha": 22650.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.0747,
+    "waste_generated_mt": 17352473.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

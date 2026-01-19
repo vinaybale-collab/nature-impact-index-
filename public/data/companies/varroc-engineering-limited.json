@@ -1,0 +1,59 @@
+{
+  "company_name": "Varroc Engineering Limited",
+  "slug": "varroc-engineering-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Telangana",
+  "revenue_cr": 77305.0,
+  "nii_score": 7.1,
+  "nii_rank": 150,
+  "nii_sector_rank": 8,
+  "nii_rating": "Good",
+  "nii_percentile": 71,
+  "taesc_cr": 3098.22,
+  "nir": 0.0401,
+  "nir_pct": 4.01,
+  "breakdown": {
+    "climate": {
+      "value_cr": 108.49,
+      "pct": 3.5
+    },
+    "water": {
+      "value_cr": 17.2,
+      "pct": 0.6
+    },
+    "land": {
+      "value_cr": 23.4,
+      "pct": 0.8
+    },
+    "biodiversity": {
+      "value_cr": 2935.0,
+      "pct": 94.7
+    },
+    "pollution": {
+      "value_cr": 14.13,
+      "pct": 0.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 2157.0,
+    "scope2_ghg_tco2e": 100639.0,
+    "scope3_ghg_tco2e": 89000.0,
+    "water_consumption_kl": 443989.0,
+    "water_stress_score": 4.29,
+    "total_land_ha": 260.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.015,
+    "waste_generated_mt": 12375.0,
+    "renewable_energy_pct": 10.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

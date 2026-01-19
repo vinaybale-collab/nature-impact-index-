@@ -1,0 +1,59 @@
+{
+  "company_name": "GODREJ AGROVET LIMITED",
+  "slug": "godrej-agrovet-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Gujarat",
+  "revenue_cr": 7087.8,
+  "nii_score": 2.4,
+  "nii_rank": 397,
+  "nii_sector_rank": 123,
+  "nii_rating": "Poor",
+  "nii_percentile": 24,
+  "taesc_cr": 1174.5,
+  "nir": 0.1657,
+  "nir_pct": 16.57,
+  "breakdown": {
+    "climate": {
+      "value_cr": 387.99,
+      "pct": 33.0
+    },
+    "water": {
+      "value_cr": 19.95,
+      "pct": 1.7
+    },
+    "land": {
+      "value_cr": 263.72,
+      "pct": 22.5
+    },
+    "biodiversity": {
+      "value_cr": 438.86,
+      "pct": 37.4
+    },
+    "pollution": {
+      "value_cr": 63.98,
+      "pct": 5.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 2045.0,
+    "scope2_ghg_tco2e": 39435.0,
+    "scope3_ghg_tco2e": 908833.0,
+    "water_consumption_kl": 937884.0,
+    "water_stress_score": 2.05,
+    "total_land_ha": 2950.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.1219,
+    "waste_generated_mt": 40145.0,
+    "renewable_energy_pct": 89.3
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

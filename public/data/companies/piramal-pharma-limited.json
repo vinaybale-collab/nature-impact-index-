@@ -1,0 +1,59 @@
+{
+  "company_name": "Piramal Pharma Limited",
+  "slug": "piramal-pharma-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "West Bengal",
+  "revenue_cr": 5285.71,
+  "nii_score": 4.0,
+  "nii_rank": 313,
+  "nii_sector_rank": 48,
+  "nii_rating": "Average",
+  "nii_percentile": 40,
+  "taesc_cr": 492.0,
+  "nir": 0.0931,
+  "nir_pct": 9.31,
+  "breakdown": {
+    "climate": {
+      "value_cr": 257.33,
+      "pct": 52.3
+    },
+    "water": {
+      "value_cr": 8.66,
+      "pct": 1.8
+    },
+    "land": {
+      "value_cr": 46.25,
+      "pct": 9.4
+    },
+    "biodiversity": {
+      "value_cr": 153.14,
+      "pct": 31.1
+    },
+    "pollution": {
+      "value_cr": 26.61,
+      "pct": 5.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 32279.0,
+    "scope2_ghg_tco2e": 64667.0,
+    "scope3_ghg_tco2e": 491081.0,
+    "water_consumption_kl": 586366.0,
+    "water_stress_score": 2.73,
+    "total_land_ha": 625.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.1004,
+    "waste_generated_mt": 21737.0,
+    "renewable_energy_pct": 14.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

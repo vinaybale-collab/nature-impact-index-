@@ -1,0 +1,59 @@
+{
+  "company_name": "Zydus Lifesciences Limited",
+  "slug": "zydus-lifesciences-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Gujarat",
+  "revenue_cr": 22573.8,
+  "nii_score": 7.5,
+  "nii_rank": 129,
+  "nii_sector_rank": 13,
+  "nii_rating": "Good",
+  "nii_percentile": 75,
+  "taesc_cr": 785.5,
+  "nir": 0.0348,
+  "nir_pct": 3.48,
+  "breakdown": {
+    "climate": {
+      "value_cr": 168.34,
+      "pct": 21.4
+    },
+    "water": {
+      "value_cr": 98.14,
+      "pct": 12.5
+    },
+    "land": {
+      "value_cr": 35.52,
+      "pct": 4.5
+    },
+    "biodiversity": {
+      "value_cr": 432.04,
+      "pct": 55.0
+    },
+    "pollution": {
+      "value_cr": 51.46,
+      "pct": 6.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 56459.0,
+    "scope2_ghg_tco2e": 205172.0,
+    "scope3_ghg_tco2e": 66916.0,
+    "water_consumption_kl": 2487608.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 480.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0126,
+    "waste_generated_mt": 32105.0,
+    "renewable_energy_pct": 11.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

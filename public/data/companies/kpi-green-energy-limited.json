@@ -1,0 +1,59 @@
+{
+  "company_name": "KPI GREEN ENERGY LIMITED",
+  "slug": "kpi-green-energy-limited",
+  "sector": "Energy & Power",
+  "state": "Maharashtra",
+  "revenue_cr": 1755.16,
+  "nii_score": 2.7,
+  "nii_rank": 381,
+  "nii_sector_rank": 16,
+  "nii_rating": "Poor",
+  "nii_percentile": 27,
+  "taesc_cr": 245.68,
+  "nir": 0.14,
+  "nir_pct": 14.0,
+  "breakdown": {
+    "climate": {
+      "value_cr": 6.92,
+      "pct": 2.8
+    },
+    "water": {
+      "value_cr": 0.07,
+      "pct": 0.0
+    },
+    "land": {
+      "value_cr": 168.39,
+      "pct": 68.5
+    },
+    "biodiversity": {
+      "value_cr": 70.24,
+      "pct": 28.6
+    },
+    "pollution": {
+      "value_cr": 0.06,
+      "pct": 0.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 445.0,
+    "scope2_ghg_tco2e": 288.0,
+    "scope3_ghg_tco2e": 15400.0,
+    "water_consumption_kl": 1688.0,
+    "water_stress_score": 3.79,
+    "total_land_ha": 1965.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.0051,
+    "waste_generated_mt": 0.0,
+    "renewable_energy_pct": 100.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.9,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1859.41,
+    "sector_best_taesc": 22.51
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

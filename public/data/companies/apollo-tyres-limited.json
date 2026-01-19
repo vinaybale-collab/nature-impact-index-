@@ -1,0 +1,59 @@
+{
+  "company_name": "Apollo Tyres Limited",
+  "slug": "apollo-tyres-limited",
+  "sector": "Manufacturing - Automobiles",
+  "state": "Delhi",
+  "revenue_cr": 17870.6,
+  "nii_score": 5.9,
+  "nii_rank": 213,
+  "nii_sector_rank": 4,
+  "nii_rating": "Average",
+  "nii_percentile": 59,
+  "taesc_cr": 1037.36,
+  "nir": 0.058,
+  "nir_pct": 5.8,
+  "breakdown": {
+    "climate": {
+      "value_cr": 350.66,
+      "pct": 33.8
+    },
+    "water": {
+      "value_cr": 64.81,
+      "pct": 6.2
+    },
+    "land": {
+      "value_cr": 59.47,
+      "pct": 5.7
+    },
+    "biodiversity": {
+      "value_cr": 524.08,
+      "pct": 50.5
+    },
+    "pollution": {
+      "value_cr": 38.35,
+      "pct": 3.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 257516.0,
+    "scope2_ghg_tco2e": 241414.0,
+    "scope3_ghg_tco2e": 176362.0,
+    "water_consumption_kl": 1888750.0,
+    "water_stress_score": 3.74,
+    "total_land_ha": 770.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.0162,
+    "waste_generated_mt": 32091.0,
+    "renewable_energy_pct": 15.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.0,
+    "sector_median_taesc": 1910.81,
+    "sector_best_taesc": 77.36
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

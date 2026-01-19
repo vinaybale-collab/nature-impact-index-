@@ -1,0 +1,59 @@
+{
+  "company_name": "Tata Consultancy Services Limited",
+  "slug": "tata-consultancy-services-limited",
+  "sector": "Information Technology",
+  "state": "West Bengal",
+  "revenue_cr": 255324.0,
+  "nii_score": 8.7,
+  "nii_rank": 66,
+  "nii_sector_rank": 7,
+  "nii_rating": "Excellent",
+  "nii_percentile": 87,
+  "taesc_cr": 1060.35,
+  "nir": 0.0042,
+  "nir_pct": 0.42,
+  "breakdown": {
+    "climate": {
+      "value_cr": 240.04,
+      "pct": 22.6
+    },
+    "water": {
+      "value_cr": 99.07,
+      "pct": 9.3
+    },
+    "land": {
+      "value_cr": 20.06,
+      "pct": 1.9
+    },
+    "biodiversity": {
+      "value_cr": 669.78,
+      "pct": 63.2
+    },
+    "pollution": {
+      "value_cr": 31.41,
+      "pct": 3.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 20495.0,
+    "scope2_ghg_tco2e": 55599.0,
+    "scope3_ghg_tco2e": 523810.0,
+    "water_consumption_kl": 3488269.0,
+    "water_stress_score": 3.54,
+    "total_land_ha": 575.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.0737,
+    "waste_generated_mt": 9983.0,
+    "renewable_energy_pct": 60.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 8.5,
+    "sector_best_score": 9.0,
+    "sector_median_taesc": 21.55,
+    "sector_best_taesc": 2.85
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

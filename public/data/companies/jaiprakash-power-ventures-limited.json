@@ -1,0 +1,59 @@
+{
+  "company_name": "JAIPRAKASH POWER VENTURES LIMITED",
+  "slug": "jaiprakash-power-ventures-limited",
+  "sector": "Energy & Power",
+  "state": "Karnataka",
+  "revenue_cr": 6762.79,
+  "nii_score": 0.3,
+  "nii_rank": 507,
+  "nii_sector_rank": 23,
+  "nii_rating": "Critical",
+  "nii_percentile": 3,
+  "taesc_cr": 11125.74,
+  "nir": 1.6451,
+  "nir_pct": 164.51,
+  "breakdown": {
+    "climate": {
+      "value_cr": 7198.19,
+      "pct": 64.7
+    },
+    "water": {
+      "value_cr": 759.67,
+      "pct": 6.8
+    },
+    "land": {
+      "value_cr": 365.2,
+      "pct": 3.3
+    },
+    "biodiversity": {
+      "value_cr": 280.64,
+      "pct": 2.5
+    },
+    "pollution": {
+      "value_cr": 2522.05,
+      "pct": 22.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 7845953.0,
+    "scope2_ghg_tco2e": 373458.0,
+    "scope3_ghg_tco2e": 1245000.0,
+    "water_consumption_kl": 26240542.0,
+    "water_stress_score": 4.92,
+    "total_land_ha": 4300.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.011,
+    "waste_generated_mt": 2509222.0,
+    "renewable_energy_pct": 31.7
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.9,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1859.41,
+    "sector_best_taesc": 22.51
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

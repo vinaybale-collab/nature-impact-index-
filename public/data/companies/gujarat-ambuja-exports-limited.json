@@ -1,0 +1,59 @@
+{
+  "company_name": "Gujarat Ambuja Exports Limited",
+  "slug": "gujarat-ambuja-exports-limited",
+  "sector": "Transportation & Logistics",
+  "state": "Gujarat",
+  "revenue_cr": 4926.93,
+  "nii_score": 2.2,
+  "nii_rank": 407,
+  "nii_sector_rank": 14,
+  "nii_rating": "Poor",
+  "nii_percentile": 22,
+  "taesc_cr": 951.91,
+  "nir": 0.1932,
+  "nir_pct": 19.32,
+  "breakdown": {
+    "climate": {
+      "value_cr": 685.22,
+      "pct": 72.0
+    },
+    "water": {
+      "value_cr": 110.95,
+      "pct": 11.7
+    },
+    "land": {
+      "value_cr": 33.04,
+      "pct": 3.5
+    },
+    "biodiversity": {
+      "value_cr": 111.62,
+      "pct": 11.7
+    },
+    "pollution": {
+      "value_cr": 11.07,
+      "pct": 1.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 772138.0,
+    "scope2_ghg_tco2e": 22326.0,
+    "scope3_ghg_tco2e": 23418.0,
+    "water_consumption_kl": 2392500.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 472.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0036,
+    "waste_generated_mt": 6685.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.3,
+    "sector_median_taesc": 599.33,
+    "sector_best_taesc": 125.54
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

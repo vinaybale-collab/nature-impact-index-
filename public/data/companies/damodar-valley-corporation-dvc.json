@@ -1,0 +1,59 @@
+{
+  "company_name": "Damodar Valley Corporation (DVC)",
+  "slug": "damodar-valley-corporation-dvc",
+  "sector": "Energy & Power",
+  "state": "Unknown",
+  "revenue_cr": 21200.0,
+  "nii_score": 0.2,
+  "nii_rank": 512,
+  "nii_sector_rank": 27,
+  "nii_rating": "Critical",
+  "nii_percentile": 2,
+  "taesc_cr": 53135.44,
+  "nir": 2.5064,
+  "nir_pct": 250.64,
+  "breakdown": {
+    "climate": {
+      "value_cr": 36216.8,
+      "pct": 68.2
+    },
+    "water": {
+      "value_cr": 2286.8,
+      "pct": 4.3
+    },
+    "land": {
+      "value_cr": 1266.2,
+      "pct": 2.4
+    },
+    "biodiversity": {
+      "value_cr": 835.56,
+      "pct": 1.6
+    },
+    "pollution": {
+      "value_cr": 12530.07,
+      "pct": 23.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 42500000.0,
+    "scope2_ghg_tco2e": 12400.0,
+    "scope3_ghg_tco2e": 216004.0,
+    "water_consumption_kl": 154200000.0,
+    "water_stress_score": 2.25,
+    "total_land_ha": 15700.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0027,
+    "waste_generated_mt": 12500000.0,
+    "renewable_energy_pct": 0.7
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.9,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1859.41,
+    "sector_best_taesc": 22.51
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "STATE BANK OF INDIA",
+  "slug": "state-bank-of-india",
+  "sector": "Banking & Financial Services",
+  "state": "Delhi",
+  "revenue_cr": 524192.78,
+  "nii_score": 9.4,
+  "nii_rank": 29,
+  "nii_sector_rank": 25,
+  "nii_rating": "Excellent",
+  "nii_percentile": 94,
+  "taesc_cr": 736.83,
+  "nir": 0.0014,
+  "nir_pct": 0.14,
+  "breakdown": {
+    "climate": {
+      "value_cr": 570.6,
+      "pct": 77.4
+    },
+    "water": {
+      "value_cr": 56.63,
+      "pct": 7.7
+    },
+    "land": {
+      "value_cr": 6.3,
+      "pct": 0.9
+    },
+    "biodiversity": {
+      "value_cr": 77.84,
+      "pct": 10.6
+    },
+    "pollution": {
+      "value_cr": 25.46,
+      "pct": 3.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 49583.0,
+    "scope2_ghg_tco2e": 656819.0,
+    "scope3_ghg_tco2e": 41500.0,
+    "water_consumption_kl": 2822203.0,
+    "water_stress_score": 1.67,
+    "total_land_ha": 210.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.1322,
+    "waste_generated_mt": 4926.0,
+    "renewable_energy_pct": 10.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 9.3,
+    "sector_best_score": 10.0,
+    "sector_median_taesc": 23.47,
+    "sector_best_taesc": 0.5
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

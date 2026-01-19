@@ -1,0 +1,59 @@
+{
+  "company_name": "Himadri Speciality Chemical Limited",
+  "slug": "himadri-speciality-chemical-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Unknown",
+  "revenue_cr": 4595.8,
+  "nii_score": 2.5,
+  "nii_rank": 392,
+  "nii_sector_rank": 122,
+  "nii_rating": "Poor",
+  "nii_percentile": 25,
+  "taesc_cr": 710.92,
+  "nir": 0.1547,
+  "nir_pct": 15.47,
+  "breakdown": {
+    "climate": {
+      "value_cr": 474.3,
+      "pct": 66.7
+    },
+    "water": {
+      "value_cr": 16.27,
+      "pct": 2.3
+    },
+    "land": {
+      "value_cr": 17.73,
+      "pct": 2.5
+    },
+    "biodiversity": {
+      "value_cr": 173.21,
+      "pct": 24.4
+    },
+    "pollution": {
+      "value_cr": 29.4,
+      "pct": 4.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 425100.0,
+    "scope2_ghg_tco2e": 32400.0,
+    "scope3_ghg_tco2e": 234000.0,
+    "water_consumption_kl": 1245000.0,
+    "water_stress_score": 2.35,
+    "total_land_ha": 197.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0137,
+    "waste_generated_mt": 18450.0,
+    "renewable_energy_pct": 18.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

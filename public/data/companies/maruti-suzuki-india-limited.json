@@ -1,0 +1,59 @@
+{
+  "company_name": "Maruti Suzuki India Limited",
+  "slug": "maruti-suzuki-india-limited",
+  "sector": "Manufacturing - Automobiles",
+  "state": "Tamil Nadu",
+  "revenue_cr": 151900.08,
+  "nii_score": 3.0,
+  "nii_rank": 365,
+  "nii_sector_rank": 8,
+  "nii_rating": "Poor",
+  "nii_percentile": 30,
+  "taesc_cr": 18746.16,
+  "nir": 0.1234,
+  "nir_pct": 12.34,
+  "breakdown": {
+    "climate": {
+      "value_cr": 13904.15,
+      "pct": 74.2
+    },
+    "water": {
+      "value_cr": 68.64,
+      "pct": 0.4
+    },
+    "land": {
+      "value_cr": 53.74,
+      "pct": 0.3
+    },
+    "biodiversity": {
+      "value_cr": 4298.67,
+      "pct": 22.9
+    },
+    "pollution": {
+      "value_cr": 420.96,
+      "pct": 2.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 225537.0,
+    "scope2_ghg_tco2e": 215368.0,
+    "scope3_ghg_tco2e": 32264576.0,
+    "water_consumption_kl": 2128699.0,
+    "water_stress_score": 4.64,
+    "total_land_ha": 695.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.01,
+    "waste_generated_mt": 188768.0,
+    "renewable_energy_pct": 10.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.0,
+    "sector_median_taesc": 1910.81,
+    "sector_best_taesc": 77.36
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

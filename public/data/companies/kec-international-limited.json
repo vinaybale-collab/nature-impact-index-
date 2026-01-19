@@ -1,0 +1,59 @@
+{
+  "company_name": "KEC International Limited",
+  "slug": "kec-international-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Maharashtra",
+  "revenue_cr": 21847.0,
+  "nii_score": 5.4,
+  "nii_rank": 239,
+  "nii_sector_rank": 52,
+  "nii_rating": "Average",
+  "nii_percentile": 54,
+  "taesc_cr": 1438.1,
+  "nir": 0.0658,
+  "nir_pct": 6.58,
+  "breakdown": {
+    "climate": {
+      "value_cr": 88.31,
+      "pct": 6.1
+    },
+    "water": {
+      "value_cr": 47.42,
+      "pct": 3.3
+    },
+    "land": {
+      "value_cr": 14.85,
+      "pct": 1.0
+    },
+    "biodiversity": {
+      "value_cr": 1247.34,
+      "pct": 86.7
+    },
+    "pollution": {
+      "value_cr": 40.18,
+      "pct": 2.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 61095.0,
+    "scope2_ghg_tco2e": 35443.0,
+    "scope3_ghg_tco2e": 85600.0,
+    "water_consumption_kl": 1728859.0,
+    "water_stress_score": 2.73,
+    "total_land_ha": 165.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.1004,
+    "waste_generated_mt": 36175.0,
+    "renewable_energy_pct": 15.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "PNC Infratech Limited",
+  "slug": "pnc-infratech-limited",
+  "sector": "Construction & Engineering",
+  "state": "Delhi",
+  "revenue_cr": 7699.2,
+  "nii_score": 4.4,
+  "nii_rank": 292,
+  "nii_sector_rank": 2,
+  "nii_rating": "Average",
+  "nii_percentile": 44,
+  "taesc_cr": 641.04,
+  "nir": 0.0833,
+  "nir_pct": 8.33,
+  "breakdown": {
+    "climate": {
+      "value_cr": 196.62,
+      "pct": 30.7
+    },
+    "water": {
+      "value_cr": 167.18,
+      "pct": 26.1
+    },
+    "land": {
+      "value_cr": 38.0,
+      "pct": 5.9
+    },
+    "biodiversity": {
+      "value_cr": 235.93,
+      "pct": 36.8
+    },
+    "pollution": {
+      "value_cr": 3.32,
+      "pct": 0.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 214342.0,
+    "scope2_ghg_tco2e": 4945.0,
+    "scope3_ghg_tco2e": 24054.0,
+    "water_consumption_kl": 3732778.0,
+    "water_stress_score": 4.55,
+    "total_land_ha": 655.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.0125,
+    "waste_generated_mt": 2089.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 5.4,
+    "sector_best_score": 6.5,
+    "sector_median_taesc": 6895.07,
+    "sector_best_taesc": 641.04
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

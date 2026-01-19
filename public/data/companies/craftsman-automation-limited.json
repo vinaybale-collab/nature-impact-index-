@@ -1,0 +1,59 @@
+{
+  "company_name": "Craftsman Automation Limited",
+  "slug": "craftsman-automation-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Maharashtra",
+  "revenue_cr": 3847.94,
+  "nii_score": 4.9,
+  "nii_rank": 266,
+  "nii_sector_rank": 67,
+  "nii_rating": "Average",
+  "nii_percentile": 49,
+  "taesc_cr": 286.14,
+  "nir": 0.0744,
+  "nir_pct": 7.44,
+  "breakdown": {
+    "climate": {
+      "value_cr": 103.24,
+      "pct": 36.1
+    },
+    "water": {
+      "value_cr": 8.53,
+      "pct": 3.0
+    },
+    "land": {
+      "value_cr": 20.7,
+      "pct": 7.2
+    },
+    "biodiversity": {
+      "value_cr": 151.45,
+      "pct": 52.9
+    },
+    "pollution": {
+      "value_cr": 2.21,
+      "pct": 0.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 24523.0,
+    "scope2_ghg_tco2e": 97250.0,
+    "scope3_ghg_tco2e": 54000.0,
+    "water_consumption_kl": 291012.0,
+    "water_stress_score": 3.04,
+    "total_land_ha": 230.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0212,
+    "waste_generated_mt": 1963.0,
+    "renewable_energy_pct": 21.6
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "YES Bank Limited",
+  "slug": "yes-bank-limited",
+  "sector": "Banking & Financial Services",
+  "state": "Karnataka",
+  "revenue_cr": 36751.77,
+  "nii_score": 7.8,
+  "nii_rank": 113,
+  "nii_sector_rank": 61,
+  "nii_rating": "Good",
+  "nii_percentile": 78,
+  "taesc_cr": 913.72,
+  "nir": 0.0249,
+  "nir_pct": 2.49,
+  "breakdown": {
+    "climate": {
+      "value_cr": 900.33,
+      "pct": 98.5
+    },
+    "water": {
+      "value_cr": 6.38,
+      "pct": 0.7
+    },
+    "land": {
+      "value_cr": 0.15,
+      "pct": 0.0
+    },
+    "biodiversity": {
+      "value_cr": 5.46,
+      "pct": 0.6
+    },
+    "pollution": {
+      "value_cr": 1.4,
+      "pct": 0.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 4586.0,
+    "scope2_ghg_tco2e": 29408.0,
+    "scope3_ghg_tco2e": 2053010.0,
+    "water_consumption_kl": 317867.0,
+    "water_stress_score": 1.67,
+    "total_land_ha": 5.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.1322,
+    "waste_generated_mt": 484.0,
+    "renewable_energy_pct": 1.8
+  },
+  "peer_comparison": {
+    "sector_median_score": 9.3,
+    "sector_best_score": 10.0,
+    "sector_median_taesc": 23.47,
+    "sector_best_taesc": 0.5
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

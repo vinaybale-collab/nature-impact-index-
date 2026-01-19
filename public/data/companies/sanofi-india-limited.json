@@ -1,0 +1,59 @@
+{
+  "company_name": "Sanofi India Limited",
+  "slug": "sanofi-india-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Unknown",
+  "revenue_cr": 19996.1,
+  "nii_score": 7.7,
+  "nii_rank": 119,
+  "nii_sector_rank": 6,
+  "nii_rating": "Good",
+  "nii_percentile": 77,
+  "taesc_cr": 600.29,
+  "nir": 0.03,
+  "nir_pct": 3.0,
+  "breakdown": {
+    "climate": {
+      "value_cr": 15.32,
+      "pct": 2.6
+    },
+    "water": {
+      "value_cr": 4.01,
+      "pct": 0.7
+    },
+    "land": {
+      "value_cr": 4.0,
+      "pct": 0.7
+    },
+    "biodiversity": {
+      "value_cr": 575.25,
+      "pct": 95.8
+    },
+    "pollution": {
+      "value_cr": 1.72,
+      "pct": 0.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 4520.0,
+    "scope2_ghg_tco2e": 12450.0,
+    "scope3_ghg_tco2e": 11200.0,
+    "water_consumption_kl": 284000.0,
+    "water_stress_score": 2.58,
+    "total_land_ha": 54.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0985,
+    "waste_generated_mt": 845.0,
+    "renewable_energy_pct": 14.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

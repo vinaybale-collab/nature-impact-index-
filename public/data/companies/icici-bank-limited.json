@@ -1,0 +1,59 @@
+{
+  "company_name": "ICICI Bank Limited",
+  "slug": "icici-bank-limited",
+  "sector": "Banking & Financial Services",
+  "state": "Maharashtra",
+  "revenue_cr": 191770.48,
+  "nii_score": 9.3,
+  "nii_rank": 35,
+  "nii_sector_rank": 30,
+  "nii_rating": "Excellent",
+  "nii_percentile": 93,
+  "taesc_cr": 310.9,
+  "nir": 0.0016,
+  "nir_pct": 0.16,
+  "breakdown": {
+    "climate": {
+      "value_cr": 187.74,
+      "pct": 60.4
+    },
+    "water": {
+      "value_cr": 78.64,
+      "pct": 25.3
+    },
+    "land": {
+      "value_cr": 2.55,
+      "pct": 0.8
+    },
+    "biodiversity": {
+      "value_cr": 28.48,
+      "pct": 9.2
+    },
+    "pollution": {
+      "value_cr": 13.5,
+      "pct": 4.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 26337.0,
+    "scope2_ghg_tco2e": 120040.0,
+    "scope3_ghg_tco2e": 161250.0,
+    "water_consumption_kl": 1573448.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 85.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.0067,
+    "waste_generated_mt": 335.0,
+    "renewable_energy_pct": 7.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 9.3,
+    "sector_best_score": 10.0,
+    "sector_median_taesc": 23.47,
+    "sector_best_taesc": 0.5
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "Devyani International Limited",
+  "slug": "devyani-international-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Gujarat",
+  "revenue_cr": 3349.33,
+  "nii_score": 4.1,
+  "nii_rank": 308,
+  "nii_sector_rank": 47,
+  "nii_rating": "Average",
+  "nii_percentile": 41,
+  "taesc_cr": 295.67,
+  "nir": 0.0883,
+  "nir_pct": 8.83,
+  "breakdown": {
+    "climate": {
+      "value_cr": 103.0,
+      "pct": 34.8
+    },
+    "water": {
+      "value_cr": 51.7,
+      "pct": 17.5
+    },
+    "land": {
+      "value_cr": 62.9,
+      "pct": 21.3
+    },
+    "biodiversity": {
+      "value_cr": 62.39,
+      "pct": 21.1
+    },
+    "pollution": {
+      "value_cr": 15.68,
+      "pct": 5.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 28363.0,
+    "scope2_ghg_tco2e": 81464.0,
+    "scope3_ghg_tco2e": 32400.0,
+    "water_consumption_kl": 1189105.0,
+    "water_stress_score": 4.27,
+    "total_land_ha": 850.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.008,
+    "waste_generated_mt": 6385.0,
+    "renewable_energy_pct": 3.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

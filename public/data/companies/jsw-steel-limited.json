@@ -1,0 +1,59 @@
+{
+  "company_name": "JSW Steel Limited",
+  "slug": "jsw-steel-limited",
+  "sector": "Metals & Mining",
+  "state": "Tamil Nadu",
+  "revenue_cr": 133609.0,
+  "nii_score": 0.8,
+  "nii_rank": 481,
+  "nii_sector_rank": 21,
+  "nii_rating": "Critical",
+  "nii_percentile": 8,
+  "taesc_cr": 89177.04,
+  "nir": 0.6674,
+  "nir_pct": 66.74,
+  "breakdown": {
+    "climate": {
+      "value_cr": 54130.04,
+      "pct": 60.7
+    },
+    "water": {
+      "value_cr": 2179.32,
+      "pct": 2.4
+    },
+    "land": {
+      "value_cr": 946.1,
+      "pct": 1.1
+    },
+    "biodiversity": {
+      "value_cr": 12704.47,
+      "pct": 14.2
+    },
+    "pollution": {
+      "value_cr": 19217.11,
+      "pct": 21.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 53100752.0,
+    "scope2_ghg_tco2e": 1653057.0,
+    "scope3_ghg_tco2e": 18870000.0,
+    "water_consumption_kl": 95735451.0,
+    "water_stress_score": 2.57,
+    "total_land_ha": 8050.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.1051,
+    "waste_generated_mt": 19109339.0,
+    "renewable_energy_pct": 0.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

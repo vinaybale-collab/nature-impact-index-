@@ -1,0 +1,59 @@
+{
+  "company_name": "COAL INDIA LIMITED",
+  "slug": "coal-india-limited",
+  "sector": "Metals & Mining",
+  "state": "Karnataka",
+  "revenue_cr": 14336.89,
+  "nii_score": 0.0,
+  "nii_rank": 523,
+  "nii_sector_rank": 34,
+  "nii_rating": "Critical",
+  "nii_percentile": 0,
+  "taesc_cr": 76873.21,
+  "nir": 5.3619,
+  "nir_pct": 536.19,
+  "breakdown": {
+    "climate": {
+      "value_cr": 30112.34,
+      "pct": 39.2
+    },
+    "water": {
+      "value_cr": 0.09,
+      "pct": 0.0
+    },
+    "land": {
+      "value_cr": 11416.2,
+      "pct": 14.9
+    },
+    "biodiversity": {
+      "value_cr": 886.8,
+      "pct": 1.2
+    },
+    "pollution": {
+      "value_cr": 34457.77,
+      "pct": 44.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 26676819.0,
+    "scope2_ghg_tco2e": 8319234.0,
+    "scope3_ghg_tco2e": 893654.0,
+    "water_consumption_kl": 5892.0,
+    "water_stress_score": 2.35,
+    "total_land_ha": 101900.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0139,
+    "waste_generated_mt": 5430158706.0,
+    "renewable_energy_pct": 0.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

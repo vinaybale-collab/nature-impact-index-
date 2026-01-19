@@ -1,0 +1,59 @@
+{
+  "company_name": "Essar Steel India (AM/NS India)",
+  "slug": "essar-steel-india-amns-india",
+  "sector": "Metals & Mining",
+  "state": "Unknown",
+  "revenue_cr": 62700.0,
+  "nii_score": 2.1,
+  "nii_rank": 413,
+  "nii_sector_rank": 4,
+  "nii_rating": "Poor",
+  "nii_percentile": 21,
+  "taesc_cr": 12652.02,
+  "nir": 0.2018,
+  "nir_pct": 20.18,
+  "breakdown": {
+    "climate": {
+      "value_cr": 6235.43,
+      "pct": 49.3
+    },
+    "water": {
+      "value_cr": 593.3,
+      "pct": 4.7
+    },
+    "land": {
+      "value_cr": 197.2,
+      "pct": 1.6
+    },
+    "biodiversity": {
+      "value_cr": 3763.74,
+      "pct": 29.7
+    },
+    "pollution": {
+      "value_cr": 1862.35,
+      "pct": 14.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 5760000.0,
+    "scope2_ghg_tco2e": 1240000.0,
+    "scope3_ghg_tco2e": 2450000.0,
+    "water_consumption_kl": 24500000.0,
+    "water_stress_score": 2.77,
+    "total_land_ha": 1700.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0088,
+    "waste_generated_mt": 1850000.0,
+    "renewable_energy_pct": 26.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

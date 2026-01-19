@@ -1,0 +1,59 @@
+{
+  "company_name": "Kalyan Jewellers India Limited",
+  "slug": "kalyan-jewellers-india-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Tamil Nadu",
+  "revenue_cr": 21638.6,
+  "nii_score": 7.9,
+  "nii_rank": 108,
+  "nii_sector_rank": 1,
+  "nii_rating": "Good",
+  "nii_percentile": 79,
+  "taesc_cr": 494.69,
+  "nir": 0.0229,
+  "nir_pct": 2.29,
+  "breakdown": {
+    "climate": {
+      "value_cr": 80.95,
+      "pct": 16.4
+    },
+    "water": {
+      "value_cr": 7.91,
+      "pct": 1.6
+    },
+    "land": {
+      "value_cr": 4.22,
+      "pct": 0.9
+    },
+    "biodiversity": {
+      "value_cr": 400.44,
+      "pct": 80.9
+    },
+    "pollution": {
+      "value_cr": 1.18,
+      "pct": 0.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 2336.0,
+    "scope2_ghg_tco2e": 28871.0,
+    "scope3_ghg_tco2e": 131357.0,
+    "water_consumption_kl": 194735.0,
+    "water_stress_score": 3.96,
+    "total_land_ha": 57.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0069,
+    "waste_generated_mt": 865.0,
+    "renewable_energy_pct": 2.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

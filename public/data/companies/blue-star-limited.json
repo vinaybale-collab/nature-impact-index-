@@ -1,0 +1,59 @@
+{
+  "company_name": "Blue Star Limited",
+  "slug": "blue-star-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Maharashtra",
+  "revenue_cr": 11325.75,
+  "nii_score": 7.6,
+  "nii_rank": 124,
+  "nii_sector_rank": 9,
+  "nii_rating": "Good",
+  "nii_percentile": 76,
+  "taesc_cr": 361.12,
+  "nir": 0.0319,
+  "nir_pct": 3.19,
+  "breakdown": {
+    "climate": {
+      "value_cr": 16.5,
+      "pct": 4.6
+    },
+    "water": {
+      "value_cr": 5.99,
+      "pct": 1.7
+    },
+    "land": {
+      "value_cr": 7.4,
+      "pct": 2.0
+    },
+    "biodiversity": {
+      "value_cr": 320.34,
+      "pct": 88.7
+    },
+    "pollution": {
+      "value_cr": 10.88,
+      "pct": 3.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 2720.0,
+    "scope2_ghg_tco2e": 16464.0,
+    "scope3_ghg_tco2e": 12400.0,
+    "water_consumption_kl": 203967.0,
+    "water_stress_score": 2.92,
+    "total_land_ha": 100.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.0942,
+    "waste_generated_mt": 7518.0,
+    "renewable_energy_pct": 18.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

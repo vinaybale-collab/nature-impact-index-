@@ -1,0 +1,59 @@
+{
+  "company_name": "Bangalore International Airport Ltd (BIAL)",
+  "slug": "bangalore-international-airport-ltd-bial",
+  "sector": "Transportation & Logistics",
+  "state": "Unknown",
+  "revenue_cr": 3833.0,
+  "nii_score": 3.2,
+  "nii_rank": 355,
+  "nii_sector_rank": 9,
+  "nii_rating": "Poor",
+  "nii_percentile": 32,
+  "taesc_cr": 445.22,
+  "nir": 0.1162,
+  "nir_pct": 11.62,
+  "breakdown": {
+    "climate": {
+      "value_cr": 197.64,
+      "pct": 44.4
+    },
+    "water": {
+      "value_cr": 31.12,
+      "pct": 7.0
+    },
+    "land": {
+      "value_cr": 120.85,
+      "pct": 27.1
+    },
+    "biodiversity": {
+      "value_cr": 89.45,
+      "pct": 20.1
+    },
+    "pollution": {
+      "value_cr": 6.15,
+      "pct": 1.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 4521.0,
+    "scope2_ghg_tco2e": 0.0,
+    "scope3_ghg_tco2e": 456000.0,
+    "water_consumption_kl": 1245000.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 1806.16,
+    "base_msa_loss": 0.465,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 3854.0,
+    "renewable_energy_pct": 100.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.3,
+    "sector_median_taesc": 599.33,
+    "sector_best_taesc": 125.54
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "COROMANDEL INTERNATIONAL LIMITED",
+  "slug": "coromandel-international-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Tamil Nadu",
+  "revenue_cr": 24064.0,
+  "nii_score": 3.4,
+  "nii_rank": 344,
+  "nii_sector_rank": 104,
+  "nii_rating": "Poor",
+  "nii_percentile": 34,
+  "taesc_cr": 2684.93,
+  "nir": 0.1116,
+  "nir_pct": 11.16,
+  "breakdown": {
+    "climate": {
+      "value_cr": 1200.49,
+      "pct": 44.7
+    },
+    "water": {
+      "value_cr": 229.36,
+      "pct": 8.5
+    },
+    "land": {
+      "value_cr": 137.16,
+      "pct": 5.1
+    },
+    "biodiversity": {
+      "value_cr": 905.24,
+      "pct": 33.7
+    },
+    "pollution": {
+      "value_cr": 212.67,
+      "pct": 7.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 82938.0,
+    "scope2_ghg_tco2e": 164674.0,
+    "scope3_ghg_tco2e": 2340000.0,
+    "water_consumption_kl": 7319074.0,
+    "water_stress_score": 3.28,
+    "total_land_ha": 1535.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0134,
+    "waste_generated_mt": 95160.0,
+    "renewable_energy_pct": 0.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

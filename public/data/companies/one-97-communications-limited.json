@@ -1,0 +1,59 @@
+{
+  "company_name": "One 97 Communications Limited",
+  "slug": "one-97-communications-limited",
+  "sector": "Financial Services - NBFC",
+  "state": "Tamil Nadu",
+  "revenue_cr": 7660.8,
+  "nii_score": 8.4,
+  "nii_rank": 82,
+  "nii_sector_rank": 2,
+  "nii_rating": "Excellent",
+  "nii_percentile": 84,
+  "taesc_cr": 42.99,
+  "nir": 0.0056,
+  "nir_pct": 0.56,
+  "breakdown": {
+    "climate": {
+      "value_cr": 16.27,
+      "pct": 37.9
+    },
+    "water": {
+      "value_cr": 1.66,
+      "pct": 3.9
+    },
+    "land": {
+      "value_cr": 3.69,
+      "pct": 8.6
+    },
+    "biodiversity": {
+      "value_cr": 20.01,
+      "pct": 46.6
+    },
+    "pollution": {
+      "value_cr": 1.35,
+      "pct": 3.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 182.0,
+    "scope2_ghg_tco2e": 1817.0,
+    "scope3_ghg_tco2e": 34290.0,
+    "water_consumption_kl": 37318.0,
+    "water_stress_score": 4.38,
+    "total_land_ha": 45.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.006,
+    "waste_generated_mt": 327.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 8.4,
+    "sector_best_score": 9.4,
+    "sector_median_taesc": 42.99,
+    "sector_best_taesc": 22.13
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

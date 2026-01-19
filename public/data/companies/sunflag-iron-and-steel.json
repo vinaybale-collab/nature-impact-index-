@@ -1,0 +1,59 @@
+{
+  "company_name": "Sunflag Iron and Steel",
+  "slug": "sunflag-iron-and-steel",
+  "sector": "Metals & Mining",
+  "state": "Unknown",
+  "revenue_cr": 3446.0,
+  "nii_score": 1.5,
+  "nii_rank": 444,
+  "nii_sector_rank": 12,
+  "nii_rating": "Critical",
+  "nii_percentile": 15,
+  "taesc_cr": 966.3,
+  "nir": 0.2804,
+  "nir_pct": 28.04,
+  "breakdown": {
+    "climate": {
+      "value_cr": 575.88,
+      "pct": 59.6
+    },
+    "water": {
+      "value_cr": 39.22,
+      "pct": 4.1
+    },
+    "land": {
+      "value_cr": 57.81,
+      "pct": 6.0
+    },
+    "biodiversity": {
+      "value_cr": 207.96,
+      "pct": 21.5
+    },
+    "pollution": {
+      "value_cr": 85.43,
+      "pct": 8.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 542100.0,
+    "scope2_ghg_tco2e": 112500.0,
+    "scope3_ghg_tco2e": 89000.0,
+    "water_consumption_kl": 1245000.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 495.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 84500.0,
+    "renewable_energy_pct": 1.1
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

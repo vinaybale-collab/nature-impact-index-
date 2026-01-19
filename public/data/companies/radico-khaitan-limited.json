@@ -1,0 +1,59 @@
+{
+  "company_name": "Radico Khaitan Limited",
+  "slug": "radico-khaitan-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Maharashtra",
+  "revenue_cr": 17098.54,
+  "nii_score": 6.2,
+  "nii_rank": 197,
+  "nii_sector_rank": 26,
+  "nii_rating": "Good",
+  "nii_percentile": 62,
+  "taesc_cr": 878.18,
+  "nir": 0.0514,
+  "nir_pct": 5.14,
+  "breakdown": {
+    "climate": {
+      "value_cr": 90.57,
+      "pct": 10.3
+    },
+    "water": {
+      "value_cr": 57.8,
+      "pct": 6.6
+    },
+    "land": {
+      "value_cr": 18.0,
+      "pct": 2.0
+    },
+    "biodiversity": {
+      "value_cr": 620.11,
+      "pct": 70.6
+    },
+    "pollution": {
+      "value_cr": 91.69,
+      "pct": 10.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 90357.0,
+    "scope2_ghg_tco2e": 16003.0,
+    "scope3_ghg_tco2e": 32400.0,
+    "water_consumption_kl": 1299698.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 200.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0074,
+    "waste_generated_mt": 28026.0,
+    "renewable_energy_pct": 15.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

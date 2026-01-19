@@ -1,0 +1,59 @@
+{
+  "company_name": "FERTILIZERS AND CHEMICALS TRAVANCORE LIMITED",
+  "slug": "fertilizers-and-chemicals-travancore-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Maharashtra",
+  "revenue_cr": 5054.93,
+  "nii_score": 2.0,
+  "nii_rank": 418,
+  "nii_sector_rank": 131,
+  "nii_rating": "Poor",
+  "nii_percentile": 20,
+  "taesc_cr": 1131.32,
+  "nir": 0.2238,
+  "nir_pct": 22.38,
+  "breakdown": {
+    "climate": {
+      "value_cr": 476.29,
+      "pct": 42.1
+    },
+    "water": {
+      "value_cr": 326.12,
+      "pct": 28.8
+    },
+    "land": {
+      "value_cr": 139.18,
+      "pct": 12.3
+    },
+    "biodiversity": {
+      "value_cr": 182.98,
+      "pct": 16.2
+    },
+    "pollution": {
+      "value_cr": 6.75,
+      "pct": 0.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 234929.0,
+    "scope2_ghg_tco2e": 111094.0,
+    "scope3_ghg_tco2e": 456000.0,
+    "water_consumption_kl": 8445168.0,
+    "water_stress_score": 4.02,
+    "total_land_ha": 1565.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0071,
+    "waste_generated_mt": 297.0,
+    "renewable_energy_pct": 5.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

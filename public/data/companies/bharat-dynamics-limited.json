@@ -1,0 +1,59 @@
+{
+  "company_name": "Bharat Dynamics Limited",
+  "slug": "bharat-dynamics-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Telangana",
+  "revenue_cr": 3345.05,
+  "nii_score": 4.0,
+  "nii_rank": 313,
+  "nii_sector_rank": 91,
+  "nii_rating": "Average",
+  "nii_percentile": 40,
+  "taesc_cr": 310.62,
+  "nir": 0.0929,
+  "nir_pct": 9.29,
+  "breakdown": {
+    "climate": {
+      "value_cr": 34.84,
+      "pct": 11.2
+    },
+    "water": {
+      "value_cr": 24.54,
+      "pct": 7.9
+    },
+    "land": {
+      "value_cr": 121.86,
+      "pct": 39.2
+    },
+    "biodiversity": {
+      "value_cr": 128.62,
+      "pct": 41.4
+    },
+    "pollution": {
+      "value_cr": 0.76,
+      "pct": 0.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 3491.0,
+    "scope2_ghg_tco2e": 15317.0,
+    "scope3_ghg_tco2e": 50206.0,
+    "water_consumption_kl": 580663.0,
+    "water_stress_score": 4.51,
+    "total_land_ha": 1365.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.0171,
+    "waste_generated_mt": 550.0,
+    "renewable_energy_pct": 8.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

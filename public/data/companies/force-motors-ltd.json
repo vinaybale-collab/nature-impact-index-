@@ -1,0 +1,59 @@
+{
+  "company_name": "Force Motors Ltd",
+  "slug": "force-motors-ltd",
+  "sector": "Manufacturing - Automobiles",
+  "state": "Maharashtra",
+  "revenue_cr": 8071.23,
+  "nii_score": 3.1,
+  "nii_rank": 360,
+  "nii_sector_rank": 7,
+  "nii_rating": "Poor",
+  "nii_percentile": 31,
+  "taesc_cr": 980.51,
+  "nir": 0.1215,
+  "nir_pct": 12.15,
+  "breakdown": {
+    "climate": {
+      "value_cr": 567.4,
+      "pct": 57.9
+    },
+    "water": {
+      "value_cr": 11.16,
+      "pct": 1.1
+    },
+    "land": {
+      "value_cr": 33.45,
+      "pct": 3.4
+    },
+    "biodiversity": {
+      "value_cr": 348.4,
+      "pct": 35.5
+    },
+    "pollution": {
+      "value_cr": 20.1,
+      "pct": 2.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 9649.0,
+    "scope2_ghg_tco2e": 36887.0,
+    "scope3_ghg_tco2e": 1245000.0,
+    "water_consumption_kl": 445298.0,
+    "water_stress_score": 2.58,
+    "total_land_ha": 435.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.0985,
+    "waste_generated_mt": 17760.0,
+    "renewable_energy_pct": 1.9
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.0,
+    "sector_median_taesc": 1910.81,
+    "sector_best_taesc": 77.36
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

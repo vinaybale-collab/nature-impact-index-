@@ -1,0 +1,59 @@
+{
+  "company_name": "Sanghi Industries",
+  "slug": "sanghi-industries",
+  "sector": "Cement Manufacturing",
+  "state": "Unknown",
+  "revenue_cr": 285.0,
+  "nii_score": 0.0,
+  "nii_rank": 523,
+  "nii_sector_rank": 19,
+  "nii_rating": "Critical",
+  "nii_percentile": 0,
+  "taesc_cr": 1977.93,
+  "nir": 6.9401,
+  "nir_pct": 694.01,
+  "breakdown": {
+    "climate": {
+      "value_cr": 1633.7,
+      "pct": 82.6
+    },
+    "water": {
+      "value_cr": 25.68,
+      "pct": 1.3
+    },
+    "land": {
+      "value_cr": 289.22,
+      "pct": 14.6
+    },
+    "biodiversity": {
+      "value_cr": 14.14,
+      "pct": 0.7
+    },
+    "pollution": {
+      "value_cr": 15.19,
+      "pct": 0.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 1845000.0,
+    "scope2_ghg_tco2e": 12450.0,
+    "scope3_ghg_tco2e": 154000.0,
+    "water_consumption_kl": 542000.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 3000.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 8450.0,
+    "renewable_energy_pct": 15.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 0.8,
+    "sector_best_score": 4.9,
+    "sector_median_taesc": 4113.3,
+    "sector_best_taesc": 185.22
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

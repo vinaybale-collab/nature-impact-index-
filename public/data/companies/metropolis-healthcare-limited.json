@@ -1,0 +1,59 @@
+{
+  "company_name": "Metropolis Healthcare Limited",
+  "slug": "metropolis-healthcare-limited",
+  "sector": "Healthcare Services",
+  "state": "Delhi",
+  "revenue_cr": 1216.54,
+  "nii_score": 3.8,
+  "nii_rank": 323,
+  "nii_sector_rank": 6,
+  "nii_rating": "Poor",
+  "nii_percentile": 38,
+  "taesc_cr": 120.97,
+  "nir": 0.0994,
+  "nir_pct": 9.94,
+  "breakdown": {
+    "climate": {
+      "value_cr": 9.0,
+      "pct": 7.4
+    },
+    "water": {
+      "value_cr": 96.87,
+      "pct": 80.1
+    },
+    "land": {
+      "value_cr": 3.77,
+      "pct": 3.1
+    },
+    "biodiversity": {
+      "value_cr": 10.39,
+      "pct": 8.6
+    },
+    "pollution": {
+      "value_cr": 0.94,
+      "pct": 0.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 132.0,
+    "scope2_ghg_tco2e": 9268.0,
+    "scope3_ghg_tco2e": 2387.0,
+    "water_consumption_kl": 3490118.0,
+    "water_stress_score": 2.73,
+    "total_land_ha": 46.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.1004,
+    "waste_generated_mt": 460.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 7.8,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 145.82,
+    "sector_best_taesc": 21.79
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

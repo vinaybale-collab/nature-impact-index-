@@ -1,0 +1,59 @@
+{
+  "company_name": "POLY MEDICURE LIMITED",
+  "slug": "poly-medicure-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Karnataka",
+  "revenue_cr": 1601.8,
+  "nii_score": 6.6,
+  "nii_rank": 176,
+  "nii_sector_rank": 27,
+  "nii_rating": "Good",
+  "nii_percentile": 66,
+  "taesc_cr": 76.2,
+  "nir": 0.0476,
+  "nir_pct": 4.76,
+  "breakdown": {
+    "climate": {
+      "value_cr": 37.0,
+      "pct": 48.6
+    },
+    "water": {
+      "value_cr": 3.24,
+      "pct": 4.2
+    },
+    "land": {
+      "value_cr": 4.22,
+      "pct": 5.5
+    },
+    "biodiversity": {
+      "value_cr": 29.26,
+      "pct": 38.4
+    },
+    "pollution": {
+      "value_cr": 2.48,
+      "pct": 3.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 3603.0,
+    "scope2_ghg_tco2e": 40089.0,
+    "scope3_ghg_tco2e": 9724.0,
+    "water_consumption_kl": 76121.0,
+    "water_stress_score": 4.53,
+    "total_land_ha": 57.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0048,
+    "waste_generated_mt": 2227.0,
+    "renewable_energy_pct": 15.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "KNR Constructions Limited",
+  "slug": "knr-constructions-limited",
+  "sector": "Cement Manufacturing",
+  "state": "West Bengal",
+  "revenue_cr": 3970.62,
+  "nii_score": 2.1,
+  "nii_rank": 413,
+  "nii_sector_rank": 4,
+  "nii_rating": "Poor",
+  "nii_percentile": 21,
+  "taesc_cr": 780.27,
+  "nir": 0.1965,
+  "nir_pct": 19.65,
+  "breakdown": {
+    "climate": {
+      "value_cr": 271.19,
+      "pct": 34.8
+    },
+    "water": {
+      "value_cr": 251.69,
+      "pct": 32.3
+    },
+    "land": {
+      "value_cr": 43.37,
+      "pct": 5.6
+    },
+    "biodiversity": {
+      "value_cr": 195.83,
+      "pct": 25.1
+    },
+    "pollution": {
+      "value_cr": 18.2,
+      "pct": 2.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 183390.0,
+    "scope2_ghg_tco2e": 7581.0,
+    "scope3_ghg_tco2e": 256147.0,
+    "water_consumption_kl": 5169504.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 462.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.0119,
+    "waste_generated_mt": 11111.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 0.8,
+    "sector_best_score": 4.9,
+    "sector_median_taesc": 4113.3,
+    "sector_best_taesc": 185.22
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "PUNJAB NATIONAL BANK",
+  "slug": "punjab-national-bank",
+  "sector": "Banking & Financial Services",
+  "state": "West Bengal",
+  "revenue_cr": 138070.1,
+  "nii_score": 1.4,
+  "nii_rank": 449,
+  "nii_sector_rank": 63,
+  "nii_rating": "Critical",
+  "nii_percentile": 14,
+  "taesc_cr": 43011.49,
+  "nir": 0.3115,
+  "nir_pct": 31.15,
+  "breakdown": {
+    "climate": {
+      "value_cr": 42924.27,
+      "pct": 99.8
+    },
+    "water": {
+      "value_cr": 53.85,
+      "pct": 0.1
+    },
+    "land": {
+      "value_cr": 2.46,
+      "pct": 0.0
+    },
+    "biodiversity": {
+      "value_cr": 20.5,
+      "pct": 0.0
+    },
+    "pollution": {
+      "value_cr": 10.41,
+      "pct": 0.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 10621.0,
+    "scope2_ghg_tco2e": 174100.0,
+    "scope3_ghg_tco2e": 100640004.0,
+    "water_consumption_kl": 1233678.0,
+    "water_stress_score": 4.29,
+    "total_land_ha": 82.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.0033,
+    "waste_generated_mt": 25.0,
+    "renewable_energy_pct": 1.8
+  },
+  "peer_comparison": {
+    "sector_median_score": 9.3,
+    "sector_best_score": 10.0,
+    "sector_median_taesc": 23.47,
+    "sector_best_taesc": 0.5
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

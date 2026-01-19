@@ -1,0 +1,59 @@
+{
+  "company_name": "MAX HEALTHCARE INSTITUTE LIMITED",
+  "slug": "max-healthcare-institute-limited",
+  "sector": "Healthcare Services",
+  "state": "Telangana",
+  "revenue_cr": 7028.46,
+  "nii_score": 7.8,
+  "nii_rank": 113,
+  "nii_sector_rank": 4,
+  "nii_rating": "Good",
+  "nii_percentile": 78,
+  "taesc_cr": 181.69,
+  "nir": 0.0259,
+  "nir_pct": 2.59,
+  "breakdown": {
+    "climate": {
+      "value_cr": 49.97,
+      "pct": 27.5
+    },
+    "water": {
+      "value_cr": 29.66,
+      "pct": 16.3
+    },
+    "land": {
+      "value_cr": 24.35,
+      "pct": 13.4
+    },
+    "biodiversity": {
+      "value_cr": 56.59,
+      "pct": 31.1
+    },
+    "pollution": {
+      "value_cr": 21.12,
+      "pct": 11.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 7264.0,
+    "scope2_ghg_tco2e": 53360.0,
+    "scope3_ghg_tco2e": 15600.0,
+    "water_consumption_kl": 1069719.0,
+    "water_stress_score": 3.18,
+    "total_land_ha": 297.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.0828,
+    "waste_generated_mt": 11796.0,
+    "renewable_energy_pct": 8.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 7.8,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 145.82,
+    "sector_best_taesc": 21.79
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

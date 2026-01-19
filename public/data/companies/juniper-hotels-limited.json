@@ -1,0 +1,59 @@
+{
+  "company_name": "Juniper Hotels Limited",
+  "slug": "juniper-hotels-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Tamil Nadu",
+  "revenue_cr": 944.27,
+  "nii_score": 2.9,
+  "nii_rank": 371,
+  "nii_sector_rank": 116,
+  "nii_rating": "Poor",
+  "nii_percentile": 29,
+  "taesc_cr": 122.03,
+  "nir": 0.1292,
+  "nir_pct": 12.92,
+  "breakdown": {
+    "climate": {
+      "value_cr": 24.61,
+      "pct": 20.2
+    },
+    "water": {
+      "value_cr": 8.22,
+      "pct": 6.7
+    },
+    "land": {
+      "value_cr": 32.4,
+      "pct": 26.6
+    },
+    "biodiversity": {
+      "value_cr": 55.95,
+      "pct": 45.9
+    },
+    "pollution": {
+      "value_cr": 0.85,
+      "pct": 0.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 1834.0,
+    "scope2_ghg_tco2e": 25393.0,
+    "scope3_ghg_tco2e": 15400.0,
+    "water_consumption_kl": 560602.0,
+    "water_stress_score": 2.28,
+    "total_land_ha": 360.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.11,
+    "waste_generated_mt": 586.0,
+    "renewable_energy_pct": 18.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

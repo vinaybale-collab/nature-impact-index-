@@ -1,0 +1,59 @@
+{
+  "company_name": "Polycab India Limited",
+  "slug": "polycab-india-limited",
+  "sector": "Manufacturing - Engineering",
+  "state": "Telangana",
+  "revenue_cr": 21914.0,
+  "nii_score": 2.6,
+  "nii_rank": 386,
+  "nii_sector_rank": 9,
+  "nii_rating": "Poor",
+  "nii_percentile": 26,
+  "taesc_cr": 3141.77,
+  "nir": 0.1434,
+  "nir_pct": 14.34,
+  "breakdown": {
+    "climate": {
+      "value_cr": 2411.34,
+      "pct": 76.8
+    },
+    "water": {
+      "value_cr": 13.43,
+      "pct": 0.4
+    },
+    "land": {
+      "value_cr": 27.63,
+      "pct": 0.9
+    },
+    "biodiversity": {
+      "value_cr": 629.17,
+      "pct": 20.0
+    },
+    "pollution": {
+      "value_cr": 60.19,
+      "pct": 1.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 29061.0,
+    "scope2_ghg_tco2e": 155118.0,
+    "scope3_ghg_tco2e": 5352123.0,
+    "water_consumption_kl": 296168.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 337.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.0177,
+    "waste_generated_mt": 25005.0,
+    "renewable_energy_pct": 8.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.3,
+    "sector_best_score": 7.6,
+    "sector_median_taesc": 977.28,
+    "sector_best_taesc": 29.35
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

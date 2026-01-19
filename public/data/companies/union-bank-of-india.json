@@ -1,0 +1,59 @@
+{
+  "company_name": "UNION BANK OF INDIA",
+  "slug": "union-bank-of-india",
+  "sector": "Banking & Financial Services",
+  "state": "Delhi",
+  "revenue_cr": 127538.89,
+  "nii_score": 3.4,
+  "nii_rank": 344,
+  "nii_sector_rank": 62,
+  "nii_rating": "Poor",
+  "nii_percentile": 34,
+  "taesc_cr": 13997.06,
+  "nir": 0.1097,
+  "nir_pct": 10.97,
+  "breakdown": {
+    "climate": {
+      "value_cr": 13947.62,
+      "pct": 99.6
+    },
+    "water": {
+      "value_cr": 18.45,
+      "pct": 0.1
+    },
+    "land": {
+      "value_cr": 1.65,
+      "pct": 0.0
+    },
+    "biodiversity": {
+      "value_cr": 18.94,
+      "pct": 0.1
+    },
+    "pollution": {
+      "value_cr": 10.4,
+      "pct": 0.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 11161.0,
+    "scope2_ghg_tco2e": 166961.0,
+    "scope3_ghg_tco2e": 32464378.0,
+    "water_consumption_kl": 862050.0,
+    "water_stress_score": 1.82,
+    "total_land_ha": 55.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.1291,
+    "waste_generated_mt": 18.0,
+    "renewable_energy_pct": 0.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 9.3,
+    "sector_best_score": 10.0,
+    "sector_median_taesc": 23.47,
+    "sector_best_taesc": 0.5
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

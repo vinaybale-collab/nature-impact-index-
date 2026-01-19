@@ -1,0 +1,59 @@
+{
+  "company_name": "Kaynes Technology India Limited",
+  "slug": "kaynes-technology-india-limited",
+  "sector": "Information Technology",
+  "state": "Telangana",
+  "revenue_cr": 1915.44,
+  "nii_score": 8.1,
+  "nii_rank": 98,
+  "nii_sector_rank": 30,
+  "nii_rating": "Excellent",
+  "nii_percentile": 81,
+  "taesc_cr": 20.25,
+  "nir": 0.0106,
+  "nir_pct": 1.06,
+  "breakdown": {
+    "climate": {
+      "value_cr": 8.86,
+      "pct": 43.7
+    },
+    "water": {
+      "value_cr": 2.18,
+      "pct": 10.8
+    },
+    "land": {
+      "value_cr": 4.94,
+      "pct": 24.4
+    },
+    "biodiversity": {
+      "value_cr": 3.53,
+      "pct": 17.4
+    },
+    "pollution": {
+      "value_cr": 0.74,
+      "pct": 3.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 528.0,
+    "scope2_ghg_tco2e": 5803.0,
+    "scope3_ghg_tco2e": 8900.0,
+    "water_consumption_kl": 78077.0,
+    "water_stress_score": 2.78,
+    "total_land_ha": 130.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.0041,
+    "waste_generated_mt": 303.0,
+    "renewable_energy_pct": 8.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 8.5,
+    "sector_best_score": 9.0,
+    "sector_median_taesc": 21.55,
+    "sector_best_taesc": 2.85
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

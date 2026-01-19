@@ -1,0 +1,59 @@
+{
+  "company_name": "Star Cement Limited",
+  "slug": "star-cement-limited",
+  "sector": "Cement Manufacturing",
+  "state": "Tamil Nadu",
+  "revenue_cr": 3173.96,
+  "nii_score": 0.6,
+  "nii_rank": 491,
+  "nii_sector_rank": 12,
+  "nii_rating": "Critical",
+  "nii_percentile": 6,
+  "taesc_cr": 2653.68,
+  "nir": 0.8361,
+  "nir_pct": 83.61,
+  "breakdown": {
+    "climate": {
+      "value_cr": 2325.27,
+      "pct": 87.6
+    },
+    "water": {
+      "value_cr": 46.16,
+      "pct": 1.7
+    },
+    "land": {
+      "value_cr": 98.57,
+      "pct": 3.7
+    },
+    "biodiversity": {
+      "value_cr": 156.87,
+      "pct": 5.9
+    },
+    "pollution": {
+      "value_cr": 26.83,
+      "pct": 1.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 2633230.0,
+    "scope2_ghg_tco2e": 111400.0,
+    "scope3_ghg_tco2e": 204755.0,
+    "water_consumption_kl": 1265735.0,
+    "water_stress_score": 3.82,
+    "total_land_ha": 1065.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0123,
+    "waste_generated_mt": 4055.0,
+    "renewable_energy_pct": 10.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 0.8,
+    "sector_best_score": 4.9,
+    "sector_median_taesc": 4113.3,
+    "sector_best_taesc": 185.22
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

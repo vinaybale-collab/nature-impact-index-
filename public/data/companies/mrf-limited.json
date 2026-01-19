@@ -1,0 +1,59 @@
+{
+  "company_name": "MRF Limited",
+  "slug": "mrf-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Maharashtra",
+  "revenue_cr": 29138.95,
+  "nii_score": 3.9,
+  "nii_rank": 318,
+  "nii_sector_rank": 94,
+  "nii_rating": "Poor",
+  "nii_percentile": 39,
+  "taesc_cr": 2808.44,
+  "nir": 0.0964,
+  "nir_pct": 9.64,
+  "breakdown": {
+    "climate": {
+      "value_cr": 1183.83,
+      "pct": 42.2
+    },
+    "water": {
+      "value_cr": 134.41,
+      "pct": 4.8
+    },
+    "land": {
+      "value_cr": 104.86,
+      "pct": 3.7
+    },
+    "biodiversity": {
+      "value_cr": 1324.8,
+      "pct": 47.2
+    },
+    "pollution": {
+      "value_cr": 60.55,
+      "pct": 2.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 594035.0,
+    "scope2_ghg_tco2e": 604767.0,
+    "scope3_ghg_tco2e": 456000.0,
+    "water_consumption_kl": 3084368.0,
+    "water_stress_score": 4.96,
+    "total_land_ha": 1165.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0484,
+    "waste_generated_mt": 51166.0,
+    "renewable_energy_pct": 1.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

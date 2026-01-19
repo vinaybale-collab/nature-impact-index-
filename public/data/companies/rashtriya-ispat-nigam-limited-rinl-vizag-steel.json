@@ -1,0 +1,59 @@
+{
+  "company_name": "Rashtriya Ispat Nigam Limited (RINL) - Vizag Steel",
+  "slug": "rashtriya-ispat-nigam-limited-rinl-vizag-steel",
+  "sector": "Metals & Mining",
+  "state": "Unknown",
+  "revenue_cr": 23328.0,
+  "nii_score": 0.6,
+  "nii_rank": 491,
+  "nii_sector_rank": 23,
+  "nii_rating": "Critical",
+  "nii_percentile": 6,
+  "taesc_cr": 20554.69,
+  "nir": 0.8811,
+  "nir_pct": 88.11,
+  "breakdown": {
+    "climate": {
+      "value_cr": 14152.32,
+      "pct": 68.9
+    },
+    "water": {
+      "value_cr": 1552.0,
+      "pct": 7.6
+    },
+    "land": {
+      "value_cr": 971.91,
+      "pct": 4.7
+    },
+    "biodiversity": {
+      "value_cr": 1407.8,
+      "pct": 6.8
+    },
+    "pollution": {
+      "value_cr": 2470.66,
+      "pct": 12.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 15840000.0,
+    "scope2_ghg_tco2e": 425000.0,
+    "scope3_ghg_tco2e": 1191384.0,
+    "water_consumption_kl": 48500000.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 8345.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 2450000.0,
+    "renewable_energy_pct": 0.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

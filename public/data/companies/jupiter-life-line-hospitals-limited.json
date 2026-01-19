@@ -1,0 +1,59 @@
+{
+  "company_name": "Jupiter Life Line Hospitals Limited",
+  "slug": "jupiter-life-line-hospitals-limited",
+  "sector": "Healthcare Services",
+  "state": "West Bengal",
+  "revenue_cr": 1060.0,
+  "nii_score": 8.0,
+  "nii_rank": 103,
+  "nii_sector_rank": 1,
+  "nii_rating": "Excellent",
+  "nii_percentile": 80,
+  "taesc_cr": 21.79,
+  "nir": 0.0206,
+  "nir_pct": 2.06,
+  "breakdown": {
+    "climate": {
+      "value_cr": 7.47,
+      "pct": 34.3
+    },
+    "water": {
+      "value_cr": 4.48,
+      "pct": 20.5
+    },
+    "land": {
+      "value_cr": 1.42,
+      "pct": 6.5
+    },
+    "biodiversity": {
+      "value_cr": 7.41,
+      "pct": 34.0
+    },
+    "pollution": {
+      "value_cr": 1.0,
+      "pct": 4.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 93.0,
+    "scope2_ghg_tco2e": 6664.0,
+    "scope3_ghg_tco2e": 4200.0,
+    "water_consumption_kl": 182390.0,
+    "water_stress_score": 2.81,
+    "total_land_ha": 24.5,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.1017,
+    "waste_generated_mt": 462.0,
+    "renewable_energy_pct": 0.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 7.8,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 145.82,
+    "sector_best_taesc": 21.79
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

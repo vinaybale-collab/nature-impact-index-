@@ -1,0 +1,59 @@
+{
+  "company_name": "Mother Dairy",
+  "slug": "mother-dairy",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Unknown",
+  "revenue_cr": 15037.0,
+  "nii_score": 7.0,
+  "nii_rank": 155,
+  "nii_sector_rank": 21,
+  "nii_rating": "Good",
+  "nii_percentile": 70,
+  "taesc_cr": 631.75,
+  "nir": 0.042,
+  "nir_pct": 4.2,
+  "breakdown": {
+    "climate": {
+      "value_cr": 119.67,
+      "pct": 18.9
+    },
+    "water": {
+      "value_cr": 197.62,
+      "pct": 31.3
+    },
+    "land": {
+      "value_cr": 9.62,
+      "pct": 1.5
+    },
+    "biodiversity": {
+      "value_cr": 283.0,
+      "pct": 44.8
+    },
+    "pollution": {
+      "value_cr": 21.83,
+      "pct": 3.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 42500.0,
+    "scope2_ghg_tco2e": 95400.0,
+    "scope3_ghg_tco2e": 91282.0,
+    "water_consumption_kl": 4250000.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 130.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 1250.0,
+    "renewable_energy_pct": 15.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

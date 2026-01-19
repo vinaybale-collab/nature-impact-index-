@@ -1,0 +1,59 @@
+{
+  "company_name": "DLF Limited",
+  "slug": "dlf-limited",
+  "sector": "Construction & Real Estate",
+  "state": "Maharashtra",
+  "revenue_cr": 7993.66,
+  "nii_score": 3.3,
+  "nii_rank": 350,
+  "nii_sector_rank": 4,
+  "nii_rating": "Poor",
+  "nii_percentile": 33,
+  "taesc_cr": 913.82,
+  "nir": 0.1143,
+  "nir_pct": 11.43,
+  "breakdown": {
+    "climate": {
+      "value_cr": 202.84,
+      "pct": 22.2
+    },
+    "water": {
+      "value_cr": 181.15,
+      "pct": 19.8
+    },
+    "land": {
+      "value_cr": 197.73,
+      "pct": 21.6
+    },
+    "biodiversity": {
+      "value_cr": 264.97,
+      "pct": 29.0
+    },
+    "pollution": {
+      "value_cr": 67.13,
+      "pct": 7.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 22343.0,
+    "scope2_ghg_tco2e": 152168.0,
+    "scope3_ghg_tco2e": 145000.0,
+    "water_consumption_kl": 7260984.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 2535.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0173,
+    "waste_generated_mt": 62685.0,
+    "renewable_energy_pct": 1.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.0,
+    "sector_best_score": 4.9,
+    "sector_median_taesc": 806.39,
+    "sector_best_taesc": 50.51
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

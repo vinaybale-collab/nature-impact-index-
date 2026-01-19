@@ -1,0 +1,59 @@
+{
+  "company_name": "Man Infraconstruction Limited",
+  "slug": "man-infraconstruction-limited",
+  "sector": "Cement Manufacturing",
+  "state": "Maharashtra",
+  "revenue_cr": 708.33,
+  "nii_score": 1.6,
+  "nii_rank": 439,
+  "nii_sector_rank": 6,
+  "nii_rating": "Critical",
+  "nii_percentile": 16,
+  "taesc_cr": 185.22,
+  "nir": 0.2615,
+  "nir_pct": 26.15,
+  "breakdown": {
+    "climate": {
+      "value_cr": 19.95,
+      "pct": 10.8
+    },
+    "water": {
+      "value_cr": 0.55,
+      "pct": 0.3
+    },
+    "land": {
+      "value_cr": 90.58,
+      "pct": 48.9
+    },
+    "biodiversity": {
+      "value_cr": 53.83,
+      "pct": 29.1
+    },
+    "pollution": {
+      "value_cr": 20.31,
+      "pct": 11.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 622.0,
+    "scope2_ghg_tco2e": 160.0,
+    "scope3_ghg_tco2e": 45695.0,
+    "water_consumption_kl": 20129.0,
+    "water_stress_score": 2.58,
+    "total_land_ha": 965.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0985,
+    "waste_generated_mt": 12450.0,
+    "renewable_energy_pct": 10.6
+  },
+  "peer_comparison": {
+    "sector_median_score": 0.8,
+    "sector_best_score": 4.9,
+    "sector_median_taesc": 4113.3,
+    "sector_best_taesc": 185.22
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

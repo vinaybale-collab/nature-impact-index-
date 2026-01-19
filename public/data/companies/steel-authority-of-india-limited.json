@@ -1,0 +1,59 @@
+{
+  "company_name": "Steel Authority of India Limited",
+  "slug": "steel-authority-of-india-limited",
+  "sector": "Metals & Mining",
+  "state": "Telangana",
+  "revenue_cr": 105374.59,
+  "nii_score": 0.7,
+  "nii_rank": 486,
+  "nii_sector_rank": 22,
+  "nii_rating": "Critical",
+  "nii_percentile": 7,
+  "taesc_cr": 81092.76,
+  "nir": 0.7696,
+  "nir_pct": 76.96,
+  "breakdown": {
+    "climate": {
+      "value_cr": 50155.73,
+      "pct": 61.8
+    },
+    "water": {
+      "value_cr": 4888.51,
+      "pct": 6.0
+    },
+    "land": {
+      "value_cr": 5542.8,
+      "pct": 6.8
+    },
+    "biodiversity": {
+      "value_cr": 6141.81,
+      "pct": 7.6
+    },
+    "pollution": {
+      "value_cr": 14363.91,
+      "pct": 17.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 52178648.0,
+    "scope2_ghg_tco2e": 4796073.0,
+    "scope3_ghg_tco2e": 4839242.0,
+    "water_consumption_kl": 129577216.0,
+    "water_stress_score": 4.45,
+    "total_land_ha": 47600.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.004,
+    "waste_generated_mt": 14144422.0,
+    "renewable_energy_pct": 0.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

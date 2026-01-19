@@ -1,0 +1,59 @@
+{
+  "company_name": "Gujarat Pipavav Port Limited",
+  "slug": "gujarat-pipavav-port-limited",
+  "sector": "Transportation & Logistics",
+  "state": "Delhi",
+  "revenue_cr": 988.43,
+  "nii_score": 2.3,
+  "nii_rank": 402,
+  "nii_sector_rank": 13,
+  "nii_rating": "Poor",
+  "nii_percentile": 23,
+  "taesc_cr": 167.5,
+  "nir": 0.1695,
+  "nir_pct": 16.95,
+  "breakdown": {
+    "climate": {
+      "value_cr": 23.07,
+      "pct": 13.8
+    },
+    "water": {
+      "value_cr": 30.94,
+      "pct": 18.5
+    },
+    "land": {
+      "value_cr": 88.85,
+      "pct": 53.0
+    },
+    "biodiversity": {
+      "value_cr": 23.93,
+      "pct": 14.3
+    },
+    "pollution": {
+      "value_cr": 0.71,
+      "pct": 0.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 578.0,
+    "scope2_ghg_tco2e": 7991.0,
+    "scope3_ghg_tco2e": 45600.0,
+    "water_consumption_kl": 1042425.0,
+    "water_stress_score": 3.19,
+    "total_land_ha": 1335.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.0175,
+    "waste_generated_mt": 541.0,
+    "renewable_energy_pct": 14.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.3,
+    "sector_median_taesc": 599.33,
+    "sector_best_taesc": 125.54
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

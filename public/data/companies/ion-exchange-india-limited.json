@@ -1,0 +1,59 @@
+{
+  "company_name": "Ion Exchange India Limited",
+  "slug": "ion-exchange-india-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Maharashtra",
+  "revenue_cr": 2540.06,
+  "nii_score": 4.4,
+  "nii_rank": 292,
+  "nii_sector_rank": 80,
+  "nii_rating": "Average",
+  "nii_percentile": 44,
+  "taesc_cr": 212.6,
+  "nir": 0.0837,
+  "nir_pct": 8.37,
+  "breakdown": {
+    "climate": {
+      "value_cr": 13.68,
+      "pct": 6.4
+    },
+    "water": {
+      "value_cr": 2.8,
+      "pct": 1.3
+    },
+    "land": {
+      "value_cr": 8.73,
+      "pct": 4.1
+    },
+    "biodiversity": {
+      "value_cr": 169.2,
+      "pct": 79.6
+    },
+    "pollution": {
+      "value_cr": 18.18,
+      "pct": 8.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 3591.0,
+    "scope2_ghg_tco2e": 10530.0,
+    "scope3_ghg_tco2e": 12400.0,
+    "water_consumption_kl": 323100.0,
+    "water_stress_score": 1.37,
+    "total_land_ha": 97.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.1434,
+    "waste_generated_mt": 16236.0,
+    "renewable_energy_pct": 8.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

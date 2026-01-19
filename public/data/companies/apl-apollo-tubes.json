@@ -1,0 +1,59 @@
+{
+  "company_name": "APL Apollo Tubes",
+  "slug": "apl-apollo-tubes",
+  "sector": "Metals & Mining",
+  "state": "Unknown",
+  "revenue_cr": 21325.99,
+  "nii_score": 4.8,
+  "nii_rank": 271,
+  "nii_sector_rank": 1,
+  "nii_rating": "Average",
+  "nii_percentile": 48,
+  "taesc_cr": 1603.17,
+  "nir": 0.0752,
+  "nir_pct": 7.52,
+  "breakdown": {
+    "climate": {
+      "value_cr": 175.64,
+      "pct": 11.0
+    },
+    "water": {
+      "value_cr": 11.18,
+      "pct": 0.7
+    },
+    "land": {
+      "value_cr": 38.94,
+      "pct": 2.4
+    },
+    "biodiversity": {
+      "value_cr": 1286.98,
+      "pct": 80.3
+    },
+    "pollution": {
+      "value_cr": 90.43,
+      "pct": 5.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 24500.0,
+    "scope2_ghg_tco2e": 112400.0,
+    "scope3_ghg_tco2e": 234000.0,
+    "water_consumption_kl": 324000.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 330.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 45200.0,
+    "renewable_energy_pct": 13.1
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

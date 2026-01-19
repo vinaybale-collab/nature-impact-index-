@@ -1,0 +1,59 @@
+{
+  "company_name": "Nuvoco Vistas Corporation Limited",
+  "slug": "nuvoco-vistas-corporation-limited",
+  "sector": "Cement Manufacturing",
+  "state": "Gujarat",
+  "revenue_cr": 103566.67,
+  "nii_score": 2.4,
+  "nii_rank": 397,
+  "nii_sector_rank": 3,
+  "nii_rating": "Poor",
+  "nii_percentile": 24,
+  "taesc_cr": 17097.03,
+  "nir": 0.1651,
+  "nir_pct": 16.51,
+  "breakdown": {
+    "climate": {
+      "value_cr": 8009.87,
+      "pct": 46.8
+    },
+    "water": {
+      "value_cr": 64.43,
+      "pct": 0.4
+    },
+    "land": {
+      "value_cr": 437.48,
+      "pct": 2.6
+    },
+    "biodiversity": {
+      "value_cr": 8228.86,
+      "pct": 48.1
+    },
+    "pollution": {
+      "value_cr": 356.39,
+      "pct": 2.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 8931380.0,
+    "scope2_ghg_tco2e": 159751.0,
+    "scope3_ghg_tco2e": 984000.0,
+    "water_consumption_kl": 2727486.0,
+    "water_stress_score": 2.28,
+    "total_land_ha": 4700.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.1098,
+    "waste_generated_mt": 307061.0,
+    "renewable_energy_pct": 12.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 0.8,
+    "sector_best_score": 4.9,
+    "sector_median_taesc": 4113.3,
+    "sector_best_taesc": 185.22
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

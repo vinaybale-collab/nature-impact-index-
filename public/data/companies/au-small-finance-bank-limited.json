@@ -1,0 +1,59 @@
+{
+  "company_name": "AU Small Finance Bank Limited",
+  "slug": "au-small-finance-bank-limited",
+  "sector": "Banking & Financial Services",
+  "state": "Tamil Nadu",
+  "revenue_cr": 18590.04,
+  "nii_score": 8.8,
+  "nii_rank": 61,
+  "nii_sector_rank": 51,
+  "nii_rating": "Excellent",
+  "nii_percentile": 88,
+  "taesc_cr": 61.97,
+  "nir": 0.0033,
+  "nir_pct": 0.33,
+  "breakdown": {
+    "climate": {
+      "value_cr": 29.06,
+      "pct": 46.9
+    },
+    "water": {
+      "value_cr": 28.3,
+      "pct": 45.7
+    },
+    "land": {
+      "value_cr": 1.5,
+      "pct": 2.4
+    },
+    "biodiversity": {
+      "value_cr": 2.76,
+      "pct": 4.5
+    },
+    "pollution": {
+      "value_cr": 0.34,
+      "pct": 0.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 317.0,
+    "scope2_ghg_tco2e": 28076.0,
+    "scope3_ghg_tco2e": 12450.0,
+    "water_consumption_kl": 566265.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 50.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.006,
+    "waste_generated_mt": 163.0,
+    "renewable_energy_pct": 4.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 9.3,
+    "sector_best_score": 10.0,
+    "sector_median_taesc": 23.47,
+    "sector_best_taesc": 0.5
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

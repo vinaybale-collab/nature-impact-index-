@@ -1,0 +1,59 @@
+{
+  "company_name": "Solar Industries India Limited",
+  "slug": "solar-industries-india-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Maharashtra",
+  "revenue_cr": 4456.6,
+  "nii_score": 4.5,
+  "nii_rank": 287,
+  "nii_sector_rank": 75,
+  "nii_rating": "Average",
+  "nii_percentile": 45,
+  "taesc_cr": 359.79,
+  "nir": 0.0807,
+  "nir_pct": 8.07,
+  "breakdown": {
+    "climate": {
+      "value_cr": 84.28,
+      "pct": 23.4
+    },
+    "water": {
+      "value_cr": 21.23,
+      "pct": 5.9
+    },
+    "land": {
+      "value_cr": 85.58,
+      "pct": 23.8
+    },
+    "biodiversity": {
+      "value_cr": 159.2,
+      "pct": 44.2
+    },
+    "pollution": {
+      "value_cr": 9.5,
+      "pct": 2.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 65713.0,
+    "scope2_ghg_tco2e": 18649.0,
+    "scope3_ghg_tco2e": 66890.0,
+    "water_consumption_kl": 506836.0,
+    "water_stress_score": 4.45,
+    "total_land_ha": 965.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.005,
+    "waste_generated_mt": 7429.0,
+    "renewable_energy_pct": 10.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

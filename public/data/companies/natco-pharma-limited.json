@@ -1,0 +1,59 @@
+{
+  "company_name": "NATCO Pharma Limited",
+  "slug": "natco-pharma-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Maharashtra",
+  "revenue_cr": 4415.8,
+  "nii_score": 7.2,
+  "nii_rank": 145,
+  "nii_sector_rank": 19,
+  "nii_rating": "Good",
+  "nii_percentile": 72,
+  "taesc_cr": 172.89,
+  "nir": 0.0392,
+  "nir_pct": 3.92,
+  "breakdown": {
+    "climate": {
+      "value_cr": 49.69,
+      "pct": 28.7
+    },
+    "water": {
+      "value_cr": 8.21,
+      "pct": 4.7
+    },
+    "land": {
+      "value_cr": 24.2,
+      "pct": 14.0
+    },
+    "biodiversity": {
+      "value_cr": 84.19,
+      "pct": 48.7
+    },
+    "pollution": {
+      "value_cr": 6.61,
+      "pct": 3.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 28495.0,
+    "scope2_ghg_tco2e": 43630.0,
+    "scope3_ghg_tco2e": 11200.0,
+    "water_consumption_kl": 328629.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 327.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.0119,
+    "waste_generated_mt": 5039.0,
+    "renewable_energy_pct": 5.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

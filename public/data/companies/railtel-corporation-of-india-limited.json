@@ -1,0 +1,59 @@
+{
+  "company_name": "Railtel Corporation of India Limited",
+  "slug": "railtel-corporation-of-india-limited",
+  "sector": "Telecom & Communication",
+  "state": "Karnataka",
+  "revenue_cr": 3551.0,
+  "nii_score": 1.4,
+  "nii_rank": 449,
+  "nii_sector_rank": 8,
+  "nii_rating": "Critical",
+  "nii_percentile": 14,
+  "taesc_cr": 1070.81,
+  "nir": 0.3016,
+  "nir_pct": 30.16,
+  "breakdown": {
+    "climate": {
+      "value_cr": 11.57,
+      "pct": 1.1
+    },
+    "water": {
+      "value_cr": 0.43,
+      "pct": 0.0
+    },
+    "land": {
+      "value_cr": 1025.1,
+      "pct": 95.7
+    },
+    "biodiversity": {
+      "value_cr": 32.61,
+      "pct": 3.0
+    },
+    "pollution": {
+      "value_cr": 1.11,
+      "pct": 0.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 684.0,
+    "scope2_ghg_tco2e": 11322.0,
+    "scope3_ghg_tco2e": 3200.0,
+    "water_consumption_kl": 9557.0,
+    "water_stress_score": 4.41,
+    "total_land_ha": 12500.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0038,
+    "waste_generated_mt": 87.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.9,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 714.01,
+    "sector_best_taesc": 47.35
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

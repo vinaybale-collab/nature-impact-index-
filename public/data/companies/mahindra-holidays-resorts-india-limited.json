@@ -1,0 +1,59 @@
+{
+  "company_name": "Mahindra Holidays & Resorts India Limited",
+  "slug": "mahindra-holidays-resorts-india-limited",
+  "sector": "Hospitality & Leisure",
+  "state": "Unknown",
+  "revenue_cr": 2876.0,
+  "nii_score": 7.5,
+  "nii_rank": 129,
+  "nii_sector_rank": 1,
+  "nii_rating": "Good",
+  "nii_percentile": 75,
+  "taesc_cr": 98.26,
+  "nir": 0.0342,
+  "nir_pct": 3.42,
+  "breakdown": {
+    "climate": {
+      "value_cr": 25.79,
+      "pct": 26.2
+    },
+    "water": {
+      "value_cr": 24.09,
+      "pct": 24.5
+    },
+    "land": {
+      "value_cr": 9.28,
+      "pct": 9.4
+    },
+    "biodiversity": {
+      "value_cr": 37.43,
+      "pct": 38.1
+    },
+    "pollution": {
+      "value_cr": 1.67,
+      "pct": 1.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 7961.0,
+    "scope2_ghg_tco2e": 28156.0,
+    "scope3_ghg_tco2e": 8900.0,
+    "water_consumption_kl": 1405578.0,
+    "water_stress_score": 2.42,
+    "total_land_ha": 160.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 1188.0,
+    "renewable_energy_pct": 24.3
+  },
+  "peer_comparison": {
+    "sector_median_score": 5.6,
+    "sector_best_score": 7.5,
+    "sector_median_taesc": 125.8,
+    "sector_best_taesc": 98.26
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

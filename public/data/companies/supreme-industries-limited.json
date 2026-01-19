@@ -1,0 +1,59 @@
+{
+  "company_name": "Supreme Industries Limited",
+  "slug": "supreme-industries-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Tamil Nadu",
+  "revenue_cr": 10446.24,
+  "nii_score": 4.1,
+  "nii_rank": 308,
+  "nii_sector_rank": 88,
+  "nii_rating": "Average",
+  "nii_percentile": 41,
+  "taesc_cr": 943.85,
+  "nir": 0.0904,
+  "nir_pct": 9.04,
+  "breakdown": {
+    "climate": {
+      "value_cr": 210.88,
+      "pct": 22.3
+    },
+    "water": {
+      "value_cr": 35.14,
+      "pct": 3.7
+    },
+    "land": {
+      "value_cr": 41.13,
+      "pct": 4.4
+    },
+    "biodiversity": {
+      "value_cr": 599.45,
+      "pct": 63.5
+    },
+    "pollution": {
+      "value_cr": 57.25,
+      "pct": 6.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 18976.0,
+    "scope2_ghg_tco2e": 223807.0,
+    "scope3_ghg_tco2e": 67400.0,
+    "water_consumption_kl": 1248131.0,
+    "water_stress_score": 2.81,
+    "total_land_ha": 457.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.1017,
+    "waste_generated_mt": 14766.0,
+    "renewable_energy_pct": 14.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

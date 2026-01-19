@@ -1,0 +1,59 @@
+{
+  "company_name": "AIA ENGINEERING LIMITED",
+  "slug": "aia-engineering-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "West Bengal",
+  "revenue_cr": 4062.04,
+  "nii_score": 3.4,
+  "nii_rank": 344,
+  "nii_sector_rank": 104,
+  "nii_rating": "Poor",
+  "nii_percentile": 34,
+  "taesc_cr": 454.21,
+  "nir": 0.1118,
+  "nir_pct": 11.18,
+  "breakdown": {
+    "climate": {
+      "value_cr": 141.66,
+      "pct": 31.2
+    },
+    "water": {
+      "value_cr": 6.23,
+      "pct": 1.4
+    },
+    "land": {
+      "value_cr": 14.13,
+      "pct": 3.1
+    },
+    "biodiversity": {
+      "value_cr": 156.34,
+      "pct": 34.4
+    },
+    "pollution": {
+      "value_cr": 135.86,
+      "pct": 29.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 28902.0,
+    "scope2_ghg_tco2e": 147512.0,
+    "scope3_ghg_tco2e": 120226.0,
+    "water_consumption_kl": 249578.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 157.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.0173,
+    "waste_generated_mt": 134380.0,
+    "renewable_energy_pct": 17.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

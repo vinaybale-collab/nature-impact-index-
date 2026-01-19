@@ -1,0 +1,59 @@
+{
+  "company_name": "MOIL Limited",
+  "slug": "moil-limited",
+  "sector": "Oil & Gas",
+  "state": "Gujarat",
+  "revenue_cr": 1584.94,
+  "nii_score": 0.1,
+  "nii_rank": 518,
+  "nii_sector_rank": 14,
+  "nii_rating": "Critical",
+  "nii_percentile": 1,
+  "taesc_cr": 4590.61,
+  "nir": 2.8964,
+  "nir_pct": 289.64,
+  "breakdown": {
+    "climate": {
+      "value_cr": 232.82,
+      "pct": 5.1
+    },
+    "water": {
+      "value_cr": 27.04,
+      "pct": 0.6
+    },
+    "land": {
+      "value_cr": 228.4,
+      "pct": 5.0
+    },
+    "biodiversity": {
+      "value_cr": 83.86,
+      "pct": 1.8
+    },
+    "pollution": {
+      "value_cr": 4018.49,
+      "pct": 87.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 7842.0,
+    "scope2_ghg_tco2e": 73111.0,
+    "scope3_ghg_tco2e": 405565.0,
+    "water_consumption_kl": 939809.0,
+    "water_stress_score": 4.29,
+    "total_land_ha": 2300.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0039,
+    "waste_generated_mt": 2543325.0,
+    "renewable_energy_pct": 12.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.6,
+    "sector_best_score": 5.4,
+    "sector_median_taesc": 7850.63,
+    "sector_best_taesc": 258.92
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

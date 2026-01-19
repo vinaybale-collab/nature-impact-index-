@@ -1,0 +1,59 @@
+{
+  "company_name": "Narayana Hrudayalaya Ltd.",
+  "slug": "narayana-hrudayalaya-ltd",
+  "sector": "Healthcare Services",
+  "state": "Unknown",
+  "revenue_cr": 5961.09,
+  "nii_score": 7.9,
+  "nii_rank": 108,
+  "nii_sector_rank": 2,
+  "nii_rating": "Good",
+  "nii_percentile": 79,
+  "taesc_cr": 136.76,
+  "nir": 0.0229,
+  "nir_pct": 2.29,
+  "breakdown": {
+    "climate": {
+      "value_cr": 39.44,
+      "pct": 28.8
+    },
+    "water": {
+      "value_cr": 52.29,
+      "pct": 38.2
+    },
+    "land": {
+      "value_cr": 1.64,
+      "pct": 1.2
+    },
+    "biodiversity": {
+      "value_cr": 35.63,
+      "pct": 26.1
+    },
+    "pollution": {
+      "value_cr": 7.76,
+      "pct": 5.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 16091.0,
+    "scope2_ghg_tco2e": 35353.0,
+    "scope3_ghg_tco2e": 8900.0,
+    "water_consumption_kl": 1245000.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 20.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0087,
+    "waste_generated_mt": 4250.0,
+    "renewable_energy_pct": 18.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 7.8,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 145.82,
+    "sector_best_taesc": 21.79
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

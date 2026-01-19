@@ -1,0 +1,59 @@
+{
+  "company_name": "JUBILANT INGREVIA LIMITED",
+  "slug": "jubilant-ingrevia-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "West Bengal",
+  "revenue_cr": 4177.62,
+  "nii_score": 2.8,
+  "nii_rank": 376,
+  "nii_sector_rank": 117,
+  "nii_rating": "Poor",
+  "nii_percentile": 28,
+  "taesc_cr": 548.84,
+  "nir": 0.1314,
+  "nir_pct": 13.14,
+  "breakdown": {
+    "climate": {
+      "value_cr": 66.01,
+      "pct": 12.0
+    },
+    "water": {
+      "value_cr": 74.64,
+      "pct": 13.6
+    },
+    "land": {
+      "value_cr": 52.65,
+      "pct": 9.6
+    },
+    "biodiversity": {
+      "value_cr": 157.41,
+      "pct": 28.7
+    },
+    "pollution": {
+      "value_cr": 198.12,
+      "pct": 36.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 657.0,
+    "scope2_ghg_tco2e": 79.0,
+    "scope3_ghg_tco2e": 154000.0,
+    "water_consumption_kl": 2990134.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 585.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.0137,
+    "waste_generated_mt": 149352.0,
+    "renewable_energy_pct": 24.3
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

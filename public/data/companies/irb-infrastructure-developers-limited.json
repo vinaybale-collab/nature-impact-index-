@@ -1,0 +1,59 @@
+{
+  "company_name": "IRB Infrastructure Developers Limited",
+  "slug": "irb-infrastructure-developers-limited",
+  "sector": "Cement Manufacturing",
+  "state": "Delhi",
+  "revenue_cr": 8201.76,
+  "nii_score": 1.7,
+  "nii_rank": 434,
+  "nii_sector_rank": 5,
+  "nii_rating": "Critical",
+  "nii_percentile": 17,
+  "taesc_cr": 2015.77,
+  "nir": 0.2458,
+  "nir_pct": 24.58,
+  "breakdown": {
+    "climate": {
+      "value_cr": 124.63,
+      "pct": 6.2
+    },
+    "water": {
+      "value_cr": 49.14,
+      "pct": 2.4
+    },
+    "land": {
+      "value_cr": 58.2,
+      "pct": 2.9
+    },
+    "biodiversity": {
+      "value_cr": 627.95,
+      "pct": 31.2
+    },
+    "pollution": {
+      "value_cr": 1155.85,
+      "pct": 57.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 82256.0,
+    "scope2_ghg_tco2e": 45836.0,
+    "scope3_ghg_tco2e": 37062.0,
+    "water_consumption_kl": 1706930.0,
+    "water_stress_score": 2.73,
+    "total_land_ha": 620.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.1004,
+    "waste_generated_mt": 745298.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 0.8,
+    "sector_best_score": 4.9,
+    "sector_median_taesc": 4113.3,
+    "sector_best_taesc": 185.22
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

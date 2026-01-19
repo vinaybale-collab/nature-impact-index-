@@ -1,0 +1,59 @@
+{
+  "company_name": "Happiest Minds Technologies Limited",
+  "slug": "happiest-minds-technologies-limited",
+  "sector": "Information Technology",
+  "state": "Maharashtra",
+  "revenue_cr": 1481.37,
+  "nii_score": 8.3,
+  "nii_rank": 87,
+  "nii_sector_rank": 22,
+  "nii_rating": "Excellent",
+  "nii_percentile": 83,
+  "taesc_cr": 9.82,
+  "nir": 0.0066,
+  "nir_pct": 0.66,
+  "breakdown": {
+    "climate": {
+      "value_cr": 4.94,
+      "pct": 50.3
+    },
+    "water": {
+      "value_cr": 1.09,
+      "pct": 11.1
+    },
+    "land": {
+      "value_cr": 0.57,
+      "pct": 5.8
+    },
+    "biodiversity": {
+      "value_cr": 2.73,
+      "pct": 27.8
+    },
+    "pollution": {
+      "value_cr": 0.48,
+      "pct": 4.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 1012.0,
+    "scope2_ghg_tco2e": 2872.0,
+    "scope3_ghg_tco2e": 4672.0,
+    "water_consumption_kl": 71619.0,
+    "water_stress_score": 1.5,
+    "total_land_ha": 15.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.0041,
+    "waste_generated_mt": 149.0,
+    "renewable_energy_pct": 9.9
+  },
+  "peer_comparison": {
+    "sector_median_score": 8.5,
+    "sector_best_score": 9.0,
+    "sector_median_taesc": 21.55,
+    "sector_best_taesc": 2.85
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

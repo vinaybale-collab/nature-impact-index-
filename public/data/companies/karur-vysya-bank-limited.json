@@ -1,0 +1,59 @@
+{
+  "company_name": "KARUR VYSYA BANK LIMITED",
+  "slug": "karur-vysya-bank-limited",
+  "sector": "Banking & Financial Services",
+  "state": "Gujarat",
+  "revenue_cr": 11507.59,
+  "nii_score": 9.0,
+  "nii_rank": 50,
+  "nii_sector_rank": 45,
+  "nii_rating": "Excellent",
+  "nii_percentile": 90,
+  "taesc_cr": 29.04,
+  "nir": 0.0025,
+  "nir_pct": 0.25,
+  "breakdown": {
+    "climate": {
+      "value_cr": 20.29,
+      "pct": 69.9
+    },
+    "water": {
+      "value_cr": 3.37,
+      "pct": 11.6
+    },
+    "land": {
+      "value_cr": 2.67,
+      "pct": 9.2
+    },
+    "biodiversity": {
+      "value_cr": 1.71,
+      "pct": 5.9
+    },
+    "pollution": {
+      "value_cr": 1.0,
+      "pct": 3.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 544.0,
+    "scope2_ghg_tco2e": 21099.0,
+    "scope3_ghg_tco2e": 4500.0,
+    "water_consumption_kl": 122459.0,
+    "water_stress_score": 2.5,
+    "total_land_ha": 89.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.009,
+    "waste_generated_mt": 175.0,
+    "renewable_energy_pct": 0.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 9.3,
+    "sector_best_score": 10.0,
+    "sector_median_taesc": 23.47,
+    "sector_best_taesc": 0.5
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "Syrma SGS Technology Limited",
+  "slug": "syrma-sgs-technology-limited",
+  "sector": "Information Technology",
+  "state": "Telangana",
+  "revenue_cr": 3787.19,
+  "nii_score": 8.1,
+  "nii_rank": 98,
+  "nii_sector_rank": 30,
+  "nii_rating": "Excellent",
+  "nii_percentile": 81,
+  "taesc_cr": 41.2,
+  "nir": 0.0109,
+  "nir_pct": 1.09,
+  "breakdown": {
+    "climate": {
+      "value_cr": 20.48,
+      "pct": 49.7
+    },
+    "water": {
+      "value_cr": 2.38,
+      "pct": 5.8
+    },
+    "land": {
+      "value_cr": 4.94,
+      "pct": 12.0
+    },
+    "biodiversity": {
+      "value_cr": 9.94,
+      "pct": 24.1
+    },
+    "pollution": {
+      "value_cr": 3.46,
+      "pct": 8.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 1051.0,
+    "scope2_ghg_tco2e": 17190.0,
+    "scope3_ghg_tco2e": 12400.0,
+    "water_consumption_kl": 74264.0,
+    "water_stress_score": 3.27,
+    "total_land_ha": 130.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.0737,
+    "waste_generated_mt": 954.0,
+    "renewable_energy_pct": 8.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 8.5,
+    "sector_best_score": 9.0,
+    "sector_median_taesc": 21.55,
+    "sector_best_taesc": 2.85
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

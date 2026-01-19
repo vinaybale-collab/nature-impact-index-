@@ -1,0 +1,59 @@
+{
+  "company_name": "Glenmark Pharmaceuticals Limited",
+  "slug": "glenmark-pharmaceuticals-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Maharashtra",
+  "revenue_cr": 9226.41,
+  "nii_score": 6.4,
+  "nii_rank": 187,
+  "nii_sector_rank": 31,
+  "nii_rating": "Good",
+  "nii_percentile": 64,
+  "taesc_cr": 453.8,
+  "nir": 0.0492,
+  "nir_pct": 4.92,
+  "breakdown": {
+    "climate": {
+      "value_cr": 109.81,
+      "pct": 24.2
+    },
+    "water": {
+      "value_cr": 14.06,
+      "pct": 3.1
+    },
+    "land": {
+      "value_cr": 69.19,
+      "pct": 15.2
+    },
+    "biodiversity": {
+      "value_cr": 249.8,
+      "pct": 55.0
+    },
+    "pollution": {
+      "value_cr": 10.94,
+      "pct": 2.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 17263.0,
+    "scope2_ghg_tco2e": 76186.0,
+    "scope3_ghg_tco2e": 156645.0,
+    "water_consumption_kl": 529632.0,
+    "water_stress_score": 3.18,
+    "total_land_ha": 935.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0834,
+    "waste_generated_mt": 3808.0,
+    "renewable_energy_pct": 12.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

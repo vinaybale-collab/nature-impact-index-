@@ -1,0 +1,59 @@
+{
+  "company_name": "Krishna Institute of Medical Sciences Limited",
+  "slug": "krishna-institute-of-medical-sciences-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Delhi",
+  "revenue_cr": 12222.05,
+  "nii_score": 7.9,
+  "nii_rank": 108,
+  "nii_sector_rank": 1,
+  "nii_rating": "Good",
+  "nii_percentile": 79,
+  "taesc_cr": 267.38,
+  "nir": 0.0219,
+  "nir_pct": 2.19,
+  "breakdown": {
+    "climate": {
+      "value_cr": 6.66,
+      "pct": 2.5
+    },
+    "water": {
+      "value_cr": 13.06,
+      "pct": 4.9
+    },
+    "land": {
+      "value_cr": 24.64,
+      "pct": 9.2
+    },
+    "biodiversity": {
+      "value_cr": 222.36,
+      "pct": 83.2
+    },
+    "pollution": {
+      "value_cr": 0.67,
+      "pct": 0.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 1057.0,
+    "scope2_ghg_tco2e": 9773.0,
+    "scope3_ghg_tco2e": 8900.0,
+    "water_consumption_kl": 310925.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 333.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.0041,
+    "waste_generated_mt": 280.0,
+    "renewable_energy_pct": 28.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

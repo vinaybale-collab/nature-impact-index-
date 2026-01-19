@@ -1,0 +1,59 @@
+{
+  "company_name": "Torrent Pharmaceuticals Limited",
+  "slug": "torrent-pharmaceuticals-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "West Bengal",
+  "revenue_cr": 9682.44,
+  "nii_score": 7.5,
+  "nii_rank": 129,
+  "nii_sector_rank": 13,
+  "nii_rating": "Good",
+  "nii_percentile": 75,
+  "taesc_cr": 336.25,
+  "nir": 0.0347,
+  "nir_pct": 3.47,
+  "breakdown": {
+    "climate": {
+      "value_cr": 87.84,
+      "pct": 26.1
+    },
+    "water": {
+      "value_cr": 0.0,
+      "pct": 0.0
+    },
+    "land": {
+      "value_cr": 51.06,
+      "pct": 15.2
+    },
+    "biodiversity": {
+      "value_cr": 185.28,
+      "pct": 55.1
+    },
+    "pollution": {
+      "value_cr": 12.06,
+      "pct": 3.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 8937.0,
+    "scope2_ghg_tco2e": 78592.0,
+    "scope3_ghg_tco2e": 88400.0,
+    "water_consumption_kl": 1.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 690.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.0125,
+    "waste_generated_mt": 4968.0,
+    "renewable_energy_pct": 10.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

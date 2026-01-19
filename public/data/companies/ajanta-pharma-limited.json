@@ -1,0 +1,59 @@
+{
+  "company_name": "Ajanta Pharma Limited",
+  "slug": "ajanta-pharma-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Maharashtra",
+  "revenue_cr": 4648.1,
+  "nii_score": 6.8,
+  "nii_rank": 166,
+  "nii_sector_rank": 23,
+  "nii_rating": "Good",
+  "nii_percentile": 68,
+  "taesc_cr": 200.57,
+  "nir": 0.0432,
+  "nir_pct": 4.32,
+  "breakdown": {
+    "climate": {
+      "value_cr": 36.89,
+      "pct": 18.4
+    },
+    "water": {
+      "value_cr": 7.43,
+      "pct": 3.7
+    },
+    "land": {
+      "value_cr": 17.02,
+      "pct": 8.5
+    },
+    "biodiversity": {
+      "value_cr": 135.34,
+      "pct": 67.5
+    },
+    "pollution": {
+      "value_cr": 3.88,
+      "pct": 1.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 6392.0,
+    "scope2_ghg_tco2e": 43598.0,
+    "scope3_ghg_tco2e": 10790.0,
+    "water_consumption_kl": 490670.0,
+    "water_stress_score": 2.81,
+    "total_land_ha": 230.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.1017,
+    "waste_generated_mt": 3071.0,
+    "renewable_energy_pct": 12.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

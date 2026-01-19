@@ -1,0 +1,59 @@
+{
+  "company_name": "Vinati Organics Limited",
+  "slug": "vinati-organics-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Maharashtra",
+  "revenue_cr": 2248.1,
+  "nii_score": 2.3,
+  "nii_rank": 402,
+  "nii_sector_rank": 125,
+  "nii_rating": "Poor",
+  "nii_percentile": 23,
+  "taesc_cr": 389.9,
+  "nir": 0.1734,
+  "nir_pct": 17.34,
+  "breakdown": {
+    "climate": {
+      "value_cr": 260.59,
+      "pct": 66.8
+    },
+    "water": {
+      "value_cr": 22.52,
+      "pct": 5.8
+    },
+    "land": {
+      "value_cr": 11.43,
+      "pct": 2.9
+    },
+    "biodiversity": {
+      "value_cr": 84.8,
+      "pct": 21.7
+    },
+    "pollution": {
+      "value_cr": 10.56,
+      "pct": 2.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 294797.0,
+    "scope2_ghg_tco2e": 23356.0,
+    "scope3_ghg_tco2e": 15400.0,
+    "water_consumption_kl": 902313.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 127.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0139,
+    "waste_generated_mt": 6290.0,
+    "renewable_energy_pct": 10.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

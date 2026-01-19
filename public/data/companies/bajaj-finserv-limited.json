@@ -1,0 +1,59 @@
+{
+  "company_name": "Bajaj Finserv Limited",
+  "slug": "bajaj-finserv-limited",
+  "sector": "Banking & Financial Services",
+  "state": "Maharashtra",
+  "revenue_cr": 133822.12,
+  "nii_score": 9.7,
+  "nii_rank": 14,
+  "nii_sector_rank": 10,
+  "nii_rating": "Excellent",
+  "nii_percentile": 97,
+  "taesc_cr": 101.09,
+  "nir": 0.0008,
+  "nir_pct": 0.08,
+  "breakdown": {
+    "climate": {
+      "value_cr": 61.72,
+      "pct": 61.1
+    },
+    "water": {
+      "value_cr": 18.64,
+      "pct": 18.4
+    },
+    "land": {
+      "value_cr": 0.54,
+      "pct": 0.5
+    },
+    "biodiversity": {
+      "value_cr": 19.87,
+      "pct": 19.7
+    },
+    "pollution": {
+      "value_cr": 0.31,
+      "pct": 0.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 8966.0,
+    "scope2_ghg_tco2e": 49491.0,
+    "scope3_ghg_tco2e": 28753.0,
+    "water_consumption_kl": 870931.0,
+    "water_stress_score": 1.82,
+    "total_land_ha": 18.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.1291,
+    "waste_generated_mt": 213.0,
+    "renewable_energy_pct": 0.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 9.3,
+    "sector_best_score": 10.0,
+    "sector_median_taesc": 23.47,
+    "sector_best_taesc": 0.5
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

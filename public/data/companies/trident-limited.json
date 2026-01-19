@@ -1,0 +1,59 @@
+{
+  "company_name": "TRIDENT LIMITED",
+  "slug": "trident-limited",
+  "sector": "Textiles & Apparel",
+  "state": "Telangana",
+  "revenue_cr": 69658.9,
+  "nii_score": 6.4,
+  "nii_rank": 187,
+  "nii_sector_rank": 1,
+  "nii_rating": "Good",
+  "nii_percentile": 64,
+  "taesc_cr": 3403.61,
+  "nir": 0.0489,
+  "nir_pct": 4.89,
+  "breakdown": {
+    "climate": {
+      "value_cr": 690.62,
+      "pct": 20.3
+    },
+    "water": {
+      "value_cr": 288.07,
+      "pct": 8.5
+    },
+    "land": {
+      "value_cr": 37.73,
+      "pct": 1.1
+    },
+    "biodiversity": {
+      "value_cr": 2082.57,
+      "pct": 61.2
+    },
+    "pollution": {
+      "value_cr": 304.62,
+      "pct": 8.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 658509.0,
+    "scope2_ghg_tco2e": 360850.0,
+    "scope3_ghg_tco2e": 154000.0,
+    "water_consumption_kl": 11961738.0,
+    "water_stress_score": 3.98,
+    "total_land_ha": 495.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.0172,
+    "waste_generated_mt": 284725.0,
+    "renewable_energy_pct": 10.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.0,
+    "sector_best_score": 6.4,
+    "sector_median_taesc": 748.42,
+    "sector_best_taesc": 136.09
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

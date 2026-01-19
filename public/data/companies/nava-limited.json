@@ -1,0 +1,59 @@
+{
+  "company_name": "NAVA LIMITED",
+  "slug": "nava-limited",
+  "sector": "Metals & Mining",
+  "state": "Gujarat",
+  "revenue_cr": 1612.03,
+  "nii_score": 0.2,
+  "nii_rank": 512,
+  "nii_sector_rank": 29,
+  "nii_rating": "Critical",
+  "nii_percentile": 2,
+  "taesc_cr": 3788.86,
+  "nir": 2.3504,
+  "nir_pct": 235.04,
+  "breakdown": {
+    "climate": {
+      "value_cr": 2460.78,
+      "pct": 64.9
+    },
+    "water": {
+      "value_cr": 197.28,
+      "pct": 5.2
+    },
+    "land": {
+      "value_cr": 256.93,
+      "pct": 6.8
+    },
+    "biodiversity": {
+      "value_cr": 93.07,
+      "pct": 2.5
+    },
+    "pollution": {
+      "value_cr": 780.81,
+      "pct": 20.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 2712160.0,
+    "scope2_ghg_tco2e": 124215.0,
+    "scope3_ghg_tco2e": 124000.0,
+    "water_consumption_kl": 4449454.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 2565.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0086,
+    "waste_generated_mt": 776828.0,
+    "renewable_energy_pct": 4.8
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

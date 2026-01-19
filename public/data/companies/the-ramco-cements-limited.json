@@ -1,0 +1,59 @@
+{
+  "company_name": "The Ramco Cements Limited",
+  "slug": "the-ramco-cements-limited",
+  "sector": "Cement Manufacturing",
+  "state": "Gujarat",
+  "revenue_cr": 13826.4,
+  "nii_score": 0.6,
+  "nii_rank": 491,
+  "nii_sector_rank": 12,
+  "nii_rating": "Critical",
+  "nii_percentile": 6,
+  "taesc_cr": 10643.28,
+  "nir": 0.7698,
+  "nir_pct": 76.98,
+  "breakdown": {
+    "climate": {
+      "value_cr": 9027.14,
+      "pct": 84.8
+    },
+    "water": {
+      "value_cr": 65.57,
+      "pct": 0.6
+    },
+    "land": {
+      "value_cr": 558.38,
+      "pct": 5.2
+    },
+    "biodiversity": {
+      "value_cr": 677.95,
+      "pct": 6.4
+    },
+    "pollution": {
+      "value_cr": 314.23,
+      "pct": 3.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 10283160.0,
+    "scope2_ghg_tco2e": 244925.0,
+    "scope3_ghg_tco2e": 674000.0,
+    "water_consumption_kl": 2130043.0,
+    "water_stress_score": 3.14,
+    "total_land_ha": 6000.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.011,
+    "waste_generated_mt": 100582.0,
+    "renewable_energy_pct": 28.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 0.8,
+    "sector_best_score": 4.9,
+    "sector_median_taesc": 4113.3,
+    "sector_best_taesc": 185.22
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "EICHER MOTORS LIMITED",
+  "slug": "eicher-motors-limited",
+  "sector": "Manufacturing - Automobiles",
+  "state": "Karnataka",
+  "revenue_cr": 6172.0,
+  "nii_score": 2.0,
+  "nii_rank": 418,
+  "nii_sector_rank": 10,
+  "nii_rating": "Poor",
+  "nii_percentile": 20,
+  "taesc_cr": 1294.82,
+  "nir": 0.2098,
+  "nir_pct": 20.98,
+  "breakdown": {
+    "climate": {
+      "value_cr": 1056.08,
+      "pct": 81.6
+    },
+    "water": {
+      "value_cr": 8.2,
+      "pct": 0.6
+    },
+    "land": {
+      "value_cr": 39.07,
+      "pct": 3.0
+    },
+    "biodiversity": {
+      "value_cr": 179.67,
+      "pct": 13.9
+    },
+    "pollution": {
+      "value_cr": 11.8,
+      "pct": 0.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 17446.0,
+    "scope2_ghg_tco2e": 12071.0,
+    "scope3_ghg_tco2e": 2450000.0,
+    "water_consumption_kl": 231818.0,
+    "water_stress_score": 4.52,
+    "total_land_ha": 507.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0149,
+    "waste_generated_mt": 8932.0,
+    "renewable_energy_pct": 22.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.0,
+    "sector_median_taesc": 1910.81,
+    "sector_best_taesc": 77.36
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "APAR Industries Limited",
+  "slug": "apar-industries-limited",
+  "sector": "Manufacturing - Engineering",
+  "state": "Maharashtra",
+  "revenue_cr": 18581.21,
+  "nii_score": 2.6,
+  "nii_rank": 386,
+  "nii_sector_rank": 9,
+  "nii_rating": "Poor",
+  "nii_percentile": 26,
+  "taesc_cr": 2703.75,
+  "nir": 0.1455,
+  "nir_pct": 14.55,
+  "breakdown": {
+    "climate": {
+      "value_cr": 2114.03,
+      "pct": 78.2
+    },
+    "water": {
+      "value_cr": 9.07,
+      "pct": 0.3
+    },
+    "land": {
+      "value_cr": 17.22,
+      "pct": 0.6
+    },
+    "biodiversity": {
+      "value_cr": 549.83,
+      "pct": 20.3
+    },
+    "pollution": {
+      "value_cr": 13.59,
+      "pct": 0.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 39329.0,
+    "scope2_ghg_tco2e": 122479.0,
+    "scope3_ghg_tco2e": 4667283.0,
+    "water_consumption_kl": 363693.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 210.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0177,
+    "waste_generated_mt": 12327.0,
+    "renewable_energy_pct": 5.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.3,
+    "sector_best_score": 7.6,
+    "sector_median_taesc": 977.28,
+    "sector_best_taesc": 29.35
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

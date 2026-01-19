@@ -1,0 +1,59 @@
+{
+  "company_name": "BANK OF INDIA",
+  "slug": "bank-of-india",
+  "sector": "Banking & Financial Services",
+  "state": "Maharashtra",
+  "revenue_cr": 79820.0,
+  "nii_score": 9.4,
+  "nii_rank": 29,
+  "nii_sector_rank": 25,
+  "nii_rating": "Excellent",
+  "nii_percentile": 94,
+  "taesc_cr": 122.41,
+  "nir": 0.0015,
+  "nir_pct": 0.15,
+  "breakdown": {
+    "climate": {
+      "value_cr": 82.99,
+      "pct": 67.8
+    },
+    "water": {
+      "value_cr": 12.33,
+      "pct": 10.1
+    },
+    "land": {
+      "value_cr": 9.06,
+      "pct": 7.4
+    },
+    "biodiversity": {
+      "value_cr": 11.85,
+      "pct": 9.7
+    },
+    "pollution": {
+      "value_cr": 6.17,
+      "pct": 5.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 9106.0,
+    "scope2_ghg_tco2e": 88418.0,
+    "scope3_ghg_tco2e": 250.0,
+    "water_consumption_kl": 614353.0,
+    "water_stress_score": 1.67,
+    "total_land_ha": 302.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.1322,
+    "waste_generated_mt": 2916.0,
+    "renewable_energy_pct": 0.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 9.3,
+    "sector_best_score": 10.0,
+    "sector_median_taesc": 23.47,
+    "sector_best_taesc": 0.5
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

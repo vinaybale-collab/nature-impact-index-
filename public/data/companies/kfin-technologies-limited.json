@@ -1,0 +1,59 @@
+{
+  "company_name": "KFin Technologies Limited",
+  "slug": "kfin-technologies-limited",
+  "sector": "Information Technology",
+  "state": "Karnataka",
+  "revenue_cr": 1055.5,
+  "nii_score": 8.2,
+  "nii_rank": 92,
+  "nii_sector_rank": 25,
+  "nii_rating": "Excellent",
+  "nii_percentile": 82,
+  "taesc_cr": 7.33,
+  "nir": 0.0069,
+  "nir_pct": 0.69,
+  "breakdown": {
+    "climate": {
+      "value_cr": 2.83,
+      "pct": 38.7
+    },
+    "water": {
+      "value_cr": 0.16,
+      "pct": 2.2
+    },
+    "land": {
+      "value_cr": 0.57,
+      "pct": 7.8
+    },
+    "biodiversity": {
+      "value_cr": 3.42,
+      "pct": 46.7
+    },
+    "pollution": {
+      "value_cr": 0.34,
+      "pct": 4.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 17.0,
+    "scope2_ghg_tco2e": 3182.0,
+    "scope3_ghg_tco2e": 265.0,
+    "water_consumption_kl": 7625.0,
+    "water_stress_score": 1.82,
+    "total_land_ha": 15.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.1291,
+    "waste_generated_mt": 18.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 8.5,
+    "sector_best_score": 9.0,
+    "sector_median_taesc": 21.55,
+    "sector_best_taesc": 2.85
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

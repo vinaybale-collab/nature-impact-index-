@@ -1,0 +1,59 @@
+{
+  "company_name": "Thomas Cook  India  Limited",
+  "slug": "thomas-cook-india-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Delhi",
+  "revenue_cr": 2073.71,
+  "nii_score": 3.9,
+  "nii_rank": 318,
+  "nii_sector_rank": 94,
+  "nii_rating": "Poor",
+  "nii_percentile": 39,
+  "taesc_cr": 196.69,
+  "nir": 0.0949,
+  "nir_pct": 9.49,
+  "breakdown": {
+    "climate": {
+      "value_cr": 55.73,
+      "pct": 28.3
+    },
+    "water": {
+      "value_cr": 0.85,
+      "pct": 0.4
+    },
+    "land": {
+      "value_cr": 1.8,
+      "pct": 0.9
+    },
+    "biodiversity": {
+      "value_cr": 138.13,
+      "pct": 70.2
+    },
+    "pollution": {
+      "value_cr": 0.18,
+      "pct": 0.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 13.0,
+    "scope2_ghg_tco2e": 23304.0,
+    "scope3_ghg_tco2e": 84500.0,
+    "water_consumption_kl": 48865.0,
+    "water_stress_score": 1.37,
+    "total_land_ha": 20.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.1434,
+    "waste_generated_mt": 42.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

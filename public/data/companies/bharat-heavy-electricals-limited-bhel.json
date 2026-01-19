@@ -1,0 +1,59 @@
+{
+  "company_name": "Bharat Heavy Electricals Limited (BHEL)",
+  "slug": "bharat-heavy-electricals-limited-bhel",
+  "sector": "Energy & Power",
+  "state": "Unknown",
+  "revenue_cr": 29269.17,
+  "nii_score": 5.5,
+  "nii_rank": 234,
+  "nii_sector_rank": 3,
+  "nii_rating": "Average",
+  "nii_percentile": 55,
+  "taesc_cr": 1859.41,
+  "nir": 0.0635,
+  "nir_pct": 6.35,
+  "breakdown": {
+    "climate": {
+      "value_cr": 224.73,
+      "pct": 12.1
+    },
+    "water": {
+      "value_cr": 56.34,
+      "pct": 3.0
+    },
+    "land": {
+      "value_cr": 341.42,
+      "pct": 18.4
+    },
+    "biodiversity": {
+      "value_cr": 1205.02,
+      "pct": 64.8
+    },
+    "pollution": {
+      "value_cr": 31.91,
+      "pct": 1.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 111681.0,
+    "scope2_ghg_tco2e": 174844.0,
+    "scope3_ghg_tco2e": 8540.0,
+    "water_consumption_kl": 1426210.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 3970.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 28450.0,
+    "renewable_energy_pct": 2.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.9,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1859.41,
+    "sector_best_taesc": 22.51
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

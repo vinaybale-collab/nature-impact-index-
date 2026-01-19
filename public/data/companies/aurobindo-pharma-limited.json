@@ -1,0 +1,59 @@
+{
+  "company_name": "AUROBINDO PHARMA LIMITED",
+  "slug": "aurobindo-pharma-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "West Bengal",
+  "revenue_cr": 34498.99,
+  "nii_score": 5.7,
+  "nii_rank": 224,
+  "nii_sector_rank": 38,
+  "nii_rating": "Average",
+  "nii_percentile": 57,
+  "taesc_cr": 2096.03,
+  "nir": 0.0608,
+  "nir_pct": 6.08,
+  "breakdown": {
+    "climate": {
+      "value_cr": 1037.13,
+      "pct": 49.5
+    },
+    "water": {
+      "value_cr": 218.68,
+      "pct": 10.4
+    },
+    "land": {
+      "value_cr": 103.23,
+      "pct": 4.9
+    },
+    "biodiversity": {
+      "value_cr": 657.9,
+      "pct": 31.4
+    },
+    "pollution": {
+      "value_cr": 79.09,
+      "pct": 3.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 750616.0,
+    "scope2_ghg_tco2e": 474772.0,
+    "scope3_ghg_tco2e": 360221.0,
+    "water_consumption_kl": 5543209.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 1395.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.0119,
+    "waste_generated_mt": 55538.0,
+    "renewable_energy_pct": 15.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

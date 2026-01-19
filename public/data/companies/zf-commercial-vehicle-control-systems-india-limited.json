@@ -1,0 +1,59 @@
+{
+  "company_name": "ZF Commercial Vehicle Control Systems India Limited",
+  "slug": "zf-commercial-vehicle-control-systems-india-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "West Bengal",
+  "revenue_cr": 3804.1,
+  "nii_score": 5.3,
+  "nii_rank": 245,
+  "nii_sector_rank": 54,
+  "nii_rating": "Average",
+  "nii_percentile": 53,
+  "taesc_cr": 256.36,
+  "nir": 0.0674,
+  "nir_pct": 6.74,
+  "breakdown": {
+    "climate": {
+      "value_cr": 53.98,
+      "pct": 21.1
+    },
+    "water": {
+      "value_cr": 3.87,
+      "pct": 1.5
+    },
+    "land": {
+      "value_cr": 8.73,
+      "pct": 3.4
+    },
+    "biodiversity": {
+      "value_cr": 181.55,
+      "pct": 70.8
+    },
+    "pollution": {
+      "value_cr": 8.23,
+      "pct": 3.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 1763.0,
+    "scope2_ghg_tco2e": 5892.0,
+    "scope3_ghg_tco2e": 123475.0,
+    "water_consumption_kl": 85869.0,
+    "water_stress_score": 4.95,
+    "total_land_ha": 97.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.0585,
+    "waste_generated_mt": 5728.0,
+    "renewable_energy_pct": 18.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

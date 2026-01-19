@@ -1,0 +1,59 @@
+{
+  "company_name": "Hitachi Energy India Limited",
+  "slug": "hitachi-energy-india-limited",
+  "sector": "Energy & Power",
+  "state": "Tamil Nadu",
+  "revenue_cr": 6384.93,
+  "nii_score": 3.9,
+  "nii_rank": 318,
+  "nii_sector_rank": 11,
+  "nii_rating": "Poor",
+  "nii_percentile": 39,
+  "taesc_cr": 611.37,
+  "nir": 0.0958,
+  "nir_pct": 9.58,
+  "breakdown": {
+    "climate": {
+      "value_cr": 313.75,
+      "pct": 51.3
+    },
+    "water": {
+      "value_cr": 15.04,
+      "pct": 2.5
+    },
+    "land": {
+      "value_cr": 13.76,
+      "pct": 2.3
+    },
+    "biodiversity": {
+      "value_cr": 257.43,
+      "pct": 42.1
+    },
+    "pollution": {
+      "value_cr": 11.38,
+      "pct": 1.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 4447.0,
+    "scope2_ghg_tco2e": 0.0,
+    "scope3_ghg_tco2e": 729349.0,
+    "water_consumption_kl": 367776.0,
+    "water_stress_score": 4.55,
+    "total_land_ha": 160.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0063,
+    "waste_generated_mt": 8968.0,
+    "renewable_energy_pct": 87.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.9,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1859.41,
+    "sector_best_taesc": 22.51
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

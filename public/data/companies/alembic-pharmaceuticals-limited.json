@@ -1,0 +1,59 @@
+{
+  "company_name": "ALEMBIC PHARMACEUTICALS LIMITED",
+  "slug": "alembic-pharmaceuticals-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Telangana",
+  "revenue_cr": 6032.63,
+  "nii_score": 6.2,
+  "nii_rank": 197,
+  "nii_sector_rank": 35,
+  "nii_rating": "Good",
+  "nii_percentile": 62,
+  "taesc_cr": 307.22,
+  "nir": 0.0509,
+  "nir_pct": 5.09,
+  "breakdown": {
+    "climate": {
+      "value_cr": 111.0,
+      "pct": 36.1
+    },
+    "water": {
+      "value_cr": 33.65,
+      "pct": 11.0
+    },
+    "land": {
+      "value_cr": 4.27,
+      "pct": 1.4
+    },
+    "biodiversity": {
+      "value_cr": 110.54,
+      "pct": 36.0
+    },
+    "pollution": {
+      "value_cr": 47.76,
+      "pct": 15.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 80278.0,
+    "scope2_ghg_tco2e": 77966.0,
+    "scope3_ghg_tco2e": 36621.0,
+    "water_consumption_kl": 769226.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 57.7,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.0053,
+    "waste_generated_mt": 43512.0,
+    "renewable_energy_pct": 18.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "Birla Corporation Limited",
+  "slug": "birla-corporation-limited",
+  "sector": "Cement Manufacturing",
+  "state": "Tamil Nadu",
+  "revenue_cr": 9748.31,
+  "nii_score": 0.5,
+  "nii_rank": 497,
+  "nii_sector_rank": 15,
+  "nii_rating": "Critical",
+  "nii_percentile": 5,
+  "taesc_cr": 10728.2,
+  "nir": 1.1005,
+  "nir_pct": 110.05,
+  "breakdown": {
+    "climate": {
+      "value_cr": 9545.39,
+      "pct": 89.0
+    },
+    "water": {
+      "value_cr": 77.97,
+      "pct": 0.7
+    },
+    "land": {
+      "value_cr": 552.97,
+      "pct": 5.2
+    },
+    "biodiversity": {
+      "value_cr": 476.08,
+      "pct": 4.4
+    },
+    "pollution": {
+      "value_cr": 75.79,
+      "pct": 0.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 10383044.0,
+    "scope2_ghg_tco2e": 479528.0,
+    "scope3_ghg_tco2e": 856000.0,
+    "water_consumption_kl": 3371325.0,
+    "water_stress_score": 2.22,
+    "total_land_ha": 5970.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0103,
+    "waste_generated_mt": 31952.0,
+    "renewable_energy_pct": 0.6
+  },
+  "peer_comparison": {
+    "sector_median_score": 0.8,
+    "sector_best_score": 4.9,
+    "sector_median_taesc": 4113.3,
+    "sector_best_taesc": 185.22
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "Prism Johnson (Cement)",
+  "slug": "prism-johnson-cement",
+  "sector": "Cement Manufacturing",
+  "state": "Unknown",
+  "revenue_cr": 7654.0,
+  "nii_score": 1.0,
+  "nii_rank": 470,
+  "nii_sector_rank": 7,
+  "nii_rating": "Critical",
+  "nii_percentile": 10,
+  "taesc_cr": 4113.3,
+  "nir": 0.5374,
+  "nir_pct": 53.74,
+  "breakdown": {
+    "climate": {
+      "value_cr": 3464.37,
+      "pct": 84.2
+    },
+    "water": {
+      "value_cr": 98.51,
+      "pct": 2.4
+    },
+    "land": {
+      "value_cr": 153.35,
+      "pct": 3.7
+    },
+    "biodiversity": {
+      "value_cr": 372.3,
+      "pct": 9.1
+    },
+    "pollution": {
+      "value_cr": 24.76,
+      "pct": 0.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 3828849.0,
+    "scope2_ghg_tco2e": 159751.0,
+    "scope3_ghg_tco2e": 493765.0,
+    "water_consumption_kl": 2130043.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 1670.0,
+    "base_msa_loss": 0.465,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 24260.0,
+    "renewable_energy_pct": 18.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 0.8,
+    "sector_best_score": 4.9,
+    "sector_median_taesc": 4113.3,
+    "sector_best_taesc": 185.22
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

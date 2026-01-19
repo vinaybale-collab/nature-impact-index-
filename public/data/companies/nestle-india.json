@@ -1,0 +1,59 @@
+{
+  "company_name": "Nestle India",
+  "slug": "nestle-india",
+  "sector": "FMCG & Consumer Goods",
+  "state": "Unknown",
+  "revenue_cr": 20970.46,
+  "nii_score": 6.5,
+  "nii_rank": 182,
+  "nii_sector_rank": 5,
+  "nii_rating": "Good",
+  "nii_percentile": 65,
+  "taesc_cr": 1000.38,
+  "nir": 0.0477,
+  "nir_pct": 4.77,
+  "breakdown": {
+    "climate": {
+      "value_cr": 252.45,
+      "pct": 25.2
+    },
+    "water": {
+      "value_cr": 77.7,
+      "pct": 7.8
+    },
+    "land": {
+      "value_cr": 24.99,
+      "pct": 2.5
+    },
+    "biodiversity": {
+      "value_cr": 484.26,
+      "pct": 48.4
+    },
+    "pollution": {
+      "value_cr": 160.98,
+      "pct": 16.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 84500.0,
+    "scope2_ghg_tco2e": 112000.0,
+    "scope3_ghg_tco2e": 425000.0,
+    "water_consumption_kl": 1850000.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 357.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 32450.0,
+    "renewable_energy_pct": 34.9
+  },
+  "peer_comparison": {
+    "sector_median_score": 5.3,
+    "sector_best_score": 7.7,
+    "sector_median_taesc": 1532.67,
+    "sector_best_taesc": 118.39
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

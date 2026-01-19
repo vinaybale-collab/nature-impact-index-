@@ -1,0 +1,59 @@
+{
+  "company_name": "NLC India Limited",
+  "slug": "nlc-india-limited",
+  "sector": "Energy & Power",
+  "state": "West Bengal",
+  "revenue_cr": 15282.98,
+  "nii_score": 0.2,
+  "nii_rank": 512,
+  "nii_sector_rank": 27,
+  "nii_rating": "Critical",
+  "nii_percentile": 2,
+  "taesc_cr": 39602.34,
+  "nir": 2.5913,
+  "nir_pct": 259.13,
+  "breakdown": {
+    "climate": {
+      "value_cr": 25797.24,
+      "pct": 65.1
+    },
+    "water": {
+      "value_cr": 7294.0,
+      "pct": 18.4
+    },
+    "land": {
+      "value_cr": 2161.65,
+      "pct": 5.5
+    },
+    "biodiversity": {
+      "value_cr": 814.93,
+      "pct": 2.1
+    },
+    "pollution": {
+      "value_cr": 3534.51,
+      "pct": 8.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 30079692.0,
+    "scope2_ghg_tco2e": 44935.0,
+    "scope3_ghg_tco2e": 540000.0,
+    "water_consumption_kl": 229891270.0,
+    "water_stress_score": 4.95,
+    "total_land_ha": 30900.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.0584,
+    "waste_generated_mt": 3516480.0,
+    "renewable_energy_pct": 1.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.9,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1859.41,
+    "sector_best_taesc": 22.51
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "VALOR ESTATE LIMITED",
+  "slug": "valor-estate-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Tamil Nadu",
+  "revenue_cr": 1609.41,
+  "nii_score": 3.1,
+  "nii_rank": 360,
+  "nii_sector_rank": 111,
+  "nii_rating": "Poor",
+  "nii_percentile": 31,
+  "taesc_cr": 193.65,
+  "nir": 0.1203,
+  "nir_pct": 12.03,
+  "breakdown": {
+    "climate": {
+      "value_cr": 14.34,
+      "pct": 7.4
+    },
+    "water": {
+      "value_cr": 4.33,
+      "pct": 2.2
+    },
+    "land": {
+      "value_cr": 76.51,
+      "pct": 39.5
+    },
+    "biodiversity": {
+      "value_cr": 97.06,
+      "pct": 50.1
+    },
+    "pollution": {
+      "value_cr": 1.4,
+      "pct": 0.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 1552.0,
+    "scope2_ghg_tco2e": 3240.0,
+    "scope3_ghg_tco2e": 24156.0,
+    "water_consumption_kl": 288503.0,
+    "water_stress_score": 2.27,
+    "total_land_ha": 850.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.1147,
+    "waste_generated_mt": 1006.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

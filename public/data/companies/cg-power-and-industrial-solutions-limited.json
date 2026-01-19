@@ -1,0 +1,59 @@
+{
+  "company_name": "CG Power and Industrial Solutions Limited",
+  "slug": "cg-power-and-industrial-solutions-limited",
+  "sector": "Energy & Power",
+  "state": "Gujarat",
+  "revenue_cr": 76099.09,
+  "nii_score": 5.2,
+  "nii_rank": 250,
+  "nii_sector_rank": 7,
+  "nii_rating": "Average",
+  "nii_percentile": 52,
+  "taesc_cr": 5270.51,
+  "nir": 0.0693,
+  "nir_pct": 6.93,
+  "breakdown": {
+    "climate": {
+      "value_cr": 143.64,
+      "pct": 2.7
+    },
+    "water": {
+      "value_cr": 7.27,
+      "pct": 0.1
+    },
+    "land": {
+      "value_cr": 42.57,
+      "pct": 0.8
+    },
+    "biodiversity": {
+      "value_cr": 5056.18,
+      "pct": 95.9
+    },
+    "pollution": {
+      "value_cr": 20.84,
+      "pct": 0.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 2181.0,
+    "scope2_ghg_tco2e": 31365.0,
+    "scope3_ghg_tco2e": 300000.0,
+    "water_consumption_kl": 324791.0,
+    "water_stress_score": 2.28,
+    "total_land_ha": 495.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.11,
+    "waste_generated_mt": 16934.0,
+    "renewable_energy_pct": 14.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.9,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1859.41,
+    "sector_best_taesc": 22.51
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

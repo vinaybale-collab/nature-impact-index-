@@ -1,0 +1,59 @@
+{
+  "company_name": "RBL Bank Limited",
+  "slug": "rbl-bank-limited",
+  "sector": "Banking & Financial Services",
+  "state": "Tamil Nadu",
+  "revenue_cr": 17845.25,
+  "nii_score": 9.4,
+  "nii_rank": 29,
+  "nii_sector_rank": 25,
+  "nii_rating": "Excellent",
+  "nii_percentile": 94,
+  "taesc_cr": 24.59,
+  "nir": 0.0014,
+  "nir_pct": 0.14,
+  "breakdown": {
+    "climate": {
+      "value_cr": 11.38,
+      "pct": 46.3
+    },
+    "water": {
+      "value_cr": 8.81,
+      "pct": 35.8
+    },
+    "land": {
+      "value_cr": 1.41,
+      "pct": 5.7
+    },
+    "biodiversity": {
+      "value_cr": 2.65,
+      "pct": 10.8
+    },
+    "pollution": {
+      "value_cr": 0.34,
+      "pct": 1.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 120.0,
+    "scope2_ghg_tco2e": 9282.0,
+    "scope3_ghg_tco2e": 8022.0,
+    "water_consumption_kl": 176529.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 47.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0065,
+    "waste_generated_mt": 16.0,
+    "renewable_energy_pct": 0.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 9.3,
+    "sector_best_score": 10.0,
+    "sector_median_taesc": 23.47,
+    "sector_best_taesc": 0.5
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

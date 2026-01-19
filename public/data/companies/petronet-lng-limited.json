@@ -1,0 +1,59 @@
+{
+  "company_name": "Petronet LNG Limited",
+  "slug": "petronet-lng-limited",
+  "sector": "Oil & Gas",
+  "state": "Maharashtra",
+  "revenue_cr": 53345.17,
+  "nii_score": 0.6,
+  "nii_rank": 491,
+  "nii_sector_rank": 13,
+  "nii_rating": "Critical",
+  "nii_percentile": 6,
+  "taesc_cr": 41880.46,
+  "nir": 0.7851,
+  "nir_pct": 78.51,
+  "breakdown": {
+    "climate": {
+      "value_cr": 38841.3,
+      "pct": 92.7
+    },
+    "water": {
+      "value_cr": 0.54,
+      "pct": 0.0
+    },
+    "land": {
+      "value_cr": 35.51,
+      "pct": 0.1
+    },
+    "biodiversity": {
+      "value_cr": 3003.01,
+      "pct": 7.2
+    },
+    "pollution": {
+      "value_cr": 0.1,
+      "pct": 0.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 242657.0,
+    "scope2_ghg_tco2e": 177244.0,
+    "scope3_ghg_tco2e": 90552625.0,
+    "water_consumption_kl": 12693.0,
+    "water_stress_score": 4.52,
+    "total_land_ha": 335.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0149,
+    "waste_generated_mt": 16.0,
+    "renewable_energy_pct": 0.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.6,
+    "sector_best_score": 5.4,
+    "sector_median_taesc": 7850.63,
+    "sector_best_taesc": 258.92
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

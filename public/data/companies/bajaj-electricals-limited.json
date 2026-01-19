@@ -1,0 +1,59 @@
+{
+  "company_name": "BAJAJ ELECTRICALS LIMITED",
+  "slug": "bajaj-electricals-limited",
+  "sector": "Manufacturing - Consumer Electronics",
+  "state": "Telangana",
+  "revenue_cr": 5157.5,
+  "nii_score": 5.7,
+  "nii_rank": 224,
+  "nii_sector_rank": 3,
+  "nii_rating": "Average",
+  "nii_percentile": 57,
+  "taesc_cr": 314.02,
+  "nir": 0.0609,
+  "nir_pct": 6.09,
+  "breakdown": {
+    "climate": {
+      "value_cr": 187.7,
+      "pct": 59.8
+    },
+    "water": {
+      "value_cr": 1.5,
+      "pct": 0.5
+    },
+    "land": {
+      "value_cr": 8.2,
+      "pct": 2.6
+    },
+    "biodiversity": {
+      "value_cr": 103.25,
+      "pct": 32.9
+    },
+    "pollution": {
+      "value_cr": 13.38,
+      "pct": 4.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 1498.0,
+    "scope2_ghg_tco2e": 5107.0,
+    "scope3_ghg_tco2e": 433630.0,
+    "water_consumption_kl": 43838.0,
+    "water_stress_score": 3.44,
+    "total_land_ha": 100.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.0748,
+    "waste_generated_mt": 2142.0,
+    "renewable_energy_pct": 8.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 5.7,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 314.02,
+    "sector_best_taesc": 120.08
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

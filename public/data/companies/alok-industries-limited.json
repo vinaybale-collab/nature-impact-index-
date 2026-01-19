@@ -1,0 +1,59 @@
+{
+  "company_name": "ALOK INDUSTRIES LIMITED",
+  "slug": "alok-industries-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Gujarat",
+  "revenue_cr": 3801.84,
+  "nii_score": 1.2,
+  "nii_rank": 460,
+  "nii_sector_rank": 143,
+  "nii_rating": "Critical",
+  "nii_percentile": 12,
+  "taesc_cr": 1409.65,
+  "nir": 0.3708,
+  "nir_pct": 37.08,
+  "breakdown": {
+    "climate": {
+      "value_cr": 1121.85,
+      "pct": 79.6
+    },
+    "water": {
+      "value_cr": 53.73,
+      "pct": 3.8
+    },
+    "land": {
+      "value_cr": 63.46,
+      "pct": 4.5
+    },
+    "biodiversity": {
+      "value_cr": 149.09,
+      "pct": 10.6
+    },
+    "pollution": {
+      "value_cr": 21.53,
+      "pct": 1.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 969200.0,
+    "scope2_ghg_tco2e": 324500.0,
+    "scope3_ghg_tco2e": 57063.0,
+    "water_consumption_kl": 1604504.0,
+    "water_stress_score": 4.15,
+    "total_land_ha": 705.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0205,
+    "waste_generated_mt": 14305.0,
+    "renewable_energy_pct": 0.3
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

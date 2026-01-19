@@ -1,0 +1,59 @@
+{
+  "company_name": "Firstsource Solutions Limited",
+  "slug": "firstsource-solutions-limited",
+  "sector": "Information Technology",
+  "state": "West Bengal",
+  "revenue_cr": 2346.84,
+  "nii_score": 8.0,
+  "nii_rank": 103,
+  "nii_sector_rank": 33,
+  "nii_rating": "Excellent",
+  "nii_percentile": 80,
+  "taesc_cr": 35.24,
+  "nir": 0.015,
+  "nir_pct": 1.5,
+  "breakdown": {
+    "climate": {
+      "value_cr": 22.18,
+      "pct": 62.9
+    },
+    "water": {
+      "value_cr": 3.69,
+      "pct": 10.5
+    },
+    "land": {
+      "value_cr": 1.06,
+      "pct": 3.0
+    },
+    "biodiversity": {
+      "value_cr": 7.11,
+      "pct": 20.2
+    },
+    "pollution": {
+      "value_cr": 1.2,
+      "pct": 3.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 124.0,
+    "scope2_ghg_tco2e": 16867.0,
+    "scope3_ghg_tco2e": 26655.0,
+    "water_consumption_kl": 178673.0,
+    "water_stress_score": 2.28,
+    "total_land_ha": 28.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.11,
+    "waste_generated_mt": 379.0,
+    "renewable_energy_pct": 10.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 8.5,
+    "sector_best_score": 9.0,
+    "sector_median_taesc": 21.55,
+    "sector_best_taesc": 2.85
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

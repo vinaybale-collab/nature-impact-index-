@@ -1,0 +1,59 @@
+{
+  "company_name": "NHPC Limited",
+  "slug": "nhpc-limited",
+  "sector": "Energy & Power",
+  "state": "Tamil Nadu",
+  "revenue_cr": 10573.41,
+  "nii_score": 2.2,
+  "nii_rank": 407,
+  "nii_sector_rank": 17,
+  "nii_rating": "Poor",
+  "nii_percentile": 22,
+  "taesc_cr": 1977.02,
+  "nir": 0.187,
+  "nir_pct": 18.7,
+  "breakdown": {
+    "climate": {
+      "value_cr": 24.63,
+      "pct": 1.2
+    },
+    "water": {
+      "value_cr": 84.26,
+      "pct": 4.3
+    },
+    "land": {
+      "value_cr": 1393.6,
+      "pct": 70.5
+    },
+    "biodiversity": {
+      "value_cr": 434.5,
+      "pct": 22.0
+    },
+    "pollution": {
+      "value_cr": 40.03,
+      "pct": 2.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 4016.0,
+    "scope2_ghg_tco2e": 41528.0,
+    "scope3_ghg_tco2e": 5400.0,
+    "water_consumption_kl": 1686583.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 16600.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0094,
+    "waste_generated_mt": 25790.0,
+    "renewable_energy_pct": 100.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.9,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1859.41,
+    "sector_best_taesc": 22.51
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

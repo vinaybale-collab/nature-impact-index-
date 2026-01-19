@@ -1,0 +1,59 @@
+{
+  "company_name": "Uno Minda Limited",
+  "slug": "uno-minda-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Maharashtra",
+  "revenue_cr": 12469.98,
+  "nii_score": 5.6,
+  "nii_rank": 229,
+  "nii_sector_rank": 47,
+  "nii_rating": "Average",
+  "nii_percentile": 56,
+  "taesc_cr": 785.54,
+  "nir": 0.063,
+  "nir_pct": 6.3,
+  "breakdown": {
+    "climate": {
+      "value_cr": 209.17,
+      "pct": 26.6
+    },
+    "water": {
+      "value_cr": 36.55,
+      "pct": 4.7
+    },
+    "land": {
+      "value_cr": 50.85,
+      "pct": 6.5
+    },
+    "biodiversity": {
+      "value_cr": 466.54,
+      "pct": 59.4
+    },
+    "pollution": {
+      "value_cr": 22.42,
+      "pct": 2.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 73662.0,
+    "scope2_ghg_tco2e": 119525.0,
+    "scope3_ghg_tco2e": 154000.0,
+    "water_consumption_kl": 859533.0,
+    "water_stress_score": 4.64,
+    "total_land_ha": 565.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0125,
+    "waste_generated_mt": 16811.0,
+    "renewable_energy_pct": 12.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "NBCC India Limited",
+  "slug": "nbcc-india-limited",
+  "sector": "Cement Manufacturing",
+  "state": "Maharashtra",
+  "revenue_cr": 8725.36,
+  "nii_score": 4.9,
+  "nii_rank": 266,
+  "nii_sector_rank": 1,
+  "nii_rating": "Average",
+  "nii_percentile": 49,
+  "taesc_cr": 649.7,
+  "nir": 0.0745,
+  "nir_pct": 7.45,
+  "breakdown": {
+    "climate": {
+      "value_cr": 241.72,
+      "pct": 37.2
+    },
+    "water": {
+      "value_cr": 0.43,
+      "pct": 0.1
+    },
+    "land": {
+      "value_cr": 1.41,
+      "pct": 0.2
+    },
+    "biodiversity": {
+      "value_cr": 405.84,
+      "pct": 62.5
+    },
+    "pollution": {
+      "value_cr": 0.3,
+      "pct": 0.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 2052.0,
+    "scope2_ghg_tco2e": 887.0,
+    "scope3_ghg_tco2e": 562879.0,
+    "water_consumption_kl": 17848.0,
+    "water_stress_score": 4.76,
+    "total_land_ha": 15.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0028,
+    "waste_generated_mt": 21.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 0.8,
+    "sector_best_score": 4.9,
+    "sector_median_taesc": 4113.3,
+    "sector_best_taesc": 185.22
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

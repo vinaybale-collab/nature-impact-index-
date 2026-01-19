@@ -1,0 +1,59 @@
+{
+  "company_name": "Caplin Point Laboratories Limited",
+  "slug": "caplin-point-laboratories-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Gujarat",
+  "revenue_cr": 1921.23,
+  "nii_score": 5.6,
+  "nii_rank": 229,
+  "nii_sector_rank": 47,
+  "nii_rating": "Average",
+  "nii_percentile": 56,
+  "taesc_cr": 120.55,
+  "nir": 0.0627,
+  "nir_pct": 6.27,
+  "breakdown": {
+    "climate": {
+      "value_cr": 18.99,
+      "pct": 15.8
+    },
+    "water": {
+      "value_cr": 1.44,
+      "pct": 1.2
+    },
+    "land": {
+      "value_cr": 11.7,
+      "pct": 9.7
+    },
+    "biodiversity": {
+      "value_cr": 87.35,
+      "pct": 72.5
+    },
+    "pollution": {
+      "value_cr": 1.06,
+      "pct": 0.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 7503.0,
+    "scope2_ghg_tco2e": 13768.0,
+    "scope3_ghg_tco2e": 5400.0,
+    "water_consumption_kl": 57966.0,
+    "water_stress_score": 4.96,
+    "total_land_ha": 130.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0484,
+    "waste_generated_mt": 351.0,
+    "renewable_energy_pct": 8.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

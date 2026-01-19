@@ -1,0 +1,59 @@
+{
+  "company_name": "Persistent Systems Limited",
+  "slug": "persistent-systems-limited",
+  "sector": "Information Technology",
+  "state": "Gujarat",
+  "revenue_cr": 13218.85,
+  "nii_score": 9.0,
+  "nii_rank": 50,
+  "nii_sector_rank": 1,
+  "nii_rating": "Excellent",
+  "nii_percentile": 90,
+  "taesc_cr": 35.43,
+  "nir": 0.0027,
+  "nir_pct": 0.27,
+  "breakdown": {
+    "climate": {
+      "value_cr": 1.55,
+      "pct": 4.4
+    },
+    "water": {
+      "value_cr": 3.3,
+      "pct": 9.3
+    },
+    "land": {
+      "value_cr": 2.55,
+      "pct": 7.2
+    },
+    "biodiversity": {
+      "value_cr": 26.85,
+      "pct": 75.8
+    },
+    "pollution": {
+      "value_cr": 1.17,
+      "pct": 3.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 275.0,
+    "scope2_ghg_tco2e": 4541.0,
+    "scope3_ghg_tco2e": 3106.0,
+    "water_consumption_kl": 87334.0,
+    "water_stress_score": 4.63,
+    "total_land_ha": 67.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0208,
+    "waste_generated_mt": 122.0,
+    "renewable_energy_pct": 25.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 8.5,
+    "sector_best_score": 9.0,
+    "sector_median_taesc": 21.55,
+    "sector_best_taesc": 2.85
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "SHIPPING CORPORATION OF INDIA LIMITED",
+  "slug": "shipping-corporation-of-india-limited",
+  "sector": "Transportation & Logistics",
+  "state": "Telangana",
+  "revenue_cr": 5103.0,
+  "nii_score": 0.9,
+  "nii_rank": 476,
+  "nii_sector_rank": 18,
+  "nii_rating": "Critical",
+  "nii_percentile": 9,
+  "taesc_cr": 3023.7,
+  "nir": 0.5925,
+  "nir_pct": 59.25,
+  "breakdown": {
+    "climate": {
+      "value_cr": 2855.41,
+      "pct": 94.4
+    },
+    "water": {
+      "value_cr": 5.35,
+      "pct": 0.2
+    },
+    "land": {
+      "value_cr": 8.2,
+      "pct": 0.3
+    },
+    "biodiversity": {
+      "value_cr": 153.08,
+      "pct": 5.1
+    },
+    "pollution": {
+      "value_cr": 1.66,
+      "pct": 0.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 1079307.0,
+    "scope2_ghg_tco2e": 1245.0,
+    "scope3_ghg_tco2e": 4560000.0,
+    "water_consumption_kl": 190382.0,
+    "water_stress_score": 2.81,
+    "total_land_ha": 100.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.1017,
+    "waste_generated_mt": 1359.0,
+    "renewable_energy_pct": 0.1
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.3,
+    "sector_median_taesc": 599.33,
+    "sector_best_taesc": 125.54
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

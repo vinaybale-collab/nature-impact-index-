@@ -1,0 +1,59 @@
+{
+  "company_name": "KIOCL (Kudremukh Iron Ore Company)",
+  "slug": "kiocl-kudremukh-iron-ore-company",
+  "sector": "Metals & Mining",
+  "state": "Unknown",
+  "revenue_cr": 1822.0,
+  "nii_score": 1.9,
+  "nii_rank": 423,
+  "nii_sector_rank": 6,
+  "nii_rating": "Critical",
+  "nii_percentile": 19,
+  "taesc_cr": 408.45,
+  "nir": 0.2242,
+  "nir_pct": 22.42,
+  "breakdown": {
+    "climate": {
+      "value_cr": 146.59,
+      "pct": 35.9
+    },
+    "water": {
+      "value_cr": 91.36,
+      "pct": 22.4
+    },
+    "land": {
+      "value_cr": 60.44,
+      "pct": 14.8
+    },
+    "biodiversity": {
+      "value_cr": 109.95,
+      "pct": 26.9
+    },
+    "pollution": {
+      "value_cr": 0.1,
+      "pct": 0.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 12185.0,
+    "scope2_ghg_tco2e": 115112.0,
+    "scope3_ghg_tco2e": 93051.0,
+    "water_consumption_kl": 3097000.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 515.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 28.0,
+    "renewable_energy_pct": 0.1
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "Exide Industries Limited",
+  "slug": "exide-industries-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Gujarat",
+  "revenue_cr": 17344.14,
+  "nii_score": 4.2,
+  "nii_rank": 302,
+  "nii_sector_rank": 85,
+  "nii_rating": "Average",
+  "nii_percentile": 42,
+  "taesc_cr": 1497.07,
+  "nir": 0.0863,
+  "nir_pct": 8.63,
+  "breakdown": {
+    "climate": {
+      "value_cr": 661.97,
+      "pct": 44.2
+    },
+    "water": {
+      "value_cr": 44.67,
+      "pct": 3.0
+    },
+    "land": {
+      "value_cr": 59.86,
+      "pct": 4.0
+    },
+    "biodiversity": {
+      "value_cr": 657.55,
+      "pct": 43.9
+    },
+    "pollution": {
+      "value_cr": 73.02,
+      "pct": 4.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 35896.0,
+    "scope2_ghg_tco2e": 350643.0,
+    "scope3_ghg_tco2e": 869455.0,
+    "water_consumption_kl": 2348994.0,
+    "water_stress_score": 1.91,
+    "total_land_ha": 665.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0147,
+    "waste_generated_mt": 63321.0,
+    "renewable_energy_pct": 5.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

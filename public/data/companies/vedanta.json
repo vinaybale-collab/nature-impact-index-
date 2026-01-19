@@ -1,0 +1,59 @@
+{
+  "company_name": "Vedanta",
+  "slug": "vedanta",
+  "sector": "Metals & Mining",
+  "state": "Unknown",
+  "revenue_cr": 39868.0,
+  "nii_score": 0.2,
+  "nii_rank": 512,
+  "nii_sector_rank": 29,
+  "nii_rating": "Critical",
+  "nii_percentile": 2,
+  "taesc_cr": 105532.3,
+  "nir": 2.647,
+  "nir_pct": 264.7,
+  "breakdown": {
+    "climate": {
+      "value_cr": 69409.44,
+      "pct": 65.8
+    },
+    "water": {
+      "value_cr": 6716.97,
+      "pct": 6.4
+    },
+    "land": {
+      "value_cr": 3417.62,
+      "pct": 3.2
+    },
+    "biodiversity": {
+      "value_cr": 2322.06,
+      "pct": 2.2
+    },
+    "pollution": {
+      "value_cr": 23666.21,
+      "pct": 22.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 61288838.0,
+    "scope2_ghg_tco2e": 4561384.0,
+    "scope3_ghg_tco2e": 34581609.0,
+    "water_consumption_kl": 238000000.0,
+    "water_stress_score": 3.14,
+    "total_land_ha": 29590.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0039,
+    "waste_generated_mt": 21887396.0,
+    "renewable_energy_pct": 1.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

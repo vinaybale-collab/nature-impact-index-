@@ -1,0 +1,59 @@
+{
+  "company_name": "Biocon Limited",
+  "slug": "biocon-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Karnataka",
+  "revenue_cr": 16475.9,
+  "nii_score": 7.8,
+  "nii_rank": 113,
+  "nii_sector_rank": 4,
+  "nii_rating": "Good",
+  "nii_percentile": 78,
+  "taesc_cr": 424.39,
+  "nir": 0.0258,
+  "nir_pct": 2.58,
+  "breakdown": {
+    "climate": {
+      "value_cr": 52.16,
+      "pct": 12.3
+    },
+    "water": {
+      "value_cr": 8.56,
+      "pct": 2.0
+    },
+    "land": {
+      "value_cr": 24.2,
+      "pct": 5.7
+    },
+    "biodiversity": {
+      "value_cr": 300.28,
+      "pct": 70.8
+    },
+    "pollution": {
+      "value_cr": 39.18,
+      "pct": 9.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 23898.0,
+    "scope2_ghg_tco2e": 23656.0,
+    "scope3_ghg_tco2e": 74014.0,
+    "water_consumption_kl": 501603.0,
+    "water_stress_score": 1.89,
+    "total_land_ha": 327.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0044,
+    "waste_generated_mt": 28550.0,
+    "renewable_energy_pct": 10.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

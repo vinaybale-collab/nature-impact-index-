@@ -1,0 +1,59 @@
+{
+  "company_name": "Navin Fluorine International Limited",
+  "slug": "navin-fluorine-international-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Karnataka",
+  "revenue_cr": 3554.61,
+  "nii_score": 1.9,
+  "nii_rank": 423,
+  "nii_sector_rank": 134,
+  "nii_rating": "Critical",
+  "nii_percentile": 19,
+  "taesc_cr": 808.32,
+  "nir": 0.2274,
+  "nir_pct": 22.74,
+  "breakdown": {
+    "climate": {
+      "value_cr": 422.4,
+      "pct": 52.3
+    },
+    "water": {
+      "value_cr": 15.8,
+      "pct": 2.0
+    },
+    "land": {
+      "value_cr": 20.7,
+      "pct": 2.6
+    },
+    "biodiversity": {
+      "value_cr": 215.94,
+      "pct": 26.7
+    },
+    "pollution": {
+      "value_cr": 133.47,
+      "pct": 16.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 164451.0,
+    "scope2_ghg_tco2e": 46197.0,
+    "scope3_ghg_tco2e": 614869.0,
+    "water_consumption_kl": 1323836.0,
+    "water_stress_score": 2.1,
+    "total_land_ha": 230.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.1167,
+    "waste_generated_mt": 83991.0,
+    "renewable_energy_pct": 4.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

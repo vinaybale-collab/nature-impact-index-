@@ -1,0 +1,59 @@
+{
+  "company_name": "Route Mobile Limited",
+  "slug": "route-mobile-limited",
+  "sector": "Information Technology",
+  "state": "Telangana",
+  "revenue_cr": 832.21,
+  "nii_score": 8.7,
+  "nii_rank": 66,
+  "nii_sector_rank": 7,
+  "nii_rating": "Excellent",
+  "nii_percentile": 87,
+  "taesc_cr": 3.37,
+  "nir": 0.004,
+  "nir_pct": 0.4,
+  "breakdown": {
+    "climate": {
+      "value_cr": 0.45,
+      "pct": 13.4
+    },
+    "water": {
+      "value_cr": 0.09,
+      "pct": 2.7
+    },
+    "land": {
+      "value_cr": 0.19,
+      "pct": 5.6
+    },
+    "biodiversity": {
+      "value_cr": 2.53,
+      "pct": 75.2
+    },
+    "pollution": {
+      "value_cr": 0.1,
+      "pct": 3.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 0.0,
+    "scope2_ghg_tco2e": 189.0,
+    "scope3_ghg_tco2e": 1063.0,
+    "water_consumption_kl": 3722.0,
+    "water_stress_score": 2.14,
+    "total_land_ha": 5.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.1111,
+    "waste_generated_mt": 0.0,
+    "renewable_energy_pct": 100.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 8.5,
+    "sector_best_score": 9.0,
+    "sector_median_taesc": 21.55,
+    "sector_best_taesc": 2.85
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

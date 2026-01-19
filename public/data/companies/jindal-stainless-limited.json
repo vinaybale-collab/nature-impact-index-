@@ -1,0 +1,59 @@
+{
+  "company_name": "Jindal Stainless Limited",
+  "slug": "jindal-stainless-limited",
+  "sector": "Metals & Mining",
+  "state": "Gujarat",
+  "revenue_cr": 40816.88,
+  "nii_score": 1.8,
+  "nii_rank": 428,
+  "nii_sector_rank": 7,
+  "nii_rating": "Critical",
+  "nii_percentile": 18,
+  "taesc_cr": 9627.06,
+  "nir": 0.2359,
+  "nir_pct": 23.59,
+  "breakdown": {
+    "climate": {
+      "value_cr": 4342.27,
+      "pct": 45.1
+    },
+    "water": {
+      "value_cr": 668.32,
+      "pct": 6.9
+    },
+    "land": {
+      "value_cr": 267.11,
+      "pct": 2.8
+    },
+    "biodiversity": {
+      "value_cr": 2393.32,
+      "pct": 24.9
+    },
+    "pollution": {
+      "value_cr": 1956.04,
+      "pct": 20.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 2995798.0,
+    "scope2_ghg_tco2e": 622511.0,
+    "scope3_ghg_tco2e": 3216693.0,
+    "water_consumption_kl": 15077894.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 2635.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0111,
+    "waste_generated_mt": 1945438.0,
+    "renewable_energy_pct": 2.8
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

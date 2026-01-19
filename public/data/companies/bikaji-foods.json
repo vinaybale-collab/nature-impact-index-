@@ -1,0 +1,59 @@
+{
+  "company_name": "Bikaji Foods",
+  "slug": "bikaji-foods",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Unknown",
+  "revenue_cr": 2810.79,
+  "nii_score": 7.4,
+  "nii_rank": 134,
+  "nii_sector_rank": 16,
+  "nii_rating": "Good",
+  "nii_percentile": 74,
+  "taesc_cr": 101.02,
+  "nir": 0.0359,
+  "nir_pct": 3.59,
+  "breakdown": {
+    "climate": {
+      "value_cr": 26.36,
+      "pct": 26.1
+    },
+    "water": {
+      "value_cr": 6.72,
+      "pct": 6.7
+    },
+    "land": {
+      "value_cr": 10.14,
+      "pct": 10.0
+    },
+    "biodiversity": {
+      "value_cr": 52.9,
+      "pct": 52.4
+    },
+    "pollution": {
+      "value_cr": 4.9,
+      "pct": 4.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 11854.0,
+    "scope2_ghg_tco2e": 20245.0,
+    "scope3_ghg_tco2e": 1450.0,
+    "water_consumption_kl": 160000.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 137.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 2450.0,
+    "renewable_energy_pct": 17.7
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

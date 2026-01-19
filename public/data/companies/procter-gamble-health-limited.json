@@ -1,0 +1,59 @@
+{
+  "company_name": "Procter  Gamble Health Limited",
+  "slug": "procter-gamble-health-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Telangana",
+  "revenue_cr": 1151.26,
+  "nii_score": 6.5,
+  "nii_rank": 182,
+  "nii_sector_rank": 30,
+  "nii_rating": "Good",
+  "nii_percentile": 65,
+  "taesc_cr": 54.88,
+  "nir": 0.0477,
+  "nir_pct": 4.77,
+  "breakdown": {
+    "climate": {
+      "value_cr": 2.79,
+      "pct": 5.1
+    },
+    "water": {
+      "value_cr": 1.13,
+      "pct": 2.1
+    },
+    "land": {
+      "value_cr": 9.4,
+      "pct": 17.1
+    },
+    "biodiversity": {
+      "value_cr": 34.06,
+      "pct": 62.1
+    },
+    "pollution": {
+      "value_cr": 7.5,
+      "pct": 13.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 263.0,
+    "scope2_ghg_tco2e": 4273.0,
+    "scope3_ghg_tco2e": 4500.0,
+    "water_consumption_kl": 57909.0,
+    "water_stress_score": 3.77,
+    "total_land_ha": 127.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.1059,
+    "waste_generated_mt": 196.0,
+    "renewable_energy_pct": 15.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

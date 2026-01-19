@@ -1,0 +1,59 @@
+{
+  "company_name": "Mahindra  Mahindra Limited",
+  "slug": "mahindra-mahindra-limited",
+  "sector": "Manufacturing - Automobiles",
+  "state": "Telangana",
+  "revenue_cr": 116483.68,
+  "nii_score": 1.2,
+  "nii_rank": 460,
+  "nii_sector_rank": 12,
+  "nii_rating": "Critical",
+  "nii_percentile": 12,
+  "taesc_cr": 45896.87,
+  "nir": 0.394,
+  "nir_pct": 39.4,
+  "breakdown": {
+    "climate": {
+      "value_cr": 40243.85,
+      "pct": 87.7
+    },
+    "water": {
+      "value_cr": 105.17,
+      "pct": 0.2
+    },
+    "land": {
+      "value_cr": 96.54,
+      "pct": 0.2
+    },
+    "biodiversity": {
+      "value_cr": 5171.6,
+      "pct": 11.3
+    },
+    "pollution": {
+      "value_cr": 279.72,
+      "pct": 0.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 67829.0,
+    "scope2_ghg_tco2e": 249830.0,
+    "scope3_ghg_tco2e": 94555745.0,
+    "water_consumption_kl": 2910511.0,
+    "water_stress_score": 4.54,
+    "total_land_ha": 1255.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.1059,
+    "waste_generated_mt": 195662.0,
+    "renewable_energy_pct": 25.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.0,
+    "sector_median_taesc": 1910.81,
+    "sector_best_taesc": 77.36
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

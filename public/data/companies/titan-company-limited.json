@@ -1,0 +1,59 @@
+{
+  "company_name": "Titan Company Limited",
+  "slug": "titan-company-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Tamil Nadu",
+  "revenue_cr": 54842.42,
+  "nii_score": 7.9,
+  "nii_rank": 108,
+  "nii_sector_rank": 1,
+  "nii_rating": "Good",
+  "nii_percentile": 79,
+  "taesc_cr": 1142.62,
+  "nir": 0.0208,
+  "nir_pct": 2.08,
+  "breakdown": {
+    "climate": {
+      "value_cr": 56.27,
+      "pct": 4.9
+    },
+    "water": {
+      "value_cr": 6.45,
+      "pct": 0.6
+    },
+    "land": {
+      "value_cr": 7.4,
+      "pct": 0.6
+    },
+    "biodiversity": {
+      "value_cr": 1062.03,
+      "pct": 92.9
+    },
+    "pollution": {
+      "value_cr": 10.46,
+      "pct": 0.9
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 3952.0,
+    "scope2_ghg_tco2e": 26326.0,
+    "scope3_ghg_tco2e": 124500.0,
+    "water_consumption_kl": 312275.0,
+    "water_stress_score": 3.33,
+    "total_land_ha": 100.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0146,
+    "waste_generated_mt": 3022.0,
+    "renewable_energy_pct": 29.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

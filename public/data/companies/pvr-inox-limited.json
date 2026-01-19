@@ -1,0 +1,59 @@
+{
+  "company_name": "PVR INOX LIMITED",
+  "slug": "pvr-inox-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Telangana",
+  "revenue_cr": 5897.02,
+  "nii_score": 3.3,
+  "nii_rank": 350,
+  "nii_sector_rank": 107,
+  "nii_rating": "Poor",
+  "nii_percentile": 33,
+  "taesc_cr": 676.34,
+  "nir": 0.1147,
+  "nir_pct": 11.47,
+  "breakdown": {
+    "climate": {
+      "value_cr": 198.79,
+      "pct": 29.4
+    },
+    "water": {
+      "value_cr": 28.28,
+      "pct": 4.2
+    },
+    "land": {
+      "value_cr": 103.51,
+      "pct": 15.3
+    },
+    "biodiversity": {
+      "value_cr": 338.4,
+      "pct": 50.0
+    },
+    "pollution": {
+      "value_cr": 7.37,
+      "pct": 1.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 11705.0,
+    "scope2_ghg_tco2e": 220755.0,
+    "scope3_ghg_tco2e": 31200.0,
+    "water_consumption_kl": 1008998.0,
+    "water_stress_score": 2.81,
+    "total_land_ha": 1150.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.1017,
+    "waste_generated_mt": 66.0,
+    "renewable_energy_pct": 1.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "SKF INDIA LIMITED",
+  "slug": "skf-india-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Gujarat",
+  "revenue_cr": 4919.9,
+  "nii_score": 6.7,
+  "nii_rank": 171,
+  "nii_sector_rank": 17,
+  "nii_rating": "Good",
+  "nii_percentile": 67,
+  "taesc_cr": 225.34,
+  "nir": 0.0458,
+  "nir_pct": 4.58,
+  "breakdown": {
+    "climate": {
+      "value_cr": 18.42,
+      "pct": 8.2
+    },
+    "water": {
+      "value_cr": 8.95,
+      "pct": 4.0
+    },
+    "land": {
+      "value_cr": 11.43,
+      "pct": 5.1
+    },
+    "biodiversity": {
+      "value_cr": 180.18,
+      "pct": 80.0
+    },
+    "pollution": {
+      "value_cr": 6.36,
+      "pct": 2.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 667.0,
+    "scope2_ghg_tco2e": 19950.0,
+    "scope3_ghg_tco2e": 42000.0,
+    "water_consumption_kl": 209158.0,
+    "water_stress_score": 4.55,
+    "total_land_ha": 127.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.009,
+    "waste_generated_mt": 5150.0,
+    "renewable_energy_pct": 40.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

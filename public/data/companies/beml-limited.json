@@ -1,0 +1,59 @@
+{
+  "company_name": "BEML Limited",
+  "slug": "beml-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Karnataka",
+  "revenue_cr": 3965.0,
+  "nii_score": 4.6,
+  "nii_rank": 281,
+  "nii_sector_rank": 70,
+  "nii_rating": "Average",
+  "nii_percentile": 46,
+  "taesc_cr": 316.82,
+  "nir": 0.0799,
+  "nir_pct": 7.99,
+  "breakdown": {
+    "climate": {
+      "value_cr": 27.7,
+      "pct": 8.7
+    },
+    "water": {
+      "value_cr": 16.6,
+      "pct": 5.2
+    },
+    "land": {
+      "value_cr": 121.06,
+      "pct": 38.2
+    },
+    "biodiversity": {
+      "value_cr": 142.86,
+      "pct": 45.1
+    },
+    "pollution": {
+      "value_cr": 8.6,
+      "pct": 2.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 2829.0,
+    "scope2_ghg_tco2e": 8430.0,
+    "scope3_ghg_tco2e": 59511.0,
+    "water_consumption_kl": 384315.0,
+    "water_stress_score": 4.55,
+    "total_land_ha": 1365.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0063,
+    "waste_generated_mt": 7512.0,
+    "renewable_energy_pct": 14.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

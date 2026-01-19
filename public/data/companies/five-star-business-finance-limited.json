@@ -1,0 +1,59 @@
+{
+  "company_name": "Five-Star Business Finance Limited",
+  "slug": "five-star-business-finance-limited",
+  "sector": "Banking & Financial Services",
+  "state": "Telangana",
+  "revenue_cr": 2866.02,
+  "nii_score": 9.3,
+  "nii_rank": 35,
+  "nii_sector_rank": 30,
+  "nii_rating": "Excellent",
+  "nii_percentile": 93,
+  "taesc_cr": 4.99,
+  "nir": 0.0017,
+  "nir_pct": 0.17,
+  "breakdown": {
+    "climate": {
+      "value_cr": 3.29,
+      "pct": 66.0
+    },
+    "water": {
+      "value_cr": 0.75,
+      "pct": 15.1
+    },
+    "land": {
+      "value_cr": 0.45,
+      "pct": 9.0
+    },
+    "biodiversity": {
+      "value_cr": 0.43,
+      "pct": 8.5
+    },
+    "pollution": {
+      "value_cr": 0.06,
+      "pct": 1.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 1.0,
+    "scope2_ghg_tco2e": 3647.0,
+    "scope3_ghg_tco2e": 450.0,
+    "water_consumption_kl": 15221.0,
+    "water_stress_score": 4.95,
+    "total_land_ha": 15.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.0633,
+    "waste_generated_mt": 3.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 9.3,
+    "sector_best_score": 10.0,
+    "sector_median_taesc": 23.47,
+    "sector_best_taesc": 0.5
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

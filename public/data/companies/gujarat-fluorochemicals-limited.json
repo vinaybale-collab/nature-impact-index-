@@ -1,0 +1,59 @@
+{
+  "company_name": "Gujarat Fluorochemicals Limited",
+  "slug": "gujarat-fluorochemicals-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Maharashtra",
+  "revenue_cr": 4564.55,
+  "nii_score": 0.9,
+  "nii_rank": 476,
+  "nii_sector_rank": 146,
+  "nii_rating": "Critical",
+  "nii_percentile": 9,
+  "taesc_cr": 2733.94,
+  "nir": 0.599,
+  "nir_pct": 59.9,
+  "breakdown": {
+    "climate": {
+      "value_cr": 2243.55,
+      "pct": 82.1
+    },
+    "water": {
+      "value_cr": 91.76,
+      "pct": 3.4
+    },
+    "land": {
+      "value_cr": 85.06,
+      "pct": 3.1
+    },
+    "biodiversity": {
+      "value_cr": 171.45,
+      "pct": 6.3
+    },
+    "pollution": {
+      "value_cr": 142.14,
+      "pct": 5.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 709492.0,
+    "scope2_ghg_tco2e": 402888.0,
+    "scope3_ghg_tco2e": 3338033.0,
+    "water_consumption_kl": 4812903.0,
+    "water_stress_score": 3.68,
+    "total_land_ha": 965.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0132,
+    "waste_generated_mt": 89447.0,
+    "renewable_energy_pct": 5.8
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

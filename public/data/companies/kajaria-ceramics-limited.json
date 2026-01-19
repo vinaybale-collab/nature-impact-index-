@@ -1,0 +1,59 @@
+{
+  "company_name": "Kajaria Ceramics Limited",
+  "slug": "kajaria-ceramics-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Delhi",
+  "revenue_cr": 4683.24,
+  "nii_score": 2.3,
+  "nii_rank": 402,
+  "nii_sector_rank": 125,
+  "nii_rating": "Poor",
+  "nii_percentile": 23,
+  "taesc_cr": 838.94,
+  "nir": 0.1791,
+  "nir_pct": 17.91,
+  "breakdown": {
+    "climate": {
+      "value_cr": 448.11,
+      "pct": 53.4
+    },
+    "water": {
+      "value_cr": 55.28,
+      "pct": 6.6
+    },
+    "land": {
+      "value_cr": 30.33,
+      "pct": 3.6
+    },
+    "biodiversity": {
+      "value_cr": 176.0,
+      "pct": 21.0
+    },
+    "pollution": {
+      "value_cr": 129.21,
+      "pct": 15.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 437311.0,
+    "scope2_ghg_tco2e": 187602.0,
+    "scope3_ghg_tco2e": 88400.0,
+    "water_consumption_kl": 1523477.0,
+    "water_stress_score": 4.56,
+    "total_land_ha": 337.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.0133,
+    "waste_generated_mt": 122145.0,
+    "renewable_energy_pct": 3.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

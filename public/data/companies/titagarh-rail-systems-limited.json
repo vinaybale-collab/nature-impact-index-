@@ -1,0 +1,59 @@
+{
+  "company_name": "TITAGARH RAIL SYSTEMS LIMITED",
+  "slug": "titagarh-rail-systems-limited",
+  "sector": "Transportation & Logistics",
+  "state": "West Bengal",
+  "revenue_cr": 3386.04,
+  "nii_score": 6.9,
+  "nii_rank": 161,
+  "nii_sector_rank": 2,
+  "nii_rating": "Good",
+  "nii_percentile": 69,
+  "taesc_cr": 145.34,
+  "nir": 0.0429,
+  "nir_pct": 4.29,
+  "breakdown": {
+    "climate": {
+      "value_cr": 41.34,
+      "pct": 28.4
+    },
+    "water": {
+      "value_cr": 3.69,
+      "pct": 2.5
+    },
+    "land": {
+      "value_cr": 3.34,
+      "pct": 2.3
+    },
+    "biodiversity": {
+      "value_cr": 82.07,
+      "pct": 56.5
+    },
+    "pollution": {
+      "value_cr": 14.9,
+      "pct": 10.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 18767.0,
+    "scope2_ghg_tco2e": 33399.0,
+    "scope3_ghg_tco2e": 3.0,
+    "water_consumption_kl": 117960.0,
+    "water_stress_score": 3.14,
+    "total_land_ha": 47.7,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.0177,
+    "waste_generated_mt": 13719.0,
+    "renewable_energy_pct": 8.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.3,
+    "sector_median_taesc": 599.33,
+    "sector_best_taesc": 125.54
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

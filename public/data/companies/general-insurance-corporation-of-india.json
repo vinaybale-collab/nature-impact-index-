@@ -1,0 +1,59 @@
+{
+  "company_name": "General Insurance Corporation of India",
+  "slug": "general-insurance-corporation-of-india",
+  "sector": "Banking & Financial Services",
+  "state": "West Bengal",
+  "revenue_cr": 49231.66,
+  "nii_score": 10.0,
+  "nii_rank": 1,
+  "nii_sector_rank": 1,
+  "nii_rating": "Excellent",
+  "nii_percentile": 100,
+  "taesc_cr": 7.62,
+  "nir": 0.0002,
+  "nir_pct": 0.02,
+  "breakdown": {
+    "climate": {
+      "value_cr": 0.04,
+      "pct": 0.5
+    },
+    "water": {
+      "value_cr": 0.12,
+      "pct": 1.6
+    },
+    "land": {
+      "value_cr": 0.06,
+      "pct": 0.8
+    },
+    "biodiversity": {
+      "value_cr": 7.31,
+      "pct": 96.0
+    },
+    "pollution": {
+      "value_cr": 0.09,
+      "pct": 1.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 0.0,
+    "scope2_ghg_tco2e": 0.0,
+    "scope3_ghg_tco2e": 85.0,
+    "water_consumption_kl": 5935.0,
+    "water_stress_score": 1.67,
+    "total_land_ha": 2.1,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.1322,
+    "waste_generated_mt": 2.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 9.3,
+    "sector_best_score": 10.0,
+    "sector_median_taesc": 23.47,
+    "sector_best_taesc": 0.5
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

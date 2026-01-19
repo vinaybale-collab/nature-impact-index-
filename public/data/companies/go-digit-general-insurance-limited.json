@@ -1,0 +1,59 @@
+{
+  "company_name": "Go Digit General Insurance Limited",
+  "slug": "go-digit-general-insurance-limited",
+  "sector": "Banking & Financial Services",
+  "state": "Delhi",
+  "revenue_cr": 10282.14,
+  "nii_score": 9.7,
+  "nii_rank": 14,
+  "nii_sector_rank": 10,
+  "nii_rating": "Excellent",
+  "nii_percentile": 97,
+  "taesc_cr": 6.78,
+  "nir": 0.0007,
+  "nir_pct": 0.07,
+  "breakdown": {
+    "climate": {
+      "value_cr": 4.14,
+      "pct": 61.1
+    },
+    "water": {
+      "value_cr": 0.58,
+      "pct": 8.6
+    },
+    "land": {
+      "value_cr": 0.36,
+      "pct": 5.3
+    },
+    "biodiversity": {
+      "value_cr": 1.53,
+      "pct": 22.5
+    },
+    "pollution": {
+      "value_cr": 0.16,
+      "pct": 2.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 26.0,
+    "scope2_ghg_tco2e": 2537.0,
+    "scope3_ghg_tco2e": 4622.0,
+    "water_consumption_kl": 12906.0,
+    "water_stress_score": 4.48,
+    "total_land_ha": 12.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.0112,
+    "waste_generated_mt": 58.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 9.3,
+    "sector_best_score": 10.0,
+    "sector_median_taesc": 23.47,
+    "sector_best_taesc": 0.5
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

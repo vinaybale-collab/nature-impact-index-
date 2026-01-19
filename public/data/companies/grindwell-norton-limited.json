@@ -1,0 +1,59 @@
+{
+  "company_name": "Grindwell Norton Limited",
+  "slug": "grindwell-norton-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Maharashtra",
+  "revenue_cr": 2737.36,
+  "nii_score": 4.3,
+  "nii_rank": 297,
+  "nii_sector_rank": 83,
+  "nii_rating": "Average",
+  "nii_percentile": 43,
+  "taesc_cr": 231.8,
+  "nir": 0.0847,
+  "nir_pct": 8.47,
+  "breakdown": {
+    "climate": {
+      "value_cr": 43.9,
+      "pct": 18.9
+    },
+    "water": {
+      "value_cr": 4.55,
+      "pct": 2.0
+    },
+    "land": {
+      "value_cr": 18.0,
+      "pct": 7.8
+    },
+    "biodiversity": {
+      "value_cr": 157.08,
+      "pct": 67.8
+    },
+    "pollution": {
+      "value_cr": 8.26,
+      "pct": 3.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 29153.0,
+    "scope2_ghg_tco2e": 53183.0,
+    "scope3_ghg_tco2e": 32400.0,
+    "water_consumption_kl": 168844.0,
+    "water_stress_score": 2.81,
+    "total_land_ha": 200.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.1017,
+    "waste_generated_mt": 6461.0,
+    "renewable_energy_pct": 18.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

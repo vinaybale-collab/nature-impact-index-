@@ -1,0 +1,59 @@
+{
+  "company_name": "Genus Power Infrastructures Limited",
+  "slug": "genus-power-infrastructures-limited",
+  "sector": "Energy & Power",
+  "state": "Telangana",
+  "revenue_cr": 2442.01,
+  "nii_score": 1.8,
+  "nii_rank": 428,
+  "nii_sector_rank": 18,
+  "nii_rating": "Critical",
+  "nii_percentile": 18,
+  "taesc_cr": 593.02,
+  "nir": 0.2428,
+  "nir_pct": 24.28,
+  "breakdown": {
+    "climate": {
+      "value_cr": 474.01,
+      "pct": 79.9
+    },
+    "water": {
+      "value_cr": 1.83,
+      "pct": 0.3
+    },
+    "land": {
+      "value_cr": 8.6,
+      "pct": 1.5
+    },
+    "biodiversity": {
+      "value_cr": 105.22,
+      "pct": 17.7
+    },
+    "pollution": {
+      "value_cr": 3.36,
+      "pct": 0.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 244.0,
+    "scope2_ghg_tco2e": 8078.0,
+    "scope3_ghg_tco2e": 1103805.0,
+    "water_consumption_kl": 42754.0,
+    "water_stress_score": 4.56,
+    "total_land_ha": 100.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.0173,
+    "waste_generated_mt": 1788.0,
+    "renewable_energy_pct": 23.3
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.9,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1859.41,
+    "sector_best_taesc": 22.51
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

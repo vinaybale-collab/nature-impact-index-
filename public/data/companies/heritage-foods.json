@@ -1,0 +1,59 @@
+{
+  "company_name": "Heritage Foods",
+  "slug": "heritage-foods",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Unknown",
+  "revenue_cr": 4331.67,
+  "nii_score": 7.6,
+  "nii_rank": 124,
+  "nii_sector_rank": 9,
+  "nii_rating": "Good",
+  "nii_percentile": 76,
+  "taesc_cr": 143.71,
+  "nir": 0.0332,
+  "nir_pct": 3.32,
+  "breakdown": {
+    "climate": {
+      "value_cr": 15.27,
+      "pct": 10.6
+    },
+    "water": {
+      "value_cr": 36.75,
+      "pct": 25.6
+    },
+    "land": {
+      "value_cr": 4.96,
+      "pct": 3.5
+    },
+    "biodiversity": {
+      "value_cr": 81.52,
+      "pct": 56.7
+    },
+    "pollution": {
+      "value_cr": 5.21,
+      "pct": 3.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 4821.0,
+    "scope2_ghg_tco2e": 18452.0,
+    "scope3_ghg_tco2e": 26295.0,
+    "water_consumption_kl": 790232.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 67.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 736.0,
+    "renewable_energy_pct": 28.6
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

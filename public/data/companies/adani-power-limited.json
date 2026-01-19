@@ -1,0 +1,59 @@
+{
+  "company_name": "ADANI POWER LIMITED",
+  "slug": "adani-power-limited",
+  "sector": "Energy & Power",
+  "state": "Tamil Nadu",
+  "revenue_cr": 60281.0,
+  "nii_score": 0.3,
+  "nii_rank": 507,
+  "nii_sector_rank": 23,
+  "nii_rating": "Critical",
+  "nii_percentile": 3,
+  "taesc_cr": 124657.58,
+  "nir": 2.0679,
+  "nir_pct": 206.79,
+  "breakdown": {
+    "climate": {
+      "value_cr": 83722.31,
+      "pct": 67.2
+    },
+    "water": {
+      "value_cr": 22414.89,
+      "pct": 18.0
+    },
+    "land": {
+      "value_cr": 514.5,
+      "pct": 0.4
+    },
+    "biodiversity": {
+      "value_cr": 2474.44,
+      "pct": 2.0
+    },
+    "pollution": {
+      "value_cr": 15531.45,
+      "pct": 12.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 86427665.0,
+    "scope2_ghg_tco2e": 1367.0,
+    "scope3_ghg_tco2e": 24135597.0,
+    "water_consumption_kl": 752186371.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 6050.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0092,
+    "waste_generated_mt": 15451984.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 2.9,
+    "sector_best_score": 7.1,
+    "sector_median_taesc": 1859.41,
+    "sector_best_taesc": 22.51
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

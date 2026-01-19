@@ -1,0 +1,59 @@
+{
+  "company_name": "Hindustan Unilever Limited",
+  "slug": "hindustan-unilever-limited",
+  "sector": "FMCG & Consumer Goods",
+  "state": "Delhi",
+  "revenue_cr": 63121.0,
+  "nii_score": 3.4,
+  "nii_rank": 344,
+  "nii_sector_rank": 10,
+  "nii_rating": "Poor",
+  "nii_percentile": 34,
+  "taesc_cr": 6766.49,
+  "nir": 0.1072,
+  "nir_pct": 10.72,
+  "breakdown": {
+    "climate": {
+      "value_cr": 4080.28,
+      "pct": 60.3
+    },
+    "water": {
+      "value_cr": 65.75,
+      "pct": 1.0
+    },
+    "land": {
+      "value_cr": 32.77,
+      "pct": 0.5
+    },
+    "biodiversity": {
+      "value_cr": 2374.04,
+      "pct": 35.1
+    },
+    "pollution": {
+      "value_cr": 213.66,
+      "pct": 3.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 8944.0,
+    "scope2_ghg_tco2e": 19420.0,
+    "scope3_ghg_tco2e": 9582781.0,
+    "water_consumption_kl": 2907721.0,
+    "water_stress_score": 2.28,
+    "total_land_ha": 475.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.1134,
+    "waste_generated_mt": 90977.0,
+    "renewable_energy_pct": 30.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 5.3,
+    "sector_best_score": 7.7,
+    "sector_median_taesc": 1532.67,
+    "sector_best_taesc": 118.39
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

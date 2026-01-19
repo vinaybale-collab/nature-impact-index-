@@ -1,0 +1,59 @@
+{
+  "company_name": "SAREGAMA India Limited",
+  "slug": "saregama-india-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Delhi",
+  "revenue_cr": 1009.21,
+  "nii_score": 7.0,
+  "nii_rank": 155,
+  "nii_sector_rank": 12,
+  "nii_rating": "Good",
+  "nii_percentile": 70,
+  "taesc_cr": 42.19,
+  "nir": 0.0418,
+  "nir_pct": 4.18,
+  "breakdown": {
+    "climate": {
+      "value_cr": 1.51,
+      "pct": 3.6
+    },
+    "water": {
+      "value_cr": 0.26,
+      "pct": 0.6
+    },
+    "land": {
+      "value_cr": 1.53,
+      "pct": 3.6
+    },
+    "biodiversity": {
+      "value_cr": 38.81,
+      "pct": 92.0
+    },
+    "pollution": {
+      "value_cr": 0.07,
+      "pct": 0.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 314.0,
+    "scope2_ghg_tco2e": 765.0,
+    "scope3_ghg_tco2e": 1406.0,
+    "water_consumption_kl": 8450.0,
+    "water_stress_score": 2.93,
+    "total_land_ha": 17.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.0171,
+    "waste_generated_mt": 26.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

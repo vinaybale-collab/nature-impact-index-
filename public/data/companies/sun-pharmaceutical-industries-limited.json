@@ -1,0 +1,59 @@
+{
+  "company_name": "Sun Pharmaceutical Industries Limited",
+  "slug": "sun-pharmaceutical-industries-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "Maharashtra",
+  "revenue_cr": 23003.33,
+  "nii_score": 7.0,
+  "nii_rank": 155,
+  "nii_sector_rank": 21,
+  "nii_rating": "Good",
+  "nii_percentile": 70,
+  "taesc_cr": 970.45,
+  "nir": 0.0422,
+  "nir_pct": 4.22,
+  "breakdown": {
+    "climate": {
+      "value_cr": 294.22,
+      "pct": 30.3
+    },
+    "water": {
+      "value_cr": 69.46,
+      "pct": 7.2
+    },
+    "land": {
+      "value_cr": 98.79,
+      "pct": 10.2
+    },
+    "biodiversity": {
+      "value_cr": 441.77,
+      "pct": 45.5
+    },
+    "pollution": {
+      "value_cr": 66.22,
+      "pct": 6.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 156242.0,
+    "scope2_ghg_tco2e": 236080.0,
+    "scope3_ghg_tco2e": 379788.0,
+    "water_consumption_kl": 1784738.0,
+    "water_stress_score": 4.92,
+    "total_land_ha": 1335.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0131,
+    "waste_generated_mt": 39089.0,
+    "renewable_energy_pct": 15.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

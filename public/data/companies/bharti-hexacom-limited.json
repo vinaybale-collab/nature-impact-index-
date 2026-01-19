@@ -1,0 +1,59 @@
+{
+  "company_name": "Bharti Hexacom Limited",
+  "slug": "bharti-hexacom-limited",
+  "sector": "Telecom & Communication",
+  "state": "Maharashtra",
+  "revenue_cr": 8729.7,
+  "nii_score": 7.4,
+  "nii_rank": 134,
+  "nii_sector_rank": 4,
+  "nii_rating": "Good",
+  "nii_percentile": 74,
+  "taesc_cr": 317.65,
+  "nir": 0.0364,
+  "nir_pct": 3.64,
+  "breakdown": {
+    "climate": {
+      "value_cr": 204.1,
+      "pct": 64.3
+    },
+    "water": {
+      "value_cr": 0.22,
+      "pct": 0.1
+    },
+    "land": {
+      "value_cr": 49.6,
+      "pct": 15.6
+    },
+    "biodiversity": {
+      "value_cr": 61.25,
+      "pct": 19.3
+    },
+    "pollution": {
+      "value_cr": 2.48,
+      "pct": 0.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 21448.0,
+    "scope2_ghg_tco2e": 129017.0,
+    "scope3_ghg_tco2e": 185000.0,
+    "water_consumption_kl": 4466.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 855.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0093,
+    "waste_generated_mt": 1280.0,
+    "renewable_energy_pct": 5.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.9,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 714.01,
+    "sector_best_taesc": 47.35
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "Emami Paper Mills Limited",
+  "slug": "emami-paper-mills-limited",
+  "sector": "Manufacturing - Paper & Pulp",
+  "state": "Unknown",
+  "revenue_cr": 1839.63,
+  "nii_score": 1.2,
+  "nii_rank": 460,
+  "nii_sector_rank": 4,
+  "nii_rating": "Critical",
+  "nii_percentile": 12,
+  "taesc_cr": 775.05,
+  "nir": 0.4213,
+  "nir_pct": 42.13,
+  "breakdown": {
+    "climate": {
+      "value_cr": 429.38,
+      "pct": 55.4
+    },
+    "water": {
+      "value_cr": 219.52,
+      "pct": 28.3
+    },
+    "land": {
+      "value_cr": 0.0,
+      "pct": 0.0
+    },
+    "biodiversity": {
+      "value_cr": 76.58,
+      "pct": 9.9
+    },
+    "pollution": {
+      "value_cr": 49.57,
+      "pct": 6.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 412500.0,
+    "scope2_ghg_tco2e": 58400.0,
+    "scope3_ghg_tco2e": 124000.0,
+    "water_consumption_kl": 9450000.0,
+    "water_stress_score": 3.27,
+    "total_land_ha": 565.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0051,
+    "waste_generated_mt": 45210.0,
+    "renewable_energy_pct": 2.9
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.2,
+    "sector_best_score": 5.5,
+    "sector_median_taesc": 902.84,
+    "sector_best_taesc": 256.11
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "HINDALCO INDUSTRIES LIMITED",
+  "slug": "hindalco-industries-limited",
+  "sector": "Metals & Mining",
+  "state": "Karnataka",
+  "revenue_cr": 93309.12,
+  "nii_score": 1.0,
+  "nii_rank": 470,
+  "nii_sector_rank": 18,
+  "nii_rating": "Critical",
+  "nii_percentile": 10,
+  "taesc_cr": 50585.67,
+  "nir": 0.5421,
+  "nir_pct": 54.21,
+  "breakdown": {
+    "climate": {
+      "value_cr": 26694.25,
+      "pct": 52.8
+    },
+    "water": {
+      "value_cr": 1935.62,
+      "pct": 3.8
+    },
+    "land": {
+      "value_cr": 1295.82,
+      "pct": 2.6
+    },
+    "biodiversity": {
+      "value_cr": 9977.3,
+      "pct": 19.7
+    },
+    "pollution": {
+      "value_cr": 10682.68,
+      "pct": 21.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 25200000.0,
+    "scope2_ghg_tco2e": 410000.0,
+    "scope3_ghg_tco2e": 12410000.0,
+    "water_consumption_kl": 76570000.0,
+    "water_stress_score": 2.65,
+    "total_land_ha": 11090.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.1377,
+    "waste_generated_mt": 9529355.0,
+    "renewable_energy_pct": 1.8
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

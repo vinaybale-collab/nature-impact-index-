@@ -1,0 +1,59 @@
+{
+  "company_name": "Page Industries Limited",
+  "slug": "page-industries-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Maharashtra",
+  "revenue_cr": 49349.6,
+  "nii_score": 6.5,
+  "nii_rank": 182,
+  "nii_sector_rank": 21,
+  "nii_rating": "Good",
+  "nii_percentile": 65,
+  "taesc_cr": 2375.86,
+  "nir": 0.0481,
+  "nir_pct": 4.81,
+  "breakdown": {
+    "climate": {
+      "value_cr": 228.47,
+      "pct": 9.6
+    },
+    "water": {
+      "value_cr": 4.94,
+      "pct": 0.2
+    },
+    "land": {
+      "value_cr": 80.29,
+      "pct": 3.4
+    },
+    "biodiversity": {
+      "value_cr": 2053.36,
+      "pct": 86.4
+    },
+    "pollution": {
+      "value_cr": 8.81,
+      "pct": 0.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 993.0,
+    "scope2_ghg_tco2e": 11945.0,
+    "scope3_ghg_tco2e": 518190.0,
+    "water_consumption_kl": 175628.0,
+    "water_stress_score": 4.74,
+    "total_land_ha": 892.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.0312,
+    "waste_generated_mt": 6205.0,
+    "renewable_energy_pct": 14.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

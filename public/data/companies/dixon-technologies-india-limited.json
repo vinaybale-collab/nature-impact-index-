@@ -1,0 +1,59 @@
+{
+  "company_name": "Dixon Technologies India Limited",
+  "slug": "dixon-technologies-india-limited",
+  "sector": "Manufacturing - Consumer Electronics",
+  "state": "Maharashtra",
+  "revenue_cr": 6411.4,
+  "nii_score": 8.0,
+  "nii_rank": 103,
+  "nii_sector_rank": 1,
+  "nii_rating": "Excellent",
+  "nii_percentile": 80,
+  "taesc_cr": 120.08,
+  "nir": 0.0187,
+  "nir_pct": 1.87,
+  "breakdown": {
+    "climate": {
+      "value_cr": 21.86,
+      "pct": 18.2
+    },
+    "water": {
+      "value_cr": 2.91,
+      "pct": 2.4
+    },
+    "land": {
+      "value_cr": 9.28,
+      "pct": 7.7
+    },
+    "biodiversity": {
+      "value_cr": 79.74,
+      "pct": 66.4
+    },
+    "pollution": {
+      "value_cr": 6.29,
+      "pct": 5.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 2170.0,
+    "scope2_ghg_tco2e": 28170.0,
+    "scope3_ghg_tco2e": 12400.0,
+    "water_consumption_kl": 71750.0,
+    "water_stress_score": 4.29,
+    "total_land_ha": 160.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0029,
+    "waste_generated_mt": 961.0,
+    "renewable_energy_pct": 40.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 5.7,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 314.02,
+    "sector_best_taesc": 120.08
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

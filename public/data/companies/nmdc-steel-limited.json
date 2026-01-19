@@ -1,0 +1,59 @@
+{
+  "company_name": "NMDC Steel Limited",
+  "slug": "nmdc-steel-limited",
+  "sector": "Metals & Mining",
+  "state": "Maharashtra",
+  "revenue_cr": 3390.0,
+  "nii_score": 0.2,
+  "nii_rank": 512,
+  "nii_sector_rank": 29,
+  "nii_rating": "Critical",
+  "nii_percentile": 2,
+  "taesc_cr": 7742.91,
+  "nir": 2.284,
+  "nir_pct": 228.4,
+  "breakdown": {
+    "climate": {
+      "value_cr": 5758.96,
+      "pct": 74.4
+    },
+    "water": {
+      "value_cr": 0.23,
+      "pct": 0.0
+    },
+    "land": {
+      "value_cr": 302.67,
+      "pct": 3.9
+    },
+    "biodiversity": {
+      "value_cr": 209.02,
+      "pct": 2.7
+    },
+    "pollution": {
+      "value_cr": 1472.04,
+      "pct": 19.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 5574359.0,
+    "scope2_ghg_tco2e": 575885.0,
+    "scope3_ghg_tco2e": 1250000.0,
+    "water_consumption_kl": 12717.0,
+    "water_stress_score": 1.66,
+    "total_land_ha": 2565.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.0133,
+    "waste_generated_mt": 1464471.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

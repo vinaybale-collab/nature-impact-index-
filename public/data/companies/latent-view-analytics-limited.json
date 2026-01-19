@@ -1,0 +1,59 @@
+{
+  "company_name": "Latent View Analytics Limited",
+  "slug": "latent-view-analytics-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "West Bengal",
+  "revenue_cr": 347.12,
+  "nii_score": 6.1,
+  "nii_rank": 203,
+  "nii_sector_rank": 30,
+  "nii_rating": "Good",
+  "nii_percentile": 61,
+  "taesc_cr": 18.47,
+  "nir": 0.0532,
+  "nir_pct": 5.32,
+  "breakdown": {
+    "climate": {
+      "value_cr": 0.92,
+      "pct": 5.0
+    },
+    "water": {
+      "value_cr": 0.2,
+      "pct": 1.1
+    },
+    "land": {
+      "value_cr": 1.08,
+      "pct": 5.8
+    },
+    "biodiversity": {
+      "value_cr": 16.19,
+      "pct": 87.6
+    },
+    "pollution": {
+      "value_cr": 0.09,
+      "pct": 0.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 1.0,
+    "scope2_ghg_tco2e": 401.0,
+    "scope3_ghg_tco2e": 1922.0,
+    "water_consumption_kl": 3964.0,
+    "water_stress_score": 4.96,
+    "total_land_ha": 12.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.0537,
+    "waste_generated_mt": 5.0,
+    "renewable_energy_pct": 10.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

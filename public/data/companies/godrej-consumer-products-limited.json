@@ -1,0 +1,59 @@
+{
+  "company_name": "Godrej Consumer Products Limited",
+  "slug": "godrej-consumer-products-limited",
+  "sector": "FMCG & Consumer Goods",
+  "state": "Karnataka",
+  "revenue_cr": 10055.0,
+  "nii_score": 2.6,
+  "nii_rank": 386,
+  "nii_sector_rank": 13,
+  "nii_rating": "Poor",
+  "nii_percentile": 26,
+  "taesc_cr": 1441.58,
+  "nir": 0.1434,
+  "nir_pct": 14.34,
+  "breakdown": {
+    "climate": {
+      "value_cr": 960.73,
+      "pct": 66.6
+    },
+    "water": {
+      "value_cr": 10.47,
+      "pct": 0.7
+    },
+    "land": {
+      "value_cr": 31.99,
+      "pct": 2.2
+    },
+    "biodiversity": {
+      "value_cr": 390.11,
+      "pct": 27.1
+    },
+    "pollution": {
+      "value_cr": 48.27,
+      "pct": 3.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 26047.0,
+    "scope2_ghg_tco2e": 23589.0,
+    "scope3_ghg_tco2e": 2208455.0,
+    "water_consumption_kl": 503608.0,
+    "water_stress_score": 2.05,
+    "total_land_ha": 457.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.1219,
+    "waste_generated_mt": 7493.0,
+    "renewable_energy_pct": 30.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 5.3,
+    "sector_best_score": 7.7,
+    "sector_median_taesc": 1532.67,
+    "sector_best_taesc": 118.39
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

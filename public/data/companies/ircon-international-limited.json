@@ -1,0 +1,59 @@
+{
+  "company_name": "Ircon International Limited",
+  "slug": "ircon-international-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Maharashtra",
+  "revenue_cr": 11950.4,
+  "nii_score": 5.6,
+  "nii_rank": 229,
+  "nii_sector_rank": 47,
+  "nii_rating": "Average",
+  "nii_percentile": 56,
+  "taesc_cr": 744.62,
+  "nir": 0.0623,
+  "nir_pct": 6.23,
+  "breakdown": {
+    "climate": {
+      "value_cr": 122.77,
+      "pct": 16.5
+    },
+    "water": {
+      "value_cr": 182.29,
+      "pct": 24.5
+    },
+    "land": {
+      "value_cr": 13.05,
+      "pct": 1.8
+    },
+    "biodiversity": {
+      "value_cr": 426.44,
+      "pct": 57.3
+    },
+    "pollution": {
+      "value_cr": 0.07,
+      "pct": 0.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 52850.0,
+    "scope2_ghg_tco2e": 6744.0,
+    "scope3_ghg_tco2e": 179366.0,
+    "water_consumption_kl": 4088380.0,
+    "water_stress_score": 4.53,
+    "total_land_ha": 145.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0048,
+    "waste_generated_mt": 16.0,
+    "renewable_energy_pct": 0.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "Sobha Limited",
+  "slug": "sobha-limited",
+  "sector": "Construction & Real Estate",
+  "state": "Gujarat",
+  "revenue_cr": 4408.09,
+  "nii_score": 4.9,
+  "nii_rank": 266,
+  "nii_sector_rank": 1,
+  "nii_rating": "Average",
+  "nii_percentile": 49,
+  "taesc_cr": 326.27,
+  "nir": 0.074,
+  "nir_pct": 7.4,
+  "breakdown": {
+    "climate": {
+      "value_cr": 41.97,
+      "pct": 12.9
+    },
+    "water": {
+      "value_cr": 28.71,
+      "pct": 8.8
+    },
+    "land": {
+      "value_cr": 113.1,
+      "pct": 34.7
+    },
+    "biodiversity": {
+      "value_cr": 136.61,
+      "pct": 41.9
+    },
+    "pollution": {
+      "value_cr": 5.88,
+      "pct": 1.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 2772.0,
+    "scope2_ghg_tco2e": 16998.0,
+    "scope3_ghg_tco2e": 67400.0,
+    "water_consumption_kl": 1249331.0,
+    "water_stress_score": 4.55,
+    "total_land_ha": 1450.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0063,
+    "waste_generated_mt": 4853.0,
+    "renewable_energy_pct": 5.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.0,
+    "sector_best_score": 4.9,
+    "sector_median_taesc": 806.39,
+    "sector_best_taesc": 50.51
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

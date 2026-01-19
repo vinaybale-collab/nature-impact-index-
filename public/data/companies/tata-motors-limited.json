@@ -1,0 +1,59 @@
+{
+  "company_name": "Tata Motors Limited",
+  "slug": "tata-motors-limited",
+  "sector": "Manufacturing - Automobiles",
+  "state": "Maharashtra",
+  "revenue_cr": 71877.62,
+  "nii_score": 0.5,
+  "nii_rank": 497,
+  "nii_sector_rank": 13,
+  "nii_rating": "Critical",
+  "nii_percentile": 5,
+  "taesc_cr": 73853.67,
+  "nir": 1.0275,
+  "nir_pct": 102.75,
+  "breakdown": {
+    "climate": {
+      "value_cr": 70113.47,
+      "pct": 94.9
+    },
+    "water": {
+      "value_cr": 47.79,
+      "pct": 0.1
+    },
+    "land": {
+      "value_cr": 118.86,
+      "pct": 0.2
+    },
+    "biodiversity": {
+      "value_cr": 3241.12,
+      "pct": 4.4
+    },
+    "pollution": {
+      "value_cr": 332.44,
+      "pct": 0.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 43754.0,
+    "scope2_ghg_tco2e": 131407.0,
+    "scope3_ghg_tco2e": 164885353.0,
+    "water_consumption_kl": 2847107.0,
+    "water_stress_score": 2.28,
+    "total_land_ha": 1535.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.11,
+    "waste_generated_mt": 102601.0,
+    "renewable_energy_pct": 16.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.0,
+    "sector_median_taesc": 1910.81,
+    "sector_best_taesc": 77.36
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

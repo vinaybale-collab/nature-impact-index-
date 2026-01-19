@@ -1,0 +1,59 @@
+{
+  "company_name": "Sonata Software Limited",
+  "slug": "sonata-software-limited",
+  "sector": "Information Technology",
+  "state": "Karnataka",
+  "revenue_cr": 10157.25,
+  "nii_score": 8.9,
+  "nii_rank": 56,
+  "nii_sector_rank": 2,
+  "nii_rating": "Excellent",
+  "nii_percentile": 89,
+  "taesc_cr": 32.06,
+  "nir": 0.0032,
+  "nir_pct": 0.32,
+  "breakdown": {
+    "climate": {
+      "value_cr": 1.11,
+      "pct": 3.5
+    },
+    "water": {
+      "value_cr": 0.18,
+      "pct": 0.6
+    },
+    "land": {
+      "value_cr": 0.57,
+      "pct": 1.8
+    },
+    "biodiversity": {
+      "value_cr": 29.83,
+      "pct": 93.0
+    },
+    "pollution": {
+      "value_cr": 0.36,
+      "pct": 1.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 82.0,
+    "scope2_ghg_tco2e": 637.0,
+    "scope3_ghg_tco2e": 2169.0,
+    "water_consumption_kl": 7287.0,
+    "water_stress_score": 2.81,
+    "total_land_ha": 15.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.1017,
+    "waste_generated_mt": 41.0,
+    "renewable_energy_pct": 15.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 8.5,
+    "sector_best_score": 9.0,
+    "sector_median_taesc": 21.55,
+    "sector_best_taesc": 2.85
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

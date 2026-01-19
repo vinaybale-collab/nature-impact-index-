@@ -1,0 +1,59 @@
+{
+  "company_name": "CERA Sanitaryware Limited",
+  "slug": "cera-sanitaryware-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Telangana",
+  "revenue_cr": 1915.25,
+  "nii_score": 5.1,
+  "nii_rank": 255,
+  "nii_sector_rank": 58,
+  "nii_rating": "Average",
+  "nii_percentile": 51,
+  "taesc_cr": 138.22,
+  "nir": 0.0722,
+  "nir_pct": 7.22,
+  "breakdown": {
+    "climate": {
+      "value_cr": 22.13,
+      "pct": 16.0
+    },
+    "water": {
+      "value_cr": 7.73,
+      "pct": 5.6
+    },
+    "land": {
+      "value_cr": 11.7,
+      "pct": 8.5
+    },
+    "biodiversity": {
+      "value_cr": 72.2,
+      "pct": 52.2
+    },
+    "pollution": {
+      "value_cr": 24.47,
+      "pct": 17.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 19832.0,
+    "scope2_ghg_tco2e": 5943.0,
+    "scope3_ghg_tco2e": 12400.0,
+    "water_consumption_kl": 164605.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 130.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.0138,
+    "waste_generated_mt": 18984.0,
+    "renewable_energy_pct": 10.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

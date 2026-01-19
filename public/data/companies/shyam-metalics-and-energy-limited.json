@@ -1,0 +1,59 @@
+{
+  "company_name": "Shyam Metalics and Energy Limited",
+  "slug": "shyam-metalics-and-energy-limited",
+  "sector": "Metals & Mining",
+  "state": "Telangana",
+  "revenue_cr": 15137.5,
+  "nii_score": 1.1,
+  "nii_rank": 465,
+  "nii_sector_rank": 17,
+  "nii_rating": "Critical",
+  "nii_percentile": 11,
+  "taesc_cr": 6536.81,
+  "nir": 0.4318,
+  "nir_pct": 43.18,
+  "breakdown": {
+    "climate": {
+      "value_cr": 5113.03,
+      "pct": 78.2
+    },
+    "water": {
+      "value_cr": 114.45,
+      "pct": 1.8
+    },
+    "land": {
+      "value_cr": 299.27,
+      "pct": 4.6
+    },
+    "biodiversity": {
+      "value_cr": 954.54,
+      "pct": 14.6
+    },
+    "pollution": {
+      "value_cr": 55.52,
+      "pct": 0.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 5443998.0,
+    "scope2_ghg_tco2e": 384366.0,
+    "scope3_ghg_tco2e": 456000.0,
+    "water_consumption_kl": 7174955.0,
+    "water_stress_score": 2.21,
+    "total_land_ha": 2565.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.0172,
+    "waste_generated_mt": 55044.0,
+    "renewable_energy_pct": 0.8
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "NCC LIMITED",
+  "slug": "ncc-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Delhi",
+  "revenue_cr": 19392.0,
+  "nii_score": 4.1,
+  "nii_rank": 308,
+  "nii_sector_rank": 88,
+  "nii_rating": "Average",
+  "nii_percentile": 41,
+  "taesc_cr": 1736.99,
+  "nir": 0.0896,
+  "nir_pct": 8.96,
+  "breakdown": {
+    "climate": {
+      "value_cr": 796.92,
+      "pct": 45.9
+    },
+    "water": {
+      "value_cr": 129.39,
+      "pct": 7.4
+    },
+    "land": {
+      "value_cr": 80.56,
+      "pct": 4.6
+    },
+    "biodiversity": {
+      "value_cr": 722.95,
+      "pct": 41.6
+    },
+    "pollution": {
+      "value_cr": 7.17,
+      "pct": 0.4
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 119629.0,
+    "scope2_ghg_tco2e": 26248.0,
+    "scope3_ghg_tco2e": 1587895.0,
+    "water_consumption_kl": 2657535.0,
+    "water_stress_score": 4.99,
+    "total_land_ha": 895.0,
+    "base_msa_loss": 0.62,
+    "pa_proximity_score": 0.0119,
+    "waste_generated_mt": 4613.0,
+    "renewable_energy_pct": 0.8
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "company_name": "Whirlpool of India Limited",
+  "slug": "whirlpool-of-india-limited",
+  "sector": "Manufacturing - Consumer Electronics",
+  "state": "Gujarat",
+  "revenue_cr": 7420.8,
+  "nii_score": 1.0,
+  "nii_rank": 470,
+  "nii_sector_rank": 5,
+  "nii_rating": "Critical",
+  "nii_percentile": 10,
+  "taesc_cr": 4024.99,
+  "nir": 0.5424,
+  "nir_pct": 54.24,
+  "breakdown": {
+    "climate": {
+      "value_cr": 3791.57,
+      "pct": 94.2
+    },
+    "water": {
+      "value_cr": 7.84,
+      "pct": 0.2
+    },
+    "land": {
+      "value_cr": 16.16,
+      "pct": 0.4
+    },
+    "biodiversity": {
+      "value_cr": 119.18,
+      "pct": 3.0
+    },
+    "pollution": {
+      "value_cr": 90.23,
+      "pct": 2.2
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 2215.0,
+    "scope2_ghg_tco2e": 19496.0,
+    "scope3_ghg_tco2e": 8884423.0,
+    "water_consumption_kl": 179931.0,
+    "water_stress_score": 4.65,
+    "total_land_ha": 197.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0172,
+    "waste_generated_mt": 14771.0,
+    "renewable_energy_pct": 7.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 5.7,
+    "sector_best_score": 8.0,
+    "sector_median_taesc": 314.02,
+    "sector_best_taesc": 120.08
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

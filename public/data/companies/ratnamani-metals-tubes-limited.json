@@ -1,0 +1,59 @@
+{
+  "company_name": "Ratnamani Metals  Tubes Limited",
+  "slug": "ratnamani-metals-tubes-limited",
+  "sector": "Metals & Mining",
+  "state": "Telangana",
+  "revenue_cr": 4876.14,
+  "nii_score": 4.1,
+  "nii_rank": 308,
+  "nii_sector_rank": 2,
+  "nii_rating": "Average",
+  "nii_percentile": 41,
+  "taesc_cr": 432.89,
+  "nir": 0.0888,
+  "nir_pct": 8.88,
+  "breakdown": {
+    "climate": {
+      "value_cr": 50.45,
+      "pct": 11.7
+    },
+    "water": {
+      "value_cr": 12.51,
+      "pct": 2.9
+    },
+    "land": {
+      "value_cr": 28.32,
+      "pct": 6.5
+    },
+    "biodiversity": {
+      "value_cr": 340.21,
+      "pct": 78.6
+    },
+    "pollution": {
+      "value_cr": 1.4,
+      "pct": 0.3
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 10400.0,
+    "scope2_ghg_tco2e": 36357.0,
+    "scope3_ghg_tco2e": 54000.0,
+    "water_consumption_kl": 270050.0,
+    "water_stress_score": 4.98,
+    "total_land_ha": 240.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.0356,
+    "waste_generated_mt": 1223.0,
+    "renewable_energy_pct": 14.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

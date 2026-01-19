@@ -1,0 +1,59 @@
+{
+  "company_name": "Kirloskar Oil Engines Limited",
+  "slug": "kirloskar-oil-engines-limited",
+  "sector": "Oil & Gas",
+  "state": "Maharashtra",
+  "revenue_cr": 5072.71,
+  "nii_score": 4.2,
+  "nii_rank": 302,
+  "nii_sector_rank": 2,
+  "nii_rating": "Average",
+  "nii_percentile": 42,
+  "taesc_cr": 434.61,
+  "nir": 0.0857,
+  "nir_pct": 8.57,
+  "breakdown": {
+    "climate": {
+      "value_cr": 102.45,
+      "pct": 23.6
+    },
+    "water": {
+      "value_cr": 9.01,
+      "pct": 2.1
+    },
+    "land": {
+      "value_cr": 21.2,
+      "pct": 4.9
+    },
+    "biodiversity": {
+      "value_cr": 294.89,
+      "pct": 67.9
+    },
+    "pollution": {
+      "value_cr": 7.06,
+      "pct": 1.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 7414.0,
+    "scope2_ghg_tco2e": 10483.0,
+    "scope3_ghg_tco2e": 226242.0,
+    "water_consumption_kl": 212521.0,
+    "water_stress_score": 4.63,
+    "total_land_ha": 200.0,
+    "base_msa_loss": 0.55,
+    "pa_proximity_score": 0.0208,
+    "waste_generated_mt": 5871.0,
+    "renewable_energy_pct": 12.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.6,
+    "sector_best_score": 5.4,
+    "sector_median_taesc": 7850.63,
+    "sector_best_taesc": 258.92
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

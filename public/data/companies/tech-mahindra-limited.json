@@ -1,0 +1,59 @@
+{
+  "company_name": "Tech Mahindra Limited",
+  "slug": "tech-mahindra-limited",
+  "sector": "Information Technology",
+  "state": "West Bengal",
+  "revenue_cr": 52988.3,
+  "nii_score": 8.6,
+  "nii_rank": 71,
+  "nii_sector_rank": 12,
+  "nii_rating": "Excellent",
+  "nii_percentile": 86,
+  "taesc_cr": 249.74,
+  "nir": 0.0047,
+  "nir_pct": 0.47,
+  "breakdown": {
+    "climate": {
+      "value_cr": 71.23,
+      "pct": 28.5
+    },
+    "water": {
+      "value_cr": 19.94,
+      "pct": 8.0
+    },
+    "land": {
+      "value_cr": 8.42,
+      "pct": 3.4
+    },
+    "biodiversity": {
+      "value_cr": 138.92,
+      "pct": 55.6
+    },
+    "pollution": {
+      "value_cr": 11.22,
+      "pct": 4.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 12435.0,
+    "scope2_ghg_tco2e": 76735.0,
+    "scope3_ghg_tco2e": 37775.0,
+    "water_consumption_kl": 740510.0,
+    "water_stress_score": 3.4,
+    "total_land_ha": 230.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.0735,
+    "waste_generated_mt": 615.0,
+    "renewable_energy_pct": 25.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 8.5,
+    "sector_best_score": 9.0,
+    "sector_median_taesc": 21.55,
+    "sector_best_taesc": 2.85
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

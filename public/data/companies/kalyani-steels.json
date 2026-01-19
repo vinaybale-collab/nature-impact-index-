@@ -1,0 +1,59 @@
+{
+  "company_name": "Kalyani Steels",
+  "slug": "kalyani-steels",
+  "sector": "Metals & Mining",
+  "state": "Unknown",
+  "revenue_cr": 456.0,
+  "nii_score": 0.4,
+  "nii_rank": 502,
+  "nii_sector_rank": 26,
+  "nii_rating": "Critical",
+  "nii_percentile": 4,
+  "taesc_cr": 573.72,
+  "nir": 1.2582,
+  "nir_pct": 125.82,
+  "breakdown": {
+    "climate": {
+      "value_cr": 345.66,
+      "pct": 60.2
+    },
+    "water": {
+      "value_cr": 45.74,
+      "pct": 8.0
+    },
+    "land": {
+      "value_cr": 42.16,
+      "pct": 7.3
+    },
+    "biodiversity": {
+      "value_cr": 27.52,
+      "pct": 4.8
+    },
+    "pollution": {
+      "value_cr": 112.64,
+      "pct": 19.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 324500.0,
+    "scope2_ghg_tco2e": 84500.0,
+    "scope3_ghg_tco2e": 89000.0,
+    "water_consumption_kl": 1452000.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 360.0,
+    "base_msa_loss": 0.52,
+    "pa_proximity_score": 0.0097,
+    "waste_generated_mt": 112000.0,
+    "renewable_energy_pct": 1.6
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.0,
+    "sector_best_score": 4.8,
+    "sector_median_taesc": 4974.86,
+    "sector_best_taesc": 378.47
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

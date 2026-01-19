@@ -1,0 +1,59 @@
+{
+  "company_name": "Mphasis Limited",
+  "slug": "mphasis-limited",
+  "sector": "Information Technology",
+  "state": "Telangana",
+  "revenue_cr": 9271.05,
+  "nii_score": 8.8,
+  "nii_rank": 61,
+  "nii_sector_rank": 5,
+  "nii_rating": "Excellent",
+  "nii_percentile": 88,
+  "taesc_cr": 32.86,
+  "nir": 0.0035,
+  "nir_pct": 0.35,
+  "breakdown": {
+    "climate": {
+      "value_cr": 9.78,
+      "pct": 29.8
+    },
+    "water": {
+      "value_cr": 2.9,
+      "pct": 8.8
+    },
+    "land": {
+      "value_cr": 1.6,
+      "pct": 4.9
+    },
+    "biodiversity": {
+      "value_cr": 17.33,
+      "pct": 52.7
+    },
+    "pollution": {
+      "value_cr": 1.25,
+      "pct": 3.8
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 158.0,
+    "scope2_ghg_tco2e": 18048.0,
+    "scope3_ghg_tco2e": 2997.0,
+    "water_consumption_kl": 77987.0,
+    "water_stress_score": 4.55,
+    "total_land_ha": 42.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.0063,
+    "waste_generated_mt": 196.0,
+    "renewable_energy_pct": 32.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 8.5,
+    "sector_best_score": 9.0,
+    "sector_median_taesc": 21.55,
+    "sector_best_taesc": 2.85
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

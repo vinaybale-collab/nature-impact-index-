@@ -1,0 +1,59 @@
+{
+  "company_name": "Tata Elxsi Limited",
+  "slug": "tata-elxsi-limited",
+  "sector": "Information Technology",
+  "state": "Maharashtra",
+  "revenue_cr": 3729.05,
+  "nii_score": 8.7,
+  "nii_rank": 66,
+  "nii_sector_rank": 7,
+  "nii_rating": "Excellent",
+  "nii_percentile": 87,
+  "taesc_cr": 14.43,
+  "nir": 0.0039,
+  "nir_pct": 0.39,
+  "breakdown": {
+    "climate": {
+      "value_cr": 3.78,
+      "pct": 26.2
+    },
+    "water": {
+      "value_cr": 2.74,
+      "pct": 19.0
+    },
+    "land": {
+      "value_cr": 0.57,
+      "pct": 4.0
+    },
+    "biodiversity": {
+      "value_cr": 6.97,
+      "pct": 48.3
+    },
+    "pollution": {
+      "value_cr": 0.37,
+      "pct": 2.5
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 115.0,
+    "scope2_ghg_tco2e": 4826.0,
+    "scope3_ghg_tco2e": 2606.0,
+    "water_consumption_kl": 73704.0,
+    "water_stress_score": 4.55,
+    "total_land_ha": 15.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.0063,
+    "waste_generated_mt": 46.0,
+    "renewable_energy_pct": 18.5
+  },
+  "peer_comparison": {
+    "sector_median_score": 8.5,
+    "sector_best_score": 9.0,
+    "sector_median_taesc": 21.55,
+    "sector_best_taesc": 2.85
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

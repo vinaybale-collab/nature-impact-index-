@@ -1,0 +1,59 @@
+{
+  "company_name": "Container Corporation of India Limited",
+  "slug": "container-corporation-of-india-limited",
+  "sector": "Transportation & Logistics",
+  "state": "Gujarat",
+  "revenue_cr": 9325.53,
+  "nii_score": 5.3,
+  "nii_rank": 245,
+  "nii_sector_rank": 5,
+  "nii_rating": "Average",
+  "nii_percentile": 53,
+  "taesc_cr": 620.77,
+  "nir": 0.0666,
+  "nir_pct": 6.66,
+  "breakdown": {
+    "climate": {
+      "value_cr": 46.21,
+      "pct": 7.4
+    },
+    "water": {
+      "value_cr": 8.63,
+      "pct": 1.4
+    },
+    "land": {
+      "value_cr": 353.5,
+      "pct": 56.9
+    },
+    "biodiversity": {
+      "value_cr": 212.22,
+      "pct": 34.2
+    },
+    "pollution": {
+      "value_cr": 0.21,
+      "pct": 0.0
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 28951.0,
+    "scope2_ghg_tco2e": 17106.0,
+    "scope3_ghg_tco2e": 45000.0,
+    "water_consumption_kl": 200892.0,
+    "water_stress_score": 4.47,
+    "total_land_ha": 5050.0,
+    "base_msa_loss": 0.51,
+    "pa_proximity_score": 0.0045,
+    "waste_generated_mt": 4.0,
+    "renewable_energy_pct": 2.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 3.1,
+    "sector_best_score": 7.3,
+    "sector_median_taesc": 599.33,
+    "sector_best_taesc": 125.54
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

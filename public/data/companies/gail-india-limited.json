@@ -1,0 +1,59 @@
+{
+  "company_name": "GAIL (India) Limited",
+  "slug": "gail-india-limited",
+  "sector": "Oil & Gas",
+  "state": "Unknown",
+  "revenue_cr": 144124.63,
+  "nii_score": 2.5,
+  "nii_rank": 392,
+  "nii_sector_rank": 5,
+  "nii_rating": "Poor",
+  "nii_percentile": 25,
+  "taesc_cr": 21249.63,
+  "nir": 0.1474,
+  "nir_pct": 14.74,
+  "breakdown": {
+    "climate": {
+      "value_cr": 12856.75,
+      "pct": 60.5
+    },
+    "water": {
+      "value_cr": 43.58,
+      "pct": 0.2
+    },
+    "land": {
+      "value_cr": 562.5,
+      "pct": 2.6
+    },
+    "biodiversity": {
+      "value_cr": 7773.85,
+      "pct": 36.6
+    },
+    "pollution": {
+      "value_cr": 12.94,
+      "pct": 0.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 283681.0,
+    "scope2_ghg_tco2e": 93483.0,
+    "scope3_ghg_tco2e": 29508803.0,
+    "water_consumption_kl": 939809.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 5350.0,
+    "base_msa_loss": 0.48,
+    "pa_proximity_score": 0.0072,
+    "waste_generated_mt": 8729.0,
+    "renewable_energy_pct": 0.2
+  },
+  "peer_comparison": {
+    "sector_median_score": 1.6,
+    "sector_best_score": 5.4,
+    "sector_median_taesc": 7850.63,
+    "sector_best_taesc": 258.92
+  },
+  "data_quality": {
+    "tier": "Tier 3",
+    "confidence": "LOW"
+  }
+}

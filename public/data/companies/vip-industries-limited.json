@@ -1,0 +1,59 @@
+{
+  "company_name": "VIP INDUSTRIES LIMITED",
+  "slug": "vip-industries-limited",
+  "sector": "Pharmaceuticals & Healthcare",
+  "state": "West Bengal",
+  "revenue_cr": 2657.52,
+  "nii_score": 5.4,
+  "nii_rank": 239,
+  "nii_sector_rank": 40,
+  "nii_rating": "Average",
+  "nii_percentile": 54,
+  "taesc_cr": 174.79,
+  "nir": 0.0658,
+  "nir_pct": 6.58,
+  "breakdown": {
+    "climate": {
+      "value_cr": 13.56,
+      "pct": 7.8
+    },
+    "water": {
+      "value_cr": 3.35,
+      "pct": 1.9
+    },
+    "land": {
+      "value_cr": 71.41,
+      "pct": 40.9
+    },
+    "biodiversity": {
+      "value_cr": 81.85,
+      "pct": 46.8
+    },
+    "pollution": {
+      "value_cr": 4.61,
+      "pct": 2.6
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 129.0,
+    "scope2_ghg_tco2e": 12012.0,
+    "scope3_ghg_tco2e": 12400.0,
+    "water_consumption_kl": 150824.0,
+    "water_stress_score": 2.1,
+    "total_land_ha": 965.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.1167,
+    "waste_generated_mt": 357.0,
+    "renewable_energy_pct": 8.4
+  },
+  "peer_comparison": {
+    "sector_median_score": 6.6,
+    "sector_best_score": 7.9,
+    "sector_median_taesc": 327.39,
+    "sector_best_taesc": 46.47
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

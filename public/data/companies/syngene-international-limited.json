@@ -1,0 +1,59 @@
+{
+  "company_name": "Syngene International Limited",
+  "slug": "syngene-international-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "West Bengal",
+  "revenue_cr": 3642.4,
+  "nii_score": 6.1,
+  "nii_rank": 203,
+  "nii_sector_rank": 30,
+  "nii_rating": "Good",
+  "nii_percentile": 61,
+  "taesc_cr": 189.13,
+  "nir": 0.0519,
+  "nir_pct": 5.19,
+  "breakdown": {
+    "climate": {
+      "value_cr": 30.08,
+      "pct": 15.9
+    },
+    "water": {
+      "value_cr": 4.09,
+      "pct": 2.2
+    },
+    "land": {
+      "value_cr": 11.7,
+      "pct": 6.2
+    },
+    "biodiversity": {
+      "value_cr": 137.48,
+      "pct": 72.7
+    },
+    "pollution": {
+      "value_cr": 5.79,
+      "pct": 3.1
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 6637.0,
+    "scope2_ghg_tco2e": 6958.0,
+    "scope3_ghg_tco2e": 57505.0,
+    "water_consumption_kl": 175541.0,
+    "water_stress_score": 4.62,
+    "total_land_ha": 130.0,
+    "base_msa_loss": 0.58,
+    "pa_proximity_score": 0.014,
+    "waste_generated_mt": 4215.0,
+    "renewable_energy_pct": 10.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

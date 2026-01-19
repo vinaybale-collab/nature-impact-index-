@@ -1,0 +1,59 @@
+{
+  "company_name": "Zen Technologies Limited",
+  "slug": "zen-technologies-limited",
+  "sector": "Information Technology",
+  "state": "Maharashtra",
+  "revenue_cr": 930.67,
+  "nii_score": 8.6,
+  "nii_rank": 71,
+  "nii_sector_rank": 12,
+  "nii_rating": "Excellent",
+  "nii_percentile": 86,
+  "taesc_cr": 4.24,
+  "nir": 0.0046,
+  "nir_pct": 0.46,
+  "breakdown": {
+    "climate": {
+      "value_cr": 0.83,
+      "pct": 19.6
+    },
+    "water": {
+      "value_cr": 0.33,
+      "pct": 7.8
+    },
+    "land": {
+      "value_cr": 1.29,
+      "pct": 30.5
+    },
+    "biodiversity": {
+      "value_cr": 1.71,
+      "pct": 40.4
+    },
+    "pollution": {
+      "value_cr": 0.07,
+      "pct": 1.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 39.0,
+    "scope2_ghg_tco2e": 553.0,
+    "scope3_ghg_tco2e": 769.0,
+    "water_consumption_kl": 6595.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 34.0,
+    "base_msa_loss": 0.42,
+    "pa_proximity_score": 0.0039,
+    "waste_generated_mt": 5.0,
+    "renewable_energy_pct": 0.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 8.5,
+    "sector_best_score": 9.0,
+    "sector_median_taesc": 21.55,
+    "sector_best_taesc": 2.85
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}

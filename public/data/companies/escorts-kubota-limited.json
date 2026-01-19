@@ -1,0 +1,59 @@
+{
+  "company_name": "Escorts Kubota Limited",
+  "slug": "escorts-kubota-limited",
+  "sector": "Chemicals & Fertilizers",
+  "state": "Telangana",
+  "revenue_cr": 11099.75,
+  "nii_score": 6.5,
+  "nii_rank": 182,
+  "nii_sector_rank": 21,
+  "nii_rating": "Good",
+  "nii_percentile": 65,
+  "taesc_cr": 530.11,
+  "nir": 0.0478,
+  "nir_pct": 4.78,
+  "breakdown": {
+    "climate": {
+      "value_cr": 47.8,
+      "pct": 9.0
+    },
+    "water": {
+      "value_cr": 22.83,
+      "pct": 4.3
+    },
+    "land": {
+      "value_cr": 44.07,
+      "pct": 8.3
+    },
+    "biodiversity": {
+      "value_cr": 395.84,
+      "pct": 74.7
+    },
+    "pollution": {
+      "value_cr": 19.56,
+      "pct": 3.7
+    }
+  },
+  "raw_data": {
+    "scope1_ghg_tco2e": 11639.0,
+    "scope2_ghg_tco2e": 42963.0,
+    "scope3_ghg_tco2e": 24611.0,
+    "water_consumption_kl": 514586.0,
+    "water_stress_score": 5.0,
+    "total_land_ha": 495.0,
+    "base_msa_loss": 0.45,
+    "pa_proximity_score": 0.0047,
+    "waste_generated_mt": 17186.0,
+    "renewable_energy_pct": 11.0
+  },
+  "peer_comparison": {
+    "sector_median_score": 4.6,
+    "sector_best_score": 7.4,
+    "sector_median_taesc": 340.82,
+    "sector_best_taesc": 8.38
+  },
+  "data_quality": {
+    "tier": "Tier 2",
+    "confidence": "75%"
+  }
+}
