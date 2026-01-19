@@ -4,11 +4,11 @@
   "sector": "Banking & Financial Services",
   "state": "Gujarat",
   "revenue_cr": 34179.06,
-  "nii_score": 9.4,
-  "nii_rank": 29,
-  "nii_sector_rank": 25,
+  "nii_score": 9.3,
+  "nii_rank": 35,
+  "nii_sector_rank": 30,
   "nii_rating": "Excellent",
-  "nii_percentile": 94,
+  "nii_percentile": 93,
   "taesc_cr": 59.31,
   "nir": 0.0017,
   "nir_pct": 0.17,
@@ -55,8 +55,8 @@
   "peer_comparison": {
     "sector_median_score": 9.3,
     "sector_best_score": 10.0,
-    "sector_median_taesc": 24.88,
-    "sector_best_taesc": 0.56
+    "sector_median_taesc": 25.14,
+    "sector_best_taesc": 0.27
   },
   "data_quality": {
     "tier": "Tier 2",

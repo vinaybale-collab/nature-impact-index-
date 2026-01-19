@@ -4,11 +4,11 @@
   "sector": "Telecom & Communication",
   "state": "Delhi",
   "revenue_cr": 43157.22,
-  "nii_score": 5.9,
-  "nii_rank": 213,
+  "nii_score": 5.8,
+  "nii_rank": 218,
   "nii_sector_rank": 5,
   "nii_rating": "Average",
-  "nii_percentile": 59,
+  "nii_percentile": 58,
   "taesc_cr": 2664.51,
   "nir": 0.0617,
   "nir_pct": 6.17,
@@ -53,8 +53,8 @@
     "renewable_energy_gj": 1454400.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.0,
-    "sector_best_score": 8.0,
+    "sector_median_score": 5.9,
+    "sector_best_score": 7.9,
     "sector_median_taesc": 738.83,
     "sector_best_taesc": 49.54
   },

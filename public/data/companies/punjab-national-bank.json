@@ -4,44 +4,44 @@
   "sector": "Banking & Financial Services",
   "state": "West Bengal",
   "revenue_cr": 138070.1,
-  "nii_score": 1.5,
-  "nii_rank": 444,
-  "nii_sector_rank": 63,
-  "nii_rating": "Critical",
-  "nii_percentile": 15,
-  "taesc_cr": 43063.44,
-  "nir": 0.3119,
-  "nir_pct": 31.19,
+  "nii_score": 9.1,
+  "nii_rank": 45,
+  "nii_sector_rank": 39,
+  "nii_rating": "Excellent",
+  "nii_percentile": 91,
+  "taesc_cr": 343.29,
+  "nir": 0.0025,
+  "nir_pct": 0.25,
   "breakdown": {
     "climate": {
-      "value_cr": 42924.27,
-      "pct": 99.7
+      "value_cr": 204.12,
+      "pct": 59.5
     },
     "water": {
       "value_cr": 53.85,
-      "pct": 0.1
+      "pct": 15.7
     },
     "land": {
       "value_cr": 2.46,
-      "pct": 0.0
+      "pct": 0.7
     },
     "biodiversity": {
       "value_cr": 20.5,
-      "pct": 0.0
+      "pct": 6.0
     },
     "pollution": {
       "value_cr": 22.26,
-      "pct": 0.1
+      "pct": 6.5
     },
     "energy_depletion": {
       "value_cr": 40.1,
-      "pct": 0.1
+      "pct": 11.7
     }
   },
   "raw_data": {
     "scope1_ghg_tco2e": 10621.0,
     "scope2_ghg_tco2e": 174100.0,
-    "scope3_ghg_tco2e": 100640004.0,
+    "scope3_ghg_tco2e": 122000.0,
     "water_consumption_kl": 1233678.0,
     "water_stress_score": 4.29,
     "total_land_ha": 82.0,
@@ -55,8 +55,8 @@
   "peer_comparison": {
     "sector_median_score": 9.3,
     "sector_best_score": 10.0,
-    "sector_median_taesc": 24.88,
-    "sector_best_taesc": 0.56
+    "sector_median_taesc": 25.14,
+    "sector_best_taesc": 0.27
   },
   "data_quality": {
     "tier": "Tier 2",

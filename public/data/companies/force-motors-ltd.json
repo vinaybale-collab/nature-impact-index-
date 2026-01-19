@@ -4,11 +4,11 @@
   "sector": "Manufacturing - Automobiles",
   "state": "Maharashtra",
   "revenue_cr": 8071.23,
-  "nii_score": 3.4,
-  "nii_rank": 344,
+  "nii_score": 3.3,
+  "nii_rank": 350,
   "nii_sector_rank": 7,
   "nii_rating": "Poor",
-  "nii_percentile": 34,
+  "nii_percentile": 33,
   "taesc_cr": 991.31,
   "nir": 0.1228,
   "nir_pct": 12.28,
@@ -53,8 +53,8 @@
     "renewable_energy_gj": 6593.0
   },
   "peer_comparison": {
-    "sector_median_score": 3.4,
-    "sector_best_score": 7.1,
+    "sector_median_score": 3.3,
+    "sector_best_score": 7.0,
     "sector_median_taesc": 1938.58,
     "sector_best_taesc": 79.81
   },

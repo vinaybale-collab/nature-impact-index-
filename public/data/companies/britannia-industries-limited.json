@@ -4,11 +4,11 @@
   "sector": "FMCG & Consumer Goods",
   "state": "Delhi",
   "revenue_cr": 19404.81,
-  "nii_score": 3.3,
-  "nii_rank": 350,
+  "nii_score": 3.2,
+  "nii_rank": 355,
   "nii_sector_rank": 10,
   "nii_rating": "Poor",
-  "nii_percentile": 33,
+  "nii_percentile": 32,
   "taesc_cr": 2411.33,
   "nir": 0.1243,
   "nir_pct": 12.43,
@@ -53,7 +53,7 @@
     "renewable_energy_gj": 400000.0
   },
   "peer_comparison": {
-    "sector_median_score": 5.2,
+    "sector_median_score": 5.1,
     "sector_best_score": 7.7,
     "sector_median_taesc": 1707.27,
     "sector_best_taesc": 131.15

@@ -4,44 +4,44 @@
   "sector": "Banking & Financial Services",
   "state": "Maharashtra",
   "revenue_cr": 79820.0,
-  "nii_score": 9.4,
-  "nii_rank": 29,
-  "nii_sector_rank": 25,
+  "nii_score": 9.3,
+  "nii_rank": 35,
+  "nii_sector_rank": 30,
   "nii_rating": "Excellent",
-  "nii_percentile": 94,
-  "taesc_cr": 139.06,
-  "nir": 0.0017,
-  "nir_pct": 0.17,
+  "nii_percentile": 93,
+  "taesc_cr": 161.23,
+  "nir": 0.002,
+  "nir_pct": 0.2,
   "breakdown": {
     "climate": {
-      "value_cr": 82.99,
-      "pct": 59.7
+      "value_cr": 105.16,
+      "pct": 65.2
     },
     "water": {
       "value_cr": 12.33,
-      "pct": 8.9
+      "pct": 7.6
     },
     "land": {
       "value_cr": 9.06,
-      "pct": 6.5
+      "pct": 5.6
     },
     "biodiversity": {
       "value_cr": 11.85,
-      "pct": 8.5
+      "pct": 7.4
     },
     "pollution": {
       "value_cr": 9.48,
-      "pct": 6.8
+      "pct": 5.9
     },
     "energy_depletion": {
       "value_cr": 13.35,
-      "pct": 9.6
+      "pct": 8.3
     }
   },
   "raw_data": {
     "scope1_ghg_tco2e": 9106.0,
     "scope2_ghg_tco2e": 88418.0,
-    "scope3_ghg_tco2e": 250.0,
+    "scope3_ghg_tco2e": 52400.0,
     "water_consumption_kl": 614353.0,
     "water_stress_score": 1.67,
     "total_land_ha": 302.0,
@@ -55,8 +55,8 @@
   "peer_comparison": {
     "sector_median_score": 9.3,
     "sector_best_score": 10.0,
-    "sector_median_taesc": 24.88,
-    "sector_best_taesc": 0.56
+    "sector_median_taesc": 25.14,
+    "sector_best_taesc": 0.27
   },
   "data_quality": {
     "tier": "Tier 2",

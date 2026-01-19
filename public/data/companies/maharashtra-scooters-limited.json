@@ -4,11 +4,11 @@
   "sector": "Chemicals & Fertilizers",
   "state": "Tamil Nadu",
   "revenue_cr": 223.54,
-  "nii_score": 4.9,
-  "nii_rank": 266,
+  "nii_score": 4.8,
+  "nii_rank": 271,
   "nii_sector_rank": 67,
   "nii_rating": "Average",
-  "nii_percentile": 49,
+  "nii_percentile": 48,
   "taesc_cr": 18.06,
   "nir": 0.0808,
   "nir_pct": 8.08,
@@ -54,7 +54,7 @@
   },
   "peer_comparison": {
     "sector_median_score": 4.6,
-    "sector_best_score": 7.6,
+    "sector_best_score": 7.5,
     "sector_median_taesc": 370.56,
     "sector_best_taesc": 8.45
   },

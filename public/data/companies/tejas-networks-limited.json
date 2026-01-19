@@ -4,11 +4,11 @@
   "sector": "Telecom & Communication",
   "state": "Maharashtra",
   "revenue_cr": 2663.25,
-  "nii_score": 8.0,
-  "nii_rank": 103,
+  "nii_score": 7.9,
+  "nii_rank": 108,
   "nii_sector_rank": 1,
-  "nii_rating": "Excellent",
-  "nii_percentile": 80,
+  "nii_rating": "Good",
+  "nii_percentile": 79,
   "taesc_cr": 49.54,
   "nir": 0.0186,
   "nir_pct": 1.86,
@@ -53,8 +53,8 @@
     "renewable_energy_gj": 9350.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.0,
-    "sector_best_score": 8.0,
+    "sector_median_score": 5.9,
+    "sector_best_score": 7.9,
     "sector_median_taesc": 738.83,
     "sector_best_taesc": 49.54
   },

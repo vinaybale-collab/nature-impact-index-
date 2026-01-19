@@ -4,30 +4,30 @@
   "sector": "Banking & Financial Services",
   "state": "Telangana",
   "revenue_cr": 33676.08,
-  "nii_score": 9.1,
-  "nii_rank": 45,
-  "nii_sector_rank": 40,
+  "nii_score": 9.0,
+  "nii_rank": 50,
+  "nii_sector_rank": 44,
   "nii_rating": "Excellent",
-  "nii_percentile": 91,
-  "taesc_cr": 88.76,
-  "nir": 0.0026,
-  "nir_pct": 0.26,
+  "nii_percentile": 90,
+  "taesc_cr": 91.68,
+  "nir": 0.0027,
+  "nir_pct": 0.27,
   "breakdown": {
     "climate": {
-      "value_cr": 62.97,
-      "pct": 70.9
+      "value_cr": 65.89,
+      "pct": 71.9
     },
     "water": {
       "value_cr": 12.38,
-      "pct": 14.0
+      "pct": 13.5
     },
     "land": {
       "value_cr": 1.14,
-      "pct": 1.3
+      "pct": 1.2
     },
     "biodiversity": {
       "value_cr": 5.0,
-      "pct": 5.6
+      "pct": 5.5
     },
     "pollution": {
       "value_cr": 1.7,
@@ -35,13 +35,13 @@
     },
     "energy_depletion": {
       "value_cr": 5.56,
-      "pct": 6.3
+      "pct": 6.1
     }
   },
   "raw_data": {
     "scope1_ghg_tco2e": 5676.0,
     "scope2_ghg_tco2e": 60843.0,
-    "scope3_ghg_tco2e": 15138.0,
+    "scope3_ghg_tco2e": 22000.0,
     "water_consumption_kl": 250020.0,
     "water_stress_score": 4.95,
     "total_land_ha": 38.0,
@@ -55,8 +55,8 @@
   "peer_comparison": {
     "sector_median_score": 9.3,
     "sector_best_score": 10.0,
-    "sector_median_taesc": 24.88,
-    "sector_best_taesc": 0.56
+    "sector_median_taesc": 25.14,
+    "sector_best_taesc": 0.27
   },
   "data_quality": {
     "tier": "Tier 2",

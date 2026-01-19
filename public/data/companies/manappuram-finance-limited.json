@@ -4,30 +4,30 @@
   "sector": "Banking & Financial Services",
   "state": "Delhi",
   "revenue_cr": 6914.47,
-  "nii_score": 8.9,
-  "nii_rank": 56,
-  "nii_sector_rank": 48,
+  "nii_score": 8.8,
+  "nii_rank": 61,
+  "nii_sector_rank": 52,
   "nii_rating": "Excellent",
-  "nii_percentile": 89,
-  "taesc_cr": 23.96,
-  "nir": 0.0035,
-  "nir_pct": 0.35,
+  "nii_percentile": 88,
+  "taesc_cr": 23.49,
+  "nir": 0.0034,
+  "nir_pct": 0.34,
   "breakdown": {
     "climate": {
-      "value_cr": 16.07,
-      "pct": 67.1
+      "value_cr": 15.6,
+      "pct": 66.4
     },
     "water": {
       "value_cr": 0.86,
-      "pct": 3.6
+      "pct": 3.7
     },
     "land": {
       "value_cr": 4.05,
-      "pct": 16.9
+      "pct": 17.2
     },
     "biodiversity": {
       "value_cr": 1.03,
-      "pct": 4.3
+      "pct": 4.4
     },
     "pollution": {
       "value_cr": 0.69,
@@ -35,13 +35,13 @@
     },
     "energy_depletion": {
       "value_cr": 1.26,
-      "pct": 5.3
+      "pct": 5.4
     }
   },
   "raw_data": {
     "scope1_ghg_tco2e": 128.0,
     "scope2_ghg_tco2e": 14425.0,
-    "scope3_ghg_tco2e": 8900.0,
+    "scope3_ghg_tco2e": 7800.0,
     "water_consumption_kl": 21602.0,
     "water_stress_score": 3.86,
     "total_land_ha": 135.0,
@@ -55,8 +55,8 @@
   "peer_comparison": {
     "sector_median_score": 9.3,
     "sector_best_score": 10.0,
-    "sector_median_taesc": 24.88,
-    "sector_best_taesc": 0.56
+    "sector_median_taesc": 25.14,
+    "sector_best_taesc": 0.27
   },
   "data_quality": {
     "tier": "Tier 2",

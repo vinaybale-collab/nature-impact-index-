@@ -4,11 +4,11 @@
   "sector": "Manufacturing - Agro Processing",
   "state": "Maharashtra",
   "revenue_cr": 6655.4,
-  "nii_score": 4.7,
-  "nii_rank": 276,
+  "nii_score": 4.6,
+  "nii_rank": 281,
   "nii_sector_rank": 1,
   "nii_rating": "Average",
-  "nii_percentile": 47,
+  "nii_percentile": 46,
   "taesc_cr": 553.63,
   "nir": 0.0832,
   "nir_pct": 8.32,
@@ -54,7 +54,7 @@
   },
   "peer_comparison": {
     "sector_median_score": 3.0,
-    "sector_best_score": 4.7,
+    "sector_best_score": 4.6,
     "sector_median_taesc": 752.45,
     "sector_best_taesc": 553.63
   },

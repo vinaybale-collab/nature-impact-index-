@@ -4,11 +4,11 @@
   "sector": "Manufacturing - Automobiles",
   "state": "Tamil Nadu",
   "revenue_cr": 151900.08,
-  "nii_score": 3.2,
-  "nii_rank": 355,
+  "nii_score": 3.1,
+  "nii_rank": 360,
   "nii_sector_rank": 8,
   "nii_rating": "Poor",
-  "nii_percentile": 32,
+  "nii_percentile": 31,
   "taesc_cr": 19384.71,
   "nir": 0.1276,
   "nir_pct": 12.76,
@@ -53,8 +53,8 @@
     "renewable_energy_gj": 1854000.0
   },
   "peer_comparison": {
-    "sector_median_score": 3.4,
-    "sector_best_score": 7.1,
+    "sector_median_score": 3.3,
+    "sector_best_score": 7.0,
     "sector_median_taesc": 1938.58,
     "sector_best_taesc": 79.81
   },

@@ -4,11 +4,11 @@
   "sector": "Financial Services - NBFC",
   "state": "Tamil Nadu",
   "revenue_cr": 7660.8,
-  "nii_score": 8.5,
-  "nii_rank": 77,
-  "nii_sector_rank": 2,
+  "nii_score": 8.4,
+  "nii_rank": 82,
+  "nii_sector_rank": 3,
   "nii_rating": "Excellent",
-  "nii_percentile": 85,
+  "nii_percentile": 84,
   "taesc_cr": 45.43,
   "nir": 0.0059,
   "nir_pct": 0.59,
@@ -53,10 +53,10 @@
     "renewable_energy_gj": 0.0
   },
   "peer_comparison": {
-    "sector_median_score": 8.5,
+    "sector_median_score": 9.2,
     "sector_best_score": 9.4,
-    "sector_median_taesc": 45.43,
-    "sector_best_taesc": 24.93
+    "sector_median_taesc": 24.93,
+    "sector_best_taesc": 12.11
   },
   "data_quality": {
     "tier": "Tier 2",

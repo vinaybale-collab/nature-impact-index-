@@ -4,11 +4,11 @@
   "sector": "FMCG & Consumer Goods",
   "state": "Tamil Nadu",
   "revenue_cr": 24393.89,
-  "nii_score": 5.2,
-  "nii_rank": 250,
+  "nii_score": 5.1,
+  "nii_rank": 255,
   "nii_sector_rank": 7,
   "nii_rating": "Average",
-  "nii_percentile": 52,
+  "nii_percentile": 51,
   "taesc_cr": 1793.63,
   "nir": 0.0735,
   "nir_pct": 7.35,
@@ -53,7 +53,7 @@
     "renewable_energy_gj": 330750.0
   },
   "peer_comparison": {
-    "sector_median_score": 5.2,
+    "sector_median_score": 5.1,
     "sector_best_score": 7.7,
     "sector_median_taesc": 1707.27,
     "sector_best_taesc": 131.15

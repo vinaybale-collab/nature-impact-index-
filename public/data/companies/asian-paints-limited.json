@@ -4,11 +4,11 @@
   "sector": "Manufacturing - Paints & Coatings",
   "state": "Telangana",
   "revenue_cr": 37172.75,
-  "nii_score": 4.5,
-  "nii_rank": 287,
+  "nii_score": 4.4,
+  "nii_rank": 292,
   "nii_sector_rank": 2,
   "nii_rating": "Average",
-  "nii_percentile": 45,
+  "nii_percentile": 44,
   "taesc_cr": 3250.63,
   "nir": 0.0874,
   "nir_pct": 8.74,
@@ -53,8 +53,8 @@
     "renewable_energy_gj": 238733.0
   },
   "peer_comparison": {
-    "sector_median_score": 4.8,
-    "sector_best_score": 5.0,
+    "sector_median_score": 4.6,
+    "sector_best_score": 4.9,
     "sector_median_taesc": 2137.61,
     "sector_best_taesc": 1024.6
   },

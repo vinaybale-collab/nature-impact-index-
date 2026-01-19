@@ -4,11 +4,11 @@
   "sector": "Manufacturing - Engineering",
   "state": "Tamil Nadu",
   "revenue_cr": 23024.1,
-  "nii_score": 7.5,
-  "nii_rank": 129,
+  "nii_score": 7.4,
+  "nii_rank": 134,
   "nii_sector_rank": 2,
   "nii_rating": "Good",
-  "nii_percentile": 75,
+  "nii_percentile": 74,
   "taesc_cr": 845.22,
   "nir": 0.0367,
   "nir_pct": 3.67,
@@ -54,7 +54,7 @@
   },
   "peer_comparison": {
     "sector_median_score": 4.4,
-    "sector_best_score": 7.6,
+    "sector_best_score": 7.5,
     "sector_median_taesc": 994.84,
     "sector_best_taesc": 31.34
   },

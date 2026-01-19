@@ -4,11 +4,11 @@
   "sector": "Manufacturing - Agro Processing",
   "state": "Tamil Nadu",
   "revenue_cr": 10832.7,
-  "nii_score": 2.3,
-  "nii_rank": 402,
+  "nii_score": 2.2,
+  "nii_rank": 407,
   "nii_sector_rank": 3,
   "nii_rating": "Poor",
-  "nii_percentile": 23,
+  "nii_percentile": 22,
   "taesc_cr": 2011.54,
   "nir": 0.1857,
   "nir_pct": 18.57,
@@ -54,7 +54,7 @@
   },
   "peer_comparison": {
     "sector_median_score": 3.0,
-    "sector_best_score": 4.7,
+    "sector_best_score": 4.6,
     "sector_median_taesc": 752.45,
     "sector_best_taesc": 553.63
   },

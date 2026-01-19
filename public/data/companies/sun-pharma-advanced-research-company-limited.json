@@ -4,11 +4,11 @@
   "sector": "R&D Services",
   "state": "Gujarat",
   "revenue_cr": 105.01,
-  "nii_score": 2.7,
-  "nii_rank": 381,
+  "nii_score": 2.6,
+  "nii_rank": 386,
   "nii_sector_rank": 1,
   "nii_rating": "Poor",
-  "nii_percentile": 27,
+  "nii_percentile": 26,
   "taesc_cr": 15.29,
   "nir": 0.1456,
   "nir_pct": 14.56,
@@ -53,8 +53,8 @@
     "renewable_energy_gj": 0.0
   },
   "peer_comparison": {
-    "sector_median_score": 2.7,
-    "sector_best_score": 2.7,
+    "sector_median_score": 2.6,
+    "sector_best_score": 2.6,
     "sector_median_taesc": 15.29,
     "sector_best_taesc": 15.29
   },

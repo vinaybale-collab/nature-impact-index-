@@ -4,11 +4,11 @@
   "sector": "Media & Entertainment",
   "state": "Delhi",
   "revenue_cr": 4148.36,
-  "nii_score": 8.2,
-  "nii_rank": 92,
+  "nii_score": 8.1,
+  "nii_rank": 98,
   "nii_sector_rank": 1,
   "nii_rating": "Excellent",
-  "nii_percentile": 82,
+  "nii_percentile": 81,
   "taesc_cr": 38.44,
   "nir": 0.0093,
   "nir_pct": 0.93,
@@ -53,8 +53,8 @@
     "renewable_energy_gj": 4270.0
   },
   "peer_comparison": {
-    "sector_median_score": 8.1,
-    "sector_best_score": 8.2,
+    "sector_median_score": 8.0,
+    "sector_best_score": 8.1,
     "sector_median_taesc": 94.24,
     "sector_best_taesc": 38.44
   },

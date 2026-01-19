@@ -4,11 +4,11 @@
   "sector": "Banking & Financial Services",
   "state": "West Bengal",
   "revenue_cr": 147934.1,
-  "nii_score": 9.5,
-  "nii_rank": 24,
-  "nii_sector_rank": 20,
+  "nii_score": 9.4,
+  "nii_rank": 29,
+  "nii_sector_rank": 25,
   "nii_rating": "Excellent",
-  "nii_percentile": 95,
+  "nii_percentile": 94,
   "taesc_cr": 213.86,
   "nir": 0.0014,
   "nir_pct": 0.14,
@@ -55,8 +55,8 @@
   "peer_comparison": {
     "sector_median_score": 9.3,
     "sector_best_score": 10.0,
-    "sector_median_taesc": 24.88,
-    "sector_best_taesc": 0.56
+    "sector_median_taesc": 25.14,
+    "sector_best_taesc": 0.27
   },
   "data_quality": {
     "tier": "Tier 2",

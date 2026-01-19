@@ -4,11 +4,11 @@
   "sector": "Oil & Gas",
   "state": "Karnataka",
   "revenue_cr": 17321.88,
-  "nii_score": 5.6,
-  "nii_rank": 229,
+  "nii_score": 5.5,
+  "nii_rank": 234,
   "nii_sector_rank": 1,
   "nii_rating": "Average",
-  "nii_percentile": 56,
+  "nii_percentile": 55,
   "taesc_cr": 1157.25,
   "nir": 0.0668,
   "nir_pct": 6.68,
@@ -54,7 +54,7 @@
   },
   "peer_comparison": {
     "sector_median_score": 1.6,
-    "sector_best_score": 5.6,
+    "sector_best_score": 5.5,
     "sector_median_taesc": 8041.4,
     "sector_best_taesc": 270.42
   },

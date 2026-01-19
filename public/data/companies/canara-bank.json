@@ -4,18 +4,18 @@
   "sector": "Banking & Financial Services",
   "state": "Maharashtra",
   "revenue_cr": 142207.87,
-  "nii_score": 9.3,
-  "nii_rank": 35,
-  "nii_sector_rank": 30,
+  "nii_score": 9.2,
+  "nii_rank": 40,
+  "nii_sector_rank": 35,
   "nii_rating": "Excellent",
-  "nii_percentile": 93,
-  "taesc_cr": 299.23,
+  "nii_percentile": 92,
+  "taesc_cr": 299.69,
   "nir": 0.0021,
   "nir_pct": 0.21,
   "breakdown": {
     "climate": {
-      "value_cr": 173.95,
-      "pct": 58.1
+      "value_cr": 174.4,
+      "pct": 58.2
     },
     "water": {
       "value_cr": 43.5,
@@ -27,7 +27,7 @@
     },
     "biodiversity": {
       "value_cr": 21.12,
-      "pct": 7.1
+      "pct": 7.0
     },
     "pollution": {
       "value_cr": 18.81,
@@ -41,7 +41,7 @@
   "raw_data": {
     "scope1_ghg_tco2e": 17263.0,
     "scope2_ghg_tco2e": 157898.0,
-    "scope3_ghg_tco2e": 63927.0,
+    "scope3_ghg_tco2e": 65000.0,
     "water_consumption_kl": 965369.0,
     "water_stress_score": 4.45,
     "total_land_ha": 45.0,
@@ -55,8 +55,8 @@
   "peer_comparison": {
     "sector_median_score": 9.3,
     "sector_best_score": 10.0,
-    "sector_median_taesc": 24.88,
-    "sector_best_taesc": 0.56
+    "sector_median_taesc": 25.14,
+    "sector_best_taesc": 0.27
   },
   "data_quality": {
     "tier": "Tier 2",

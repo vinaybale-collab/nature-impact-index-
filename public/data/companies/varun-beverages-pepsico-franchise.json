@@ -6,7 +6,7 @@
   "revenue_cr": 16042.0,
   "nii_score": 3.2,
   "nii_rank": 355,
-  "nii_sector_rank": 11,
+  "nii_sector_rank": 10,
   "nii_rating": "Poor",
   "nii_percentile": 32,
   "taesc_cr": 2027.67,
@@ -53,7 +53,7 @@
     "renewable_energy_gj": 425600.0
   },
   "peer_comparison": {
-    "sector_median_score": 5.2,
+    "sector_median_score": 5.1,
     "sector_best_score": 7.7,
     "sector_median_taesc": 1707.27,
     "sector_best_taesc": 131.15

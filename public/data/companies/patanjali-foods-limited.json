@@ -4,11 +4,11 @@
   "sector": "Pharmaceuticals & Healthcare",
   "state": "Telangana",
   "revenue_cr": 34289.4,
-  "nii_score": 5.6,
-  "nii_rank": 229,
-  "nii_sector_rank": 37,
+  "nii_score": 5.5,
+  "nii_rank": 234,
+  "nii_sector_rank": 38,
   "nii_rating": "Average",
-  "nii_percentile": 56,
+  "nii_percentile": 55,
   "taesc_cr": 2267.37,
   "nir": 0.0661,
   "nir_pct": 6.61,
@@ -53,8 +53,8 @@
     "renewable_energy_gj": 345000.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.5,
-    "sector_best_score": 8.0,
+    "sector_median_score": 6.4,
+    "sector_best_score": 7.9,
     "sector_median_taesc": 351.59,
     "sector_best_taesc": 49.58
   },

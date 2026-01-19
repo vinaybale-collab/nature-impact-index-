@@ -4,11 +4,11 @@
   "sector": "Banking & Financial Services",
   "state": "Maharashtra",
   "revenue_cr": 27156.41,
-  "nii_score": 10.0,
-  "nii_rank": 1,
-  "nii_sector_rank": 1,
+  "nii_score": 9.9,
+  "nii_rank": 3,
+  "nii_sector_rank": 3,
   "nii_rating": "Excellent",
-  "nii_percentile": 100,
+  "nii_percentile": 99,
   "taesc_cr": 9.39,
   "nir": 0.0003,
   "nir_pct": 0.03,
@@ -55,8 +55,8 @@
   "peer_comparison": {
     "sector_median_score": 9.3,
     "sector_best_score": 10.0,
-    "sector_median_taesc": 24.88,
-    "sector_best_taesc": 0.56
+    "sector_median_taesc": 25.14,
+    "sector_best_taesc": 0.27
   },
   "data_quality": {
     "tier": "Tier 2",

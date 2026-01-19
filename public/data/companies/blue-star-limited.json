@@ -4,11 +4,11 @@
   "sector": "Pharmaceuticals & Healthcare",
   "state": "Maharashtra",
   "revenue_cr": 11325.75,
-  "nii_score": 7.7,
-  "nii_rank": 119,
-  "nii_sector_rank": 7,
+  "nii_score": 7.6,
+  "nii_rank": 124,
+  "nii_sector_rank": 8,
   "nii_rating": "Good",
-  "nii_percentile": 77,
+  "nii_percentile": 76,
   "taesc_cr": 366.05,
   "nir": 0.0323,
   "nir_pct": 3.23,
@@ -53,8 +53,8 @@
     "renewable_energy_gj": 26208.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.5,
-    "sector_best_score": 8.0,
+    "sector_median_score": 6.4,
+    "sector_best_score": 7.9,
     "sector_median_taesc": 351.59,
     "sector_best_taesc": 49.58
   },

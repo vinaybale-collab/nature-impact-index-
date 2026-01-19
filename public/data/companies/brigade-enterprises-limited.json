@@ -4,11 +4,11 @@
   "sector": "Construction & Real Estate",
   "state": "Maharashtra",
   "revenue_cr": 5313.54,
-  "nii_score": 1.8,
-  "nii_rank": 428,
+  "nii_score": 1.7,
+  "nii_rank": 434,
   "nii_sector_rank": 8,
   "nii_rating": "Critical",
-  "nii_percentile": 18,
+  "nii_percentile": 17,
   "taesc_cr": 1380.23,
   "nir": 0.2598,
   "nir_pct": 25.98,
@@ -54,7 +54,7 @@
   },
   "peer_comparison": {
     "sector_median_score": 2.6,
-    "sector_best_score": 5.1,
+    "sector_best_score": 5.0,
     "sector_median_taesc": 832.46,
     "sector_best_taesc": 73.79
   },

@@ -4,11 +4,11 @@
   "sector": "Chemicals & Fertilizers",
   "state": "Gujarat",
   "revenue_cr": 2438.92,
-  "nii_score": 7.2,
-  "nii_rank": 145,
+  "nii_score": 7.1,
+  "nii_rank": 150,
   "nii_sector_rank": 10,
   "nii_rating": "Good",
-  "nii_percentile": 72,
+  "nii_percentile": 71,
   "taesc_cr": 100.91,
   "nir": 0.0414,
   "nir_pct": 4.14,
@@ -54,7 +54,7 @@
   },
   "peer_comparison": {
     "sector_median_score": 4.6,
-    "sector_best_score": 7.6,
+    "sector_best_score": 7.5,
     "sector_median_taesc": 370.56,
     "sector_best_taesc": 8.45
   },

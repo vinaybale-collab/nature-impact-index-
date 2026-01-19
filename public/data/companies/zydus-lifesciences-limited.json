@@ -4,11 +4,11 @@
   "sector": "Pharmaceuticals & Healthcare",
   "state": "Gujarat",
   "revenue_cr": 22573.8,
-  "nii_score": 7.3,
-  "nii_rank": 140,
+  "nii_score": 7.2,
+  "nii_rank": 145,
   "nii_sector_rank": 16,
   "nii_rating": "Good",
-  "nii_percentile": 73,
+  "nii_percentile": 72,
   "taesc_cr": 909.19,
   "nir": 0.0403,
   "nir_pct": 4.03,
@@ -53,8 +53,8 @@
     "renewable_energy_gj": 425600.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.5,
-    "sector_best_score": 8.0,
+    "sector_median_score": 6.4,
+    "sector_best_score": 7.9,
     "sector_median_taesc": 351.59,
     "sector_best_taesc": 49.58
   },

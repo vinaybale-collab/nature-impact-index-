@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-19T11:55:17.443592",
+  "generated_at": "2026-01-19T12:46:34.700371",
   "database_version": "v7.8.0_NC_CALCULATED",
   "source_version": "v7.7.0_SECTORS_FINAL",
   "total_companies": 525,
@@ -7,13 +7,13 @@
   "statistics": {
     "avg_nii_score": 4.99,
     "median_nii_score": 5.0,
-    "avg_taesc_cr": 6278.93,
-    "total_taesc_cr": 3296440.69,
-    "avg_nir": 0.2895,
-    "median_nir": 0.0775
+    "avg_taesc_cr": 6166.68,
+    "total_taesc_cr": 3237504.77,
+    "avg_nir": 0.2882,
+    "median_nir": 0.0768
   },
   "dimension_totals_cr": {
-    "climate": 1874711.51,
+    "climate": 1815775.59,
     "water": 143944.12,
     "land": 94155.99,
     "biodiversity": 427271.95,

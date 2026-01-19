@@ -4,11 +4,11 @@
   "sector": "Construction & Real Estate",
   "state": "Gujarat",
   "revenue_cr": 4408.09,
-  "nii_score": 5.1,
-  "nii_rank": 255,
+  "nii_score": 5.0,
+  "nii_rank": 260,
   "nii_sector_rank": 1,
   "nii_rating": "Average",
-  "nii_percentile": 51,
+  "nii_percentile": 50,
   "taesc_cr": 336.47,
   "nir": 0.0763,
   "nir_pct": 7.63,
@@ -54,7 +54,7 @@
   },
   "peer_comparison": {
     "sector_median_score": 2.6,
-    "sector_best_score": 5.1,
+    "sector_best_score": 5.0,
     "sector_median_taesc": 832.46,
     "sector_best_taesc": 73.79
   },

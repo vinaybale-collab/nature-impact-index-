@@ -4,11 +4,11 @@
   "sector": "Chemicals & Fertilizers",
   "state": "West Bengal",
   "revenue_cr": 56367.0,
-  "nii_score": 7.6,
-  "nii_rank": 124,
+  "nii_score": 7.5,
+  "nii_rank": 129,
   "nii_sector_rank": 1,
   "nii_rating": "Good",
-  "nii_percentile": 76,
+  "nii_percentile": 75,
   "taesc_cr": 2033.41,
   "nir": 0.0361,
   "nir_pct": 3.61,
@@ -54,7 +54,7 @@
   },
   "peer_comparison": {
     "sector_median_score": 4.6,
-    "sector_best_score": 7.6,
+    "sector_best_score": 7.5,
     "sector_median_taesc": 370.56,
     "sector_best_taesc": 8.45
   },

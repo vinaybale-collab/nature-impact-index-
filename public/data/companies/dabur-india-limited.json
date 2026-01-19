@@ -4,11 +4,11 @@
   "sector": "FMCG & Consumer Goods",
   "state": "Karnataka",
   "revenue_cr": 9135.6,
-  "nii_score": 4.9,
-  "nii_rank": 266,
+  "nii_score": 4.8,
+  "nii_rank": 271,
   "nii_sector_rank": 8,
   "nii_rating": "Average",
-  "nii_percentile": 49,
+  "nii_percentile": 48,
   "taesc_cr": 721.55,
   "nir": 0.079,
   "nir_pct": 7.9,
@@ -53,7 +53,7 @@
     "renewable_energy_gj": 370971.0
   },
   "peer_comparison": {
-    "sector_median_score": 5.2,
+    "sector_median_score": 5.1,
     "sector_best_score": 7.7,
     "sector_median_taesc": 1707.27,
     "sector_best_taesc": 131.15

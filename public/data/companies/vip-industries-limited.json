@@ -4,11 +4,11 @@
   "sector": "Pharmaceuticals & Healthcare",
   "state": "West Bengal",
   "revenue_cr": 2657.52,
-  "nii_score": 5.5,
-  "nii_rank": 234,
+  "nii_score": 5.4,
+  "nii_rank": 239,
   "nii_sector_rank": 39,
   "nii_rating": "Average",
-  "nii_percentile": 55,
+  "nii_percentile": 54,
   "taesc_cr": 180.75,
   "nir": 0.068,
   "nir_pct": 6.8,
@@ -53,8 +53,8 @@
     "renewable_energy_gj": 10458.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.5,
-    "sector_best_score": 8.0,
+    "sector_median_score": 6.4,
+    "sector_best_score": 7.9,
     "sector_median_taesc": 351.59,
     "sector_best_taesc": 49.58
   },

@@ -4,11 +4,11 @@
   "sector": "Distribution & Trading",
   "state": "Gujarat",
   "revenue_cr": 99333.65,
-  "nii_score": 8.1,
-  "nii_rank": 98,
+  "nii_score": 8.0,
+  "nii_rank": 103,
   "nii_sector_rank": 1,
   "nii_rating": "Excellent",
-  "nii_percentile": 81,
+  "nii_percentile": 80,
   "taesc_cr": 1165.42,
   "nir": 0.0117,
   "nir_pct": 1.17,
@@ -53,8 +53,8 @@
     "renewable_energy_gj": 0.0
   },
   "peer_comparison": {
-    "sector_median_score": 8.1,
-    "sector_best_score": 8.1,
+    "sector_median_score": 8.0,
+    "sector_best_score": 8.0,
     "sector_median_taesc": 1165.42,
     "sector_best_taesc": 1165.42
   },

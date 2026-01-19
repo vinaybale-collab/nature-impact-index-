@@ -4,11 +4,11 @@
   "sector": "Pharmaceuticals & Healthcare",
   "state": "Unknown",
   "revenue_cr": 3784.99,
-  "nii_score": 6.3,
-  "nii_rank": 192,
-  "nii_sector_rank": 32,
+  "nii_score": 6.2,
+  "nii_rank": 197,
+  "nii_sector_rank": 33,
   "nii_rating": "Good",
-  "nii_percentile": 63,
+  "nii_percentile": 62,
   "taesc_cr": 202.66,
   "nir": 0.0535,
   "nir_pct": 5.35,
@@ -53,8 +53,8 @@
     "renewable_energy_gj": 776880.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.5,
-    "sector_best_score": 8.0,
+    "sector_median_score": 6.4,
+    "sector_best_score": 7.9,
     "sector_median_taesc": 351.59,
     "sector_best_taesc": 49.58
   },

@@ -3,22 +3,22 @@
     {
       "sector": "Banking & Financial Services",
       "company_count": 63,
-      "avg_nii_score": 9.0,
-      "avg_taesc_cr": 990.78,
-      "avg_nir": 0.0103,
-      "median_nir": 0.0021,
+      "avg_nii_score": 9.2,
+      "avg_taesc_cr": 77.81,
+      "avg_nir": 0.0032,
+      "median_nir": 0.002,
       "best_company": {
         "name": "General Insurance Corporation of India",
         "slug": "general-insurance-corporation-of-india",
         "score": 10.0
       },
       "worst_company": {
-        "name": "PUNJAB NATIONAL BANK",
-        "slug": "punjab-national-bank",
-        "score": 1.5
+        "name": "Capri Global Capital Limited",
+        "slug": "capri-global-capital-limited",
+        "score": 5.3
       },
       "avg_breakdown": {
-        "climate_cr": 959.41,
+        "climate_cr": 46.45,
         "water_cr": 11.59,
         "land_cr": 1.15,
         "biodiversity_cr": 8.96,
@@ -60,7 +60,7 @@
       "best_company": {
         "name": "REC Limited",
         "slug": "rec-limited",
-        "score": 7.6
+        "score": 7.5
       },
       "worst_company": {
         "name": "TATA CHEMICALS LIMITED",
@@ -78,19 +78,19 @@
     {
       "sector": "Construction & Engineering",
       "company_count": 2,
-      "avg_nii_score": 5.6,
+      "avg_nii_score": 5.5,
       "avg_taesc_cr": 7159.41,
       "avg_nir": 0.0681,
       "median_nir": 0.0681,
       "best_company": {
         "name": "Larsen & Toubro Limited",
         "slug": "larsen-toubro-limited",
-        "score": 6.6
+        "score": 6.5
       },
       "worst_company": {
         "name": "PNC Infratech Limited",
         "slug": "pnc-infratech-limited",
-        "score": 4.6
+        "score": 4.5
       },
       "avg_breakdown": {
         "climate_cr": 2159.94,
@@ -103,14 +103,14 @@
     {
       "sector": "Construction & Real Estate",
       "company_count": 10,
-      "avg_nii_score": 2.8,
+      "avg_nii_score": 2.7,
       "avg_taesc_cr": 1064.87,
       "avg_nir": 0.2304,
       "median_nir": 0.1462,
       "best_company": {
         "name": "Sobha Limited",
         "slug": "sobha-limited",
-        "score": 5.1
+        "score": 5.0
       },
       "worst_company": {
         "name": "Godrej Properties Limited",
@@ -128,19 +128,19 @@
     {
       "sector": "Distribution & Trading",
       "company_count": 1,
-      "avg_nii_score": 8.1,
+      "avg_nii_score": 8.0,
       "avg_taesc_cr": 1165.42,
       "avg_nir": 0.0117,
       "median_nir": 0.0117,
       "best_company": {
         "name": "Redington Limited",
         "slug": "redington-limited",
-        "score": 8.1
+        "score": 8.0
       },
       "worst_company": {
         "name": "Redington Limited",
         "slug": "redington-limited",
-        "score": 8.1
+        "score": 8.0
       },
       "avg_breakdown": {
         "climate_cr": 8.06,
@@ -160,7 +160,7 @@
       "best_company": {
         "name": "Adani Enterprises Limited",
         "slug": "adani-enterprises-limited",
-        "score": 3.0
+        "score": 2.9
       },
       "worst_company": {
         "name": "Grasim Industries Limited",
@@ -228,22 +228,22 @@
     {
       "sector": "Financial Services - NBFC",
       "company_count": 3,
-      "avg_nii_score": 6.6,
-      "avg_taesc_cr": 500.22,
-      "avg_nir": 0.0853,
-      "median_nir": 0.0059,
+      "avg_nii_score": 9.0,
+      "avg_taesc_cr": 27.49,
+      "avg_nir": 0.0032,
+      "median_nir": 0.0021,
       "best_company": {
         "name": "Mahindra  Mahindra Financial Services Limited",
         "slug": "mahindra-mahindra-financial-services-limited",
         "score": 9.4
       },
       "worst_company": {
-        "name": "CreditAccess Grameen Limited",
-        "slug": "creditaccess-grameen-limited",
-        "score": 1.9
+        "name": "One 97 Communications Limited",
+        "slug": "one-97-communications-limited",
+        "score": 8.4
       },
       "avg_breakdown": {
-        "climate_cr": 487.05,
+        "climate_cr": 14.32,
         "water_cr": 0.68,
         "land_cr": 2.23,
         "biodiversity_cr": 7.75,
@@ -303,18 +303,18 @@
     {
       "sector": "Information Technology",
       "company_count": 34,
-      "avg_nii_score": 8.5,
+      "avg_nii_score": 8.4,
       "avg_taesc_cr": 100.99,
       "avg_nir": 0.0067,
       "median_nir": 0.0059,
       "best_company": {
-        "name": "Infosys Limited",
-        "slug": "infosys-limited",
+        "name": "Persistent Systems Limited",
+        "slug": "persistent-systems-limited",
         "score": 9.0
       },
       "worst_company": {
-        "name": "Firstsource Solutions Limited",
-        "slug": "firstsource-solutions-limited",
+        "name": "Computer Age Management Services Limited",
+        "slug": "computer-age-management-services-limited",
         "score": 8.0
       },
       "avg_breakdown": {
@@ -328,22 +328,22 @@
     {
       "sector": "Insurance",
       "company_count": 5,
-      "avg_nii_score": 9.7,
-      "avg_taesc_cr": 159.54,
-      "avg_nir": 0.001,
+      "avg_nii_score": 9.6,
+      "avg_taesc_cr": 159.4,
+      "avg_nir": 0.0011,
       "median_nir": 0.0006,
       "best_company": {
-        "name": "HDFC Life Insurance Company Limited",
-        "slug": "hdfc-life-insurance-company-limited",
+        "name": "ICICI Prudential Life Insurance Company Limited",
+        "slug": "icici-prudential-life-insurance-company-limited",
         "score": 9.9
       },
       "worst_company": {
         "name": "THE NEW INDIA ASSURANCE COMPANY LIMITED",
         "slug": "the-new-india-assurance-company-limited",
-        "score": 9.0
+        "score": 8.8
       },
       "avg_breakdown": {
-        "climate_cr": 71.09,
+        "climate_cr": 70.95,
         "water_cr": 8.34,
         "land_cr": 14.47,
         "biodiversity_cr": 58.26,
@@ -360,12 +360,12 @@
       "best_company": {
         "name": "Triveni Engineering  Industries Limited",
         "slug": "triveni-engineering-industries-limited",
-        "score": 4.7
+        "score": 4.6
       },
       "worst_company": {
         "name": "Shree Renuka Sugars Limited",
         "slug": "shree-renuka-sugars-limited",
-        "score": 2.3
+        "score": 2.2
       },
       "avg_breakdown": {
         "climate_cr": 515.1,
@@ -385,7 +385,7 @@
       "best_company": {
         "name": "Ashok Leyland Limited",
         "slug": "ashok-leyland-limited",
-        "score": 7.1
+        "score": 7.0
       },
       "worst_company": {
         "name": "Tata Motors Limited",
@@ -403,14 +403,14 @@
     {
       "sector": "Manufacturing - Consumer Electronics",
       "company_count": 5,
-      "avg_nii_score": 5.3,
+      "avg_nii_score": 5.2,
       "avg_taesc_cr": 1098.12,
       "avg_nir": 0.1531,
       "median_nir": 0.0629,
       "best_company": {
         "name": "Dixon Technologies India Limited",
         "slug": "dixon-technologies-india-limited",
-        "score": 8.0
+        "score": 7.9
       },
       "worst_company": {
         "name": "Whirlpool of India Limited",
@@ -428,14 +428,14 @@
     {
       "sector": "Manufacturing - Engineering",
       "company_count": 13,
-      "avg_nii_score": 4.4,
+      "avg_nii_score": 4.3,
       "avg_taesc_cr": 2465.21,
       "avg_nir": 0.3542,
       "median_nir": 0.0886,
       "best_company": {
         "name": "Schaeffler India Limited",
         "slug": "schaeffler-india-limited",
-        "score": 7.6
+        "score": 7.5
       },
       "worst_company": {
         "name": "ESAB India Limited",
@@ -453,19 +453,19 @@
     {
       "sector": "Manufacturing - Paints & Coatings",
       "company_count": 2,
-      "avg_nii_score": 4.8,
+      "avg_nii_score": 4.6,
       "avg_taesc_cr": 2137.61,
       "avg_nir": 0.0828,
       "median_nir": 0.0828,
       "best_company": {
         "name": "Pidilite Industries Limited",
         "slug": "pidilite-industries-limited",
-        "score": 5.0
+        "score": 4.9
       },
       "worst_company": {
         "name": "Asian Paints Limited",
         "slug": "asian-paints-limited",
-        "score": 4.5
+        "score": 4.4
       },
       "avg_breakdown": {
         "climate_cr": 768.73,
@@ -503,19 +503,19 @@
     {
       "sector": "Media & Entertainment",
       "company_count": 2,
-      "avg_nii_score": 8.1,
+      "avg_nii_score": 8.0,
       "avg_taesc_cr": 94.24,
       "avg_nir": 0.0111,
       "median_nir": 0.0111,
       "best_company": {
         "name": "Sun TV Network Limited",
         "slug": "sun-tv-network-limited",
-        "score": 8.2
+        "score": 8.1
       },
       "worst_company": {
         "name": "Zee Entertainment Enterprises Limited",
         "slug": "zee-entertainment-enterprises-limited",
-        "score": 8.1
+        "score": 8.0
       },
       "avg_breakdown": {
         "climate_cr": 16.74,
@@ -560,7 +560,7 @@
       "best_company": {
         "name": "GUJARAT GAS LIMITED",
         "slug": "gujarat-gas-limited",
-        "score": 5.6
+        "score": 5.5
       },
       "worst_company": {
         "name": "RELIANCE POWER LIMITED",
@@ -578,14 +578,14 @@
     {
       "sector": "Pharmaceuticals & Healthcare",
       "company_count": 56,
-      "avg_nii_score": 6.0,
+      "avg_nii_score": 5.9,
       "avg_taesc_cr": 692.22,
       "avg_nir": 0.0762,
       "median_nir": 0.0505,
       "best_company": {
         "name": "Krishna Institute of Medical Sciences Limited",
         "slug": "krishna-institute-of-medical-sciences-limited",
-        "score": 8.0
+        "score": 7.9
       },
       "worst_company": {
         "name": "Ipca Laboratories Limited",
@@ -603,19 +603,19 @@
     {
       "sector": "R&D Services",
       "company_count": 1,
-      "avg_nii_score": 2.7,
+      "avg_nii_score": 2.6,
       "avg_taesc_cr": 15.29,
       "avg_nir": 0.1456,
       "median_nir": 0.1456,
       "best_company": {
         "name": "Sun Pharma Advanced Research Company Limited",
         "slug": "sun-pharma-advanced-research-company-limited",
-        "score": 2.7
+        "score": 2.6
       },
       "worst_company": {
         "name": "Sun Pharma Advanced Research Company Limited",
         "slug": "sun-pharma-advanced-research-company-limited",
-        "score": 2.7
+        "score": 2.6
       },
       "avg_breakdown": {
         "climate_cr": 2.62,
@@ -653,18 +653,18 @@
     {
       "sector": "Telecom & Communication",
       "company_count": 8,
-      "avg_nii_score": 5.2,
+      "avg_nii_score": 5.1,
       "avg_taesc_cr": 2269.85,
       "avg_nir": 0.1155,
       "median_nir": 0.0587,
       "best_company": {
         "name": "Tejas Networks Limited",
         "slug": "tejas-networks-limited",
-        "score": 8.0
+        "score": 7.9
       },
       "worst_company": {
-        "name": "Railtel Corporation of India Limited",
-        "slug": "railtel-corporation-of-india-limited",
+        "name": "Indus Towers Limited",
+        "slug": "indus-towers-limited",
         "score": 1.5
       },
       "avg_breakdown": {
@@ -678,14 +678,14 @@
     {
       "sector": "Textiles & Apparel",
       "company_count": 10,
-      "avg_nii_score": 3.6,
+      "avg_nii_score": 3.5,
       "avg_taesc_cr": 1222.22,
       "avg_nir": 0.1349,
       "median_nir": 0.121,
       "best_company": {
         "name": "TRIDENT LIMITED",
         "slug": "trident-limited",
-        "score": 6.3
+        "score": 6.2
       },
       "worst_company": {
         "name": "Welspun Corp Limited",
@@ -703,7 +703,7 @@
     {
       "sector": "Transportation & Logistics",
       "company_count": 18,
-      "avg_nii_score": 3.9,
+      "avg_nii_score": 3.8,
       "avg_taesc_cr": 3033.3,
       "avg_nir": 0.1568,
       "median_nir": 0.1202,

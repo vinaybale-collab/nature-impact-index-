@@ -4,11 +4,11 @@
   "sector": "Pharmaceuticals & Healthcare",
   "state": "Tamil Nadu",
   "revenue_cr": 54842.42,
-  "nii_score": 8.0,
-  "nii_rank": 103,
+  "nii_score": 7.9,
+  "nii_rank": 108,
   "nii_sector_rank": 1,
-  "nii_rating": "Excellent",
-  "nii_percentile": 80,
+  "nii_rating": "Good",
+  "nii_percentile": 79,
   "taesc_cr": 1164.9,
   "nir": 0.0212,
   "nir_pct": 2.12,
@@ -53,8 +53,8 @@
     "renewable_energy_gj": 249536.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.5,
-    "sector_best_score": 8.0,
+    "sector_median_score": 6.4,
+    "sector_best_score": 7.9,
     "sector_median_taesc": 351.59,
     "sector_best_taesc": 49.58
   },

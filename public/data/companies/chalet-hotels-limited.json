@@ -4,11 +4,11 @@
   "sector": "Chemicals & Fertilizers",
   "state": "Telangana",
   "revenue_cr": 2612.05,
-  "nii_score": 3.7,
-  "nii_rank": 329,
+  "nii_score": 3.6,
+  "nii_rank": 334,
   "nii_sector_rank": 99,
   "nii_rating": "Poor",
-  "nii_percentile": 37,
+  "nii_percentile": 36,
   "taesc_cr": 281.29,
   "nir": 0.1077,
   "nir_pct": 10.77,
@@ -54,7 +54,7 @@
   },
   "peer_comparison": {
     "sector_median_score": 4.6,
-    "sector_best_score": 7.6,
+    "sector_best_score": 7.5,
     "sector_median_taesc": 370.56,
     "sector_best_taesc": 8.45
   },

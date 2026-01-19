@@ -4,11 +4,11 @@
   "sector": "Manufacturing - Consumer Electronics",
   "state": "Karnataka",
   "revenue_cr": 5308.87,
-  "nii_score": 7.9,
-  "nii_rank": 108,
+  "nii_score": 7.8,
+  "nii_rank": 113,
   "nii_sector_rank": 2,
   "nii_rating": "Good",
-  "nii_percentile": 79,
+  "nii_percentile": 78,
   "taesc_cr": 136.15,
   "nir": 0.0256,
   "nir_pct": 2.56,
@@ -54,7 +54,7 @@
   },
   "peer_comparison": {
     "sector_median_score": 5.8,
-    "sector_best_score": 8.0,
+    "sector_best_score": 7.9,
     "sector_median_taesc": 324.52,
     "sector_best_taesc": 127.05
   },

@@ -4,11 +4,11 @@
   "sector": "Chemicals & Fertilizers",
   "state": "Karnataka",
   "revenue_cr": 3466.3,
-  "nii_score": 7.0,
-  "nii_rank": 155,
+  "nii_score": 6.9,
+  "nii_rank": 161,
   "nii_sector_rank": 14,
   "nii_rating": "Good",
-  "nii_percentile": 70,
+  "nii_percentile": 69,
   "taesc_cr": 152.01,
   "nir": 0.0439,
   "nir_pct": 4.39,
@@ -54,7 +54,7 @@
   },
   "peer_comparison": {
     "sector_median_score": 4.6,
-    "sector_best_score": 7.6,
+    "sector_best_score": 7.5,
     "sector_median_taesc": 370.56,
     "sector_best_taesc": 8.45
   },

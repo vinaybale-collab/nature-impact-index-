@@ -6,7 +6,7 @@
   "revenue_cr": 575.94,
   "nii_score": 7.1,
   "nii_rank": 150,
-  "nii_sector_rank": 12,
+  "nii_sector_rank": 10,
   "nii_rating": "Good",
   "nii_percentile": 71,
   "taesc_cr": 24.3,
@@ -54,7 +54,7 @@
   },
   "peer_comparison": {
     "sector_median_score": 4.6,
-    "sector_best_score": 7.6,
+    "sector_best_score": 7.5,
     "sector_median_taesc": 370.56,
     "sector_best_taesc": 8.45
   },

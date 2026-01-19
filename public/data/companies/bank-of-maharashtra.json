@@ -9,39 +9,39 @@
   "nii_sector_rank": 3,
   "nii_rating": "Excellent",
   "nii_percentile": 99,
-  "taesc_cr": 125.63,
-  "nir": 0.0005,
-  "nir_pct": 0.05,
+  "taesc_cr": 88.49,
+  "nir": 0.0004,
+  "nir_pct": 0.04,
   "breakdown": {
     "climate": {
-      "value_cr": 72.42,
-      "pct": 57.6
+      "value_cr": 35.27,
+      "pct": 39.9
     },
     "water": {
       "value_cr": 7.85,
-      "pct": 6.2
+      "pct": 8.9
     },
     "land": {
       "value_cr": 3.0,
-      "pct": 2.4
+      "pct": 3.4
     },
     "biodiversity": {
       "value_cr": 34.89,
-      "pct": 27.8
+      "pct": 39.4
     },
     "pollution": {
       "value_cr": 1.97,
-      "pct": 1.6
+      "pct": 2.2
     },
     "energy_depletion": {
       "value_cr": 5.52,
-      "pct": 4.4
+      "pct": 6.2
     }
   },
   "raw_data": {
     "scope1_ghg_tco2e": 804.0,
     "scope2_ghg_tco2e": 31925.0,
-    "scope3_ghg_tco2e": 105608.0,
+    "scope3_ghg_tco2e": 18200.0,
     "water_consumption_kl": 173998.0,
     "water_stress_score": 4.46,
     "total_land_ha": 100.0,
@@ -55,8 +55,8 @@
   "peer_comparison": {
     "sector_median_score": 9.3,
     "sector_best_score": 10.0,
-    "sector_median_taesc": 24.88,
-    "sector_best_taesc": 0.56
+    "sector_median_taesc": 25.14,
+    "sector_best_taesc": 0.27
   },
   "data_quality": {
     "tier": "Tier 2",

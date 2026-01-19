@@ -4,11 +4,11 @@
   "sector": "Manufacturing - Engineering",
   "state": "Unknown",
   "revenue_cr": 8076.29,
-  "nii_score": 7.6,
-  "nii_rank": 124,
+  "nii_score": 7.5,
+  "nii_rank": 129,
   "nii_sector_rank": 1,
   "nii_rating": "Good",
-  "nii_percentile": 76,
+  "nii_percentile": 75,
   "taesc_cr": 289.56,
   "nir": 0.0359,
   "nir_pct": 3.59,
@@ -54,7 +54,7 @@
   },
   "peer_comparison": {
     "sector_median_score": 4.4,
-    "sector_best_score": 7.6,
+    "sector_best_score": 7.5,
     "sector_median_taesc": 994.84,
     "sector_best_taesc": 31.34
   },

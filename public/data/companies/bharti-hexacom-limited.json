@@ -53,8 +53,8 @@
     "renewable_energy_gj": 12500.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.0,
-    "sector_best_score": 8.0,
+    "sector_median_score": 5.9,
+    "sector_best_score": 7.9,
     "sector_median_taesc": 738.83,
     "sector_best_taesc": 49.54
   },

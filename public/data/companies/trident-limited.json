@@ -4,11 +4,11 @@
   "sector": "Textiles & Apparel",
   "state": "Telangana",
   "revenue_cr": 69658.9,
-  "nii_score": 6.3,
-  "nii_rank": 192,
+  "nii_score": 6.2,
+  "nii_rank": 197,
   "nii_sector_rank": 1,
   "nii_rating": "Good",
-  "nii_percentile": 63,
+  "nii_percentile": 62,
   "taesc_cr": 3742.32,
   "nir": 0.0537,
   "nir_pct": 5.37,
@@ -54,7 +54,7 @@
   },
   "peer_comparison": {
     "sector_median_score": 3.4,
-    "sector_best_score": 6.3,
+    "sector_best_score": 6.2,
     "sector_median_taesc": 923.06,
     "sector_best_taesc": 137.03
   },

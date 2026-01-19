@@ -4,11 +4,11 @@
   "sector": "Pharmaceuticals & Healthcare",
   "state": "Delhi",
   "revenue_cr": 12222.05,
-  "nii_score": 8.0,
-  "nii_rank": 103,
+  "nii_score": 7.9,
+  "nii_rank": 108,
   "nii_sector_rank": 1,
-  "nii_rating": "Excellent",
-  "nii_percentile": 80,
+  "nii_rating": "Good",
+  "nii_percentile": 79,
   "taesc_cr": 270.0,
   "nir": 0.0221,
   "nir_pct": 2.21,
@@ -53,8 +53,8 @@
     "renewable_energy_gj": 32660.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.5,
-    "sector_best_score": 8.0,
+    "sector_median_score": 6.4,
+    "sector_best_score": 7.9,
     "sector_median_taesc": 351.59,
     "sector_best_taesc": 49.58
   },

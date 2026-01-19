@@ -4,11 +4,11 @@
   "sector": "Pharmaceuticals & Healthcare",
   "state": "Karnataka",
   "revenue_cr": 4435.61,
-  "nii_score": 6.4,
-  "nii_rank": 187,
-  "nii_sector_rank": 30,
+  "nii_score": 6.3,
+  "nii_rank": 192,
+  "nii_sector_rank": 31,
   "nii_rating": "Good",
-  "nii_percentile": 64,
+  "nii_percentile": 63,
   "taesc_cr": 234.09,
   "nir": 0.0528,
   "nir_pct": 5.28,
@@ -53,8 +53,8 @@
     "renewable_energy_gj": 21280.0
   },
   "peer_comparison": {
-    "sector_median_score": 6.5,
-    "sector_best_score": 8.0,
+    "sector_median_score": 6.4,
+    "sector_best_score": 7.9,
     "sector_median_taesc": 351.59,
     "sector_best_taesc": 49.58
   },

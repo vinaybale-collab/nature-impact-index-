@@ -4,11 +4,11 @@
   "sector": "Oil & Gas",
   "state": "Maharashtra",
   "revenue_cr": 5072.71,
-  "nii_score": 4.4,
-  "nii_rank": 292,
+  "nii_score": 4.3,
+  "nii_rank": 297,
   "nii_sector_rank": 2,
   "nii_rating": "Average",
-  "nii_percentile": 44,
+  "nii_percentile": 43,
   "taesc_cr": 457.86,
   "nir": 0.0903,
   "nir_pct": 9.03,
@@ -54,7 +54,7 @@
   },
   "peer_comparison": {
     "sector_median_score": 1.6,
-    "sector_best_score": 5.6,
+    "sector_best_score": 5.5,
     "sector_median_taesc": 8041.4,
     "sector_best_taesc": 270.42
   },

@@ -4,11 +4,11 @@
   "sector": "Textiles & Apparel",
   "state": "Maharashtra",
   "revenue_cr": 8772.26,
-  "nii_score": 2.8,
-  "nii_rank": 376,
+  "nii_score": 2.7,
+  "nii_rank": 381,
   "nii_sector_rank": 8,
   "nii_rating": "Poor",
-  "nii_percentile": 28,
+  "nii_percentile": 27,
   "taesc_cr": 1265.69,
   "nir": 0.1443,
   "nir_pct": 14.43,
@@ -54,7 +54,7 @@
   },
   "peer_comparison": {
     "sector_median_score": 3.4,
-    "sector_best_score": 6.3,
+    "sector_best_score": 6.2,
     "sector_median_taesc": 923.06,
     "sector_best_taesc": 137.03
   },

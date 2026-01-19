@@ -4,11 +4,11 @@
   "sector": "Manufacturing - Automobiles",
   "state": "West Bengal",
   "revenue_cr": 45276.0,
-  "nii_score": 7.1,
-  "nii_rank": 150,
+  "nii_score": 7.0,
+  "nii_rank": 155,
   "nii_sector_rank": 1,
   "nii_rating": "Good",
-  "nii_percentile": 71,
+  "nii_percentile": 70,
   "taesc_cr": 1938.58,
   "nir": 0.0428,
   "nir_pct": 4.28,
@@ -53,8 +53,8 @@
     "renewable_energy_gj": 677040.0
   },
   "peer_comparison": {
-    "sector_median_score": 3.4,
-    "sector_best_score": 7.1,
+    "sector_median_score": 3.3,
+    "sector_best_score": 7.0,
     "sector_median_taesc": 1938.58,
     "sector_best_taesc": 79.81
   },

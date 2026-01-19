@@ -4,11 +4,11 @@
   "sector": "Chemicals & Fertilizers",
   "state": "Maharashtra",
   "revenue_cr": 6734.93,
-  "nii_score": 5.3,
-  "nii_rank": 245,
+  "nii_score": 5.2,
+  "nii_rank": 250,
   "nii_sector_rank": 57,
   "nii_rating": "Average",
-  "nii_percentile": 53,
+  "nii_percentile": 52,
   "taesc_cr": 483.0,
   "nir": 0.0717,
   "nir_pct": 7.17,
@@ -54,7 +54,7 @@
   },
   "peer_comparison": {
     "sector_median_score": 4.6,
-    "sector_best_score": 7.6,
+    "sector_best_score": 7.5,
     "sector_median_taesc": 370.56,
     "sector_best_taesc": 8.45
   },

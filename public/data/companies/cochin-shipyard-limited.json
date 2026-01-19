@@ -4,11 +4,11 @@
   "sector": "Transportation & Logistics",
   "state": "Tamil Nadu",
   "revenue_cr": 4527.84,
-  "nii_score": 6.9,
-  "nii_rank": 161,
+  "nii_score": 6.8,
+  "nii_rank": 166,
   "nii_sector_rank": 3,
   "nii_rating": "Good",
-  "nii_percentile": 69,
+  "nii_percentile": 68,
   "taesc_cr": 203.39,
   "nir": 0.0449,
   "nir_pct": 4.49,
@@ -53,7 +53,7 @@
     "renewable_energy_gj": 51000.0
   },
   "peer_comparison": {
-    "sector_median_score": 3.4,
+    "sector_median_score": 3.3,
     "sector_best_score": 7.3,
     "sector_median_taesc": 645.28,
     "sector_best_taesc": 128.11
