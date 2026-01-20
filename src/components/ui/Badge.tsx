@@ -31,7 +31,7 @@ export function ConfidenceBadge({ confidence, className = '' }: ConfidenceBadgeP
       case 'LOW':
         return 'bg-score-poor/20 text-score-poor border-score-poor/30';
       default:
-        return 'bg-gray-500/20 text-gray-400 border-gray-500/30';
+        return 'bg-gray-500/20 text-gray-500 border-gray-500/30';
     }
   };
 

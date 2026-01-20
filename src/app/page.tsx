@@ -147,10 +147,11 @@ export default function HomePage() {
     <div className="min-h-screen bg-white">
       <Header />
 
-      {/* ═══════════════════════════════════════════════════════════════════
-          ACT 1: HERO SECTION (Asymmetric Layout)
-          LEFT: Message | RIGHT: Image + CTAs
-          ═══════════════════════════════════════════════════════════════════ */}
+      <main>
+        {/* ═══════════════════════════════════════════════════════════════════
+            ACT 1: HERO SECTION (Asymmetric Layout)
+            LEFT: Message | RIGHT: Image + CTAs
+            ═══════════════════════════════════════════════════════════════════ */}
       <section className="relative pt-20 pb-20 px-4 lg:px-6 min-h-[90vh] flex items-center">
         <div className="max-w-[1800px] mx-auto w-full">
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-center">
@@ -212,10 +213,13 @@ export default function HomePage() {
                     src={src}
                     alt="Nature and ecosystems"
                     fill
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 60vw, 50vw"
                     className={`object-cover transition-opacity duration-1000 ${
                       index === currentImageIndex ? 'opacity-100' : 'opacity-0'
                     }`}
                     priority={index === 0}
+                    loading={index === 0 ? 'eager' : 'lazy'}
+                    quality={85}
                   />
                 ))}
                 {/* Gradient overlay for text readability */}
@@ -462,7 +466,7 @@ export default function HomePage() {
                     className="mb-4"
                   />
                 ) : (
-                  <div className="h-96 flex items-center justify-center text-gray-400">
+                  <div className="h-96 flex items-center justify-center text-gray-500">
                     Loading sectors...
                   </div>
                 )}
@@ -600,6 +604,7 @@ export default function HomePage() {
           </Link>
         </div>
       </section>
+      </main>
 
       <Footer />
     </div>

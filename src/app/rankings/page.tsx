@@ -251,7 +251,7 @@ export default function RankingsPage() {
                   </option>
                 ))}
               </select>
-              <ChevronDown className="absolute right-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400 pointer-events-none" />
+              <ChevronDown className="absolute right-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-500 pointer-events-none" />
             </div>
 
             {/* Sort */}
@@ -265,7 +265,7 @@ export default function RankingsPage() {
                 <option value="score">By Score</option>
                 <option value="taesc">By Impact (Rs Cr)</option>
               </select>
-              <ArrowUpDown className="absolute right-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400 pointer-events-none" />
+              <ArrowUpDown className="absolute right-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-500 pointer-events-none" />
             </div>
           </div>
 
@@ -292,7 +292,7 @@ export default function RankingsPage() {
                           <span>NII Score</span>
                           <button
                             onClick={() => setShowNiiTooltip(!showNiiTooltip)}
-                            className="text-gray-400 hover:text-gray-600"
+                            className="text-gray-500 hover:text-gray-600"
                           >
                             <HelpCircle size={14} />
                           </button>
@@ -311,7 +311,7 @@ export default function RankingsPage() {
                           <span>TAESC (Rs Cr)</span>
                           <button
                             onClick={() => setShowTaescTooltip(!showTaescTooltip)}
-                            className="text-gray-400 hover:text-gray-600"
+                            className="text-gray-500 hover:text-gray-600"
                           >
                             <HelpCircle size={14} />
                           </button>
@@ -330,7 +330,7 @@ export default function RankingsPage() {
                         <span>NIR</span>
                         <button
                           onClick={() => setShowNirTooltip(!showNirTooltip)}
-                          className="text-gray-400 hover:text-gray-600"
+                          className="text-gray-500 hover:text-gray-600"
                         >
                           <HelpCircle size={14} />
                         </button>

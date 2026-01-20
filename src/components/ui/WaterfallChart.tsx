@@ -470,7 +470,7 @@ export function WaterfallChartDetailed({
                 <div className="flex justify-between items-center">
                   <span className="text-base font-semibold text-gray-900 truncate">
                     {dim.name}
-                    <span className="ml-2 text-xs text-gray-400">
+                    <span className="ml-2 text-xs text-gray-500">
                       {isExpanded ? '▼' : '▶'}
                     </span>
                   </span>

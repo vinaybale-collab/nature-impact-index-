@@ -231,7 +231,7 @@ export default function CompanyClient({ company }: Props) {
                     <p className="text-sm text-gray-500 uppercase tracking-wider mb-2 font-medium">Overall Rank</p>
                     <p className="text-3xl lg:text-4xl font-bold text-gray-900">
                       #{company.nii_rank}
-                      <span className="text-base font-normal text-gray-400 ml-2">
+                      <span className="text-base font-normal text-gray-500 ml-2">
                         of {company.nii_total_companies || 516}
                       </span>
                     </p>
@@ -240,7 +240,7 @@ export default function CompanyClient({ company }: Props) {
                     <p className="text-sm text-gray-500 uppercase tracking-wider mb-2 font-medium">Sector Rank</p>
                     <p className="text-3xl lg:text-4xl font-bold text-gray-900">
                       #{company.nii_sector_rank}
-                      <span className="text-base font-normal text-gray-400 ml-2">
+                      <span className="text-base font-normal text-gray-500 ml-2">
                         of {company.nii_sector_total || '?'}
                       </span>
                     </p>
@@ -578,14 +578,14 @@ export default function CompanyClient({ company }: Props) {
                       <td className="px-5 py-3 text-gray-500 text-sm">
                         <SourceTooltip coefficient="scc">tCO2e x Rs 8,500 (100% responsibility)</SourceTooltip>
                       </td>
-                      <td className="px-5 py-3 text-center text-gray-400">-</td>
+                      <td className="px-5 py-3 text-center text-gray-500">-</td>
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-5 py-3 pl-10 text-gray-600">Scope 2 (Purchased energy)</td>
                       <td className="px-5 py-3 text-right font-mono">{company.raw_data.scope2_ghg_tco2e?.toLocaleString() || 0} tCO2e</td>
                       <td className="px-5 py-3 text-right font-mono font-medium">{company.breakdown.climate?.sub_components?.scope2_net_cr?.toLocaleString() || 0}</td>
                       <td className="px-5 py-3 text-gray-500 text-sm">Net after RE credit offset</td>
-                      <td className="px-5 py-3 text-center text-gray-400">-</td>
+                      <td className="px-5 py-3 text-center text-gray-500">-</td>
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-5 py-3 pl-10 text-gray-600">Scope 3 (Value chain)</td>
@@ -594,14 +594,14 @@ export default function CompanyClient({ company }: Props) {
                       <td className="px-5 py-3 text-gray-500 text-sm">
                         <SourceTooltip coefficient="scc">tCO2e x Rs 8,500 x 50% (indirect)</SourceTooltip>
                       </td>
-                      <td className="px-5 py-3 text-center text-gray-400">-</td>
+                      <td className="px-5 py-3 text-center text-gray-500">-</td>
                     </tr>
                     <tr className="hover:bg-gray-50 bg-emerald-50/30">
                       <td className="px-5 py-3 pl-10 text-emerald-600">RE Credit (Offset)</td>
                       <td className="px-5 py-3 text-right font-mono text-emerald-600">{company.raw_data.renewable_energy_pct?.toFixed(1) || 0}% RE share</td>
                       <td className="px-5 py-3 text-right font-mono font-medium text-emerald-600">-{company.breakdown.climate?.sub_components?.re_credit_cr?.toLocaleString() || 0}</td>
                       <td className="px-5 py-3 text-emerald-600 text-sm">Avoided grid emissions credit</td>
-                      <td className="px-5 py-3 text-center text-gray-400">-</td>
+                      <td className="px-5 py-3 text-center text-gray-500">-</td>
                     </tr>
 
                     {/* WATER */}
@@ -624,14 +624,14 @@ export default function CompanyClient({ company }: Props) {
                       <td className="px-5 py-3 text-right font-mono">{company.raw_data.water_consumption_kl?.toLocaleString() || 0} KL</td>
                       <td className="px-5 py-3 text-right font-mono font-medium">{company.breakdown.water?.sub_components?.consumption_cost_cr?.toLocaleString() || 0}</td>
                       <td className="px-5 py-3 text-gray-500 text-sm">KL x stress-adjusted price</td>
-                      <td className="px-5 py-3 text-center text-gray-400">-</td>
+                      <td className="px-5 py-3 text-center text-gray-500">-</td>
                     </tr>
                     <tr className="hover:bg-gray-50 bg-emerald-50/30">
                       <td className="px-5 py-3 pl-10 text-emerald-600">Recycling Credit</td>
                       <td className="px-5 py-3 text-right font-mono text-emerald-600">{company.raw_data.water_stress_score?.toFixed(2) || 'N/A'} stress score</td>
                       <td className="px-5 py-3 text-right font-mono font-medium text-emerald-600">-{company.breakdown.water?.sub_components?.recycling_credit_cr?.toLocaleString() || 0}</td>
                       <td className="px-5 py-3 text-emerald-600 text-sm">50% credit on recycled water</td>
-                      <td className="px-5 py-3 text-center text-gray-400">-</td>
+                      <td className="px-5 py-3 text-center text-gray-500">-</td>
                     </tr>
 
                     {/* LAND */}
@@ -656,7 +656,7 @@ export default function CompanyClient({ company }: Props) {
                       <td className="px-5 py-3 text-gray-500 text-sm">
                         <SourceTooltip coefficient="land_footprint">ha x Rs 4L/ha x sector multiplier</SourceTooltip>
                       </td>
-                      <td className="px-5 py-3 text-center text-gray-400">-</td>
+                      <td className="px-5 py-3 text-center text-gray-500">-</td>
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-5 py-3 pl-10 text-gray-600">Land Degradation</td>
@@ -665,14 +665,14 @@ export default function CompanyClient({ company }: Props) {
                       <td className="px-5 py-3 text-gray-500 text-sm">
                         <SourceTooltip coefficient="land_degradation">Degraded ha x Rs 8L/ha</SourceTooltip>
                       </td>
-                      <td className="px-5 py-3 text-center text-gray-400">-</td>
+                      <td className="px-5 py-3 text-center text-gray-500">-</td>
                     </tr>
                     <tr className="hover:bg-gray-50 bg-emerald-50/30">
                       <td className="px-5 py-3 pl-10 text-emerald-600">Restoration Credit</td>
                       <td className="px-5 py-3 text-right font-mono text-emerald-600">-</td>
                       <td className="px-5 py-3 text-right font-mono font-medium text-emerald-600">-{company.breakdown.land?.sub_components?.restoration_credit_cr?.toLocaleString() || 0}</td>
                       <td className="px-5 py-3 text-emerald-600 text-sm">Restored ha x Rs 4L/ha credit</td>
-                      <td className="px-5 py-3 text-center text-gray-400">-</td>
+                      <td className="px-5 py-3 text-center text-gray-500">-</td>
                     </tr>
 
                     {/* BIODIVERSITY */}
@@ -695,14 +695,14 @@ export default function CompanyClient({ company }: Props) {
                       <td className="px-5 py-3 text-right font-mono">{company.raw_data.base_msa_loss?.toFixed(4) || 'N/A'} MSA</td>
                       <td className="px-5 py-3 text-right font-mono font-medium">{company.breakdown.biodiversity?.sub_components?.direct_msa_cost_cr?.toLocaleString() || 0}</td>
                       <td className="px-5 py-3 text-gray-500 text-sm">MSA x Revenue x PA proximity multiplier</td>
-                      <td className="px-5 py-3 text-center text-gray-400">-</td>
+                      <td className="px-5 py-3 text-center text-gray-500">-</td>
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-5 py-3 pl-10 text-gray-600">Supply Chain Biodiversity</td>
                       <td className="px-5 py-3 text-right font-mono">{company.raw_data.pa_proximity_score?.toFixed(4) || 'N/A'} PA score</td>
                       <td className="px-5 py-3 text-right font-mono font-medium">{company.breakdown.biodiversity?.sub_components?.scope3_bio_cost_cr?.toLocaleString() || 0}</td>
                       <td className="px-5 py-3 text-gray-500 text-sm">EXIOBASE Scope 3 x 50% (indirect)</td>
-                      <td className="px-5 py-3 text-center text-gray-400">-</td>
+                      <td className="px-5 py-3 text-center text-gray-500">-</td>
                     </tr>
 
                     {/* POLLUTION */}
@@ -725,35 +725,35 @@ export default function CompanyClient({ company }: Props) {
                       <td className="px-5 py-3 text-right font-mono">{company.raw_data.waste_generated_mt?.toLocaleString() || 0} MT</td>
                       <td className="px-5 py-3 text-right font-mono font-medium">{company.breakdown.pollution?.sub_components?.waste_cost_cr?.toLocaleString() || 0}</td>
                       <td className="px-5 py-3 text-gray-500 text-sm">MT x Rs 20K/MT</td>
-                      <td className="px-5 py-3 text-center text-gray-400">-</td>
+                      <td className="px-5 py-3 text-center text-gray-500">-</td>
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-5 py-3 pl-10 text-gray-600">Plastic Waste</td>
                       <td className="px-5 py-3 text-right font-mono">-</td>
                       <td className="px-5 py-3 text-right font-mono font-medium">{company.breakdown.pollution?.sub_components?.plastic_cost_cr?.toLocaleString() || 0}</td>
                       <td className="px-5 py-3 text-gray-500 text-sm">MT x Rs 80K/MT (OECD microplastics)</td>
-                      <td className="px-5 py-3 text-center text-gray-400">-</td>
+                      <td className="px-5 py-3 text-center text-gray-500">-</td>
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-5 py-3 pl-10 text-gray-600">E-Waste</td>
                       <td className="px-5 py-3 text-right font-mono">-</td>
                       <td className="px-5 py-3 text-right font-mono font-medium">{company.breakdown.pollution?.sub_components?.ewaste_cost_cr?.toLocaleString() || 0}</td>
                       <td className="px-5 py-3 text-gray-500 text-sm">MT x Rs 150K/MT (heavy metal toxicity)</td>
-                      <td className="px-5 py-3 text-center text-gray-400">-</td>
+                      <td className="px-5 py-3 text-center text-gray-500">-</td>
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-5 py-3 pl-10 text-gray-600">Hazardous Air Pollutants</td>
                       <td className="px-5 py-3 text-right font-mono">-</td>
                       <td className="px-5 py-3 text-right font-mono font-medium">{company.breakdown.pollution?.sub_components?.hap_cost_cr?.toLocaleString() || 0}</td>
                       <td className="px-5 py-3 text-gray-500 text-sm">kg x Rs 3K/kg (WHO health cost)</td>
-                      <td className="px-5 py-3 text-center text-gray-400">-</td>
+                      <td className="px-5 py-3 text-center text-gray-500">-</td>
                     </tr>
                     <tr className="hover:bg-gray-50 bg-emerald-50/30">
                       <td className="px-5 py-3 pl-10 text-emerald-600">Recycling Credit</td>
                       <td className="px-5 py-3 text-right font-mono text-emerald-600">-</td>
                       <td className="px-5 py-3 text-right font-mono font-medium text-emerald-600">-{company.breakdown.pollution?.sub_components?.recycling_credit_cr?.toLocaleString() || 0}</td>
                       <td className="px-5 py-3 text-emerald-600 text-sm">Recycled MT x Rs 10K/MT credit</td>
-                      <td className="px-5 py-3 text-center text-gray-400">-</td>
+                      <td className="px-5 py-3 text-center text-gray-500">-</td>
                     </tr>
 
                     {/* ENERGY DEPLETION */}
@@ -776,7 +776,7 @@ export default function CompanyClient({ company }: Props) {
                           <td className="px-5 py-3 text-right font-mono">{((company.raw_data.total_energy_gj || 0) - (company.raw_data.renewable_energy_gj || 0)).toLocaleString()} GJ</td>
                           <td className="px-5 py-3 text-right font-mono font-medium">{company.breakdown.energy_depletion?.sub_components?.non_renewable_cost_cr?.toLocaleString() || 0}</td>
                           <td className="px-5 py-3 text-gray-500 text-sm">GJ x Rs 300/GJ (extraction + scarcity)</td>
-                          <td className="px-5 py-3 text-center text-gray-400">-</td>
+                          <td className="px-5 py-3 text-center text-gray-500">-</td>
                         </tr>
                       </>
                     )}
