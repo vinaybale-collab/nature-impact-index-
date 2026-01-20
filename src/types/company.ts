@@ -7,6 +7,23 @@ export type ViewMode = 'nii' | 'nc';
 export interface DimensionBreakdown {
   value_cr: number;
   pct: number;
+  sub_components?: {
+    scope1_cost_cr?: number;
+    scope2_cost_cr?: number;
+    scope3_cost_cr?: number;
+    re_credit_cr?: number;
+    consumption_cost_cr?: number;
+    recycling_credit_cr?: number;
+    footprint_cost_cr?: number;
+    degradation_credit_cr?: number;
+    habitat_cost_cr?: number;
+    pa_proximity_cost_cr?: number;
+    msa_loss_cost_cr?: number;
+    air_cost_cr?: number;
+    waste_cost_cr?: number;
+    hazardous_cost_cr?: number;
+    depletion_cost_cr?: number;
+  };
 }
 
 export interface CompanyBreakdown {
