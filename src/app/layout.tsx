@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'India Nature Impact Index',
     description: 'Transparent environmental performance rankings for Indian companies',
-    url: 'https://nii.urvara.life',
+    url: 'https://natureimpactindex.urvara.life',
     siteName: 'India Nature Impact Index',
     locale: 'en_IN',
     type: 'website',
