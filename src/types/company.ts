@@ -8,20 +8,28 @@ export interface DimensionBreakdown {
   value_cr: number;
   pct: number;
   sub_components?: {
+    // Climate
     scope1_cost_cr?: number;
     scope2_cost_cr?: number;
     scope3_cost_cr?: number;
     re_credit_cr?: number;
+    // Water
     consumption_cost_cr?: number;
     recycling_credit_cr?: number;
+    // Land
     footprint_cost_cr?: number;
-    degradation_credit_cr?: number;
+    degradation_cost_cr?: number;
+    restoration_credit_cr?: number;
+    // Biodiversity
+    direct_msa_cost_cr?: number;
     habitat_cost_cr?: number;
     pa_proximity_cost_cr?: number;
     msa_loss_cost_cr?: number;
+    // Pollution
     air_cost_cr?: number;
     waste_cost_cr?: number;
     hazardous_cost_cr?: number;
+    // Energy
     depletion_cost_cr?: number;
   };
 }
