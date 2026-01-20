@@ -7,6 +7,8 @@
   "nii_score": 3.6,
   "nii_rank": 334,
   "nii_sector_rank": 3,
+  "nii_sector_total": 16,
+  "nii_total_companies": 525,
   "nii_rating": "Poor",
   "nii_percentile": 36,
   "taesc_cr": 656.56,
@@ -15,27 +17,58 @@
   "breakdown": {
     "climate": {
       "value_cr": 79.48,
-      "pct": 12.1
+      "pct": 12.1,
+      "sub_components": {
+        "scope1_cost_cr": 10.56,
+        "scope2_cost_cr": 25.06,
+        "scope2_net_cr": 16.22,
+        "scope3_cost_cr": 52.7,
+        "re_credit_cr": 8.84
+      }
     },
     "water": {
       "value_cr": 13.41,
-      "pct": 2.0
+      "pct": 2.0,
+      "sub_components": {
+        "consumption_cost_cr": 14.43,
+        "recycling_credit_cr": 1.02
+      }
     },
     "land": {
       "value_cr": 20.88,
-      "pct": 3.2
+      "pct": 3.2,
+      "sub_components": {
+        "footprint_cost_cr": 10.24,
+        "degradation_cost_cr": 10.64,
+        "restoration_credit_cr": 0.0
+      }
     },
     "biodiversity": {
       "value_cr": 515.56,
-      "pct": 78.5
+      "pct": 78.5,
+      "sub_components": {
+        "direct_msa_cost_cr": 469.1,
+        "scope3_bio_cost_cr": 46.46
+      }
     },
     "pollution": {
       "value_cr": 3.26,
-      "pct": 0.5
+      "pct": 0.5,
+      "sub_components": {
+        "waste_cost_cr": 3.95,
+        "overburden_cost_cr": 0.0,
+        "plastic_cost_cr": 1.16,
+        "ewaste_cost_cr": 0.02,
+        "hap_cost_cr": 0.0,
+        "recycling_credit_cr": 1.88
+      }
     },
     "energy_depletion": {
       "value_cr": 23.98,
-      "pct": 3.7
+      "pct": 3.7,
+      "sub_components": {
+        "non_renewable_cost_cr": 23.98
+      }
     }
   },
   "raw_data": {
@@ -57,6 +90,12 @@
     "sector_best_score": 5.5,
     "sector_median_taesc": 8041.4,
     "sector_best_taesc": 270.42
+  },
+  "restoration_estimate": {
+    "acres_needed": 36475,
+    "hectares_equiv": 14761,
+    "theta_per_acre_lakh": 1.8,
+    "methodology": "Based on incremental ecosystem service value of Rs 1.8 lakh per acre per year from restoration"
   },
   "data_quality": {
     "tier": "Tier 2",

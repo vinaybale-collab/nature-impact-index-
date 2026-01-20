@@ -1,0 +1,148 @@
+Company_Name,Field,Old_Value,New_Value,Source,Timestamp
+Vedanta,Water_Consumption_Normalized,,5969.700010033109,Calculated: Water_KL / Revenue_Cr,2026-01-17T18:45:45.699082
+Vedanta,Waste_Generated_Normalized,,548.9965887428514,Calculated: Waste_MT / Revenue_Cr,2026-01-17T18:45:45.700084
+Vedanta,Water_Intensity,,5969.700010033109,Calculated: Water_KL / Revenue_Cr,2026-01-17T18:45:45.700084
+Bajaj Finance Limited,Land_Intensity,,0.0,Calculated: (Land_Owned + Land_Leased) / Revenue_Cr,2026-01-17T18:45:45.701089
+Bajaj Finserv Limited,Land_Intensity,,0.0001345069111145452,Calculated: (Land_Owned + Land_Leased) / Revenue_Cr,2026-01-17T18:45:45.702087
+Can Fin Homes Limited,Land_Intensity,,0.0,Calculated: (Land_Owned + Land_Leased) / Revenue_Cr,2026-01-17T18:45:45.702087
+Cholamandalam Financial Holdings Limited,Land_Intensity,,0.0,Calculated: (Land_Owned + Land_Leased) / Revenue_Cr,2026-01-17T18:45:45.702087
+INDIAN RAILWAY FINANCE CORPORATION LIMITED,Land_Intensity,,1.8411859299517132e-05,Calculated: (Land_Owned + Land_Leased) / Revenue_Cr,2026-01-17T18:45:45.702087
+Power Finance Corporation Limited,Land_Intensity,,0.0,Calculated: (Land_Owned + Land_Leased) / Revenue_Cr,2026-01-17T18:45:45.702087
+REC Limited,Land_Intensity,,0.0,Calculated: (Land_Owned + Land_Leased) / Revenue_Cr,2026-01-17T18:45:45.702087
+Tata Investment Corporation Limited,Land_Intensity,,0.0,Calculated: (Land_Owned + Land_Leased) / Revenue_Cr,2026-01-17T18:45:45.702087
+MAHARASHTRA SCOOTERS LIMITED,Land_Leased_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.752879
+MUTHOOT FINANCE LIMITED,Land_Leased_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.753882
+Mahindra  Mahindra Financial Services Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.754784
+Mahindra Lifespace Developers Limited,Land_Leased_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.754784
+Max Financial Services Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.755879
+MedPlus Health Services Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.755879
+Metro Brands Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.756878
+Metropolis Healthcare Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.756878
+Motilal Oswal Financial Services Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.756878
+NUVAMA WEALTH MANAGEMENT LIMITED,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.758878
+Newgen Software Technologies Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.760790
+Nippon Life India Asset Management Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.760790
+Oberoi Realty Limited,Land_Leased_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.761824
+One 97 Communications Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.761824
+PNB Housing Finance Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.762829
+PNC Infratech Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.762829
+Poonawalla Fincorp Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.764824
+Power Finance Corporation Limited,Land_Leased_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.764824
+Punjab  Sind Bank,Land_Leased_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.765830
+Rail Vikas Nigam Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.767871
+RateGain Travel Technologies Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.768877
+SAPPHIRE FOODS INDIA LIMITED,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.769881
+SAREGAMA India Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.770875
+SBI Cards and Payment Services Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.770875
+SBI Life Insurance Company Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.771836
+STATE BANK OF INDIA,Land_Leased_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.771836
+SUNDARAM FINANCE LIMITED,Land_Leased_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.772884
+Shoppers Stop Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.773873
+Shriram Finance Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.773873
+Signatureglobal India Limited,Land_Leased_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.774873
+Sonata Software Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.775882
+Star Health and Allied Insurance Company Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.775882
+Sterling and Wilson Renewable Energy Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.775882
+THE NEW INDIA ASSURANCE COMPANY LIMITED,Land_Leased_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.777882
+TVS Supply Chain Solutions Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.778874
+Tamilnad Mercantile Bank Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.778874
+Tanla Platforms Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.779881
+Tata Investment Corporation Limited,Land_Leased_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.779881
+Tata Technologies Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.780879
+Thomas Cook  India  Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.781874
+UTI Asset Management Company Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.783874
+Ujjivan Small Finance Bank Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.783874
+VALOR ESTATE LIMITED,Land_Leased_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.784884
+Vedant Fashions Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.784884
+Waaree Renewable Technologies Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.785879
+eClerx Services Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.788824
+LT Technology Services Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.792877
+LTIMindtree Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.793791
+IndiGo (InterGlobe Aviation),Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.793791
+ITC Limited (Paperboards Division),Land_Leased_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.797873
+L&T Finance Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.798876
+IndiaMART InterMESH Limited,Land_Owned_ha,,0.0,v3_FINAL_COMPLETE,2026-01-17T18:45:45.798876
+Aditya Birla Fashion and Retail Limited,Total_Land_ha,34.6,47.1,Calculated: Land_Owned + Land_Leased,2026-01-17T18:45:45.799883
+Axis Bank Limited,Total_Land_ha,18.0,142.0,Calculated: Land_Owned + Land_Leased,2026-01-17T18:45:45.800880
+BANK OF INDIA,Total_Land_ha,62.0,302.0,Calculated: Land_Owned + Land_Leased,2026-01-17T18:45:45.800880
+BANK OF MAHARASHTRA,Total_Land_ha,15.0,100.0,Calculated: Land_Owned + Land_Leased,2026-01-17T18:45:45.800880
+Bajaj Finserv Limited,Total_Land_ha,,18.0,Calculated: Land_Owned + Land_Leased,2026-01-17T18:45:45.800880
+INDIAN RAILWAY FINANCE CORPORATION LIMITED,Total_Land_ha,,0.5,Calculated: Land_Owned + Land_Leased,2026-01-17T18:45:45.802879
+IndusInd Bank Limited,Total_Land_ha,5.0,190.0,Calculated: Land_Owned + Land_Leased,2026-01-17T18:45:45.802879
+Infosys Limited,Total_Land_ha,412.0,537.0,Calculated: Land_Owned + Land_Leased,2026-01-17T18:45:45.802879
+KARUR VYSYA BANK LIMITED,Total_Land_ha,24.0,89.0,Calculated: Land_Owned + Land_Leased,2026-01-17T18:45:45.802879
+KNR Constructions Limited,Total_Land_ha,450.0,462.0,Calculated: Land_Owned + Land_Leased,2026-01-17T18:45:45.802879
+KOTAK MAHINDRA BANK LIMITED,Total_Land_ha,15.0,335.0,Calculated: Land_Owned + Land_Leased,2026-01-17T18:45:45.802879
+Keystone Realtors Limited,Total_Land_ha,450.0,475.0,Calculated: Land_Owned + Land_Leased,2026-01-17T18:45:45.803874
+Life Insurance Corporation of India,Total_Land_ha,45.2,1195.2,Calculated: Land_Owned + Land_Leased,2026-01-17T18:45:45.803874
+Aptus Value Housing Finance India Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.834067
+BLS International Services Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.837052
+Bajaj Holdings  Investment Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.838997
+Bikaji Foods International Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.839968
+CE INFO SYSTEMS LIMITED,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.842059
+CITY UNION BANK LIMITED,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.842674
+Capri Global Capital Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.843779
+Cholamandalam Financial Holdings Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.844786
+Computer Age Management Services Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.845782
+CreditAccess Grameen Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.846769
+Easy Trip Planners Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.849775
+FINE ORGANIC INDUSTRIES LIMITED,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.851775
+Five-Star Business Finance Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.851775
+General Insurance Corporation of India,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.854745
+Go Digit General Insurance Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.855780
+HDFC Asset Management Company Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.857683
+Home First Finance Company India Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.860683
+Honasa Consumer Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.860683
+IFCI Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.861770
+INDIAN RAILWAY FINANCE CORPORATION LIMITED,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.861770
+INOX India Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.862772
+IRB Infrastructure Developers Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.862772
+InterGlobe Aviation Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.864684
+Jio Financial Services Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.867723
+KFin Technologies Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.869769
+Keystone Realtors Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.871738
+Life Insurance Corporation of India,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.872774
+Lloyds Metals and Energy Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.873780
+MAHARASHTRA SCOOTERS LIMITED,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.873780
+MUTHOOT FINANCE LIMITED,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.874726
+Maharashtra Seamless Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.874726
+Man Infraconstruction Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.875781
+MedPlus Health Services Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.876776
+Metropolis Healthcare Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.877779
+Motilal Oswal Financial Services Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.877779
+NBCC India Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.878778
+NETWEB TECHNOLOGIES INDIA LIMITED,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.879781
+NUVAMA WEALTH MANAGEMENT LIMITED,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.880772
+One 97 Communications Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.881777
+PNB Housing Finance Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.882781
+PTC Industries Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.883775
+Poonawalla Fincorp Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.885685
+Power Mech Projects Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.886707
+Punjab  Sind Bank,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.887699
+Quess Corp Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.887699
+RATTANINDIA ENTERPRISES LIMITED,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.888682
+Railtel Corporation of India Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.889714
+RateGain Travel Technologies Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.890707
+Ratnamani Metals  Tubes Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.890707
+Redington Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.890707
+Redtape Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.890707
+Reliance Infrastructure Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.891700
+Responsive Industries Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.891700
+SAREGAMA India Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.892699
+SBFC Finance Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.892699
+SBI Cards and Payment Services Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.893698
+SUNDARAM FINANCE LIMITED,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.894699
+Safari Industries India Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.894699
+Signatureglobal India Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.896699
+Sun Pharma Advanced Research Company Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.897805
+Sun TV Network Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.897805
+TBO Tek Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.899812
+THE NEW INDIA ASSURANCE COMPANY LIMITED,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.900685
+Tamilnad Mercantile Bank Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.901802
+Tata Investment Corporation Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.902686
+Thomas Cook  India  Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.904683
+UTI Asset Management Company Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.906688
+VALOR ESTATE LIMITED,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.907685
+Zen Technologies Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.910683
+Bikaji Foods,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.912826
+Himadri Speciality Chemical Limited,Renewable_Energy_Pct,,0.0,v3_FINAL_100PCT,2026-01-17T18:45:45.913807

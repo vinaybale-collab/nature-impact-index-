@@ -1,0 +1,43 @@
+Company_Name,BSE_Code,NSE_Symbol,Sector,Market_Cap_Cr,Report_Found,Report_Type,Data_Source,Filepath,Confidence_Score,File_Size_KB,Download_Time_Seconds
+Varun Beverages Ltd.,000VBL,VBL,Agriculture & Food Processing,185148.43125901947,False,,,,0,0,4.8
+Patanjali Foods Ltd.,PATANJALI,PATANJALI,Agriculture & Food Processing,53991.7891896005,False,,,,0,0,4.8
+AWL Agri Business Ltd.,000AWL,AWL,Agriculture & Food Processing,45448.9879817565,False,,,,0,0,4.8
+Maruti Suzuki India Ltd.,MARUTI,MARUTI,Automobiles & Auto Components,369377.1371020235,False,,,,0,0,4.7
+Mahindra & Mahindra Ltd.,000M&M,M&M,Automobiles & Auto Components,259332.67760608895,False,,,,0,0,4.9
+Bajaj Auto Ltd.,BAJAJ-AUTO,BAJAJ-AUTO,Automobiles & Auto Components,240622.20553986297,False,,,,0,0,4.7
+UltraTech Cement Ltd.,ULTRACEMCO,ULTRACEMCO,Cement,288793.807807726,False,,,,0,0,4.8
+Grasim Industries Ltd.,GRASIM,GRASIM,Cement,152681.77331541548,False,,,,0,0,4.7
+Ambuja Cements Ltd.,AMBUJACEM,AMBUJACEM,Cement,124610.418015825,False,,,,0,0,4.7
+Pidilite Industries Ltd.,PIDILITIND,PIDILITIND,Chemicals & Fertilizers,146204.9756783405,False,,,,0,0,4.7
+Solar Industries India Ltd.,SOLARINDS,SOLARINDS,Chemicals & Fertilizers,73755.542429169,False,,,,0,0,4.8
+SRF Ltd.,000SRF,SRF,Chemicals & Fertilizers,71289.831696779,False,,,,0,0,4.9
+Avenue Supermarts Ltd.,0DMART,DMART,Hospitality & Tourism,278029.0856907845,False,,,,0,0,4.9
+Trent Ltd.,0TRENT,TRENT,Hospitality & Tourism,145215.8384863385,False,,,,0,0,4.8
+Indian Hotels Co. Ltd.,INDHOTEL,INDHOTEL,Hospitality & Tourism,79115.8546179805,False,,,,0,0,4.8
+Adani Enterprises Ltd.,ADANIENT,ADANIENT,Mining & Minerals,357247.51587887853,False,,,,0,0,5.3
+Hindustan Zinc Ltd.,HINDZINC,HINDZINC,Mining & Minerals,181671.804668943,False,,,,0,0,5.0
+Hindalco Industries Ltd.,HINDALCO,HINDALCO,Mining & Minerals,134624.8729453465,False,,,,0,0,5.1
+Reliance Industries Ltd.,RELIANCE,RELIANCE,Oil & Gas,1947848.37102945,False,,,,0,0,5.1
+Oil & Natural Gas Corporation Ltd.,00ONGC,ONGC,Oil & Gas,331117.6047195915,False,,,,0,0,4.9
+Coal India Ltd.,COALINDIA,COALINDIA,Oil & Gas,273683.4922373909,False,,,,0,0,4.8
+Sun Pharmaceutical Industries Ltd.,SUNPHARMA,SUNPHARMA,Pharmaceuticals,358830.1546076645,False,,,,0,0,5.3
+Cipla Ltd.,0CIPLA,CIPLA,Pharmaceuticals,115378.97634712,False,,,,0,0,5.0
+Divi's Laboratories Ltd.,DIVISLAB,DIVISLAB,Pharmaceuticals,102932.954746914,False,,,,0,0,4.8
+NTPC Ltd.,00NTPC,NTPC,Power Generation,332600.9008917805,False,,,,0,0,5.1
+Adani Green Energy Ltd.,ADANIGREEN,ADANIGREEN,Power Generation,287301.301119451,False,,,,0,0,4.9
+Power Grid Corporation of India Ltd.,POWERGRID,POWERGRID,Power Generation,265104.404097148,False,,,,0,0,5.2
+Larsen & Toubro Ltd.,0000LT,LT,Real Estate & Construction,487634.01314880094,False,,,,0,0,5.1
+DLF Ltd.,000DLF,DLF,Real Estate & Construction,209238.920105397,False,,,,0,0,4.9
+Lodha Developers Ltd.,0LODHA,LODHA,Real Estate & Construction,118221.4105710465,False,,,,0,0,5.2
+Hindustan Unilever Ltd.,HINDUNILVR,HINDUNILVR,Retail & Consumer Goods,562159.9985382624,False,,,,0,0,4.9
+ITC Ltd.,000ITC,ITC,Retail & Consumer Goods,538703.5697368791,False,,,,0,0,4.8
+Titan Company Ltd.,0TITAN,TITAN,Retail & Consumer Goods,317580.07400088303,False,,,,0,0,5.0
+JSW Steel Ltd.,JSWSTEEL,JSWSTEEL,Steel & Iron,208845.30859159,False,,,,0,0,5.1
+Tata Steel Ltd.,TATASTEEL,TATASTEEL,Steel & Iron,193707.818995962,False,,,,0,0,5.0
+Jindal Steel Ltd.,JINDALSTEL,JINDALSTEL,Steel & Iron,89233.672531182,False,,,,0,0,5.0
+Bharti Airtel Ltd.,BHARTIARTL,BHARTIARTL,Telecom Infrastructure,730310.2342570175,False,,,,0,0,4.8
+Vodafone Idea Ltd.,00IDEA,IDEA,Telecom Infrastructure,78513.01673621699,False,,,,0,0,5.0
+Indus Towers Ltd.,INDUSTOWER,INDUSTOWER,Telecom Infrastructure,77059.6363330195,False,,,,0,0,5.0
+Page Industries Ltd.,PAGEIND,PAGEIND,Textiles & Apparel,40586.1232787305,False,,,,0,0,5.0
+K.P.R. Mill Ltd.,KPRMILL,KPRMILL,Textiles & Apparel,27480.400232805,False,,,,0,0,4.9
+Trident Ltd.,TRIDENT,TRIDENT,Textiles & Apparel,20731.647450326494,False,,,,0,0,5.1

@@ -1,0 +1,501 @@
+Company_Name,NSE_Symbol,Sector,XBRL_URL,Download_Success,Status,File_Size_KB
+Reliance Industries Limited,RELIANCE,Oil Gas & Consumable Fuels,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1504867_07082025013302_WEB.xml,True,Success,1457.75
+Tata Consultancy Services Limited,TCS,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1474736_30062025044052_WEB.xml,True,Success,874.9404296875
+HDFC Bank Limited,HDFCBANK,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1481748_14072025080910_WEB.xml,True,Success,839.2431640625
+ICICI Bank Limited,ICICIBANK,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1503412_05082025083000_WEB.xml,True,Success,811.6875
+Bharti Airtel Limited,BHARTIARTL,Telecommunication,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1484884_16072025112237_WEB.xml,True,Success,1046.060546875
+STATE BANK OF INDIA,SBIN,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1472447_26062025071319_WEB.xml,True,Success,907.814453125
+Infosys Limited,INFY,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477079_03072025095250_WEB.xml,True,Success,1057.1591796875
+Life Insurance Corporation of India,LICI,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1498280_30072025062838_WEB.xml,True,Success,788.04296875
+Hindustan Unilever Limited,HINDUNILVR,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1486091_18072025110717_WEB.xml,True,Success,910.568359375
+ITC Limited,ITC,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1473051_27062025034500_WEB.xml,True,Success,884.3291015625
+Larsen & Toubro Limited,LT,Construction,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1450809_26052025013610_WEB.xml,True,Success,1036.2802734375
+Bajaj Finance Limited,BAJFINANCE,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1476138_02072025120411_WEB.xml,True,Success,868.0029296875
+HCL Technologies Limited,HCLTECH,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1501255_02082025084111_WEB.xml,True,Success,1082.359375
+Maruti Suzuki India Limited,MARUTI,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1503469_05082025092147_WEB.xml,True,Success,855.29296875
+Sun Pharmaceutical Industries Limited,SUNPHARMA,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477541_04072025072529_WEB.xml,True,Success,854.169921875
+Adani Enterprises Limited,ADANIENT,Metals & Mining,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1468306_18062025105504_WEB.xml,True,Success,786.7060546875
+KOTAK MAHINDRA BANK LIMITED,KOTAKBANK,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1529464_19092025051900_WEB.xml,True,Success,870.52734375
+Tata Motors Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1468402_19062025030040_WEB.xml,True,Success,1044.3994140625
+Axis Bank Limited,AXISBANK,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1472659_27062025105753_WEB.xml,True,Success,831.0478515625
+NTPC LIMITED,NTPC,Power,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1505695_07082025063546_WEB.xml,True,Success,854.484375
+Titan Company Limited,TITAN,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1473059_27062025034725_WEB.xml,True,Success,853.939453125
+UltraTech Cement Limited,ULTRACEMCO,Construction Materials,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1495277_28072025045950_WEB.xml,True,Success,792.9775390625
+Adani Ports and Special Economic Zone Limited,ADANIPORTS,Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1468283_18062025081805_WEB.xml,True,Success,1098.5361328125
+Asian Paints Limited,ASIANPAINT,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1470036_24062025101008_WEB.xml,True,Success,916.9814453125
+Avenue Supermarts Limited,DMART,Consumer Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1488227_21072025103435_WEB.xml,True,Success,725.6533203125
+COAL INDIA LIMITED,COALINDIA,Oil Gas & Consumable Fuels,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1501398_04082025110417_WEB.xml,True,Success,967.3017578125
+Power Grid Corporation of India Limited,POWERGRID,Power,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1501353_03082025081853_WEB.xml,True,Success,944.7685546875
+Mahindra & Mahindra Limited,M&M,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1474151_28062025114611_WEB.xml,True,Success,888.66015625
+Bajaj Finserv Limited,BAJAJFINSV,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1476853_03072025041532_WEB.xml,True,Success,871.5751953125
+Wipro Limited,WIPRO,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1469331_21062025011214_WEB.xml,True,Success,991.66015625
+HINDUSTAN AERONAUTICS LIMITED,HAL,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1497388_30072025115106_WEB.xml,True,Success,764.8583984375
+Nestle India Limited,NESTLEIND,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1473035_27062025033841_WEB.xml,True,Success,901.8564453125
+Bajaj Auto Limited,BAJAJ-AUTO,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1481704_12072025083759_WEB.xml,True,Success,752.4228515625
+ADANI POWER LIMITED,ADANIPOWER,Power,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1467091_16062025045831_WEB.xml,True,Success,866.2333984375
+Indian Oil Corporation Limited,IOC,Oil Gas & Consumable Fuels,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1505202_07082025043616_WEB.xml,True,Success,976.7822265625
+DLF Limited,DLF,Realty,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1481723_13072025094535_WEB.xml,True,Success,1030.712890625
+JSW Steel Limited,JSWSTEEL,Metals & Mining,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477130_04072025105556_WEB.xml,True,Success,970.6005859375
+Jio Financial Services Limited,JIOFIN,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1502490_05082025012045_WEB.xml,True,Success,729.41015625
+INDIAN RAILWAY FINANCE CORPORATION LIMITED,IRFC,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1504202_06082025055246_WEB.xml,True,Success,829.7734375
+Siemens Limited,SIEMENS,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1345203_14012025053859_WEB.xml,True,Success,899.6923828125
+Tata Steel Limited,TATASTEEL,Metals & Mining,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1470548_24062025065142_WEB.xml,True,Success,1179.11328125
+Varun Beverages Limited,VBL,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1394994_11032025054427_WEB.xml,True,Success,742.3291015625
+Hindustan Zinc Limited,HINDZINC,Metals & Mining,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1500543_01082025064512_WEB.xml,True,Success,930.59375
+BHARAT ELECTRONICS LIMITED,BEL,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1504162_06082025053341_WEB.xml,True,Success,753.7451171875
+Grasim Industries Limited,GRASIM,Construction Materials,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1489740_21072025081731_WEB.xml,True,Success,863.513671875
+LTIMindtree Limited,LTIM,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1432884_07052025122600_WEB.xml,True,Success,945.1494140625
+Pidilite Industries Limited,PIDILITIND,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1480946_11072025042536_WEB.xml,True,Success,862.5068359375
+SBI Life Insurance Company Limited,SBILIFE,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1505929_07082025072644_WEB.xml,True,Success,755.4365234375
+Power Finance Corporation Limited,PFC,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1505256_07082025045820_WEB.xml,True,Success,817.2724609375
+InterGlobe Aviation Limited,INDIGO,Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1494252_26072025105326_WEB.xml,True,Success,753.341796875
+Bank of Baroda,BANKBARODA,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1458171_29052025095025_WEB.xml,True,Success,807.3828125
+HINDALCO INDUSTRIES LIMITED,HINDALCO,Metals & Mining,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1495762_28072025080158_WEB.xml,True,Success,883.9033203125
+PUNJAB NATIONAL BANK,PNB,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1476360_02072025034459_WEB.xml,True,Success,759.66796875
+ABB India Limited,ABB,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1411314_09042025080919_WEB.xml,True,Success,815.234375
+HDFC Life Insurance Company Limited,HDFCLIFE,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1478202_07072025051042_WEB.xml,True,Success,742.5712890625
+Godrej Consumer Products Limited,GODREJCP,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1492280_24072025040600_WEB.xml,True,Success,898.8564453125
+Vedanta Limited,VEDL,Metals & Mining,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1468325_19062025105114_WEB.xml,True,Success,1039.65234375
+Tech Mahindra Limited,TECHM,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1470026_23062025114614_WEB.xml,True,Success,1003.2138671875
+REC Limited,RECLTD,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1500827_01082025114716_WEB.xml,True,Success,878.2158203125
+Ambuja Cements Limited,AMBUJACEM,Construction Materials,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1466435_13062025044732_WEB.xml,True,Success,787.3115234375
+GAIL (India) Limited,GAIL,Oil Gas & Consumable Fuels,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1505319_07082025051651_WEB.xml,True,Success,957.73828125
+Britannia Industries Limited,BRITANNIA,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1488123_20072025120030_WEB.xml,True,Success,772.50390625
+MACROTECH DEVELOPERS LIMITED,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1480128_10072025042328_WEB.xml,True,Success,811.2998046875
+Adani Energy Solutions Limited,ADANIENSOL,Power,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1478968_08072025072115_WEB.xml,True,Success,1174.712890625
+IndusInd Bank Limited,INDUSINDBK,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1506455_08082025013939_WEB.xml,True,Success,801.556640625
+INDIAN OVERSEAS BANK,IOB,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1468370_19062025010241_WEB.xml,True,Success,886.2529296875
+Cipla Limited,CIPLA,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1468721_19062025092440_WEB.xml,True,Success,938.9619140625
+EICHER MOTORS LIMITED,EICHERMOT,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1495655_28072025070458_WEB.xml,True,Success,794.064453125
+UNION BANK OF INDIA,UNIONBANK,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1520938_01092025070414_WEB.xml,True,Success,760.529296875
+Tata Consumer Products Limited,TATACONSUM,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1473177_27062025043658_WEB.xml,True,Success,756.3154296875
+Adani Total Gas Limited,ATGL,Oil Gas & Consumable Fuels,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1469453_22062025052307_WEB.xml,True,Success,724.34375
+DIVI'S LABORATORIES LIMITED,DIVISLAB,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1482490_14072025065921_WEB.xml,True,Success,730.6083984375
+Cholamandalam Investment and Finance Company Limited,CHOLAFIN,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1479735_09072025100330_WEB.xml,True,Success,799.568359375
+Canara Bank,CANBK,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1469688_23062025042640_WEB.xml,True,Success,896.9140625
+TVS Motor Company Limited,TVSMOTOR,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1494393_26072025025925_WEB.xml,True,Success,874.1201171875
+Dr. Reddy's Laboratories Limited,DRREDDY,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1475030_30062025061833_WEB.xml,True,Success,981.6962890625
+Havells India Limited,HAVELLS,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1441641_16052025080044_WEB.xml,True,Success,782.404296875
+Dabur India Limited,DABUR,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1479590_09072025061811_WEB.xml,True,Success,1015.78125
+HERO MOTOCORP LIMITED,HEROMOTOCO,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1481517_12072025022949_WEB.xml,True,Success,759.7705078125
+JSW Energy Limited,JSWENERGY,Power,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1468340_19062025113100_WEB.xml,True,Success,1074.751953125
+Zydus Lifesciences Limited,ZYDUSLIFE,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1484341_16072025043122_WEB.xml,True,Success,866.205078125
+Bajaj Holdings & Investment Limited,BAJAJHLDNG,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1482610_14072025101747_WEB.xml,True,Success,645.4423828125
+NHPC Limited,NHPC,Power,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1507555_08082025082208_WEB.xml,True,Success,1118.484375
+Shriram Finance Limited,SHRIRAMFIN,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1470423_24062025053554_WEB.xml,True,Success,772.5419921875
+IDBI Bank Limited,IDBI,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1470852_25062025020648_WEB.xml,True,Success,757.826171875
+JINDAL STEEL & POWER LIMITED,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1507744_08082025104145_WEB.xml,True,Success,911.4169921875
+Torrent Pharmaceuticals Limited,TORNTPHARM,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477480_04072025063440_WEB.xml,True,Success,875.6904296875
+BHARAT HEAVY ELECTRICALS LIMITED,BHEL,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1494413_26072025032312_WEB.xml,True,Success,809.71484375
+MANKIND PHARMA LIMITED,MANKIND,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1483576_15072025070806_WEB.xml,True,Success,881.935546875
+SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED,MOTHERSON,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1503581_06082025120641_WEB.xml,True,Success,1277.0390625
+United Spirits Limited,UNITDSPR,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1503803_06082025022144_WEB.xml,True,Success,903.7001953125
+Bosch limited,BOSCHLTD,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1478652_08072025034730_WEB.xml,True,Success,839.3662109375
+Cummins India Limited,CUMMINSIND,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1483719_15072025091556_WEB.xml,True,Success,727.0478515625
+Polycab India Limited,POLYCAB,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1497290_30072025100412_WEB.xml,True,Success,847.0361328125
+CG Power and Industrial Solutions Limited,CGPOWER,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1476706_03072025104423_WEB.xml,True,Success,800.0712890625
+Vodafone Idea Limited,IDEA,Telecommunication,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1500518_01082025063323_WEB.xml,True,Success,746.2255859375
+ICICI Prudential Life Insurance Company Limited,ICICIPRULI,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1468822_20062025125302_WEB.xml,True,Success,740.2646484375
+ICICI Lombard General Insurance Company Limited,ICICIGI,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1469230_20062025074810_WEB.xml,True,Success,806.12890625
+HDFC Asset Management Company Limited,HDFCAMC,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1467816_18062025103258_WEB.xml,True,Success,757.263671875
+MAX HEALTHCARE INSTITUTE LIMITED,MAXHEALTH,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477638_05072025101418_WEB.xml,True,Success,869.15234375
+Indus Towers Limited,INDUSTOWER,Telecommunication,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1506311_08082025030228_WEB.xml,True,Success,920.2373046875
+Solar Industries India Limited,SOLARINDS,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1473867_27062025095923_WEB.xml,True,Success,782.7197265625
+Tube Investments of India Limited,TIINDIA,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477627_04072025113120_WEB.xml,True,Success,809.7060546875
+Lupin Limited,LUPIN,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1488232_21072025103722_WEB.xml,True,Success,908.2421875
+YES Bank Limited,YESBANK,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1494624_26072025075744_WEB.xml,True,Success,804.6982421875
+SRF LIMITED,SRF,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1467807_18062025092444_WEB.xml,True,Success,738.009765625
+Marico Limited,MARICO,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1481442_12072025111928_WEB.xml,True,Success,847.4091796875
+Hindustan Petroleum Corporation Limited,HINDPETRO,Oil Gas & Consumable Fuels,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1495835_28072025091204_WEB.xml,True,Success,990.583984375
+Godrej Properties Limited,GODREJPROP,Realty,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477493_04072025064714_WEB.xml,True,Success,932.5166015625
+NMDC Limited,NMDC,Metals & Mining,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1515128_20082025025901_WEB.xml,True,Success,895.8271484375
+Indian Bank,INDIANB,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1450585_25052025034839_WEB.xml,True,Success,766.3671875
+SBI Cards and Payment Services Limited,SBICARD,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1499670_31072025084848_WEB.xml,True,Success,811.8359375
+Oracle Financial Services Software Limited,OFSS,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1473714_27062025072746_WEB.xml,True,Success,679.0791015625
+AUROBINDO PHARMA LIMITED,AUROPHARMA,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1512809_14082025034918_WEB.xml,True,Success,917.4267578125
+UCO BANK,UCOBANK,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1452513_27052025023234_WEB.xml,True,Success,686.5458984375
+General Insurance Corporation of India,GICRE,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1521092_01092025111605_WEB.xml,True,Success,748.408203125
+Torrent Power Limited,TORNTPOWER,Power,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1480458_10072025072849_WEB.xml,True,Success,856.6513671875
+MUTHOOT FINANCE LIMITED,MUTHOOTFIN,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1507638_08082025085433_WEB.xml,True,Success,749.2109375
+Oil India Limited,OIL,Oil Gas & Consumable Fuels,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1517800_26082025053527_WEB.xml,True,Success,803.8486328125
+Bharat Forge Limited,BHARATFORG,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1482972_15072025024419_WEB.xml,True,Success,813.4150390625
+BANK OF INDIA,BANKINDIA,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1465596_11062025055141_WEB.xml,True,Success,820.7578125
+Alkem Laboratories Limited,ALKEM,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1489948_21072025112238_WEB.xml,True,Success,822.0419921875
+Persistent Systems Limited,PERSISTENT,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1470840_25062025014936_WEB.xml,True,Success,830.0263671875
+Rail Vikas Nigam Limited,RVNL,Construction,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1504681_07082025124550_WEB.xml,True,Success,881.158203125
+SUZLON ENERGY LIMITED,SUZLON,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1519735_29082025094621_WEB.xml,True,Success,896.0927734375
+Linde India Limited,LINDEINDIA,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1509840_12082025054336_WEB.xml,True,Success,768.361328125
+Container Corporation of India Limited,CONCOR,Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1521204_02092025123236_WEB.xml,True,Success,878.6943359375
+Supreme Industries Limited,SUPREMEIND,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1466217_13062025115844_WEB.xml,True,Success,742.23828125
+Steel Authority of India Limited,SAIL,Metals & Mining,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1517071_25082025051220_WEB.xml,True,Success,871.6240234375
+IDFC FIRST Bank Limited,IDFCFIRSTB,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477854_05072025100752_WEB.xml,True,Success,725.244140625
+MRF Limited,MRF,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1482303_14072025052856_WEB.xml,True,Success,675.9345703125
+Jindal Stainless Limited,JSL,Metals & Mining,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1507721_08082025102028_WEB.xml,True,Success,935.755859375
+Ashok Leyland Limited,ASHOKLEY,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1486271_18072025010713_WEB.xml,True,Success,858.6357421875
+Oberoi Realty Limited,OBEROIRLTY,Realty,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477557_04072025073747_WEB.xml,True,Success,859.6572265625
+Prestige Estates Projects Limited,PRESTIGE,Realty,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1514714_19082025042454_WEB.xml,True,Success,868.2646484375
+PI INDUSTRIES LIMITED,PIIND,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1489695_21072025075954_WEB.xml,True,Success,860.4228515625
+Schaeffler India Limited,SCHAEFFLER,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1444134_20052025034939_WEB.xml,True,Success,884.1982421875
+Astral Limited,ASTRAL,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1500946_02082025023329_WEB.xml,True,Success,778.16796875
+L&T Technology Services Limited,LTTS,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1449613_23052025100148_WEB.xml,True,Success,789.8427734375
+PATANJALI FOODS LIMITED,PATANJALI,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1523075_04092025070357_WEB.xml,True,Success,712.751953125
+Central Bank of India,CENTRALBK,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1478347_07072025071110_WEB.xml,True,Success,705.9990234375
+JSW Infrastructure Limited,JSWINFRA,Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1469559_23062025022545_WEB.xml,True,Success,764.7119140625
+TATA COMMUNICATIONS LIMITED,TATACOMM,Telecommunication,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1467345_16062025103334_WEB.xml,True,Success,932.8935546875
+Aditya Birla Capital Limited,ABCAPITAL,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1490887_22072025095545_WEB.xml,True,Success,842.9384765625
+THE PHOENIX MILLS LIMITED,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1524399_06092025055308_WEB.xml,True,Success,754.078125
+PB FINTECH LIMITED,POLICYBZR,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1525512_09092025084650_WEB.xml,True,Success,733.3671875
+Mazagon Dock Shipbuilders Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1518943_28082025111240_WEB.xml,True,Success,804.81640625
+Balkrishna Industries Limited,BALKRISIND,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477538_04072025072416_WEB.xml,True,Success,846.1826171875
+Bharti Hexacom Limited,BHARTIHEXA,Telecommunication,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1494194_25072025102314_WEB.xml,True,Success,802.4091796875
+Thermax Limited,THERMAX,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477745_05072025040208_WEB.xml,True,Success,860.6513671875
+UNITED BREWERIES LIMITED,UBL,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1482607_14072025095828_WEB.xml,True,Success,799.5947265625
+SJVN Limited,SJVN,Power,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1520838_01092025060307_WEB.xml,True,Success,861.5576171875
+FERTILIZERS AND CHEMICALS TRAVANCORE LIMITED,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1534100_26092025045822_WEB.xml,True,Success,766.560546875
+Tata Elxsi Limited,TATAELXSI,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1468397_19062025024403_WEB.xml,True,Success,747.9306640625
+ACC Limited,ACC,Construction Materials,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1466451_13062025050528_WEB.xml,True,Success,793.2021484375
+Dixon Technologies (India) Limited,DIXON,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1521118_01092025115448_WEB.xml,True,Success,754.2890625
+Mphasis Limited,MPHASIS,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1476052_01072025071518_WEB.xml,True,Success,799.759765625
+SUNDARAM FINANCE LIMITED,SUNDARMFIN,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1473780_27062025080707_WEB.xml,True,Success,775.6162109375
+AU Small Finance Bank Limited,AUBANK,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1484830_16072025084625_WEB.xml,True,Success,748.359375
+Tata Technologies Limited,TATATECH,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1468286_18062025084101_WEB.xml,True,Success,718.9755859375
+Indian Renewable Energy Development Agency Limited,IREDA,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1482260_14072025051313_WEB.xml,True,Success,717.66015625
+BANK OF MAHARASHTRA,MAHABANK,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1464397_08062025082113_WEB.xml,True,Success,782.5068359375
+Uno Minda Limited,UNOMINDA,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1482036_14072025031956_WEB.xml,True,Success,850.62109375
+APL Apollo Tubes Limited,APLAPOLLO,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1516223_22082025045554_WEB.xml,True,Success,784.2578125
+Petronet LNG Limited,PETRONET,Oil Gas & Consumable Fuels,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1519852_30082025110902_WEB.xml,True,Success,800.7958984375
+KPIT Technologies Limited,KPITTECH,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1480569_11072025105900_WEB.xml,True,Success,870.955078125
+L&T Finance Limited,LTF,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1435388_09052025085041_WEB.xml,True,Success,804.3369140625
+Kalyan Jewellers India Limited,KALYANKJIL,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1512509_14082025120531_WEB.xml,True,Success,684.501953125
+Page Industries Limited,PAGEIND,Textiles,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1505486_07082025055131_WEB.xml,True,Success,863.6435546875
+Voltas Limited,VOLTAS,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1468067_18062025050456_WEB.xml,True,Success,838.626953125
+Punjab & Sind Bank,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1482094_14072025035218_WEB.xml,True,Success,678.0146484375
+THE NEW INDIA ASSURANCE COMPANY LIMITED,NIACL,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1550623_16102025055155_WEB.xml,True,Success,643.42578125
+UPL LIMITED,UPL,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1476927_03072025055507_WEB.xml,True,Success,793.1552734375
+GUJARAT GAS LIMITED,GUJGASLTD,Oil Gas & Consumable Fuels,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1520412_31082025112849_WEB.xml,True,Success,923.015625
+HONEYWELL AUTOMATION INDIA LIMITED,HONAUT,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1466038_12062025060229_WEB.xml,True,Success,719.9619140625
+Bharat Dynamics Limited,BDL,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1521419_02092025042803_WEB.xml,True,Success,745.2822265625
+IRB Infrastructure Developers Limited,IRB,Construction,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1516680_23082025044237_WEB.xml,True,Success,887.9169921875
+Sona BLW Precision Forgings Limited,SONACOMS,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1475602_01072025023205_WEB.xml,True,Success,758.59375
+Gujarat Fluorochemicals Limited,FLUOROCHEM,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1523042_04092025064051_WEB.xml,True,Success,802.029296875
+GlaxoSmithKline Pharmaceuticals Limited,GLAXO,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1471100_25062025051800_WEB.xml,True,Success,791.736328125
+Dalmia Bharat Limited,DALBHARAT,Construction Materials,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1471188_25062025055858_WEB.xml,True,Success,862.185546875
+3M INDIA LIMITED,3MINDIA,Diversified,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1502360_05082025104710_WEB.xml,True,Success,731.9033203125
+AIA ENGINEERING LIMITED,AIAENG,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1515668_21082025032253_WEB.xml,True,Success,781.0556640625
+Poonawalla Fincorp Limited,POONAWALLA,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1478432_08072025123050_WEB.xml,True,Success,637.5869140625
+Escorts Kubota Limited,ESCORTS,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1469149_20062025063118_WEB.xml,True,Success,823.9501953125
+Coforge Limited,COFORGE,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1519135_29082025025645_WEB.xml,True,Success,793.896484375
+COROMANDEL INTERNATIONAL LIMITED,COROMANDEL,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1476674_02072025104057_WEB.xml,True,Success,839.712890625
+LIC Housing Finance Limited,LICHSGFIN,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1503350_05082025074644_WEB.xml,True,Success,813.3173828125
+Biocon Limited,BIOCON,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1485318_17072025031916_WEB.xml,True,Success,830.6513671875
+Mahindra & Mahindra Financial Services Limited,M&MFIN,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1472846_27062025012013_WEB.xml,True,Success,854.6611328125
+GLOBAL HEALTH LIMITED,MEDANTA,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1517236_25082025070417_WEB.xml,True,Success,740.9853515625
+Nippon Life India Asset Management Limited,NAM-INDIA,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1471247_25062025064527_WEB.xml,True,Success,718.447265625
+Exide Industries Limited,EXIDEIND,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1476363_02072025034714_WEB.xml,True,Success,804.0517578125
+Hitachi Energy India Limited,POWERINDIA,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1492334_24072025043706_WEB.xml,True,Success,783.201171875
+Max Financial Services Limited,MFSL,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1516988_25082025035418_WEB.xml,True,Success,776.171875
+Fortis Healthcare Limited,FORTIS,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1482494_14072025070048_WEB.xml,True,Success,811.33984375
+KEI INDUSTRIES LIMITED,KEI,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1478230_07072025054040_WEB.xml,True,Success,847.9228515625
+Crisil Limited,CRISIL,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1408608_04042025063920_WEB.xml,True,Success,844.900390625
+NLC India Limited,NLCINDIA,Power,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1523314_05092025120504_WEB.xml,True,Success,890.2705078125
+Jubilant FoodWorks Limited,JUBLFOOD,Consumer Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1500652_01082025072850_WEB.xml,True,Success,791.99609375
+Bandhan Bank Limited,BANDHANBNK,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1498590_30072025085213_WEB.xml,True,Success,688.7236328125
+Lloyds Metals and Energy Limited,LLOYDSME,Metals & Mining,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1467506_17062025025923_WEB.xml,True,Success,745.048828125
+Star Health and Allied Insurance Company Limited,STARHEALTH,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1518877_28082025080440_WEB.xml,True,Success,687.318359375
+JK CEMENT LIMITED,JKCEMENT,Construction Materials,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477512_04072025065647_WEB.xml,True,Success,836.259765625
+Tata Investment Corporation Limited,TATAINVEST,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477162_04072025114546_WEB.xml,True,Success,708.072265625
+Delhivery Limited,DELHIVERY,Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1507594_08082025083114_WEB.xml,True,Success,662.9482421875
+Deepak Nitrite Limited,DEEPAKNTR,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1491834_23072025100242_WEB.xml,True,Success,809.498046875
+Cochin Shipyard Limited,COCHINSHIP,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1521457_02092025050024_WEB.xml,True,Success,639.0986328125
+Apollo Tyres Limited,APOLLOTYRE,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1478739_08072025043023_WEB.xml,True,Success,848.46875
+Metro Brands Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1517352_25082025093051_WEB.xml,True,Success,727.91796875
+Ipca Laboratories Limited,IPCALAB,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1480751_11072025022949_WEB.xml,True,Success,856.3330078125
+GLAND PHARMA LIMITED,GLAND,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1499287_31072025053918_WEB.xml,True,Success,638.248046875
+HINDUSTAN COPPER LIMITED,HINDCOPPER,Metals & Mining,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1519197_29082025035236_WEB.xml,True,Success,751.4658203125
+Motherson Sumi Wiring India Limited,MSUMI,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1503539_05082025104538_WEB.xml,True,Success,792.78125
+Go Digit General Insurance Limited,GODIGIT,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1482626_14072025104409_WEB.xml,True,Success,690.9501953125
+Motilal Oswal Financial Services Limited,MOTILALOFS,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1469947_23062025082600_WEB.xml,True,Success,823.2294921875
+ZF Commercial Vehicle Control Systems India Limited,ZFCVINDIA,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1497938_30072025045920_WEB.xml,True,Success,736.232421875
+Endurance Technologies Limited,ENDURANCE,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1486859_18072025054104_WEB.xml,True,Success,933.552734375
+One 97 Communications Limited,PAYTM,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1503608_06082025105945_WEB.xml,True,Success,853.201171875
+Syngene International Limited,SYNGENE,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1474145_28062025102607_WEB.xml,True,Success,768.798828125
+Glenmark Pharmaceuticals Limited,GLENMARK,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1519634_29082025074547_WEB.xml,True,Success,862.1240234375
+Ajanta Pharma Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1468387_19062025022821_WEB.xml,True,Success,885.08203125
+APAR Industries Limited,APARINDS,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1479989_10072025023721_WEB.xml,True,Success,820.8759765625
+Godrej Industries Limited,GODREJIND,Diversified,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1487968_19072025061349_WEB.xml,True,Success,823.326171875
+Blue Star Limited,BLUESTARCO,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1481346_11072025085159_WEB.xml,True,Success,749.5927734375
+K.P.R. MILL LIMITED,KPRMILL,Textiles,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1475479_01072025115120_WEB.xml,True,Success,670.177734375
+TATA CHEMICALS LIMITED,TATACHEM,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1470102_24062025123403_WEB.xml,True,Success,953.2001953125
+360 ONE WAM LIMITED,360ONE,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1513721_14082025090001_WEB.xml,True,Success,858.51953125
+KIOCL Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1561070_30102025125314_WEB.xml,True,Success,599.30859375
+Narayana Hrudayalaya Ltd.,NH,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1506433_08082025010835_WEB.xml,True,Success,899.126953125
+Sun TV Network Limited,SUNTV,Media Entertainment & Publication,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1518671_28082025044708_WEB.xml,True,Success,628.1669921875
+EIH Limited,EIHOTEL,Consumer Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1481708_12072025090215_WEB.xml,True,Success,732.599609375
+Timken India Limited,TIMKEN,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1490198_22072025024240_WEB.xml,True,Success,694.5234375
+Angel One Limited,ANGELONE,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1441759_16052025092640_WEB.xml,True,Success,828.3955078125
+Carborundum Universal Limited,CARBORUNIV,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1483746_15072025110414_WEB.xml,True,Success,731.7275390625
+Grindwell Norton Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1476205_02072025122100_WEB.xml,True,Success,662.6474609375
+Vedant Fashions Limited,MANYAVAR,Consumer Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1510648_12082025103505_WEB.xml,True,Success,697.4287109375
+Aditya Birla Fashion and Retail Limited,ABFRL,Consumer Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1519635_29082025074649_WEB.xml,True,Success,749.7548828125
+SKF INDIA LIMITED,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1479738_09072025105407_WEB.xml,True,Success,604.08203125
+Brigade Enterprises Limited,BRIGADE,Realty,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1495843_28072025092850_WEB.xml,True,Success,814.5751953125
+Sundram Fasteners Limited,SUNDRMFAST,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1472046_26062025044335_WEB.xml,True,Success,698.1435546875
+Aarti Industries Limited,AARTIIND,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1499783_31072025104656_WEB.xml,True,Success,772.818359375
+Kansai Nerolac Paints Limited,KANSAINER,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1470402_24062025051516_WEB.xml,True,Success,856.6767578125
+CreditAccess Grameen Limited,CREDITACC,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477853_05072025100653_WEB.xml,True,Success,745.3720703125
+NBCC (India) Limited,NBCC,Construction,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1521882_02092025103613_WEB.xml,True,Success,722.431640625
+Emami Limited,EMAMILTD,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1502747_05082025042541_WEB.xml,True,Success,768.2236328125
+JBM Auto Limited,JBMA,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1509081_11082025101705_WEB.xml,True,Success,715.57421875
+LAURUS LABS LIMITED,LAURUSLABS,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1484742_16072025072233_WEB.xml,True,Success,735.703125
+Radico Khaitan Limited,RADICO,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1483859_16072025115430_WEB.xml,True,Success,749.759765625
+Ratnamani Metals & Tubes Limited,RATNAMANI,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1509272_12082025013430_WEB.xml,True,Success,645.1494140625
+Gillette India Limited,GILLETTE,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1508093_11082025113439_WEB.xml,True,Success,604.4443359375
+Ircon International Limited,IRCON,Construction,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1516865_25082025125023_WEB.xml,True,Success,763.8759765625
+Cyient Limited,CYIENT,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1527196_15092025030230_WEB.xml,True,Success,738.095703125
+Cyient Limited,CYIENT,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1387421_19022025125706_WEB.xml,True,Already exists,738.095703125
+Five-Star Business Finance Limited,FIVESTAR,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1514501_18082025115737_WEB.xml,True,Success,651.3984375
+Crompton Greaves Consumer Electricals Limited,CROMPTON,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1468307_18062025105811_WEB.xml,True,Success,745.978515625
+Relaxo Footwears Limited,RELAXO,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1502018_04082025062929_WEB.xml,True,Success,674.4931640625
+Cholamandalam Financial Holdings Limited,CHOLAHLDNG,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1485908_17072025073909_WEB.xml,True,Success,786.958984375
+TRIDENT LIMITED,TRIDENT,Textiles,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1500333_01082025052643_WEB.xml,True,Success,658.130859375
+Aster DM Healthcare Limited,ASTERDM,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1509178_12082025114518_WEB.xml,True,Success,712.5546875
+Pfizer Limited,PFIZER,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1474188_29062025111334_WEB.xml,True,Success,717.5361328125
+SUMITOMO CHEMICAL INDIA LIMITED,SUMICHEM,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1478782_08072025050404_WEB.xml,True,Success,696.93359375
+The Ramco Cements Limited,RAMCOCEM,Construction Materials,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1484703_16072025065810_WEB.xml,True,Success,717.9921875
+Kajaria Ceramics Limited,KAJARIACER,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1523715_05092025055018_WEB.xml,True,Success,701.8994140625
+Birlasoft Limited,BSOFT,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1480785_11072025025808_WEB.xml,True,Success,821.568359375
+Elgi Equipments Limited,ELGIEQUIP,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1486595_18072025042208_WEB.xml,True,Success,877.3662109375
+Devyani International Limited,DEVYANI,Consumer Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477833_05072025064710_WEB.xml,True,Success,700.966796875
+Piramal Enterprises Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1468392_19062025023734_WEB.xml,True,Success,835.333984375
+PNB Housing Finance Limited,PNBHOUSING,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1495245_28072025044354_WEB.xml,True,Success,685.513671875
+Castrol India Limited,CASTROLIND,Oil Gas & Consumable Fuels,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1389867_25022025075940_WEB.xml,True,Success,761.5693359375
+Sonata Software Limited,SONATSOFTW,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477987_07072025010428_WEB.xml,True,Success,726.5517578125
+IIFL Finance Limited,IIFL,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1470642_24062025093220_WEB.xml,True,Success,723.5126953125
+TVS Holdings Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1494482_26072025044707_WEB.xml,True,Success,649.3310546875
+Gujarat State Petronet Limited,GSPL,Oil Gas & Consumable Fuels,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1520219_30082025073936_WEB.xml,True,Success,740.8740234375
+CIE AUTOMOTIVE INDIA LIMITED,CIEINDIA,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1408367_04042025014547_WEB.xml,True,Success,803.265625
+Kaynes Technology India Limited,KAYNES,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1514899_19082025070329_WEB.xml,True,Success,698.8017578125
+ALEMBIC PHARMACEUTICALS LIMITED,APLLTD,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1467340_16062025093416_WEB.xml,True,Success,762.8837890625
+Piramal Pharma Limited,PPLPHARMA,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1476367_02072025035134_WEB.xml,True,Success,842.6259765625
+Capri Global Capital Limited,CGCL,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1522755_04092025031022_WEB.xml,True,Success,618.2724609375
+KEC International Limited,KEC,Construction,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1485777_17072025063908_WEB.xml,True,Success,795.712890625
+BATA INDIA LIMITED,BATAINDIA,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1486394_18072025024343_WEB.xml,True,Success,649.72265625
+CESC Limited,CESC,Power,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1514108_18082025104410_WEB.xml,True,Success,780.015625
+Aegis Logistics Limited,AEGISLOG,Oil Gas & Consumable Fuels,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1489718_21072025080650_WEB.xml,True,Success,675.6083984375
+Atul Limited,ATUL,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1481445_12072025113307_WEB.xml,True,Success,844.24609375
+Whirlpool of India Limited,WHIRLPOOL,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1512653_14082025020513_WEB.xml,True,Success,728.3447265625
+Cello World Limited,CELLO,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1485995_18072025122310_WEB.xml,True,Success,618.4453125
+Jupiter Wagons Limited,JWL,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1519304_29082025050113_WEB.xml,True,Success,687.2705078125
+Inox Wind Limited,INOXWIND,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1523311_05092025120116_WEB.xml,True,Success,669.2373046875
+Signatureglobal (India) Limited,SIGNATURE,Realty,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1521063_01092025094748_WEB.xml,True,Success,780.9248046875
+JYOTI CNC AUTOMATION LIMITED,JYOTICNC,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1518443_27082025084607_WEB.xml,True,Success,605.984375
+R R Kabel Limited,RRKABEL,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1472613_27062025014234_WEB.xml,True,Success,692.5078125
+Shyam Metalics and Energy Limited,SHYAMMETL,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1501875_04082025053120_WEB.xml,True,Success,759.45703125
+Amara Raja Energy & Mobility Limited,ARE&M,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1490677_22072025064514_WEB.xml,True,Success,847.865234375
+NMDC Steel Limited,NSLNISP,Metals & Mining,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1515203_20082025042752_WEB.xml,True,Success,628.55078125
+NATCO Pharma Limited,NATCOPHARM,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1519505_29082025063844_WEB.xml,True,Success,772.6083984375
+Vinati Organics Limited,VINATIORGA,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1521178_02092025114056_WEB.xml,True,Success,645.859375
+Finolex Cables Limited,FINCABLES,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1523159_04092025075932_WEB.xml,True,Success,704.47265625
+Chalet Hotels Limited,CHALET,Consumer Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1483805_16072025111825_WEB.xml,True,Success,856.75
+Kalpataru Projects International Limited,KPIL,Construction,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1467004_16062025034025_WEB.xml,True,Success,907.4140625
+TBO Tek Limited,TBOTEK,Consumer Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1482454_14072025063355_WEB.xml,True,Success,676.4609375
+JYOTHY LABS LIMITED,JYOTHYLAB,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1514743_19082025050033_WEB.xml,True,Success,673.919921875
+Aptus Value Housing Finance India Limited,APTUS,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1497129_29072025082433_WEB.xml,True,Success,642.4052734375
+Himadri Speciality Chemical Limited,HSCL,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1444402_20052025053743_WEB.xml,True,Success,777.3046875
+Waaree Renewable Technologies Limited,WAAREERTL,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1519765_29082025104239_WEB.xml,True,Success,595.921875
+Navin Fluorine International Limited,NAVINFLUOR,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1479744_09072025110841_WEB.xml,True,Success,802.04296875
+Krishna Institute of Medical Sciences Limited,KIMS,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1505890_07082025071551_WEB.xml,True,Success,663.9033203125
+Tata Teleservices (Maharashtra) Limited,TTML,Telecommunication,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1469502_23062025115430_WEB.xml,True,Success,678.3662109375
+Jindal Saw Limited,JINDALSAW,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1444020_20052025022449_WEB.xml,True,Success,795.021484375
+RITES Limited,RITES,Construction,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1520014_30082025035804_WEB.xml,True,Success,786.3291015625
+Zee Entertainment Enterprises Limited,ZEEL,Media Entertainment & Publication,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1515245_20082025051306_WEB.xml,True,Success,738.0419921875
+GODFREY PHILLIPS INDIA LIMITED,GODFRYPHLP,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1504026_06082025044323_WEB.xml,True,Success,804.3203125
+JAI BALAJI INDUSTRIES LIMITED,JAIBALAJI,Metals & Mining,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1517185_25082025062939_WEB.xml,True,Success,665.578125
+Finolex Industries Limited,FINPIPE,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1515514_20082025110135_WEB.xml,True,Success,754.33984375
+Schneider Electric Infrastructure Limited,SCHNEIDER,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1509963_12082025061418_WEB.xml,True,Success,881.2978515625
+Triveni Turbine Limited,TRITURBINE,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1511608_13082025055752_WEB.xml,True,Success,683.2841796875
+BASF India Limited,BASF,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1481950_14072025015831_WEB.xml,True,Success,735.6728515625
+Tejas Networks Limited,TEJASNET,Telecommunication,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1474136_28062025094431_WEB.xml,True,Success,655.986328125
+Redington Limited,REDINGTON,Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1478527_08072025123139_WEB.xml,True,Success,740.5966796875
+Blue Dart Express Limited,BLUEDART,Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1489630_21072025073711_WEB.xml,True,Success,722.26953125
+INDIAMART INTERMESH LIMITED,INDIAMART,Consumer Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1446728_22052025015818_WEB.xml,True,Success,729.4453125
+Sanofi India Limited,SANOFI,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1422807_22042025092323_WEB.xml,True,Success,702.0732421875
+NUVAMA WEALTH MANAGEMENT LIMITED,NUVAMA,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1519027_29082025123602_WEB.xml,True,Success,725.2431640625
+RBL Bank Limited,RBLBANK,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1520044_30082025044021_WEB.xml,True,Success,623.3203125
+NCC LIMITED,NCC,Construction,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1500331_01082025052522_WEB.xml,True,Success,742.37109375
+Concord Biotech Limited,CONCORDBIO,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1511063_13082025030617_WEB.xml,True,Success,664.1728515625
+POLY MEDICURE LIMITED,POLYMED,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1522659_04092025115621_WEB.xml,True,Success,704.5498046875
+Century Plyboards (India) Limited,CENTURYPLY,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1517531_26082025020212_WEB.xml,True,Success,917.857421875
+Sobha Limited,SOBHA,Realty,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1476751_03072025120342_WEB.xml,True,Success,696.0771484375
+Manappuram Finance Limited,MANAPPURAM,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1489532_21072025070431_WEB.xml,True,Success,716.9619140625
+Computer Age Management Services Limited,CAMS,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1466637_13062025093918_WEB.xml,True,Success,654.482421875
+Anand Rathi Wealth Limited,ANANDRATHI,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1468357_19062025122423_WEB.xml,True,Success,623.5478515625
+DCM Shriram Limited,DCMSHRIRAM,Diversified,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1484270_16072025035824_WEB.xml,True,Success,809.8095703125
+KARUR VYSYA BANK LIMITED,KARURVYSYA,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1511166_13082025034605_WEB.xml,True,Success,704.9619140625
+Aditya Birla Sun Life AMC Limited,ABSLAMC,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1478269_07072025060724_WEB.xml,True,Success,679.9970703125
+Authum Investment & Infrastructure Limited,AIIL,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1523268_04092025104623_WEB.xml,True,Success,598.07421875
+V-GUARD INDUSTRIES LIMITED,VGUARD,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1481694_12072025073352_WEB.xml,True,Success,777.0302734375
+TITAGARH RAIL SYSTEMS LIMITED,TITAGARH,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1516806_24082025064120_WEB.xml,True,Success,765.6923828125
+Clean Science and Technology Limited,CLEAN,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1509956_12082025061220_WEB.xml,True,Success,695.927734375
+BEML Limited,BEML,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1523209_04092025084641_WEB.xml,True,Success,700.400390625
+Welspun Corp Limited,WELCORP,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1479608_09072025062540_WEB.xml,True,Success,777.9921875
+Olectra Greentech Limited,OLECTRA,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1519619_29082025073735_WEB.xml,True,Success,662.8623046875
+Welspun Living Limited,WELSPUNLIV,Textiles,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1513295_14082025062923_WEB.xml,True,Success,840.5380859375
+BLS International Services Limited,BLS,Consumer Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1516564_22082025104517_WEB.xml,True,Success,744.744140625
+AstraZeneca Pharma India Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1491618_23072025063419_WEB.xml,True,Success,614.4697265625
+HFCL Limited,HFCL,Telecommunication,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1515993_22082025105345_WEB.xml,True,Success,831.4541015625
+KSB Limited,KSB,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1424339_24042025110938_WEB.xml,True,Success,720.66015625
+Sterling and Wilson Renewable Energy Limited,SWSOLAR,Construction,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1495879_28072025114038_WEB.xml,True,Success,745.775390625
+ALOK INDUSTRIES LIMITED,ALOKINDS,Textiles,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1504877_07082025015349_WEB.xml,True,Success,647.572265625
+Bikaji Foods International Limited,BIKAJI,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1516072_22082025011018_WEB.xml,True,Success,707.9013671875
+Data Patterns (India) Limited,DATAPATTNS,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1483282_15072025050503_WEB.xml,True,Success,605.8212890625
+Asahi India Glass Limited,ASAHIINDIA,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1515002_20082025123139_WEB.xml,True,Success,731.693359375
+Kirloskar Oil Engines Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1481324_11072025081532_WEB.xml,True,Success,810.078125
+Firstsource Solutions Limited,FSL,Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1476015_01072025065320_WEB.xml,True,Success,753.216796875
+Honasa Consumer Limited,HONASA,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1521066_01092025095006_WEB.xml,True,Success,627.97265625
+PVR INOX LIMITED,PVRINOX,Media Entertainment & Publication,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1513164_14082025055219_WEB.xml,True,Success,640.7734375
+Mahanagar Gas Limited,MGL,Oil Gas & Consumable Fuels,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1499779_31072025104219_WEB.xml,True,Success,797.306640625
+Indian Energy Exchange Limited,IEX,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1514331_18082025054439_WEB.xml,True,Success,613.9609375
+FINE ORGANIC INDUSTRIES LIMITED,FINEORG,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1494047_25072025081045_WEB.xml,True,Success,691.138671875
+ZENSAR TECHNOLOGIES LIMITED,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1475970_01072025062335_WEB.xml,True,Success,829.103515625
+RHI Magnesita India Ltd,RHIM,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1522513_03092025082932_WEB.xml,True,Success,719.89453125
+CHENNAI PETROLEUM CORPORATION LIMITED,CHENNPETRO,Oil Gas & Consumable Fuels,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1500820_01082025112507_WEB.xml,True,Success,874.1474609375
+INTELLECT DESIGN ARENA LIMITED,INTELLECT,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1476608_02072025072416_WEB.xml,True,Success,671.298828125
+Ramkrishna Forgings Limited,RKFORGE,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1518393_27082025064454_WEB.xml,True,Success,735.78515625
+Raymond Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1481733_13072025015642_WEB.xml,True,Success,678.3173828125
+Indegene Limited,INDGN,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1469167_20062025064731_WEB.xml,True,Success,732.8837890625
+G R Infraprojects Limited,GRINFRA,Construction,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1517138_25082025055858_WEB.xml,True,Success,718.328125
+Tanla Platforms Limited,TANLA,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1476137_01072025115932_WEB.xml,True,Success,775.2646484375
+Engineers India Limited,ENGINERSIN,Construction,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1519038_29082025124053_WEB.xml,True,Success,601.9296875
+Amber Enterprises India Limited,AMBER,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1487369_18072025115848_WEB.xml,True,Success,779.9560546875
+Happiest Minds Technologies Limited,HAPPSTMNDS,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477363_04072025044710_WEB.xml,True,Success,663.1064453125
+Railtel Corporation of India Limited,RAILTEL,Telecommunication,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1494080_25072025082319_WEB.xml,True,Success,634.419921875
+Westlife Foodworld Limited,WESTLIFE,Consumer Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1514144_18082025125816_WEB.xml,True,Success,654.189453125
+JAIPRAKASH POWER VENTURES LIMITED,JPPOWER,Power,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1466516_13062025061506_WEB.xml,True,Success,687.271484375
+SUPREME PETROCHEM LIMITED,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1479363_09072025041217_WEB.xml,True,Success,711.91796875
+IFCI Limited,IFCI,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1541597_06102025073815_WEB.xml,True,Success,628.826171875
+Eris Lifesciences Limited,ERIS,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1476620_02072025074328_WEB.xml,True,Success,715.6103515625
+Aavas Financiers Limited,AAVAS,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1516637_23082025023024_WEB.xml,True,Success,808.560546875
+eClerx Services Limited,ECLERX,Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1514715_19082025042600_WEB.xml,True,Success,770.625
+Nuvoco Vistas Corporation Limited,NUVOCO,Construction Materials,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1475239_30062025082518_WEB.xml,True,Success,638.9345703125
+Anant Raj Limited,ANANTRAJ,Realty,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1474141_28062025102023_WEB.xml,True,Success,681.6416015625
+Newgen Software Technologies Limited,NEWGEN,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1472420_26062025065521_WEB.xml,True,Success,612.998046875
+PTC Industries Limited,PTCIL,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1523481_05092025025844_WEB.xml,True,Success,663.6162109375
+Akzo Nobel India Limited,AKZOINDIA,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1476530_02072025062152_WEB.xml,True,Success,659.8095703125
+Garden Reach Shipbuilders & Engineers Limited,GRSE,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1517763_26082025051914_WEB.xml,True,Success,700.25
+Birla Corporation Limited,BIRLACORPN,Construction Materials,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1516292_22082025055401_WEB.xml,True,Success,706.4638671875
+Maharashtra Seamless Limited,MAHSEAMLES,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1504384_06082025065801_WEB.xml,True,Success,613.46484375
+GRAPHITE INDIA LIMITED,GRAPHITE,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1478166_07072025044013_WEB.xml,True,Success,767.9267578125
+UTI Asset Management Company Limited,UTIAMC,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1479749_09072025112443_WEB.xml,True,Success,857.59765625
+JK Tyre & Industries Limited,JKTYRE,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1482337_14072025054434_WEB.xml,True,Success,824.9677734375
+Equitas Small Finance Bank Limited,EQUITASBNK,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1512608_14082025012024_WEB.xml,True,Success,646.0087890625
+BAJAJ ELECTRICALS LIMITED,BAJAJELEC,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1482282_14072025051916_WEB.xml,True,Success,728.33203125
+GODAWARI POWER AND ISPAT LIMITED,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1518011_26082025083105_WEB.xml,True,Success,639.7939453125
+PNC Infratech Limited,PNCINFRA,Construction,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1524163_06092025124647_WEB.xml,True,Success,664.5595703125
+Aether Industries Limited,AETHER,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1515870_21082025064341_WEB.xml,True,Success,729.322265625
+MMTC LIMITED,MMTC,Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1520538_01092025015541_WEB.xml,True,Success,584.5048828125
+KFin Technologies Limited,KFINTECH,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1503582_06082025125410_WEB.xml,True,Success,666.1611328125
+Lemon Tree Hotels Limited,LEMONTREE,Consumer Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1522562_03092025103344_WEB.xml,True,Success,758.216796875
+VALOR ESTATE LIMITED,DBREALTY,Consumer Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1525066_08092025102556_WEB.xml,True,Success,728.23828125
+Sheela Foam Limited,SFL,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1470202_24062025030955_WEB.xml,True,Success,755.607421875
+ALKYL AMINES CHEMICALS LIMITED,ALKYLAMINE,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1468076_18062025051714_WEB.xml,True,Success,680.4052734375
+CITY UNION BANK LIMITED,CUB,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1490815_22072025075417_WEB.xml,True,Success,692.1240234375
+RATTANINDIA ENTERPRISES LIMITED,RTNINDIA,Consumer Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1523261_04092025102404_WEB.xml,True,Success,593.2841796875
+INOX India Limited,INOXINDIA,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1476807_03072025031921_WEB.xml,True,Success,618.3994140625
+RELIANCE POWER LIMITED,RPOWER,Power,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1484896_17072025023511_WEB.xml,True,Success,678.4755859375
+Zydus Wellness Limited,ZYDUSWELL,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1478365_07072025072437_WEB.xml,True,Success,756.451171875
+GRANULES INDIA LIMITED,GRANULES,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1484621_16072025062340_WEB.xml,True,Success,797.5029296875
+Caplin Point Laboratories Limited,CAPLIPOINT,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1520170_30082025065559_WEB.xml,True,Success,684.455078125
+GODREJ AGROVET LIMITED,GODREJAGRO,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1483359_15072025053534_WEB.xml,True,Success,703.5791015625
+C.E. INFO SYSTEMS LIMITED,MAPMYINDIA,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1476663_02072025091557_WEB.xml,True,Success,614.0205078125
+CEAT Limited,CEATLTD,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1497658_30072025030327_WEB.xml,True,Success,826.3876953125
+Techno Electric & Engineering Company Limited,TECHNOE,Construction,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1520922_01092025065428_WEB.xml,True,Success,698.166015625
+SHIPPING CORPORATION OF INDIA LIMITED,SCI,Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1515975_22082025122809_WEB.xml,True,Success,697.0537109375
+Can Fin Homes Limited,CANFINHOME,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1494059_25072025081632_WEB.xml,True,Success,692.7080078125
+Usha Martin Limited,USHAMART,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1483750_15072025114037_WEB.xml,True,Success,776.5361328125
+Sun Pharma Advanced Research Company Limited,SPARC,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1487098_18072025064937_WEB.xml,True,Success,573.298828125
+Ujjivan Small Finance Bank Limited,UJJIVANSFB,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1482168_14072025043153_WEB.xml,True,Success,721.658203125
+Juniper Hotels Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1518952_29082025120028_WEB.xml,True,Success,749.08203125
+TTK PRESTIGE LIMITED,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1482881_15072025010757_WEB.xml,True,Success,686.9111328125
+Latent View Analytics Limited,LATENTVIEW,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1473291_27062025051028_WEB.xml,True,Success,680.427734375
+Jubilant Pharmova Limited,JUBLPHARMA,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1503361_05082025075325_WEB.xml,True,Success,774.5791015625
+Kirloskar Brothers Limited,KIRLOSBROS,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477749_05072025041247_WEB.xml,True,Success,836.357421875
+JK LAKSHMI CEMENT LIMITED,JKLAKSHMI,Construction Materials,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1522363_03092025062546_WEB.xml,True,Success,826.341796875
+DOMS Industries Limited,DOMS,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1520330_30082025103934_WEB.xml,True,Success,666.689453125
+NETWEB TECHNOLOGIES INDIA LIMITED,NETWEB,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1502904_05082025052105_WEB.xml,True,Success,709.7265625
+Minda Corporation Limited,MINDACORP,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1498775_31072025121135_WEB.xml,True,Success,767.783203125
+Electrosteel Castings Limited,ELECTCAST,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1500375_01082025054255_WEB.xml,True,Success,726.33984375
+Route Mobile Limited,ROUTE,Telecommunication,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1514906_19082025070704_WEB.xml,True,Success,773.642578125
+Praj Industries Limited,PRAJIND,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1518959_29082025092134_WEB.xml,True,Success,614.1376953125
+CERA Sanitaryware Limited,CERA,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1469248_20062025080437_WEB.xml,True,Success,688.0087890625
+Shree Renuka Sugars Limited,RENUKA,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1521056_01092025093438_WEB.xml,True,Success,730.505859375
+Anupam Rasayan India Limited,ANURAS,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1522784_04092025032946_WEB.xml,True,Success,780.8798828125
+KPI GREEN ENERGY LIMITED,KPIGREEN,Power,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1523228_04092025092651_WEB.xml,True,Success,619.701171875
+Safari Industries (India) Limited,SAFARI,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1478688_08072025040423_WEB.xml,True,Success,681.00390625
+Craftsman Automation Limited,CRAFTSMAN,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1472437_26062025070435_WEB.xml,True,Success,688.4150390625
+Gujarat Pipavav Port Limited,GPPL,Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1507261_08082025065101_WEB.xml,True,Success,650.3994140625
+Happy Forgings Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1476115_01072025085540_WEB.xml,True,Success,708.1435546875
+RAJESH EXPORTS LIMITED,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1587673_19122025050218_WEB.xml,True,Success,568.5166015625
+Voltamp Transformers Limited,VOLTAMP,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477554_04072025073529_WEB.xml,True,Success,731.3994140625
+SAPPHIRE FOODS INDIA LIMITED,SAPPHIRE,Consumer Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1483749_15072025113436_WEB.xml,True,Success,748.75
+Mahindra Lifespace Developers Limited,MAHLIFE,Realty,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1476905_03072025051612_WEB.xml,True,Success,815.693359375
+Redtape Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1520830_01092025055909_WEB.xml,True,Success,622.7919921875
+SBFC Finance Limited,SBFC,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1468225_18062025070902_WEB.xml,True,Success,666.04296875
+GALAXY SURFACTANTS LIMITED,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1486243_18072025125608_WEB.xml,True,Success,806.505859375
+Infibeam Avenues Limited,INFIBEAM,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1523948_05092025081752_WEB.xml,True,Success,622.1142578125
+Syrma SGS Technology Limited,SYRMA,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1522429_03092025071734_WEB.xml,True,Success,705.9892578125
+Force Motors Ltd,FORCEMOT,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1518236_26082025112827_WEB.xml,True,Success,681.1904296875
+Metropolis Healthcare Limited,METROPOLIS,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1490824_22072025075742_WEB.xml,True,Success,723.2734375
+Eureka Forbes Limited,EUREKAFORB,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1516527_22082025084250_WEB.xml,True,Success,645.634765625
+TEGA INDUSTRIES LIMITED,TEGA,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1518276_27082025012804_WEB.xml,True,Success,739.16015625
+RateGain Travel Technologies Limited,RATEGAIN,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1522497_03092025081501_WEB.xml,True,Success,691.3935546875
+MAHARASHTRA SCOOTERS LIMITED,MAHSCOOTER,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1475614_01072025024803_WEB.xml,True,Success,565.2373046875
+Thomas Cook  (India)  Limited,THOMASCOOK,Consumer Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1510654_12082025103654_WEB.xml,True,Success,726.4208984375
+JM Financial Limited,JMFINANCIL,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1487362_18072025110423_WEB.xml,True,Success,726.1904296875
+Prism Johnson Limited,PRSMJOHNSN,Construction Materials,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1483534_15072025064843_WEB.xml,True,Success,763.5009765625
+Star Cement Limited,STARCEMENT,Construction Materials,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1521006_01092025075243_WEB.xml,True,Success,724.71875
+Reliance Infrastructure Limited,RELINFRA,Power,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1484894_17072025015219_WEB.xml,True,Success,762.609375
+ESAB India Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1482461_14072025063906_WEB.xml,True,Success,647.380859375
+Varroc Engineering Limited,VARROC,Automobile and Auto Components,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1497338_30072025110900_WEB.xml,True,Success,750.3349609375
+Mastek Limited,MASTEK,Information Technology,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1519172_29082025032724_WEB.xml,True,Success,749.595703125
+MedPlus Health Services Limited,MEDPLUS,Consumer Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1515978_22082025122902_WEB.xml,True,Success,621.779296875
+Neuland Laboratories Limited,NEULANDLAB,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477589_04072025083259_WEB.xml,True,Success,725.521484375
+Mahindra Holidays & Resorts India Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1475219_30062025080513_WEB.xml,True,Success,744.46484375
+Procter & Gamble Health Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1505061_07082025035238_WEB.xml,True,Success,600.8310546875
+Quess Corp Limited,QUESS,Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1503432_05082025085319_WEB.xml,True,Success,668.6337890625
+Vesuvius India Limited,VESUVIUS,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1414264_14042025110452_WEB.xml,True,Success,685.796875
+ARVIND LIMITED,ARVIND,Textiles,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1484627_16072025062616_WEB.xml,True,Success,777.4990234375
+Electronics Mart India Limited,EMIL,Consumer Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1519966_30082025023954_WEB.xml,True,Success,671.330078125
+SARDA ENERGY & MINERALS LIMITED,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1520745_01092025051019_WEB.xml,True,Success,743.212890625
+NAVA LIMITED,NAVA,Power,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1489613_21072025073102_WEB.xml,True,Success,741.86328125
+Home First Finance Company India Limited,HOMEFIRST,Financial Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1465972_12062025045141_WEB.xml,True,Success,690.1982421875
+CCL Products (India) Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1491821_23072025093840_WEB.xml,True,Success,695.48828125
+Shoppers Stop Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1470292_24062025041910_WEB.xml,True,Success,723.5556640625
+Mishra Dhatu Nigam Limited,MIDHANI,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1524468_06092025064501_WEB.xml,True,Success,666.6484375
+SAREGAMA India Limited,SAREGAMA,Media Entertainment & Publication,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1513704_14082025085218_WEB.xml,True,Success,687.3828125
+Archean Chemical Industries Limited,ACI,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1435946_12052025122005_WEB.xml,True,Success,668.6357421875
+Easy Trip Planners Limited,EASEMYTRIP,Consumer Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1524522_06092025083723_WEB.xml,True,Success,645.32421875
+Wockhardt Limited,WOCKPHARMA,Healthcare,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1484866_16072025095511_WEB.xml,True,Success,738.7802734375
+Responsive Industries Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1518012_26082025084004_WEB.xml,True,Success,650.3056640625
+Jupiter Life Line Hospitals Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1467550_17062025033934_WEB.xml,True,Success,687.3076171875
+Balrampur Chini Mills Limited,BALRAMCHIN,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1504647_06082025103108_WEB.xml,True,Success,856.666015625
+Campus Activewear Limited,CAMPUS,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1519934_30082025013223_WEB.xml,True,Success,717.984375
+Power Mech Projects Limited,POWERMECH,Construction,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1520206_30082025073514_WEB.xml,True,Success,645.3115234375
+TVS Supply Chain Solutions Limited,TVSSCS,Services,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1488689_21072025031117_WEB.xml,True,Success,733.345703125
+HEG Limited,HEG,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1479853_10072025121212_WEB.xml,True,Success,804.33984375
+JUBILANT INGREVIA LIMITED,JUBLINGREA,Chemicals,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1503509_05082025101449_WEB.xml,True,Success,861.865234375
+Keystone Realtors Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1517818_26082025054503_WEB.xml,True,Success,776.154296875
+KNR Constructions Limited,KNRCON,Construction,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1522589_03092025115018_WEB.xml,True,Success,660.5751953125
+Just Dial Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1509097_11082025110552_WEB.xml,True,Success,634.3681640625
+Man Infraconstruction Limited,MANINFRA,Construction,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1486016_18072025092901_WEB.xml,True,Success,694.80859375
+Gujarat Ambuja Exports Limited,GAEL,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1504468_06082025073024_WEB.xml,True,Success,675.5732421875
+Genus Power Infrastructures Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1523731_05092025055949_WEB.xml,True,Success,715.8544921875
+Sandur Manganese & Iron Ores Limited,SANDUMA,Oil Gas & Consumable Fuels,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1517745_26082025050701_WEB.xml,True,Success,701.912109375
+Zen Technologies Limited,ZENTEC,Capital Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1499882_01082025115913_WEB.xml,True,Success,681.751953125
+Tamilnad Mercantile Bank Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1483725_15072025093421_WEB.xml,True,Success,732.3525390625
+Ion Exchange (India) Limited,IONEXCHANG,Utilities,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1513195_14082025060207_WEB.xml,True,Success,782.3837890625
+Chemplast Sanmar Limited,,,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1486773_18072025051627_WEB.xml,True,Success,690.9833984375
+MOIL Limited,MOIL,Metals & Mining,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1524176_06092025012000_WEB.xml,True,Success,734.6064453125
+Triveni Engineering & Industries Limited,TRIVENI,Fast Moving Consumer Goods,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1513733_14082025090619_WEB.xml,True,Success,840.34765625
+VIP INDUSTRIES LIMITED,VIPIND,Consumer Durables,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1514709_19082025041225_WEB.xml,True,Success,613.0546875
+ISGEC Heavy Engineering Limited,ISGEC,Construction,https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1515875_21082025064954_WEB.xml,True,Success,727.38671875

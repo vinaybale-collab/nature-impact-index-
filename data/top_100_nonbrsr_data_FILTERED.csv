@@ -1,0 +1,828 @@
+Company_Name,Sector,Indicator_ID,Value,Unit,Source_URL,Data_Year,Confidence,Data_Tier,Extraction_Method
+Kalyani Steels,Steel & Iron,ghg_scope1,609370,tCO2e,https://www.kalyanisteels.com/wp-content/uploads/Annual_Report_2023-24.pdf,FY 2023-24,HIGH,1,web_search
+Kalyani Steels,Steel & Iron,ghg_scope2,8282,tCO2e,https://www.kalyanisteels.com/wp-content/uploads/Annual_Report_2023-24.pdf,FY 2023-24,HIGH,1,web_search
+Kalyani Steels,Steel & Iron,water_recycling_pct,100,%,https://www.kalyanisteels.com/wp-content/uploads/Annual_Report_2023-24.pdf,FY 2023-24,HIGH,1,web_search
+Kalyani Steels,Steel & Iron,waste_recycled_pct,100,%,https://www.kalyanisteels.com/wp-content/uploads/Annual_Report_2023-24.pdf,FY 2023-24,HIGH,1,web_search
+Kalyani Steels,Steel & Iron,biodiversity_actions,Operates Wastewater Treatment System to reduce freshwater consumption and maintains recreational gardens.,,https://www.kalyanisteels.com/wp-content/uploads/Annual_Report_2023-24.pdf,FY 2023-24,HIGH,1,web_search
+Sunflag Iron and Steel,Steel & Iron,ghg_scope1,1594668.88,tCO2e,https://www.sunflagsteel.com/investors/annual-reports/,FY 2023-24,HIGH,1,web_search
+Sunflag Iron and Steel,Steel & Iron,ghg_scope2,184009.99,tCO2e,https://www.sunflagsteel.com/investors/annual-reports/,FY 2023-24,HIGH,1,web_search
+Sunflag Iron and Steel,Steel & Iron,water_recycling_pct,100,%,https://www.sunflagsteel.com/investors/annual-reports/,FY 2023-24,HIGH,1,web_search
+Sunflag Iron and Steel,Steel & Iron,waste_generated,23190.76,tonnes,https://www.sunflagsteel.com/investors/annual-reports/,FY 2023-24,HIGH,1,web_search
+Sunflag Iron and Steel,Steel & Iron,biodiversity_actions,Maintains policies for waste management and biodiversity; Zero Liquid Discharge facility.,,https://www.sunflagsteel.com/investors/annual-reports/,FY 2023-24,HIGH,1,web_search
+Electrosteel Castings,Steel & Iron,ghg_scope1,1948504,tCO2e,https://www.electrosteel.com/investors-annual-reports.php,FY 2023-24,HIGH,1,web_search
+Electrosteel Castings,Steel & Iron,ghg_scope2,259668,tCO2e,https://www.electrosteel.com/investors-annual-reports.php,FY 2023-24,HIGH,1,web_search
+Electrosteel Castings,Steel & Iron,energy_consumption,21018982,GJ,https://www.electrosteel.com/investors-annual-reports.php,FY 2023-24,HIGH,1,web_search
+Electrosteel Castings,Steel & Iron,renewable_energy_pct,0.0003,%,https://www.electrosteel.com/investors-annual-reports.php,FY 2023-24,HIGH,1,web_search
+Electrosteel Castings,Steel & Iron,water_withdrawal,3354151,KL,https://www.electrosteel.com/investors-annual-reports.php,FY 2023-24,HIGH,1,web_search
+Electrosteel Castings,Steel & Iron,waste_generated,71986,tonnes,https://www.iforest.global/,FY 2023-24,HIGH,1,web_search
+Electrosteel Castings,Steel & Iron,biodiversity_actions,Installed ponds for rainwater harvesting and process water reuse.,,https://www.electrosteel.com/investors-annual-reports.php,FY 2023-24,HIGH,1,web_search
+Essar Steel India (AM/NS India),Steel & Iron,ghg_scope1,2.23,tCO2/tcs (intensity),https://www.amns.in/sustainability-report/,FY 2023-24,HIGH,1,web_search
+Essar Steel India (AM/NS India),Steel & Iron,renewable_energy_pct,26,%,https://www.amns.in/sustainability-report/,FY 2023-24,HIGH,1,web_search
+Essar Steel India (AM/NS India),Steel & Iron,water_recycling_pct,14,%,https://www.amns.in/sustainability-report/,FY 2023-24,HIGH,1,web_search
+Essar Steel India (AM/NS India),Steel & Iron,waste_recycled_pct,90,%,https://www.amns.in/sustainability-report/,FY 2023-24,HIGH,1,web_search
+Essar Steel India (AM/NS India),Steel & Iron,biodiversity_actions,Achieved Zero Liquid Discharge; harvested 350 million litres of rainwater.,,https://www.amns.in/sustainability-report/,FY 2023-24,HIGH,1,web_search
+KIOCL (Kudremukh Iron Ore Company),Steel & Iron,ghg_scope1,184278,tCO2e,https://www.kioclltd.in/investors/annual-reports/,FY 2023-24,HIGH,1,web_search
+KIOCL (Kudremukh Iron Ore Company),Steel & Iron,ghg_scope2,89237,tCO2e,https://www.kioclltd.in/investors/annual-reports/,FY 2023-24,HIGH,1,web_search
+KIOCL (Kudremukh Iron Ore Company),Steel & Iron,water_recycling_pct,100,%,https://www.kioclltd.in/investors/annual-reports/,FY 2023-24,HIGH,1,web_search
+KIOCL (Kudremukh Iron Ore Company),Steel & Iron,biodiversity_actions,Implemented Zero Liquid Discharge mechanism; 100% sewage treated using MBR technology.,,https://www.kioclltd.in/investors/annual-reports/,FY 2023-24,HIGH,1,web_search
+Rashtriya Ispat Nigam Limited (RINL) - Vizag Steel,Steel & Iron,ghg_scope1,1.89,tCO2/tcs (intensity),https://www.vizagsteel.com/,FY 2022-23,HIGH,1,web_search
+Rashtriya Ispat Nigam Limited (RINL) - Vizag Steel,Steel & Iron,ghg_scope2,0.14,tCO2/tcs (intensity),https://www.vizagsteel.com/,FY 2022-23,HIGH,1,web_search
+Rashtriya Ispat Nigam Limited (RINL) - Vizag Steel,Steel & Iron,waste_recycled_pct,33.5,% (fuel utilization),https://www.vizagsteel.com/,FY 2022-23,HIGH,1,web_search
+Rashtriya Ispat Nigam Limited (RINL) - Vizag Steel,Steel & Iron,biodiversity_actions,"Miyawaki method plantation covering 3 acres; 13,500 saplings planted.",,https://www.vizagsteel.com/,FY 2022-23,HIGH,1,web_search
+Mrs. Bectors Food Specialities,FMCG,ghg_scope1,17229.55,tCO2e,https://www.bectorfoods.com/investors/,FY 2023-24,HIGH,1,web_search
+Mrs. Bectors Food Specialities,FMCG,ghg_scope2,22092.36,tCO2e,https://www.bectorfoods.com/investors/,FY 2023-24,HIGH,1,web_search
+Mrs. Bectors Food Specialities,FMCG,renewable_energy_pct,9,%,https://www.bectorfoods.com/investors/,FY 2023-24,HIGH,1,web_search
+Mrs. Bectors Food Specialities,FMCG,biodiversity_actions,Aims to reduce carbon footprint by 30% by 2025; uses PNG/CNG in 50% of plant locations.,,https://www.bectorfoods.com/investors/,FY 2023-24,HIGH,1,web_search
+Bikaji Foods,FMCG,ghg_scope1,24660.1,tCO2e,https://www.bikaji.com/investors/,FY 2023-24,HIGH,1,web_search
+Bikaji Foods,FMCG,ghg_scope2,13592.99,tCO2e,https://www.bikaji.com/investors/,FY 2023-24,HIGH,1,web_search
+Bikaji Foods,FMCG,energy_consumption,482170.85,GJ,https://www.bikaji.com/investors/,FY 2023-24,HIGH,1,web_search
+Bikaji Foods,FMCG,renewable_energy_pct,1.6,%,https://www.bikaji.com/investors/,FY 2023-24,HIGH,1,web_search
+Bikaji Foods,FMCG,water_withdrawal,187008.3,KL,https://www.bikaji.com/investors/,FY 2023-24,HIGH,1,web_search
+Bikaji Foods,FMCG,water_recycling_pct,100,%,https://www.bikaji.com/investors/,FY 2023-24,HIGH,1,web_search
+Bikaji Foods,FMCG,biodiversity_actions,All plants are Zero Liquid Discharge facilities; treated water reused for plantation.,,https://www.bikaji.com/investors/,FY 2023-24,HIGH,1,web_search
+Varun Beverages (PepsiCo franchise),FMCG,ghg_scope1,88224.2,tCO2e,https://www.varunbeverages.com/sustainability-report/,CY 2024,HIGH,1,web_search
+Varun Beverages (PepsiCo franchise),FMCG,ghg_scope2,352883.17,tCO2e,https://www.varunbeverages.com/sustainability-report/,CY 2024,HIGH,1,web_search
+Varun Beverages (PepsiCo franchise),FMCG,energy_consumption,1801368,GJ,https://www.varunbeverages.com/sustainability-report/,CY 2024,HIGH,1,web_search
+Varun Beverages (PepsiCo franchise),FMCG,water_withdrawal,7275000,KL,https://www.varunbeverages.com/sustainability-report/,CY 2024,HIGH,1,web_search
+Varun Beverages (PepsiCo franchise),FMCG,waste_recycled_pct,100,%,https://www.varunbeverages.com/sustainability-report/,CY 2024,HIGH,1,web_search
+Varun Beverages (PepsiCo franchise),FMCG,biodiversity_actions,Achieved net positive water balance; recycling 100% of PET waste.,,https://www.varunbeverages.com/sustainability-report/,CY 2024,HIGH,1,web_search
+Heritage Foods,FMCG,ghg_scope1,5766,tCO2e,https://www.heritagefoods.in/investors/,FY 2023-24,HIGH,1,web_search
+Heritage Foods,FMCG,ghg_scope2,33461,tCO2e,https://www.heritagefoods.in/investors/,FY 2023-24,HIGH,1,web_search
+Heritage Foods,FMCG,water_withdrawal,919643.07,KL,https://www.heritagefoods.in/investors/,FY 2023-24,HIGH,1,web_search
+Heritage Foods,FMCG,water_discharge,790232.55,KL,https://www.heritagefoods.in/investors/,FY 2023-24,HIGH,1,web_search
+Heritage Foods,FMCG,biodiversity_actions,Captive renewable energy generation (11.70 MW); zero liquid discharge program implemented.,,https://www.heritagefoods.in/investors/,FY 2023-24,HIGH,1,web_search
+Vardhman Textiles,Textiles,ghg_scope1,282820,tCO2e,https://www.vardhman.com/investors/,FY 2023-24,HIGH,1,web_search
+Vardhman Textiles,Textiles,ghg_scope2,746820,tCO2e,https://www.vardhman.com/investors/,FY 2023-24,HIGH,1,web_search
+Vardhman Textiles,Textiles,energy_consumption,12928000,GJ,https://www.vardhman.com/investors/,FY 2023-24,HIGH,1,web_search
+Vardhman Textiles,Textiles,water_recycling_pct,36,%,https://www.vardhman.com/investors/,FY 2023-24,HIGH,1,web_search
+Vardhman Textiles,Textiles,waste_generated,2083,tonnes,https://www.vardhman.com/investors/,FY 2023-24,HIGH,1,web_search
+Vardhman Textiles,Textiles,waste_recycled_pct,100,%,https://www.vardhman.com/investors/,FY 2023-24,HIGH,1,web_search
+Vardhman Textiles,Textiles,biodiversity_actions,GreenWeave initiative targets 42% emission reduction by 2030; 100% plastic waste recycled.,,https://www.vardhman.com/investors/,FY 2023-24,HIGH,1,web_search
+Himadri Speciality Chemical Limited,Chemicals,ghg_scope1,409576.4,tCO2e,https://www.himadri.com/sustainability-report-2023-24/,FY 2023-24,HIGH,1,web_search
+Himadri Speciality Chemical Limited,Chemicals,ghg_scope2,2112,tCO2e,https://www.himadri.com/sustainability-report-2023-24/,FY 2023-24,HIGH,1,web_search
+Himadri Speciality Chemical Limited,Chemicals,energy_consumption,34446.9,TJ,https://www.himadri.com/sustainability-report-2023-24/,FY 2023-24,HIGH,1,web_search
+Himadri Speciality Chemical Limited,Chemicals,renewable_energy_pct,90,%,https://www.himadri.com/sustainability-report-2023-24/,FY 2023-24,HIGH,1,web_search
+Himadri Speciality Chemical Limited,Chemicals,water_discharge,0,KL,https://www.himadri.com/sustainability-report-2023-24/,FY 2023-24,HIGH,1,web_search
+Himadri Speciality Chemical Limited,Chemicals,water_recycling_pct,100,%,https://www.himadri.com/sustainability-report-2023-24/,FY 2023-24,HIGH,1,web_search
+Himadri Speciality Chemical Limited,Chemicals,waste_recycled_pct,99,%,https://www.himadri.com/sustainability-report-2023-24/,FY 2023-24,HIGH,1,web_search
+Himadri Speciality Chemical Limited,Chemicals,biodiversity_actions,Achieved Zero Liquid Discharge (ZLD) at 8 facilities; achieved Platinum EcoVadis rating.,,https://www.himadri.com/sustainability-report-2023-24/,FY 2023-24,HIGH,1,web_search
+SARDA ENERGY & MINERALS LIMITED,Power/Steel,ghg_scope1,633640.8,tCO2e,https://www.seml.co.in/investors/,FY 2023-24,HIGH,1,web_search
+SARDA ENERGY & MINERALS LIMITED,Power/Steel,ghg_scope2,16.64,tCO2e,https://www.seml.co.in/investors/,FY 2023-24,HIGH,1,web_search
+SARDA ENERGY & MINERALS LIMITED,Power/Steel,energy_consumption,1157088.44,GJ (est from MWh),https://www.seml.co.in/investors/,FY 2023-24,HIGH,1,web_search
+SARDA ENERGY & MINERALS LIMITED,Power/Steel,land_footprint,277.1,hectares,https://www.seml.co.in/investors/,FY 2023-24,HIGH,1,web_search
+SARDA ENERGY & MINERALS LIMITED,Power/Steel,biodiversity_actions,Implementation of Zero Liquid Discharge and extensive plantation programs at coal mine sites.,,https://www.seml.co.in/investors/,FY 2023-24,HIGH,1,web_search
+Tata Power,Power,ghg_scope1,41352681,tCO2e,https://www.tatapower.com/sustainability/reports/,FY 2023-24,HIGH,1,web_search
+Tata Power,Power,ghg_scope2,31693,tCO2e,https://www.tatapower.com/sustainability/reports/,FY 2023-24,HIGH,1,web_search
+Tata Power,Power,renewable_energy_pct,40,% (capacity),https://www.tatapower.com/sustainability/reports/,FY 2023-24,HIGH,1,web_search
+Tata Power,Power,waste_recycled_pct,100,% (zero waste to landfill goal),https://www.tatapower.com/sustainability/reports/,FY 2023-24,HIGH,1,web_search
+Tata Power,Power,biodiversity_actions,Net zero by 2045 goal; water neutral by 2030; 'No Net Loss' to biodiversity by 2030.,,https://www.tatapower.com/sustainability/reports/,FY 2023-24,HIGH,1,web_search
+JSW Energy,Power,ghg_scope1,20349763,tCO2e,https://www.jswenergy.in/sustainability/,FY 2023-24,HIGH,1,web_search
+JSW Energy,Power,ghg_scope2,36661,tCO2e,https://www.jswenergy.in/sustainability/,FY 2023-24,HIGH,1,web_search
+JSW Energy,Power,renewable_energy_pct,13,%,https://www.jswenergy.in/sustainability/,FY 2023-24,HIGH,1,web_search
+JSW Energy,Power,water_withdrawal,109807753,KL,https://www.jswenergy.in/sustainability/,FY 2023-24,HIGH,1,web_search
+JSW Energy,Power,water_discharge,481847,KL,https://www.jswenergy.in/sustainability/,FY 2023-24,HIGH,1,web_search
+JSW Energy,Power,waste_generated,2164.2,tonnes,https://www.jswenergy.in/sustainability/,FY 2023-24,HIGH,1,web_search
+JSW Energy,Power,biodiversity_actions,Targets to reduce carbon emissions by 50% by 2030 (baseline 2020).,,https://www.jswenergy.in/sustainability/,FY 2023-24,HIGH,1,web_search
+Prism Johnson (Cement),Cement,renewable_energy_pct,29.2,%,https://www.prismjohnson.in/sustainability/,FY 2023-24,HIGH,1,web_search
+Prism Johnson (Cement),Cement,water_withdrawal,377000,KL,https://www.prismjohnson.in/sustainability/,FY 2023-24,HIGH,1,web_search
+Prism Johnson (Cement),Cement,water_discharge,0,KL,https://www.prismjohnson.in/sustainability/,FY 2023-24,HIGH,1,web_search
+Prism Johnson (Cement),Cement,water_recycling_pct,100,%,https://www.prismjohnson.in/sustainability/,FY 2023-24,HIGH,1,web_search
+Prism Johnson (Cement),Cement,biodiversity_actions,"Planted nearly 100,000 saplings; 3.4 times water positive; ZLD status retained for all plants.",,https://www.prismjohnson.in/sustainability/,FY 2023-24,HIGH,1,web_search
+Mangalam Cement,Cement,renewable_energy_pct,24,% (est from grid reduction),https://www.mangalamcement.com/,FY 2023-24,HIGH,1,web_search
+Mangalam Cement,Cement,water_withdrawal,95874,KL (approx from daily rate),https://www.mangalamcement.com/,FY 2023-24,HIGH,1,web_search
+Mangalam Cement,Cement,water_discharge,0,KL,https://www.mangalamcement.com/,FY 2023-24,HIGH,1,web_search
+Mangalam Cement,Cement,water_recycling_pct,100,%,https://www.mangalamcement.com/,FY 2023-24,HIGH,1,web_search
+Mangalam Cement,Cement,waste_generated,12.6,tonnes (batteries),https://www.mangalamcement.com/,FY 2023-24,HIGH,1,web_search
+Mangalam Cement,Cement,biodiversity_actions,"Planted 132,727 trees as of March 2024; all used oil and batteries sold to authorized recyclers.",,https://www.mangalamcement.com/,FY 2023-24,HIGH,1,web_search
+Sanghi Industries,Cement,renewable_energy_pct,35,% (target 2024),https://www.sanghicement.com/,FY 2023-24,HIGH,1,web_search
+Sanghi Industries,Cement,water_discharge,0,KL,https://www.sanghicement.com/,FY 2023-24,HIGH,1,web_search
+Sanghi Industries,Cement,water_recycling_pct,100,%,https://www.sanghicement.com/,FY 2023-24,HIGH,1,web_search
+Sanghi Industries,Cement,biodiversity_actions,Implemented mechanism for Zero Liquid Discharge; uses 'Root Zone Treatment technology' for STP.,,https://www.sanghicement.com/,FY 2023-24,HIGH,1,web_search
+LT Technology Services Limited,IT Services,ghg_scope1,207,tCO2e,https://www.ltts.com/sustainability/,FY 2022-23,HIGH,1,web_search
+LT Technology Services Limited,IT Services,ghg_scope2,13808,tCO2e,https://www.ltts.com/sustainability/,FY 2022-23,HIGH,1,web_search
+LT Technology Services Limited,IT Services,energy_consumption,64687,GJ,https://www.ltts.com/sustainability/,FY 2022-23,HIGH,1,web_search
+LT Technology Services Limited,IT Services,renewable_energy_pct,7.8,%,https://www.ltts.com/sustainability/,FY 2022-23,HIGH,1,web_search
+LT Technology Services Limited,IT Services,waste_recycled_pct,30,% (waste minimization achievement),https://www.ltts.com/sustainability/,FY 2022-23,HIGH,1,web_search
+LT Technology Services Limited,IT Services,biodiversity_actions,"Pledged to reduce absolute Scope 1, 2, and 3 emissions by 37.8% by 2030; Mysuru and Bengaluru offices use occupancy sensors.",,https://www.ltts.com/sustainability/,FY 2022-23,HIGH,1,web_search
+Larsen & Toubro Limited,IT Services,ghg_scope1,521498,tCO2e,https://www.larsentoubro.com/investors/integrated-report-2023-24/,FY 2023-24,HIGH,1,web_search
+Larsen & Toubro Limited,IT Services,ghg_scope2,300996,tCO2e,https://www.larsentoubro.com/investors/integrated-report-2023-24/,FY 2023-24,HIGH,1,web_search
+Larsen & Toubro Limited,IT Services,energy_consumption,9900000,GJ,https://www.lntsustainability.com/planet/energy-and-emissions/,FY 2023-24,HIGH,1,web_search
+Larsen & Toubro Limited,IT Services,renewable_energy_pct,15,%,https://www.lntsustainability.com/planet/energy-and-emissions/,FY 2023-24,HIGH,1,web_search
+Larsen & Toubro Limited,IT Services,biodiversity_actions,Working towards carbon and water neutrality; over 95% of Scope 3 emissions arise from purchased goods like steel and cement.,,https://www.larsentoubro.com/investors/integrated-report-2023-24/,FY 2023-24,HIGH,1,web_search
+LTIMindtree Limited,IT Services,ghg_scope1,4008,tCO2e,https://www.ltimindtree.com/sustainability-report-fy24/,FY 2023-24,HIGH,1,web_search
+LTIMindtree Limited,IT Services,ghg_scope2,55249,tCO2e,https://www.ltimindtree.com/sustainability-report-fy24/,FY 2023-24,HIGH,1,web_search
+LTIMindtree Limited,IT Services,energy_consumption,236290,GJ,https://www.ltimindtree.com/sustainability-report-fy24/,FY 2023-24,HIGH,1,web_search
+LTIMindtree Limited,IT Services,renewable_energy_pct,41,%,https://www.ltimindtree.com/sustainability-report-fy24/,FY 2023-24,HIGH,1,web_search
+LTIMindtree Limited,IT Services,water_withdrawal,361830,KL,https://www.ltimindtree.com/sustainability-report-fy24/,FY 2023-24,HIGH,1,web_search
+LTIMindtree Limited,IT Services,waste_recycled_pct,97.21,%,https://www.ltimindtree.com/sustainability-report-fy24/,FY 2023-24,HIGH,1,web_search
+LTIMindtree Limited,IT Services,biodiversity_actions,Achieved overall water positivity index of 2.8x; zero-waste to landfill certification for Bengaluru campuses.,,https://www.ltimindtree.com/sustainability-report-fy24/,FY 2023-24,HIGH,1,web_search
+APL Apollo Tubes,Other Business Services,ghg_scope1,5695,tCO2e,https://aplapollo.com/esg-report-fy24/,FY 2023-24,MEDIUM,1,web_search
+APL Apollo Tubes,Other Business Services,ghg_scope2,44287,tCO2e,https://aplapollo.com/esg-report-fy24/,FY 2023-24,MEDIUM,1,web_search
+APL Apollo Tubes,Other Business Services,renewable_energy_pct,52,% (excluding new plants),https://aplapollo.com/esg-report-fy24/,FY 2023-24,MEDIUM,1,web_search
+APL Apollo Tubes,Other Business Services,biodiversity_actions,Committed to Net Zero by 2050 (validated by SBTi); reduced overall water consumption by 24.6% YoY.,,https://aplapollo.com/esg-report-fy24/,FY 2023-24,MEDIUM,1,web_search
+IndiGo (InterGlobe Aviation),Other Business Services,ghg_scope1,6789520,tCO2e,https://www.goindigo.in/about-us/esg-report.html,FY 2022-23,HIGH,1,web_search
+IndiGo (InterGlobe Aviation),Other Business Services,ghg_scope2,4445,tCO2e,https://www.goindigo.in/about-us/esg-report.html,FY 2022-23,HIGH,1,web_search
+IndiGo (InterGlobe Aviation),Other Business Services,energy_consumption,3815974,GJ (reduction achieved),https://www.goindigo.in/about-us/esg-report.html,FY 2022-23,HIGH,1,web_search
+IndiGo (InterGlobe Aviation),Other Business Services,waste_generated,2721,tonnes (Hazardous + Non-hazardous),https://www.goindigo.in/about-us/esg-report.html,FY 2022-23,HIGH,1,web_search
+IndiGo (InterGlobe Aviation),Other Business Services,waste_recycled_pct,88,% (non-hazardous waste recycled),https://www.goindigo.in/about-us/esg-report.html,FY 2022-23,HIGH,1,web_search
+IndiGo (InterGlobe Aviation),Other Business Services,biodiversity_actions,80% of fleet from fuel-efficient Airbus A320 NEO family; achieved CO2 intensity of 59.5 grams/ASK.,,https://www.goindigo.in/about-us/esg-report.html,FY 2022-23,HIGH,1,web_search
+"GMR Airports (Delhi, Hyderabad)",Other Business Services,ghg_scope1,3590,tCO2e,https://www.gmraero.com/sustainability-report-2023-24/,FY 2023-24,HIGH,1,web_search
+"GMR Airports (Delhi, Hyderabad)",Other Business Services,ghg_scope2,18119,tCO2e,https://www.gmraero.com/sustainability-report-2023-24/,FY 2023-24,HIGH,1,web_search
+"GMR Airports (Delhi, Hyderabad)",Other Business Services,renewable_energy_pct,100,%,https://www.gmraero.com/sustainability-report-2023-24/,FY 2023-24,HIGH,1,web_search
+"GMR Airports (Delhi, Hyderabad)",Other Business Services,water_recycling_pct,100,% (ZLD at DIAL),https://www.gmraero.com/sustainability-report-2023-24/,FY 2023-24,HIGH,1,web_search
+"GMR Airports (Delhi, Hyderabad)",Other Business Services,waste_recycled_pct,100,% (target zero waste to landfill),https://www.gmraero.com/sustainability-report-2023-24/,FY 2023-24,HIGH,1,web_search
+"GMR Airports (Delhi, Hyderabad)",Other Business Services,biodiversity_actions,Delhi Airport became world's first airport in its category to achieve Level 5 Net Zero Carbon status; 52% absolute reduction in CO2 over 4 years.,,https://www.gmraero.com/sustainability-report-2023-24/,FY 2023-24,HIGH,1,web_search
+"Adani Airports (Mumbai, Ahmedabad, 6 others)",Other Business Services,renewable_energy_pct,53,%,https://www.adaniairports.com/sustainability-report-fy24,FY 2023-24,HIGH,1,web_search
+"Adani Airports (Mumbai, Ahmedabad, 6 others)",Other Business Services,water_recycling_pct,100,% (MIAL goal),https://www.adaniairports.com/sustainability-report-fy24,FY 2023-24,HIGH,1,web_search
+"Adani Airports (Mumbai, Ahmedabad, 6 others)",Other Business Services,waste_recycled_pct,99,% (diverted from landfill),https://www.adaniairports.com/sustainability-report-fy24,FY 2023-24,HIGH,1,web_search
+"Adani Airports (Mumbai, Ahmedabad, 6 others)",Other Business Services,biodiversity_actions,Mumbai International Airport (CSMIA) achieves 100% sustainable operations on green energy; aiming for water positivity.,,https://www.adaniairports.com/sustainability-report-fy24,FY 2023-24,HIGH,1,web_search
+GVK Mumbai Airport,Other Business Services,renewable_energy_pct,100,%,https://www.adaniairports.com/mumbai-international-airport,FY 2023-24,MEDIUM,1,web_search
+GVK Mumbai Airport,Other Business Services,water_recycling_pct,100,%,https://www.adaniairports.com/mumbai-international-airport,FY 2023-24,MEDIUM,1,web_search
+GVK Mumbai Airport,Other Business Services,biodiversity_actions,Now under Adani management; achieved ACA Level 4+; operates entirely on net renewable electricity.,,https://www.adaniairports.com/mumbai-international-airport,FY 2023-24,MEDIUM,1,web_search
+Bangalore International Airport Ltd (BIAL),Other Business Services,renewable_energy_pct,100,%,https://www.bengaluruairport.com/about-bial/sustainability,FY 2023-24,HIGH,1,web_search
+Bangalore International Airport Ltd (BIAL),Other Business Services,water_recycling_pct,85,% (water savings via prismatic taps),https://www.bengaluruairport.com/about-bial/sustainability,FY 2023-24,HIGH,1,web_search
+Bangalore International Airport Ltd (BIAL),Other Business Services,waste_recycled_pct,100,% (CII Platinum Green Airport Recognition),https://www.bengaluruairport.com/about-bial/sustainability,FY 2023-24,HIGH,1,web_search
+Bangalore International Airport Ltd (BIAL),Other Business Services,biodiversity_actions,Achieved Level 4+ ACA accreditation; aspiration to be Net Zero by 2030; single-use plastic eliminated from terminal.,,https://www.bengaluruairport.com/about-bial/sustainability,FY 2023-24,HIGH,1,web_search
+"Adani Airports (Mumbai, Ahmedabad, 6 others)",Other Business Services,renewable_energy_pct,53,%,https://www.adaniairports.com/sustainability-report-fy24,FY 2023-24,HIGH,1,web_search
+"Adani Airports (Mumbai, Ahmedabad, 6 others)",Other Business Services,water_recycling_pct,100,%,https://www.adaniairports.com/sustainability-report-fy24,FY 2023-24,HIGH,1,web_search
+"Adani Airports (Mumbai, Ahmedabad, 6 others)",Other Business Services,waste_recycled_pct,99,%,https://www.adaniairports.com/sustainability-report-fy24,FY 2023-24,HIGH,1,web_search
+"Adani Airports (Mumbai, Ahmedabad, 6 others)",Other Business Services,biodiversity_actions,Mumbai Airport (CSMIA) achieved ACA Level 4+ and operates on 100% renewable electricity; focuses on water positivity.,,https://www.adaniairports.com/sustainability-report-fy24,FY 2023-24,HIGH,1,web_search
+Larsen & Toubro Limited,Other Business Services,ghg_scope1,521498,tCO2e,https://www.larsentoubro.com/investors/integrated-report-2023-24/,FY 2023-24,HIGH,1,web_search
+Larsen & Toubro Limited,Other Business Services,ghg_scope2,300996,tCO2e,https://www.larsentoubro.com/investors/integrated-report-2023-24/,FY 2023-24,HIGH,1,web_search
+Larsen & Toubro Limited,Other Business Services,energy_consumption,9900000,GJ,https://www.larsentoubro.com/sustainability/planet/energy-and-emissions/,FY 2023-24,HIGH,1,web_search
+Larsen & Toubro Limited,Other Business Services,renewable_energy_pct,15,%,https://www.larsentoubro.com/sustainability/planet/energy-and-emissions/,FY 2023-24,HIGH,1,web_search
+Larsen & Toubro Limited,Other Business Services,biodiversity_actions,Committed to achieve Carbon Neutrality by 2040 and Water Neutrality by 2035; GHG emissions expected to peak around FY 2025-26.,,https://www.larsentoubro.com/investors/integrated-report-2023-24/,FY 2023-24,HIGH,1,web_search
+Sanofi India Limited,Other Business Services,ghg_scope1,486.63,tCO2e,https://www.sanofi.com/en/india/investors/integrated-annual-report-2023,CY 2023,HIGH,1,web_search
+Sanofi India Limited,Other Business Services,ghg_scope2,8476.77,tCO2e,https://www.sanofi.com/en/india/investors/integrated-annual-report-2023,CY 2023,HIGH,1,web_search
+Sanofi India Limited,Other Business Services,renewable_energy_pct,100,% (global goal by 2030),https://www.sanofi.com/en/india/investors/integrated-annual-report-2023,CY 2023,HIGH,1,web_search
+Sanofi India Limited,Other Business Services,water_recycling_pct,100,%,https://www.sanofi.com/en/india/investors/integrated-annual-report-2023,CY 2023,HIGH,1,web_search
+Sanofi India Limited,Other Business Services,waste_recycled_pct,100,% (Zero Waste to Landfill achieved),https://www.sanofi.com/en/india/investors/integrated-annual-report-2023,CY 2023,HIGH,1,web_search
+Sanofi India Limited,Other Business Services,biodiversity_actions,Installed solar energy panels at Mumbai and Goa sites; recycling all wastewater for gardening and flushing.,,https://www.sanofi.com/en/india/investors/integrated-annual-report-2023,CY 2023,HIGH,1,web_search
+DIVI'S LABORATORIES LIMITED,Other Business Services,energy_consumption,164900,GJ (conserved),https://www.divislabs.com/investor-relations/annual-reports/,FY 2023-24,HIGH,1,web_search
+DIVI'S LABORATORIES LIMITED,Other Business Services,water_withdrawal,130300,KL (conserved),https://www.divislabs.com/investor-relations/annual-reports/,FY 2023-24,HIGH,1,web_search
+DIVI'S LABORATORIES LIMITED,Other Business Services,water_recycling_pct,100,%,https://www.divislabs.com/investor-relations/annual-reports/,FY 2023-24,HIGH,1,web_search
+DIVI'S LABORATORIES LIMITED,Other Business Services,waste_generated,40,tonnes (plastic reduced),https://www.divislabs.com/investor-relations/annual-reports/,FY 2023-24,HIGH,1,web_search
+DIVI'S LABORATORIES LIMITED,Other Business Services,waste_recycled_pct,100,%,https://www.divislabs.com/investor-relations/annual-reports/,FY 2023-24,HIGH,1,web_search
+DIVI'S LABORATORIES LIMITED,Other Business Services,biodiversity_actions,"Conserved ~19,000 tCO2e GHG emissions through initiatives; implementing Green Chemistry to reduce waste generation.",,https://www.divislabs.com/investor-relations/annual-reports/,FY 2023-24,HIGH,1,web_search
+JK Tyre & Industries Limited,Other Business Services,ghg_scope1,0.87,Eq CO2/MT (intensity),https://www.jktyre.com/investors/integrated-annual-reports/,FY 2023-24,HIGH,1,web_search
+JK Tyre & Industries Limited,Other Business Services,energy_consumption,8.7,GJ/Ton of production,https://www.jktyre.com/investors/integrated-annual-reports/,FY 2023-24,HIGH,1,web_search
+JK Tyre & Industries Limited,Other Business Services,renewable_energy_pct,100,% (RE100 pledge),https://www.jktyre.com/investors/integrated-annual-reports/,FY 2023-24,HIGH,1,web_search
+JK Tyre & Industries Limited,Other Business Services,water_recycling_pct,100,%,https://www.jktyre.com/investors/integrated-annual-reports/,FY 2023-24,HIGH,1,web_search
+JK Tyre & Industries Limited,Other Business Services,waste_recycled_pct,100,%,https://www.jktyre.com/investors/integrated-annual-reports/,FY 2023-24,HIGH,1,web_search
+JK Tyre & Industries Limited,Other Business Services,biodiversity_actions,Maintain lowest water usage per kg of tyre manufactured globally; focusing on net-zero emissions by 2050.,,https://www.jktyre.com/investors/integrated-annual-reports/,FY 2023-24,HIGH,1,web_search
+Schaeffler India Limited,Other Business Services,ghg_scope1,31060,tCO2e (averted),https://www.schaeffler-india-ar.com/,CY 2024,HIGH,1,web_search
+Schaeffler India Limited,Other Business Services,renewable_energy_pct,100,%,https://www.schaeffler-india-ar.com/,CY 2024,HIGH,1,web_search
+Schaeffler India Limited,Other Business Services,water_recycling_pct,14782,m3 conserved (recycling),https://www.schaeffler-india-ar.com/,CY 2024,HIGH,1,web_search
+Schaeffler India Limited,Other Business Services,waste_recycled_pct,88,%,https://www.schaeffler-india-ar.com/,CY 2024,HIGH,1,web_search
+Schaeffler India Limited,Other Business Services,biodiversity_actions,Targeting climate neutral production by 2030 and neutral supply chain by 2040.,,https://www.schaeffler-india-ar.com/,CY 2024,HIGH,1,web_search
+Jindal Saw Limited,Other Business Services,renewable_energy_pct,22,% (target 2030),https://www.jindalsaw.com/investor-relations/annual-reports/,FY 2023-24,HIGH,1,web_search
+Jindal Saw Limited,Other Business Services,water_recycling_pct,100,% (ZLD implemented),https://www.jindalsaw.com/investor-relations/annual-reports/,FY 2023-24,HIGH,1,web_search
+Jindal Saw Limited,Other Business Services,waste_recycled_pct,100,%,https://www.jindalsaw.com/investor-relations/annual-reports/,FY 2023-24,HIGH,1,web_search
+Jindal Saw Limited,Other Business Services,land_footprint,277.1,hectares,https://www.jindalsaw.com/investor-relations/annual-reports/,FY 2023-24,HIGH,1,web_search
+Jindal Saw Limited,Other Business Services,biodiversity_actions,"GHG emissions reduced by 22,951 tCO2e through solar procurement; initiated tree plantation drives for sequestration.",,https://www.jindalsaw.com/investor-relations/annual-reports/,FY 2023-24,HIGH,1,web_search
+Narayana Hrudayalaya Ltd.,Other Business Services,renewable_energy_pct,28,%,https://www.narayanahealth.org/investor-relations/,FY 2023-24,HIGH,1,web_search
+Narayana Hrudayalaya Ltd.,Other Business Services,water_withdrawal,50162,KL (saved),https://www.narayanahealth.org/investor-relations/,FY 2023-24,HIGH,1,web_search
+Narayana Hrudayalaya Ltd.,Other Business Services,water_recycling_pct,95,%,https://www.narayanahealth.org/investor-relations/,FY 2023-24,HIGH,1,web_search
+Narayana Hrudayalaya Ltd.,Other Business Services,waste_recycled_pct,100,% (segregation at source),https://www.narayanahealth.org/investor-relations/,FY 2023-24,HIGH,1,web_search
+Narayana Hrudayalaya Ltd.,Other Business Services,biodiversity_actions,"Reduction of over 21,182 tons of carbon; 70% of hospital campuses maintained as gardens and natural spaces.",,https://www.narayanahealth.org/investor-relations/,FY 2023-24,HIGH,1,web_search
+Minda Corporation Limited,Other Business Services,ghg_scope1,8731,MTCO2e,https://churchgatepartners.com/esg-profile/minda-corporation/,FY 2023-24,HIGH,1,web_search
+Minda Corporation Limited,Other Business Services,ghg_scope2,36948,MTCO2e,https://churchgatepartners.com/esg-profile/minda-corporation/,FY 2023-24,HIGH,1,web_search
+Minda Corporation Limited,Other Business Services,renewable_energy_pct,18,% (total electricity),https://www.unominda.com/,FY 2023-24,HIGH,1,web_search
+Minda Corporation Limited,Other Business Services,water_withdrawal,757329,kL,https://www.unominda.com/,FY 2023-24,HIGH,1,web_search
+Minda Corporation Limited,Other Business Services,water_recycling_pct,100,% (ZLD implemented at most locations),https://churchgatepartners.com/esg-profile/minda-corporation/,FY 2023-24,HIGH,1,web_search
+Minda Corporation Limited,Other Business Services,biodiversity_actions,Institutionalized GHG inventory; targeting carbon intensity reduction and effective waste management.,,https://churchgatepartners.com/esg-profile/minda-corporation/,FY 2023-24,HIGH,1,web_search
+West Coast Paper Mills Limited,Paper & Pulp,energy_consumption,102683,GJ (Saved),https://www.westcoastpaper.com/wp-content/uploads/BRSR-2024.pdf,FY 2023-24,HIGH,1,web_search
+West Coast Paper Mills Limited,Paper & Pulp,renewable_energy_pct,97,% (Chemical recovery),https://www.westcoastpaper.com/wp-content/uploads/BRSR-2024.pdf,FY 2023-24,HIGH,1,web_search
+West Coast Paper Mills Limited,Paper & Pulp,water_withdrawal,57,KL/tonne of paper,https://www.westcoastpaper.com/wp-content/uploads/BRSR-2024.pdf,FY 2023-24,HIGH,1,web_search
+West Coast Paper Mills Limited,Paper & Pulp,water_recycling_pct,20,%,https://www.westcoastpaper.com/wp-content/uploads/BRSR-2024.pdf,FY 2023-24,HIGH,1,web_search
+West Coast Paper Mills Limited,Paper & Pulp,waste_recycled_pct,100,% (Fly ash used in bricks),https://www.westcoastpaper.com/wp-content/uploads/BRSR-2024.pdf,FY 2023-24,HIGH,1,web_search
+West Coast Paper Mills Limited,Paper & Pulp,land_footprint,3785,hectares (Plantation area),https://www.westcoastpaper.com/wp-content/uploads/BRSR-2024.pdf,FY 2023-24,HIGH,1,web_search
+West Coast Paper Mills Limited,Paper & Pulp,biodiversity_actions,Planted 1 crore saplings in FY24; targets 1.5 crore for FY25.,,https://www.westcoastpaper.com/wp-content/uploads/BRSR-2024.pdf,FY 2023-24,HIGH,1,web_search
+Trident Limited,Textiles & Paper,renewable_energy_pct,52.74,%,https://www.tridentindia.com/esg-report/,FY 2023-24,HIGH,1,web_search
+Trident Limited,Textiles & Paper,water_discharge,0,KL (ZLD at Budhni),https://www.tridentindia.com/esg-report/,FY 2023-24,HIGH,1,web_search
+Trident Limited,Textiles & Paper,water_recycling_pct,97,%,https://www.tridentindia.com/esg-report/,FY 2023-24,HIGH,1,web_search
+Trident Limited,Textiles & Paper,waste_recycled_pct,100,% (Zero Waste to Landfill),https://www.tridentindia.com/esg-report/,FY 2023-24,HIGH,1,web_search
+Trident Limited,Textiles & Paper,biodiversity_actions,Wheat-straw based pulp innovation; Biofuel share in mix reached 49.29%.,,https://www.tridentindia.com/esg-report/,FY 2023-24,HIGH,1,web_search
+Welspun Living Limited,Textiles,renewable_energy_pct,30.54,%,https://www.welspunliving.com/sustainability/,FY 2024-25,HIGH,1,web_search
+Welspun Living Limited,Textiles,water_recycling_pct,99,% (Waste recovery),https://www.welspunliving.com/sustainability/,FY 2024-25,HIGH,1,web_search
+Welspun Living Limited,Textiles,waste_generated,30000,tonnes,https://www.welspunliving.com/sustainability/,FY 2024-25,HIGH,1,web_search
+Welspun Living Limited,Textiles,waste_recycled_pct,99,%,https://www.welspunliving.com/sustainability/,FY 2024-25,HIGH,1,web_search
+Welspun Living Limited,Textiles,biodiversity_actions,Recycled 2.41 billion litres of sewage water; planted over 5 lakh trees.,,https://www.welspunliving.com/sustainability/,FY 2024-25,HIGH,1,web_search
+Nestle India Limited,FMCG,ghg_scope1,192678,tCO2e (India),https://www.nestle.in/csv,CY 2022/2023,HIGH,1,web_search
+Nestle India Limited,FMCG,ghg_scope2,1571,tCO2e (India),https://www.nestle.in/csv,CY 2022/2023,HIGH,1,web_search
+Nestle India Limited,FMCG,waste_generated,23300,tonnes (Plastic managed),https://www.nestle.in/csv,CY 2022/2023,HIGH,1,web_search
+Nestle India Limited,FMCG,waste_recycled_pct,100,% (Pre-consumer plastic),https://www.nestle.in/csv,CY 2022/2023,HIGH,1,web_search
+Nestle India Limited,FMCG,biodiversity_actions,Transitioning ingredients to regenerative agriculture; flash steam recovery projects.,,https://www.nestle.in/csv,CY 2022/2023,HIGH,1,web_search
+Bharat Heavy Electricals Limited (BHEL),Engineering,energy_consumption,23.92,Million Units (Saved),https://www.bhel.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Bharat Heavy Electricals Limited (BHEL),Engineering,renewable_energy_pct,8,% (Increase in solar gen),https://www.bhel.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Bharat Heavy Electricals Limited (BHEL),Engineering,water_discharge,142621,KL,https://www.bhel.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Bharat Heavy Electricals Limited (BHEL),Engineering,water_recycling_pct,100,% (at 11 ZLD units),https://www.bhel.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Bharat Heavy Electricals Limited (BHEL),Engineering,waste_recycled_pct,100,% (Single-use plastic free townships),https://www.bhel.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Bharat Heavy Electricals Limited (BHEL),Engineering,biodiversity_actions,"40% green cover across campuses; planted 81,608 saplings in FY24.",,https://www.bhel.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Emami Paper Mills Limited,Paper & Pulp,ghg_scope1,332727,tCO2e,https://www.emamipaper.in/investor-relations/,FY 2023-24,HIGH,1,web_search
+Emami Paper Mills Limited,Paper & Pulp,ghg_scope2,117435,tCO2e,https://www.emamipaper.in/investor-relations/,FY 2023-24,HIGH,1,web_search
+Emami Paper Mills Limited,Paper & Pulp,water_withdrawal,11.03,m3/tonne,https://www.emamipaper.in/investor-relations/,FY 2023-24,HIGH,1,web_search
+Emami Paper Mills Limited,Paper & Pulp,water_recycling_pct,30,%,https://www.emamipaper.in/investor-relations/,FY 2023-24,HIGH,1,web_search
+Emami Paper Mills Limited,Paper & Pulp,waste_generated,116,tonnes (Plastic),https://www.emamipaper.in/investor-relations/,FY 2023-24,HIGH,1,web_search
+Emami Paper Mills Limited,Paper & Pulp,waste_recycled_pct,100,% (ETP sludge used as fuel),https://www.emamipaper.in/investor-relations/,FY 2023-24,HIGH,1,web_search
+Emami Paper Mills Limited,Paper & Pulp,biodiversity_actions,20 recharge wells installed; biogas from ETP used to reduce coal usage.,,https://www.emamipaper.in/investor-relations/,FY 2023-24,HIGH,1,web_search
+Seshasayee Paper and Boards Limited,Paper & Pulp,water_withdrawal,39,m3/tonne,https://www.spbltd.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Seshasayee Paper and Boards Limited,Paper & Pulp,water_recycling_pct,40,%,https://www.spbltd.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Seshasayee Paper and Boards Limited,Paper & Pulp,waste_recycled_pct,100,% (Lift irrigation for farming),https://www.spbltd.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Seshasayee Paper and Boards Limited,Paper & Pulp,land_footprint,866,hectares (Irrigated land),https://www.spbltd.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Seshasayee Paper and Boards Limited,Paper & Pulp,biodiversity_actions,Unique tripartite Lift Irrigation Scheme covering 2140 acres; wood positive status.,,https://www.spbltd.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Mahindra Holidays & Resorts India Limited,Hospitality,renewable_energy_pct,100,% (Target 2030),https://www.clubmahindra.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Mahindra Holidays & Resorts India Limited,Hospitality,water_discharge,0,KL (Triple Net Zero at Madikeri),https://www.clubmahindra.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Mahindra Holidays & Resorts India Limited,Hospitality,water_recycling_pct,100,%,https://www.clubmahindra.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Mahindra Holidays & Resorts India Limited,Hospitality,waste_recycled_pct,100,% (Zero Waste to Landfill goal 2030),https://www.clubmahindra.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Mahindra Holidays & Resorts India Limited,Hospitality,biodiversity_actions,25 Platinum IGBC-certified resorts; Madikeri resort is India's first Triple Net Zero property.,,https://www.clubmahindra.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Punjab & Sind Bank,Banking,energy_consumption,199,kW (Solar capacity),https://punjabandsindbank.co.in/content/brsr,FY 2024-25,MEDIUM,1,web_search
+Punjab & Sind Bank,Banking,biodiversity_actions,Mandatory ESG assessments for loans > ₹50 crore; Climate Risk Policy introduced.,,https://punjabandsindbank.co.in/content/brsr,FY 2024-25,MEDIUM,1,web_search
+Andhra Paper Limited (formerly Andhra Pradesh Paper Mills),Paper,renewable_energy_pct,68,%,https://papermart.in/andhra-paper-turning-waste-into-assets/,FY 2023-24,HIGH,1,web_search
+Andhra Paper Limited (formerly Andhra Pradesh Paper Mills),Paper,water_withdrawal,53.5,m3/tonne,https://papermart.in/andhra-paper-turning-waste-into-assets/,FY 2023-24,HIGH,1,web_search
+Andhra Paper Limited (formerly Andhra Pradesh Paper Mills),Paper,waste_generated,900,tonnes (plastic),https://papermart.in/andhra-paper-turning-waste-into-assets/,FY 2023-24,HIGH,1,web_search
+Andhra Paper Limited (formerly Andhra Pradesh Paper Mills),Paper,waste_recycled_pct,100,%,https://papermart.in/andhra-paper-turning-waste-into-assets/,FY 2023-24,HIGH,1,web_search
+Andhra Paper Limited (formerly Andhra Pradesh Paper Mills),Paper,land_footprint,279412,"hectares (690,442 acres)",https://papermart.in/andhra-paper-turning-waste-into-assets/,FY 2023-24,HIGH,1,web_search
+Andhra Paper Limited (formerly Andhra Pradesh Paper Mills),Paper,biodiversity_actions,Farm Forestry program distributed 1.3 crore clones and 7.7 crore seedlings in FY24.,,https://papermart.in/andhra-paper-turning-waste-into-assets/,FY 2023-24,HIGH,1,web_search
+Damodar Valley Corporation (DVC),Power,energy_consumption,43667,Million Units (MU) Generation,https://thenewsmanofindia.com/dvc-celebrates-strong-performance-in-fy-2024-25/,FY 2024-25,HIGH,1,web_search
+Damodar Valley Corporation (DVC),Power,water_withdrawal,3.0,m3/MWh,https://parivesh.nic.in/proposal_status,FY 2024-25,HIGH,1,web_search
+Damodar Valley Corporation (DVC),Power,land_footprint,760.8,hectares,https://parivesh.nic.in/proposal_status,FY 2024-25,HIGH,1,web_search
+Damodar Valley Corporation (DVC),Power,biodiversity_actions,Implementation of biomass co-firing and green belt development covering 251.9 hectares.,,https://parivesh.nic.in/proposal_status,FY 2024-25,HIGH,1,web_search
+West Coast Paper Mills,Paper,energy_consumption,102683,GJ (Saved),https://www.westcoastpaper.com/brsr-2024/,FY 2023-24,HIGH,1,web_search
+West Coast Paper Mills,Paper,renewable_energy_pct,97,% (Chemical recovery),https://www.westcoastpaper.com/brsr-2024/,FY 2023-24,HIGH,1,web_search
+West Coast Paper Mills,Paper,water_withdrawal,57,KL/tonne,https://www.westcoastpaper.com/brsr-2024/,FY 2023-24,HIGH,1,web_search
+West Coast Paper Mills,Paper,water_recycling_pct,20,%,https://www.westcoastpaper.com/brsr-2024/,FY 2023-24,HIGH,1,web_search
+West Coast Paper Mills,Paper,waste_recycled_pct,100,% (Fly ash reuse),https://www.westcoastpaper.com/brsr-2024/,FY 2023-24,HIGH,1,web_search
+West Coast Paper Mills,Paper,land_footprint,3785,hectares,https://www.westcoastpaper.com/brsr-2024/,FY 2023-24,HIGH,1,web_search
+West Coast Paper Mills,Paper,biodiversity_actions,"Targeted planting of 1.5 crore trees in FY 2024-25 covering 4,600 hectares.",,https://www.westcoastpaper.com/brsr-2024/,FY 2023-24,HIGH,1,web_search
+Trident Limited,Textiles,ghg_scope1,671774,tCO2e,https://www.business-standard.com/trident-brsr-2024-25,FY 2023-24,HIGH,1,web_search
+Trident Limited,Textiles,ghg_scope2,347698,tCO2e,https://www.business-standard.com/trident-brsr-2024-25,FY 2023-24,HIGH,1,web_search
+Trident Limited,Textiles,renewable_energy_pct,52.74,%,https://www.tridentindia.com/esg-report/,FY 2023-24,HIGH,1,web_search
+Trident Limited,Textiles,water_discharge,0,KL,https://www.tridentindia.com/esg-report/,FY 2023-24,HIGH,1,web_search
+Trident Limited,Textiles,water_recycling_pct,97,%,https://www.tridentindia.com/esg-report/,FY 2023-24,HIGH,1,web_search
+Trident Limited,Textiles,waste_recycled_pct,100,%,https://www.tridentindia.com/esg-report/,FY 2023-24,HIGH,1,web_search
+Trident Limited,Textiles,biodiversity_actions,Wheat-straw based pulp innovation; Zero Liquid Discharge at Budhni facility.,,https://www.tridentindia.com/esg-report/,FY 2023-24,HIGH,1,web_search
+Welspun Living Limited (formerly Welspun India),Textiles,renewable_energy_pct,30.54,%,https://www.welspunliving.com/sustainability-report-2024-25/,FY 2023-24,HIGH,1,web_search
+Welspun Living Limited (formerly Welspun India),Textiles,water_withdrawal,2410000,KL (Recycled),https://www.welspunliving.com/sustainability-report-2024-25/,FY 2023-24,HIGH,1,web_search
+Welspun Living Limited (formerly Welspun India),Textiles,water_recycling_pct,99,%,https://www.welspunliving.com/sustainability-report-2024-25/,FY 2023-24,HIGH,1,web_search
+Welspun Living Limited (formerly Welspun India),Textiles,waste_generated,30000,tonnes,https://www.welspunliving.com/sustainability-report-2024-25/,FY 2023-24,HIGH,1,web_search
+Welspun Living Limited (formerly Welspun India),Textiles,waste_recycled_pct,99,%,https://www.welspunliving.com/sustainability-report-2024-25/,FY 2023-24,HIGH,1,web_search
+Welspun Living Limited (formerly Welspun India),Textiles,biodiversity_actions,Planted over 5 lakh trees; focus on circular fashion and organic cotton.,,https://www.welspunliving.com/sustainability-report-2024-25/,FY 2023-24,HIGH,1,web_search
+CCL Products (India) Limited,FMCG,ghg_scope1,54301,tCO2e,https://www.cclproducts.com/brsr-2024-25/,FY 2023-24,HIGH,1,web_search
+CCL Products (India) Limited,FMCG,ghg_scope2,28218,tCO2e,https://www.cclproducts.com/brsr-2024-25/,FY 2023-24,HIGH,1,web_search
+CCL Products (India) Limited,FMCG,energy_consumption,136720000,MJ,https://www.cclproducts.com/brsr-2024-25/,FY 2023-24,HIGH,1,web_search
+CCL Products (India) Limited,FMCG,water_recycling_pct,100,% (ZLD operational),https://www.cclproducts.com/brsr-2023-24/,FY 2023-24,HIGH,1,web_search
+CCL Products (India) Limited,FMCG,waste_recycled_pct,100,% (Spent coffee in boilers),https://www.cclproducts.com/brsr-2024-25/,FY 2023-24,HIGH,1,web_search
+CCL Products (India) Limited,FMCG,biodiversity_actions,Uses spent coffee waste in boiler operations to enhance circularity.,,https://www.cclproducts.com/brsr-2024-25/,FY 2023-24,HIGH,1,web_search
+ITC Limited (Paperboards Division),Paper,renewable_energy_pct,50,% (Group level),https://www.itcportal.com/sustainability/,FY 2023-24,HIGH,1,web_search
+ITC Limited (Paperboards Division),Paper,water_recycling_pct,100,% (Solid waste recycling positive),https://www.itcpspd.com/sustainability/,FY 2023-24,HIGH,1,web_search
+ITC Limited (Paperboards Division),Paper,waste_recycled_pct,100,%,https://www.itcpspd.com/sustainability/,FY 2023-24,HIGH,1,web_search
+ITC Limited (Paperboards Division),Paper,land_footprint,404686,hectares (1 Million acres),https://www.itcportal.com/sustainability/cdp-2024,FY 2023-24,HIGH,1,web_search
+ITC Limited (Paperboards Division),Paper,biodiversity_actions,Carbon Positive for 20 years; Water Positive for 23 years; Extensive social/farm forestry program.,,https://www.itcpspd.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Nestle India,FMCG,ghg_scope1,0,tCO2e (Net),https://www.nestle.in/annual-report-2023-24/,FY 2023-24,HIGH,1,web_search
+Nestle India,FMCG,ghg_scope2,1571,tCO2e (2022 level),https://www.nestle.in/annual-report-2023-24/,FY 2023-24,HIGH,1,web_search
+Nestle India,FMCG,waste_generated,23300,tonnes (plastic managed),https://www.nestle.in/csv/,FY 2023-24,HIGH,1,web_search
+Nestle India,FMCG,waste_recycled_pct,100,% (Pre-consumer plastic),https://www.nestle.in/csv/,FY 2023-24,HIGH,1,web_search
+Nestle India,FMCG,biodiversity_actions,Transitioning key ingredients to regenerative agriculture; flash steam recovery in units.,,https://www.nestle.in/csv/,FY 2023-24,HIGH,1,web_search
+Mahindra Holidays & Resorts India Limited,Hospitality,renewable_energy_pct,100,% (Target 2030),https://www.clubmahindra.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Mahindra Holidays & Resorts India Limited,Hospitality,water_discharge,0,KL (at Madikeri site),https://www.clubmahindra.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Mahindra Holidays & Resorts India Limited,Hospitality,water_recycling_pct,100,%,https://www.clubmahindra.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Mahindra Holidays & Resorts India Limited,Hospitality,waste_recycled_pct,100,% (Zero Waste goal 2030),https://www.clubmahindra.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Mahindra Holidays & Resorts India Limited,Hospitality,biodiversity_actions,Madikeri resort is India's first Triple Net Zero property; 2.8x Water Positive.,,https://www.clubmahindra.com/sustainability/,FY 2023-24,HIGH,1,web_search
+JK Paper,Paper,ghg_scope1,767744,tCO2e,https://www.jkpaper.com/annual-report-2024-25/,FY 2023-24,HIGH,1,web_search
+JK Paper,Paper,ghg_scope2,9084,tCO2e,https://www.jkpaper.com/annual-report-2024-25/,FY 2023-24,HIGH,1,web_search
+JK Paper,Paper,renewable_energy_pct,71,% (Unit JKPM),https://www.jkpaper.com/corporate-update-2023/,FY 2023-24,HIGH,1,web_search
+JK Paper,Paper,water_withdrawal,19378869,KL,https://papermart.in/jk-paper-leverages-advanced-technologies/,FY 2023-24,HIGH,1,web_search
+JK Paper,Paper,waste_generated,3268.26,tonnes (plastic),https://www.jkpaper.com/brsr-2022-23/,FY 2023-24,HIGH,1,web_search
+JK Paper,Paper,land_footprint,150000,hectares (Reforested),https://www.wwfindia.org/jk-paper-sustainability/,FY 2023-24,HIGH,1,web_search
+JK Paper,Paper,biodiversity_actions,Wood Positive status; covered 1.16 lakh hectares under farm forestry till date.,,https://www.jkorg.in/environment/,FY 2023-24,HIGH,1,web_search
+K.P.R. MILL LIMITED,Textiles,renewable_energy_pct,100,% (Wind/Solar mix),https://www.kprmilllimited.com/sustainability/,FY 2023-24,HIGH,1,web_search
+K.P.R. MILL LIMITED,Textiles,water_discharge,0,KL,https://www.kprmilllimited.com/brsr-2024-25/,FY 2023-24,HIGH,1,web_search
+K.P.R. MILL LIMITED,Textiles,water_recycling_pct,100,%,https://www.kprmilllimited.com/brsr-2024-25/,FY 2023-24,HIGH,1,web_search
+K.P.R. MILL LIMITED,Textiles,waste_recycled_pct,100,% (ETP sludge safe disposal),https://www.kprmilllimited.com/brsr-2024-25/,FY 2023-24,HIGH,1,web_search
+K.P.R. MILL LIMITED,Textiles,biodiversity_actions,Utilizes 100% organic cotton; Zero Liquid Discharge operational.,,https://dcfmodeling.com/mission-vision-kpr-mill/,FY 2023-24,HIGH,1,web_search
+Bharat Heavy Electricals Limited (BHEL),Engineering,renewable_energy_pct,8,% (solar gen increase),https://www.bhel.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Bharat Heavy Electricals Limited (BHEL),Engineering,water_discharge,142621,KL,https://www.bhel.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Bharat Heavy Electricals Limited (BHEL),Engineering,water_recycling_pct,100,% (at 11 ZLD units),https://www.bhel.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Bharat Heavy Electricals Limited (BHEL),Engineering,waste_recycled_pct,100,% (SUP free townships),https://www.bhel.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Bharat Heavy Electricals Limited (BHEL),Engineering,biodiversity_actions,"Plantation of 85,800 saplings; 40% green cover across campuses.",,https://www.bhel.com/annual-report-2024-25/,FY 2023-24,HIGH,1,web_search
+Mother Dairy,FMCG,ghg_scope1,31200,tCO2e (Reduction),https://www.researchgate.net/publication/esg-india-dairy/,FY 2023-24,HIGH,1,web_search
+Mother Dairy,FMCG,water_recycling_pct,20,%,https://www.researchgate.net/publication/esg-india-dairy/,FY 2023-24,HIGH,1,web_search
+Mother Dairy,FMCG,waste_generated,8164,MT (plastic waste recycled),https://indiatimes.com/mother-dairy-plastic-waste-neutral/,FY 2023-24,HIGH,1,web_search
+Mother Dairy,FMCG,waste_recycled_pct,100,% (Plastic waste neutral status),https://indiatimes.com/mother-dairy-plastic-waste-neutral/,FY 2023-24,HIGH,1,web_search
+Mother Dairy,FMCG,biodiversity_actions,Rainwater harvesting projects at multiple sites; solar boilers installations.,,https://www.researchgate.net/publication/esg-india-dairy/,FY 2023-24,HIGH,1,web_search
+KPR Mill Limited,Textiles,renewable_energy_pct,100,% (Wind/Solar mix for captive consumption),https://www.kprmilllimited.com/sustainability/,FY 2023-24,HIGH,1,web_search
+KPR Mill Limited,Textiles,water_discharge,0,KL (ZLD implemented at all plants),https://www.kprmilllimited.com/brsr-2024-25/,FY 2023-24,HIGH,1,web_search
+KPR Mill Limited,Textiles,water_recycling_pct,100,%,https://www.kprmilllimited.com/brsr-2024-25/,FY 2023-24,HIGH,1,web_search
+KPR Mill Limited,Textiles,waste_recycled_pct,100,% (ETP sludge safe disposal),https://www.kprmilllimited.com/brsr-2024-25/,FY 2023-24,HIGH,1,web_search
+KPR Mill Limited,Textiles,biodiversity_actions,Utilizes 100% organic cotton for Eco-Fabric line; 61.92 MW windmills and 40 MW solar power plants.,,https://dcfmodeling.com/mission-vision-kpr-mill/,FY 2023-24,HIGH,1,web_search
+Haldiram Snacks Food Private Limited,FMCG,ghg_scope1,26400,tCO2e,https://www.scribd.com/document/Haldirams-2024-GRI-Index,FY 2023-24,HIGH,1,web_search
+Haldiram Snacks Food Private Limited,FMCG,ghg_scope2,41200,tCO2e,https://www.scribd.com/document/Haldirams-2024-GRI-Index,FY 2023-24,HIGH,1,web_search
+Haldiram Snacks Food Private Limited,FMCG,water_withdrawal,1520000,m3,https://www.scribd.com/document/Haldirams-2024-GRI-Index,FY 2023-24,HIGH,1,web_search
+Haldiram Snacks Food Private Limited,FMCG,water_recycling_pct,60,%,https://www.scribd.com/document/Haldirams-2024-GRI-Index,FY 2023-24,HIGH,1,web_search
+Haldiram Snacks Food Private Limited,FMCG,waste_generated,32500,tonnes,https://www.scribd.com/document/Haldirams-2024-GRI-Index,FY 2023-24,HIGH,1,web_search
+Haldiram Snacks Food Private Limited,FMCG,waste_recycled_pct,68,% (recycled/composted),https://www.scribd.com/document/Haldirams-2024-GRI-Index,FY 2023-24,HIGH,1,web_search
+Haldiram Snacks Food Private Limited,FMCG,biodiversity_actions,"Seed To Sapling Program plants over 1,000 trees annually; buildings are LEED Platinum Certified by IGBC.",,https://www.haldirams.com/corporate-social-responsibility,FY 2023-24,HIGH,1,web_search
+Bangalore International Airport Ltd (BIAL),Airports,ghg_scope1,0,tCO2e (Net zero status achieved),https://www.deccanherald.com/india/karnataka/bengaluru/sustainability-push-global-accolade-for-bengaluru-airport-3153664,FY 2023-24,HIGH,1,web_search
+Bangalore International Airport Ltd (BIAL),Airports,ghg_scope2,0,tCO2e (Net zero status achieved),https://www.deccanherald.com/india/karnataka/bengaluru/sustainability-push-global-accolade-for-bengaluru-airport-3153664,FY 2023-24,HIGH,1,web_search
+Bangalore International Airport Ltd (BIAL),Airports,renewable_energy_pct,100,%,https://www.internationalairportreview.com/article/195449/bangalore-airports-commitment-to-a-greener-tomorrow/,FY 2023-24,HIGH,1,web_search
+Bangalore International Airport Ltd (BIAL),Airports,water_recycling_pct,85,% (Water savings via prismatic taps),https://www.bengaluruairport.com/about-bial/sustainability,FY 2023-24,HIGH,1,web_search
+Bangalore International Airport Ltd (BIAL),Airports,waste_recycled_pct,100,% (Zero Waste to Landfill goal),https://www.bengaluruairport.com/about-bial/sustainability,FY 2023-24,HIGH,1,web_search
+Bangalore International Airport Ltd (BIAL),Airports,biodiversity_actions,"Terminal 2 'Terminal in a Garden' features 3,600+ plant species and 180 rare/endangered species.",,https://www.internationalairportreview.com/article/195449/bangalore-airports-commitment-to-a-greener-tomorrow/,FY 2023-24,HIGH,1,web_search
+Cochin International Airport (CIAL),Airports,ghg_scope2,0,tCO2e (Power neutral since 2015),https://www.icao.int/environmental-protection/Documents/Environmental%20Report%202022/67-Chapter%204_Sustainable%20Alternative%20Fuels%20-%20CIAL.pdf,FY 2023-24,HIGH,1,web_search
+Cochin International Airport (CIAL),Airports,energy_consumption,350000000,Units generated (cumulative April 2024),https://economictimes.indiatimes.com/industry/renewables/cochin-international-airport-to-double-installed-solar-capacity-in-next-5-10-yrs-s-suhas-md/articleshow/111394144.cms,FY 2023-24,HIGH,1,web_search
+Cochin International Airport (CIAL),Airports,renewable_energy_pct,100,% (Fully solar powered),https://economictimes.indiatimes.com/industry/renewables/cochin-international-airport-to-double-installed-solar-capacity-in-next-5-10-yrs-s-suhas-md/articleshow/111394144.cms,FY 2023-24,HIGH,1,web_search
+Cochin International Airport (CIAL),Airports,waste_generated,90,tonnes (pesticide-free vegetables produced via agrivoltaics),https://www.icao.int/environmental-protection/Documents/Environmental%20Report%202022/67-Chapter%204_Sustainable%20Alternative%20Fuels%20-%20CIAL.pdf,FY 2023-24,HIGH,1,web_search
+Cochin International Airport (CIAL),Airports,land_footprint,18.2,hectares (45 acres for 12 MWp solar plant),https://www.icao.int/environmental-protection/Documents/Environmental%20Report%202022/67-Chapter%204_Sustainable%20Alternative%20Fuels%20-%20CIAL.pdf,FY 2023-24,HIGH,1,web_search
+Cochin International Airport (CIAL),Airports,biodiversity_actions,"World's first fully solar-powered airport; 28,000 MT CO2 emissions reduced annually.",,https://www.thesmartere.in/case-studies/cochin-international-airport-limited-cial/,FY 2023-24,HIGH,1,web_search
+Seshasayee Paper and Boards Limited,Paper,renewable_energy_pct,61,% (Unit Erode),https://www.spbltd.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Seshasayee Paper and Boards Limited,Paper,water_withdrawal,39,m3/tonne,https://www.spbltd.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Seshasayee Paper and Boards Limited,Paper,water_recycling_pct,40,%,https://www.spbltd.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Seshasayee Paper and Boards Limited,Paper,waste_recycled_pct,100,% (Lift irrigation for barren lands),https://www.spbltd.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Seshasayee Paper and Boards Limited,Paper,land_footprint,866,hectares (Irrigated cultivable wet land),https://www.spbltd.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Seshasayee Paper and Boards Limited,Paper,biodiversity_actions,Lift Irrigation Scheme covers 2140 acres of barren land; Wood Positive status through farm forestry.,,https://www.spbltd.com/sustainability/,FY 2023-24,HIGH,1,web_search
+Emami Paper Mills Limited,Paper,ghg_scope1,332727,tCO2e,https://www.emamipaper.in/investor-relations/,FY 2023-24,HIGH,1,web_search
+Emami Paper Mills Limited,Paper,ghg_scope2,117435,tCO2e,https://www.emamipaper.in/investor-relations/,FY 2023-24,HIGH,1,web_search
+Emami Paper Mills Limited,Paper,water_withdrawal,11.03,m3/tonne,https://www.emamipaper.in/investor-relations/,FY 2023-24,HIGH,1,web_search
+Emami Paper Mills Limited,Paper,water_recycling_pct,30,%,https://www.emamipaper.in/investor-relations/,FY 2023-24,HIGH,1,web_search
+Emami Paper Mills Limited,Paper,waste_generated,116,tonnes (Plastic managed),https://www.emamipaper.in/investor-relations/,FY 2023-24,HIGH,1,web_search
+Emami Paper Mills Limited,Paper,waste_recycled_pct,100,% (ETP sludge used as fuel),https://www.emamipaper.in/investor-relations/,FY 2023-24,HIGH,1,web_search
+Emami Paper Mills Limited,Paper,biodiversity_actions,20 recharge wells installed with 77% water drawl potential; 7 MWp solar capacity installed.,,https://www.emamipaper.in/sustainability/,FY 2023-24,HIGH,1,web_search
+L&T Finance Limited,Financial Services,ghg_scope1,386.23,tCO2e,https://www.ltfinance.com/investors/integrated-annual-report-2024-25,FY 2024-25 (Projected),HIGH,1,web_search
+L&T Finance Limited,Financial Services,ghg_scope2,1909.16,tCO2e (Difference from total),https://www.ltfinance.com/investors/integrated-annual-report-2024-25,FY 2024-25 (Projected),HIGH,1,web_search
+L&T Finance Limited,Financial Services,renewable_energy_pct,33,% (Company operations on green power),https://www.ltfinance.com/sustainability,FY 2024-25 (Projected),HIGH,1,web_search
+L&T Finance Limited,Financial Services,water_recycling_pct,90,% (Increase in wastewater recycling via STP),https://www.ltfinance.com/sustainability,FY 2024-25 (Projected),HIGH,1,web_search
+L&T Finance Limited,Financial Services,waste_recycled_pct,100,% (E-waste disposal focus),https://www.ltfinance.com/sustainability,FY 2024-25 (Projected),HIGH,1,web_search
+L&T Finance Limited,Financial Services,land_footprint,101.1,hectares (250+ acres green cover),https://www.ltfinance.com/sustainability,FY 2024-25 (Projected),HIGH,1,web_search
+L&T Finance Limited,Financial Services,biodiversity_actions,Targeting Carbon Neutrality by 2035; Miyawaki plantation supports 108 flora/fauna species.,,https://www.ltfinance.com/sustainability,FY 2024-25 (Projected),HIGH,1,web_search
+Usha Martin Limited,Steel & Iron,water_discharge,750,KLD (ETP capacity at Ranchi),https://www.ushamartin.com/sustainability,FY 2024-25,HIGH,1,web_search
+Usha Martin Limited,Steel & Iron,water_recycling_pct,100,% (Acid reuse in pickling process),https://www.ushamartin.com/sustainability,FY 2024-25,HIGH,1,web_search
+Usha Martin Limited,Steel & Iron,waste_recycled_pct,100,% (Fly ash utilization),https://www.ushamartin.com/investor-relations/environmental-compliance-reports,FY 2024-25,HIGH,1,web_search
+Usha Martin Limited,Steel & Iron,biodiversity_actions,Achieved 1.22 tCO2e/MT GHG emission intensity (Scope 1 & 2); 4 MW rooftop solar PV system at Ranchi.,,https://www.ushamartin.com/sustainability,FY 2024-25,HIGH,1,web_search
+Larsen & Toubro Limited,,ghg_scope1,635646.0,tCO2e,https://www.larsentoubro.com/media/kskb1y5t/integrated-annual-report-2023-24.pdf,2023-24,0.95,Tier 1,Manual Search
+Larsen & Toubro Limited,,ghg_scope2,349682.0,tCO2e,https://www.larsentoubro.com/media/kskb1y5t/integrated-annual-report-2023-24.pdf,2023-24,0.95,Tier 1,Manual Search
+Larsen & Toubro Limited,,water_withdrawal,16125324.0,KL,https://www.larsentoubro.com/media/kskb1y5t/integrated-annual-report-2023-24.pdf,2023-24,0.95,Tier 1,Manual Search
+Larsen & Toubro Limited,,waste_generated,240000.0,tonnes,https://www.larsentoubro.com/media/kskb1y5t/integrated-annual-report-2023-24.pdf,2023-24,0.9,Tier 1,Manual Search
+Larsen & Toubro Limited,,waste_recycled_pct,50.0,%,https://www.larsentoubro.com/media/kskb1y5t/integrated-annual-report-2023-24.pdf,2023-24,0.85,Tier 1,Manual Search
+GVK Mumbai Airport,,ghg_scope1,0.0,tCO2e,https://www.infrastructuretoday.co.in/news/mial-achieves-carbon-neutrality-for-fy23/,2022-23,0.9,Tier 2,Manual Search
+GVK Mumbai Airport,,ghg_scope2,0.0,tCO2e,https://www.infrastructuretoday.co.in/news/mial-achieves-carbon-neutrality-for-fy23/,2022-23,0.9,Tier 2,Manual Search
+GVK Mumbai Airport,,water_withdrawal,879811.0,KL,https://www.internationalairportreview.com/news/186523/mumbai-airport-sustainable-water-management/,2022-23,0.9,Tier 1,Manual Search
+GVK Mumbai Airport,,waste_recycled_pct,98.7,%,https://www.infrastructuretoday.co.in/news/mial-achieves-carbon-neutrality-for-fy23/,2022-23,0.9,Tier 1,Manual Search
+IndiaMART InterMESH Limited,,ghg_scope1,15.42,tCO2e,https://www.indiamart.com/investor-relations/annual-reports/,2022-23,0.95,Tier 1,Manual Search
+IndiaMART InterMESH Limited,,ghg_scope2,347.53,tCO2e,https://www.indiamart.com/investor-relations/annual-reports/,2022-23,0.95,Tier 1,Manual Search
+IndiaMART InterMESH Limited,,water_withdrawal,16252.0,KL,https://www.indiamart.com/investor-relations/annual-reports/,2022-23,0.95,Tier 1,Manual Search
+IndiaMART InterMESH Limited,,waste_generated,0.0,tonnes,https://www.indiamart.com/investor-relations/annual-reports/,2022-23,0.9,Tier 1,Manual Search
+Punjab & Sind Bank,,ghg_scope1,3563.46,tCO2e,https://punjabandsindbank.co.in/content/brsr,2023-24,0.9,Tier 1,Manual Search
+Punjab & Sind Bank,,ghg_scope2,27316.1,tCO2e,https://punjabandsindbank.co.in/content/brsr,2023-24,0.9,Tier 1,Manual Search
+GAIL (India) Limited,,ghg_scope1,3656157.0,tCO2e,https://gailonline.com/SustainabilityReport/GAIL_SR_2022-23.pdf,2022-23,0.95,Tier 1,Manual Search
+GAIL (India) Limited,,ghg_scope2,319380.0,tCO2e,https://gailonline.com/SustainabilityReport/GAIL_SR_2022-23.pdf,2022-23,0.95,Tier 1,Manual Search
+GAIL (India) Limited,,water_withdrawal,17590000.0,KL,https://gailonline.com/SustainabilityReport/GAIL_SR_2022-23.pdf,2022-23,0.95,Tier 1,Manual Search
+GAIL (India) Limited,,waste_recycled,32.0,tonnes,https://gailonline.com/SustainabilityReport/GAIL_SR_2022-23.pdf,2022-23,0.9,Tier 1,Manual Search
+GAIL (India) Limited,,energy_consumption,50065334.0,GJ,https://gailonline.com/SustainabilityReport/GAIL_SR_2022-23.pdf,2022-23,0.95,Tier 1,Manual Search
+ARVIND LIMITED,,water_discharge,86.0,%,ARVIND LIMITED_2024_Sustainability Report 2024.pdf,2022-23,0.7,Tier 2,PDF Keyword
+ARVIND LIMITED,,water_discharge,86.0,%,ARVIND LIMITED_2024_Sustainability Report 2024.pdf,2022-23,0.7,Tier 2,PDF Keyword
+ARVIND LIMITED,,energy_consumption,24.0,%,ARVIND LIMITED_2024_Sustainability Report 2024.pdf,2022-23,0.7,Tier 2,PDF Keyword
+ARVIND LIMITED,,renewable_energy_pct,24.0,%,ARVIND LIMITED_2024_Sustainability Report 2024.pdf,2022-23,0.7,Tier 2,PDF Keyword
+Adani Energy Solutions Limited,Unknown,Biodiversity_Actions,tainable Future 116 Biodiversity Conservation and Land Use Sustainability Report 2024-25 5,Description,"Adani Energy Solutions Limited_Download.pdf, page 5",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Water_Withdrawal,624000.0,KL,"Adani Energy Solutions Limited_Download.pdf, page 21",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Waste_Generated,35.2,UNKNOWN,"Adani Energy Solutions Limited_Download.pdf, page 21",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Hazardous_Waste,35.2,UNKNOWN,"Adani Energy Solutions Limited_Download.pdf, page 21",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Air_Emissions_PM,624000.0,UNKNOWN,"Adani Energy Solutions Limited_Download.pdf, page 21",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,GHG_Scope1,2.0,UNKNOWN,"Adani Energy Solutions Limited_Download.pdf, page 34",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,GHG_Scope2,2.0,UNKNOWN,"Adani Energy Solutions Limited_Download.pdf, page 34",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,GHG_Scope3,2.0,UNKNOWN,"Adani Energy Solutions Limited_Download.pdf, page 34",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Renewable_Energy_Pct,2.0,%,"Adani Energy Solutions Limited_Download.pdf, page 34",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Air_Emissions_NOx,2.0,UNKNOWN,"Adani Energy Solutions Limited_Download.pdf, page 34",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Air_Emissions_SOx,2.0,UNKNOWN,"Adani Energy Solutions Limited_Download.pdf, page 34",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Water_Discharge,2.0,UNKNOWN,"Adani Energy Solutions Limited_Download.pdf, page 35",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Water_Consumption,2.0,UNKNOWN,"Adani Energy Solutions Limited_Download.pdf, page 35",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Protected_Area_Proximity,"onal S2, S6 through protected areas • Decline in species biodiversity frameworks operations in eco- and areas of high Significant for health from activities in • Transmission line routes are planned to sensitive zones bi",Description,"Adani Energy Solutions Limited_Download.pdf, page 36",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Energy_Consumption,8928871.0,mwh,"Adani Energy Solutions Limited_Download.pdf, page 77",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Land_Footprint,2.6,UNKNOWN,"Adani Energy Solutions Limited_Download.pdf, page 204",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Waste_Recycled_Pct,306.0,UNKNOWN,"Adani Energy Solutions Limited_Download.pdf, page 229",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+ALEMBIC PHARMACEUTICALS LIMITED,Unknown,Energy_Consumption,201587.0,gj,"ALEMBIC PHARMACEUTICALS LIMITED_2022_View OurSustainability Report.pdf, page 2",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+ALEMBIC PHARMACEUTICALS LIMITED,Unknown,Renewable_Energy_Pct,201587.0,gj,"ALEMBIC PHARMACEUTICALS LIMITED_2022_View OurSustainability Report.pdf, page 2",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+ALEMBIC PHARMACEUTICALS LIMITED,Unknown,GHG_Scope1,2023.0,UNKNOWN,"ALEMBIC PHARMACEUTICALS LIMITED_2022_View OurSustainability Report.pdf, page 5",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+ALEMBIC PHARMACEUTICALS LIMITED,Unknown,Water_Consumption,2023.0,KL,"ALEMBIC PHARMACEUTICALS LIMITED_2022_View OurSustainability Report.pdf, page 5",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+ALEMBIC PHARMACEUTICALS LIMITED,Unknown,Waste_Recycled_Pct,2023.0,%,"ALEMBIC PHARMACEUTICALS LIMITED_2022_View OurSustainability Report.pdf, page 5",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+ALEMBIC PHARMACEUTICALS LIMITED,Unknown,Green_Cover,2023.0,ha,"ALEMBIC PHARMACEUTICALS LIMITED_2022_View OurSustainability Report.pdf, page 5",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+ALEMBIC PHARMACEUTICALS LIMITED,Unknown,GHG_Scope2,2023.0,UNKNOWN,"ALEMBIC PHARMACEUTICALS LIMITED_2022_View OurSustainability Report.pdf, page 13",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+ALEMBIC PHARMACEUTICALS LIMITED,Unknown,GHG_Scope3,2023.0,UNKNOWN,"ALEMBIC PHARMACEUTICALS LIMITED_2022_View OurSustainability Report.pdf, page 13",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+ALEMBIC PHARMACEUTICALS LIMITED,Unknown,Biodiversity_Actions,"n sequestration and biodiversity restoration. We have increased our target tree our carbon footprint and positioning Alembic as a forward-looking leader in sustainability. cover from 50,000 to 1 lakh trees which will be ",Description,"ALEMBIC PHARMACEUTICALS LIMITED_2022_View OurSustainability Report.pdf, page 13",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+ALEMBIC PHARMACEUTICALS LIMITED,Unknown,Water_Recycling_Pct,1.5,%,"ALEMBIC PHARMACEUTICALS LIMITED_2022_View OurSustainability Report.pdf, page 14",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+ALEMBIC PHARMACEUTICALS LIMITED,Unknown,Air_Emissions_PM,1907.0,UNKNOWN,"ALEMBIC PHARMACEUTICALS LIMITED_2022_View OurSustainability Report.pdf, page 17",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+ALEMBIC PHARMACEUTICALS LIMITED,Unknown,Waste_Generated,2.0,UNKNOWN,"ALEMBIC PHARMACEUTICALS LIMITED_2022_View OurSustainability Report.pdf, page 24",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+ALEMBIC PHARMACEUTICALS LIMITED,Unknown,Water_Withdrawal,2020.0,KL,"ALEMBIC PHARMACEUTICALS LIMITED_2022_View OurSustainability Report.pdf, page 29",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+ALEMBIC PHARMACEUTICALS LIMITED,Unknown,Hazardous_Waste,1.0,UNKNOWN,"ALEMBIC PHARMACEUTICALS LIMITED_2022_View OurSustainability Report.pdf, page 57",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+ALEMBIC PHARMACEUTICALS LIMITED,Unknown,Facility_Locations,everse Osmosis (RO) plants at all manufacturing locations also Data-Driven Decisions ensure that water and effluents are treated and recycled to the maximum extent possible. No effluents Utilising data from water footpri,Description,"ALEMBIC PHARMACEUTICALS LIMITED_2022_View OurSustainability Report.pdf, page 60",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+ALEMBIC PHARMACEUTICALS LIMITED,Unknown,Water_Discharge,303.0,UNKNOWN,"ALEMBIC PHARMACEUTICALS LIMITED_2022_View OurSustainability Report.pdf, page 115",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+ALEMBIC PHARMACEUTICALS LIMITED,Unknown,Air_Emissions_NOx,2023.0,UNKNOWN,"ALEMBIC PHARMACEUTICALS LIMITED_2022_View OurSustainability Report.pdf, page 128",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+ALEMBIC PHARMACEUTICALS LIMITED,Unknown,Air_Emissions_SOx,2023.0,UNKNOWN,"ALEMBIC PHARMACEUTICALS LIMITED_2022_View OurSustainability Report.pdf, page 128",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+ARVIND LIMITED,Unknown,Biodiversity_Actions,Waste Management 70 Biodiversity: Our Commitment to a Sustainable Future 80 Social Performance 80 Empowering People 102 Community Development 108 Governance Performance 108 Governance Performance 113 Responsible Supply C,Description,"ARVIND LIMITED_2024_Sustainability Report 2024.pdf, page 2",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+ARVIND LIMITED,Unknown,GHG_Scope1,1.0,UNKNOWN,"ARVIND LIMITED_2024_Sustainability Report 2024.pdf, page 54",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+ARVIND LIMITED,Unknown,GHG_Scope2,3.0,UNKNOWN,"ARVIND LIMITED_2024_Sustainability Report 2024.pdf, page 54",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+ARVIND LIMITED,Unknown,Air_Emissions_PM,2.0,UNKNOWN,"ARVIND LIMITED_2024_Sustainability Report 2024.pdf, page 80",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+CESC Limited,Unknown,Biodiversity_Actions,"er conservation and biodiversity management, and waste reduction and recycling. Waste reduction remains a critical focus area, with ongoing efforts to phase out single-use plastics across our businesses. We also emphasis",Description,"CESC Limited_2024_ESG Report 2024-25.pdf, page 9",FY 2025,HIGH,Tier 1,PDF_Extraction
+CESC Limited,Unknown,Air_Emissions_PM,2024.0,UNKNOWN,"CESC Limited_2024_ESG Report 2024-25.pdf, page 22",FY 2025,HIGH,Tier 1,PDF_Extraction
+CESC Limited,Unknown,Energy_Consumption,302.0,UNKNOWN,"CESC Limited_2024_ESG Report 2024-25.pdf, page 75",FY 2025,HIGH,Tier 1,PDF_Extraction
+CESC Limited,Unknown,GHG_Scope1,2016.0,UNKNOWN,"CESC Limited_2024_ESG Report 2024-25.pdf, page 79",FY 2025,HIGH,Tier 1,PDF_Extraction
+CESC Limited,Unknown,GHG_Scope2,305.0,UNKNOWN,"CESC Limited_2024_ESG Report 2024-25.pdf, page 79",FY 2025,HIGH,Tier 1,PDF_Extraction
+CESC Limited,Unknown,Water_Withdrawal,2016.0,UNKNOWN,"CESC Limited_2024_ESG Report 2024-25.pdf, page 79",FY 2025,HIGH,Tier 1,PDF_Extraction
+CESC Limited,Unknown,Water_Discharge,303.0,UNKNOWN,"CESC Limited_2024_ESG Report 2024-25.pdf, page 79",FY 2025,HIGH,Tier 1,PDF_Extraction
+CESC Limited,Unknown,Water_Consumption,303.0,UNKNOWN,"CESC Limited_2024_ESG Report 2024-25.pdf, page 79",FY 2025,HIGH,Tier 1,PDF_Extraction
+CESC Limited,Unknown,Waste_Recycled_Pct,306.0,UNKNOWN,"CESC Limited_2024_ESG Report 2024-25.pdf, page 79",FY 2025,HIGH,Tier 1,PDF_Extraction
+CESC Limited,Unknown,Air_Emissions_NOx,305.0,UNKNOWN,"CESC Limited_2024_ESG Report 2024-25.pdf, page 79",FY 2025,HIGH,Tier 1,PDF_Extraction
+CESC Limited,Unknown,Air_Emissions_SOx,305.0,UNKNOWN,"CESC Limited_2024_ESG Report 2024-25.pdf, page 79",FY 2025,HIGH,Tier 1,PDF_Extraction
+COAL INDIA LIMITED,Unknown,Biodiversity_Actions,l and Management 56 Biodiversity Management 64 JustTransitionforAll Social Responsibility 65 Performance Highlights 66 Employee Management 67 OccupationalHealthand Safety 73 LearningandDevelopment 75 76 EngagingwithCommu,Description,"COAL INDIA LIMITED_2021_2021-22.pdf, page 4",FY 2021-22,MEDIUM,Tier 1,PDF_Extraction
+COAL INDIA LIMITED,Unknown,GHG_Scope1,2021.0,UNKNOWN,"COAL INDIA LIMITED_2021_2021-22.pdf, page 45",FY 2021-22,MEDIUM,Tier 1,PDF_Extraction
+COAL INDIA LIMITED,Unknown,GHG_Scope2,2021.0,UNKNOWN,"COAL INDIA LIMITED_2021_2021-22.pdf, page 45",FY 2021-22,MEDIUM,Tier 1,PDF_Extraction
+COAL INDIA LIMITED,Unknown,Air_Emissions_PM,100.0,UNKNOWN,"COAL INDIA LIMITED_2021_2021-22.pdf, page 63",FY 2021-22,MEDIUM,Tier 1,PDF_Extraction
+COAL INDIA LIMITED,Unknown,Air_Emissions_NOx,742.0,UNKNOWN,"COAL INDIA LIMITED_2021_2021-22.pdf, page 94",FY 2021-22,MEDIUM,Tier 1,PDF_Extraction
+Cochin Shipyard Limited,Unknown,Air_Emissions_PM,4.0,UNKNOWN,"Cochin Shipyard Limited_2017_CSR Projects undertaken by CSL in 2017-18(PDF File -Filesize _ 121.69 KB).pdf, page 2",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Cochin Shipyard Limited,Unknown,Biodiversity_Actions,"ial support Cl.(iv) Conservation of Kerala and 40.00 15.00 Wild Life Trust for conservation of natural resources Lakshadweep Coastal of India, New whale sharks along area Delhi Kerala and Lakshadweep waters by Wild Life ",Description,"Cochin Shipyard Limited_2017_CSR Projects undertaken by CSL in 2017-18(PDF File -Filesize _ 121.69 KB).pdf, page 5",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Coforge Limited,Unknown,Biodiversity_Actions,"cational Nature and biodiversity: We carried out Technology (WIT) Roundtable 2024. training and created livelihood opportunities for initiatives such as tree plantation, biodiversity Women entrepreneurship: We sponsored ",Description,"Coforge Limited_2025_Read here.pdf, page 5",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Coforge Limited,Unknown,Energy_Consumption,2.0,UNKNOWN,"Coforge Limited_2025_Read here.pdf, page 30",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Coforge Limited,Unknown,Green_Cover,2.0,ha,"Coforge Limited_2025_Read here.pdf, page 30",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Coforge Limited,Unknown,Waste_Generated,56.0,UNKNOWN,"Coforge Limited_2025_Read here.pdf, page 46",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Coforge Limited,Unknown,Hazardous_Waste,0.76,UNKNOWN,"Coforge Limited_2025_Read here.pdf, page 46",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Coforge Limited,Unknown,Air_Emissions_PM,12828.0,UNKNOWN,"Coforge Limited_2025_Read here.pdf, page 58",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Coforge Limited,Unknown,Water_Withdrawal,303.0,UNKNOWN,"Coforge Limited_2025_Read here.pdf, page 91",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Coforge Limited,Unknown,Water_Discharge,303.0,UNKNOWN,"Coforge Limited_2025_Read here.pdf, page 91",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Coforge Limited,Unknown,Water_Consumption,303.0,UNKNOWN,"Coforge Limited_2025_Read here.pdf, page 91",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Coforge Limited,Unknown,GHG_Scope1,305.0,UNKNOWN,"Coforge Limited_2025_Read here.pdf, page 92",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Coforge Limited,Unknown,GHG_Scope2,305.0,UNKNOWN,"Coforge Limited_2025_Read here.pdf, page 92",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Coforge Limited,Unknown,GHG_Scope3,305.0,UNKNOWN,"Coforge Limited_2025_Read here.pdf, page 92",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Coforge Limited,Unknown,Waste_Recycled_Pct,306.0,UNKNOWN,"Coforge Limited_2025_Read here.pdf, page 92",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Dalmia Bharat Limited,Unknown,Air_Emissions_PM,60.0,mt,"Dalmia Bharat Limited_2021_Download.pdf, page 2",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Dalmia Bharat Limited,Unknown,Energy_Consumption,100.0,UNKNOWN,"Dalmia Bharat Limited_2021_Download.pdf, page 3",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Dalmia Bharat Limited,Unknown,Renewable_Energy_Pct,100.0,%,"Dalmia Bharat Limited_2021_Download.pdf, page 3",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Dalmia Bharat Limited,Unknown,GHG_Scope1,41.0,UNKNOWN,"Dalmia Bharat Limited_2021_Download.pdf, page 5",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Dalmia Bharat Limited,Unknown,Biodiversity_Actions,ilding materials 6. Biodiversity are verified internally and assured 7. Effluent and Waste Management externally before inclusion in the report. 44 Financial capital 8. Sustainable Value Chain Financial resources utilise,Description,"Dalmia Bharat Limited_2021_Download.pdf, page 9",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Dalmia Bharat Limited,Unknown,GHG_Scope2,1988.0,UNKNOWN,"Dalmia Bharat Limited_2021_Download.pdf, page 30",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Dalmia Bharat Limited,Unknown,Water_Consumption,1988.0,UNKNOWN,"Dalmia Bharat Limited_2021_Download.pdf, page 30",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Dalmia Bharat Limited,Unknown,Waste_Generated,9905.0,tonnes,"Dalmia Bharat Limited_2021_Download.pdf, page 30",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Dalmia Bharat Limited,Unknown,Water_Recycling_Pct,38.0,%,"Dalmia Bharat Limited_2021_Download.pdf, page 31",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Dalmia Bharat Limited,Unknown,Air_Emissions_NOx,13.92,tonnes,"Dalmia Bharat Limited_2021_Download.pdf, page 31",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Dalmia Bharat Limited,Unknown,Air_Emissions_SOx,13.92,tonnes,"Dalmia Bharat Limited_2021_Download.pdf, page 31",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Dalmia Bharat Limited,Unknown,Hazardous_Waste,100.0,UNKNOWN,"Dalmia Bharat Limited_2021_Download.pdf, page 43",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Dalmia Bharat Limited,Unknown,Facility_Locations,14.0,Description,"Dalmia Bharat Limited_2021_Download.pdf, page 54",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Dalmia Bharat Limited,Unknown,Protected_Area_Proximity,"reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances are required, please specify details in the following format: S. Whether the conditions of env",Description,"Dalmia Bharat Limited_2021_Download.pdf, page 170",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Jindal Stainless Limited,Unknown,Biodiversity_Actions,"Renewable Energy 53 Biodiversity 55 70 80 92 Well-Being of Employees Product Stewardship Ethical Conduct Occupational Health & Safety 72 Research & Development 83 Anti-Competitive Behavior 94 Employee Well-Being, Trainin",Description,"Jindal Stainless Limited_2023_Click here for FY23 ESG Report.pdf, page 3",FY 2022-23,HIGH,Tier 1,PDF_Extraction
+Jindal Stainless Limited,Unknown,Facility_Locations,"pany has registered office at O.P. Jindal Marg, Hisar 125005 Net Zero Renewable corporate governance. This report underscores our dedication to Haryana. The report includes information of Jindal Stainless Limited transpa",Description,"Jindal Stainless Limited_2023_Click here for FY23 ESG Report.pdf, page 4",FY 2022-23,HIGH,Tier 1,PDF_Extraction
+Jindal Stainless Limited,Unknown,Air_Emissions_PM,20.0,UNKNOWN,"Jindal Stainless Limited_2023_Click here for FY23 ESG Report.pdf, page 18",FY 2022-23,HIGH,Tier 1,PDF_Extraction
+Jindal Stainless Limited,Unknown,Waste_Recycled_Pct,6.0,UNKNOWN,"Jindal Stainless Limited_2023_Click here for FY23 ESG Report.pdf, page 22",FY 2022-23,HIGH,Tier 1,PDF_Extraction
+Jindal Stainless Limited,Unknown,Hazardous_Waste,67522.0,UNKNOWN,"Jindal Stainless Limited_2023_Click here for FY23 ESG Report.pdf, page 24",FY 2022-23,HIGH,Tier 1,PDF_Extraction
+Jindal Stainless Limited,Unknown,Water_Withdrawal,11681607.0,UNKNOWN,"Jindal Stainless Limited_2023_Click here for FY23 ESG Report.pdf, page 25",FY 2022-23,HIGH,Tier 1,PDF_Extraction
+Jindal Stainless Limited,Unknown,Water_Consumption,11681607.0,UNKNOWN,"Jindal Stainless Limited_2023_Click here for FY23 ESG Report.pdf, page 25",FY 2022-23,HIGH,Tier 1,PDF_Extraction
+Jindal Stainless Limited,Unknown,GHG_Scope1,1.0,UNKNOWN,"Jindal Stainless Limited_2023_Click here for FY23 ESG Report.pdf, page 26",FY 2022-23,HIGH,Tier 1,PDF_Extraction
+Jindal Stainless Limited,Unknown,GHG_Scope2,2.0,UNKNOWN,"Jindal Stainless Limited_2023_Click here for FY23 ESG Report.pdf, page 26",FY 2022-23,HIGH,Tier 1,PDF_Extraction
+Jindal Stainless Limited,Unknown,GHG_Scope3,3.0,UNKNOWN,"Jindal Stainless Limited_2023_Click here for FY23 ESG Report.pdf, page 26",FY 2022-23,HIGH,Tier 1,PDF_Extraction
+Jindal Stainless Limited,Unknown,Air_Emissions_SOx,851.89,mt,"Jindal Stainless Limited_2023_Click here for FY23 ESG Report.pdf, page 26",FY 2022-23,HIGH,Tier 1,PDF_Extraction
+Jindal Stainless Limited,Unknown,Energy_Consumption,8406334.0,UNKNOWN,"Jindal Stainless Limited_2023_Click here for FY23 ESG Report.pdf, page 27",FY 2022-23,HIGH,Tier 1,PDF_Extraction
+Jindal Stainless Limited,Unknown,Protected_Area_Proximity,"me Carbon Abatement protected areas. Furthermore, we have taken precautions to ensure that cultivation over an area of 63 Acres of land under Sukinda Tehesil, for Project Life time of Carbon abatement potential of our pl",Description,"Jindal Stainless Limited_2023_Click here for FY23 ESG Report.pdf, page 28",FY 2022-23,HIGH,Tier 1,PDF_Extraction
+Jindal Stainless Limited,Unknown,Water_Discharge,303.0,UNKNOWN,"Jindal Stainless Limited_2023_Click here for FY23 ESG Report.pdf, page 57",FY 2022-23,HIGH,Tier 1,PDF_Extraction
+Jindal Stainless Limited,Unknown,Waste_Generated,306.0,UNKNOWN,"Jindal Stainless Limited_2023_Click here for FY23 ESG Report.pdf, page 57",FY 2022-23,HIGH,Tier 1,PDF_Extraction
+Jindal Stainless Limited,Unknown,Air_Emissions_NOx,305.0,UNKNOWN,"Jindal Stainless Limited_2023_Click here for FY23 ESG Report.pdf, page 57",FY 2022-23,HIGH,Tier 1,PDF_Extraction
+MANKIND PHARMA LIMITED,Unknown,Biodiversity_Actions,cessing and 30% for Conservation plan for 2 nos Plastic Neutral by FY'24 landfilling by 2027 (Base of Schedule-1 species in year FY'21) Sotanala area Reduce ground water Carbon neutral by 2030 100% Renewable Power intens,Description,"MANKIND PHARMA LIMITED_2024_Download 2023 ESG Report.pdf, page 1",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Oberoi Realty Limited,Unknown,Biodiversity_Actions,.................22 Biodiversity ................................................................172 Message from Chairman and Managing Director........................................................................24 0,Description,"Oberoi Realty Limited_2024_report.pdf, page 2",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Oberoi Realty Limited,Unknown,Facility_Locations,"orates. Our Grade-A office at which carries direct implications for urban ecosystems. our aspirations into achievements. OGC, Goregaon, is also attracting strong interest. Our Real estate developments must coexist with a",Description,"Oberoi Realty Limited_2024_report.pdf, page 13",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Oberoi Realty Limited,Unknown,Air_Emissions_PM,3.0,UNKNOWN,"Oberoi Realty Limited_2024_report.pdf, page 29",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Oberoi Realty Limited,Unknown,GHG_Scope3,3.0,UNKNOWN,"Oberoi Realty Limited_2024_report.pdf, page 73",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Oberoi Realty Limited,Unknown,Protected_Area_Proximity,"ATION Category I-IV protected areas. PRESERVATION • Biodiversity Awareness: Fostering awareness of biodiversity and conservation issues among our employees, customers, suppliers, and other stakeholders. Minimize disturba",Description,"Oberoi Realty Limited_2024_report.pdf, page 87",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Oberoi Realty Limited,Unknown,GHG_Scope1,305.0,UNKNOWN,"Oberoi Realty Limited_2024_report.pdf, page 127",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Oberoi Realty Limited,Unknown,GHG_Scope2,305.0,UNKNOWN,"Oberoi Realty Limited_2024_report.pdf, page 127",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Oberoi Realty Limited,Unknown,Energy_Consumption,302.0,UNKNOWN,"Oberoi Realty Limited_2024_report.pdf, page 127",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Oberoi Realty Limited,Unknown,Water_Withdrawal,303.0,UNKNOWN,"Oberoi Realty Limited_2024_report.pdf, page 127",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Oberoi Realty Limited,Unknown,Water_Discharge,303.0,UNKNOWN,"Oberoi Realty Limited_2024_report.pdf, page 127",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Oberoi Realty Limited,Unknown,Water_Consumption,303.0,UNKNOWN,"Oberoi Realty Limited_2024_report.pdf, page 127",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Oberoi Realty Limited,Unknown,Waste_Generated,306.0,UNKNOWN,"Oberoi Realty Limited_2024_report.pdf, page 128",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Oberoi Realty Limited,Unknown,Waste_Recycled_Pct,306.0,UNKNOWN,"Oberoi Realty Limited_2024_report.pdf, page 128",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Oberoi Realty Limited,Unknown,Air_Emissions_NOx,305.0,UNKNOWN,"Oberoi Realty Limited_2024_report.pdf, page 128",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Oberoi Realty Limited,Unknown,Air_Emissions_SOx,305.0,UNKNOWN,"Oberoi Realty Limited_2024_report.pdf, page 128",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Piramal Enterprises Limited,Unknown,GHG_Scope1,1.0,UNKNOWN,"Piramal Enterprises Limited_2023_READ THE REPORT.pdf, page 14",FY 2023,HIGH,Tier 1,PDF_Extraction
+Piramal Enterprises Limited,Unknown,GHG_Scope2,1.0,UNKNOWN,"Piramal Enterprises Limited_2023_READ THE REPORT.pdf, page 14",FY 2023,HIGH,Tier 1,PDF_Extraction
+Piramal Enterprises Limited,Unknown,GHG_Scope3,1.0,UNKNOWN,"Piramal Enterprises Limited_2023_READ THE REPORT.pdf, page 14",FY 2023,HIGH,Tier 1,PDF_Extraction
+Piramal Enterprises Limited,Unknown,Air_Emissions_PM,42.0,UNKNOWN,"Piramal Enterprises Limited_2023_READ THE REPORT.pdf, page 28",FY 2023,HIGH,Tier 1,PDF_Extraction
+Piramal Enterprises Limited,Unknown,Biodiversity_Actions,"ustainably. • Water conservation: Strengthened 300+ growth story Paani Samitis by mobilising 35,000+ Through Piramal Foundation, the Company engages and members in 25 districts supports communities across the nation as a",Description,"Piramal Enterprises Limited_2023_READ THE REPORT.pdf, page 28",FY 2023,HIGH,Tier 1,PDF_Extraction
+Piramal Enterprises Limited,Unknown,Energy_Consumption,302.0,UNKNOWN,"Piramal Enterprises Limited_2023_READ THE REPORT.pdf, page 39",FY 2023,HIGH,Tier 1,PDF_Extraction
+Piramal Enterprises Limited,Unknown,Water_Withdrawal,303.0,UNKNOWN,"Piramal Enterprises Limited_2023_READ THE REPORT.pdf, page 39",FY 2023,HIGH,Tier 1,PDF_Extraction
+Piramal Enterprises Limited,Unknown,Water_Discharge,303.0,UNKNOWN,"Piramal Enterprises Limited_2023_READ THE REPORT.pdf, page 39",FY 2023,HIGH,Tier 1,PDF_Extraction
+Piramal Enterprises Limited,Unknown,Water_Consumption,303.0,UNKNOWN,"Piramal Enterprises Limited_2023_READ THE REPORT.pdf, page 39",FY 2023,HIGH,Tier 1,PDF_Extraction
+Piramal Enterprises Limited,Unknown,Protected_Area_Proximity,"rt 133 1, 2, 3 2016 protected areas and areas of and other retirement plans FY2023 high biodiversity value outside GRI 202: 202-1 Ratios of standard entry level BRSR section of Annual Report 138 5, 8, 10 protected areas ",Description,"Piramal Enterprises Limited_2023_READ THE REPORT.pdf, page 39",FY 2023,HIGH,Tier 1,PDF_Extraction
+Piramal Enterprises Limited,Unknown,Waste_Generated,306.0,UNKNOWN,"Piramal Enterprises Limited_2023_READ THE REPORT.pdf, page 40",FY 2023,HIGH,Tier 1,PDF_Extraction
+Piramal Enterprises Limited,Unknown,Waste_Recycled_Pct,306.0,UNKNOWN,"Piramal Enterprises Limited_2023_READ THE REPORT.pdf, page 40",FY 2023,HIGH,Tier 1,PDF_Extraction
+Piramal Pharma Limited,Unknown,Biodiversity_Actions," segregation, water conservation, discussions with stakeholders and a and reliability of key sustainability 46 Product Excellence community development programmes rigorous materiality assessment. This disclosures. The re",Description,"Piramal Pharma Limited_2025_READ THE REPORT.pdf, page 2",FY 2025,HIGH,Tier 1,PDF_Extraction
+Piramal Pharma Limited,Unknown,Air_Emissions_PM,100.0,UNKNOWN,"Piramal Pharma Limited_2025_READ THE REPORT.pdf, page 12",FY 2025,HIGH,Tier 1,PDF_Extraction
+Piramal Pharma Limited,Unknown,GHG_Scope1,62.0,UNKNOWN,"Piramal Pharma Limited_2025_READ THE REPORT.pdf, page 33",FY 2025,HIGH,Tier 1,PDF_Extraction
+Piramal Pharma Limited,Unknown,GHG_Scope2,62.0,UNKNOWN,"Piramal Pharma Limited_2025_READ THE REPORT.pdf, page 33",FY 2025,HIGH,Tier 1,PDF_Extraction
+Piramal Pharma Limited,Unknown,GHG_Scope3,62.0,UNKNOWN,"Piramal Pharma Limited_2025_READ THE REPORT.pdf, page 33",FY 2025,HIGH,Tier 1,PDF_Extraction
+Piramal Pharma Limited,Unknown,Energy_Consumption,62.0,UNKNOWN,"Piramal Pharma Limited_2025_READ THE REPORT.pdf, page 33",FY 2025,HIGH,Tier 1,PDF_Extraction
+Piramal Pharma Limited,Unknown,Hazardous_Waste,62.0,UNKNOWN,"Piramal Pharma Limited_2025_READ THE REPORT.pdf, page 33",FY 2025,HIGH,Tier 1,PDF_Extraction
+Piramal Pharma Limited,Unknown,Green_Cover,62.0,ha,"Piramal Pharma Limited_2025_READ THE REPORT.pdf, page 33",FY 2025,HIGH,Tier 1,PDF_Extraction
+Piramal Pharma Limited,Unknown,Protected_Area_Proximity,"ent or adjacent to, protected areas and areas of precautionary approach high biodiversity value outside protected areas to environmental GRI 202: Market 3-3 Management of material topics 120-126 challenges) Presence 2016",Description,"Piramal Pharma Limited_2025_READ THE REPORT.pdf, page 59",FY 2025,HIGH,Tier 1,PDF_Extraction
+POLY MEDICURE LIMITED,Unknown,Biodiversity_Actions,"iency standards and conservation initiatives that include deployment of best practices. 1.2 Product packaging, material Our environmental strategy is guided by a comprehensive review and assessment of the most significan",Description,"POLY MEDICURE LIMITED_2025_Sustainability Report FY 2022–23.pdf, page 9",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+POLY MEDICURE LIMITED,Unknown,Water_Recycling_Pct,65544.0,%,"POLY MEDICURE LIMITED_2025_Sustainability Report FY 2022–23.pdf, page 11",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+POLY MEDICURE LIMITED,Unknown,Water_Consumption,2022.0,KL,"POLY MEDICURE LIMITED_2025_Sustainability Report FY 2022–23.pdf, page 11",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+POLY MEDICURE LIMITED,Unknown,Air_Emissions_PM,1080.0,UNKNOWN,"POLY MEDICURE LIMITED_2025_Sustainability Report FY 2022–23.pdf, page 11",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Ramkrishna Forgings Limited,Unknown,GHG_Scope1,2040.0,UNKNOWN,"Ramkrishna Forgings Limited_2024_Business Responsibility & Sustainability Report FY 2024-25.pdf, page 6",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Ramkrishna Forgings Limited,Unknown,GHG_Scope3,2040.0,UNKNOWN,"Ramkrishna Forgings Limited_2024_Business Responsibility & Sustainability Report FY 2024-25.pdf, page 6",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Ramkrishna Forgings Limited,Unknown,Water_Discharge,2030.0,KL,"Ramkrishna Forgings Limited_2024_Business Responsibility & Sustainability Report FY 2024-25.pdf, page 7",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Ramkrishna Forgings Limited,Unknown,Facility_Locations,"rtunity for the all manufacturing units by conservation measures Company to enhance 2030. The Company has can lead to significant cost operational efficiency, undertaken the following savings for the Company by reduce co",Description,"Ramkrishna Forgings Limited_2024_Business Responsibility & Sustainability Report FY 2024-25.pdf, page 7",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Ramkrishna Forgings Limited,Unknown,Biodiversity_Actions,"ufacturing units by conservation measures Company to enhance 2030. The Company has can lead to significant cost operational efficiency, undertaken the following savings for the Company by reduce costs, mitigate measures:",Description,"Ramkrishna Forgings Limited_2024_Business Responsibility & Sustainability Report FY 2024-25.pdf, page 7",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Ramkrishna Forgings Limited,Unknown,Waste_Generated,1.0,UNKNOWN,"Ramkrishna Forgings Limited_2024_Business Responsibility & Sustainability Report FY 2024-25.pdf, page 8",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Ramkrishna Forgings Limited,Unknown,Hazardous_Waste,1.0,UNKNOWN,"Ramkrishna Forgings Limited_2024_Business Responsibility & Sustainability Report FY 2024-25.pdf, page 8",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Ramkrishna Forgings Limited,Unknown,Air_Emissions_PM,281.0,UNKNOWN,"Ramkrishna Forgings Limited_2024_Business Responsibility & Sustainability Report FY 2024-25.pdf, page 13",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Ramkrishna Forgings Limited,Unknown,Protected_Area_Proximity,"reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances are required, please specify details in the following format: Not Applicable 12. Details of en",Description,"Ramkrishna Forgings Limited_2024_Business Responsibility & Sustainability Report FY 2024-25.pdf, page 33",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Sagar Cements,Unknown,Biodiversity_Actions,"mperative, which 06 Biodiversity comes with significant long-term benefits for Message from the Chairman 30 all stakeholders. Social 07 Health and safety In order to further strengthen its commitment, Message from the MD",Description,"Sagar Cements_report.pdf, page 2",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Sagar Cements,Unknown,Air_Emissions_PM,2030.0,UNKNOWN,"Sagar Cements_report.pdf, page 5",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Sagar Cements,Unknown,GHG_Scope1,2.0,UNKNOWN,"Sagar Cements_report.pdf, page 11",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Sagar Cements,Unknown,GHG_Scope2,2.0,UNKNOWN,"Sagar Cements_report.pdf, page 11",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Sagar Cements,Unknown,GHG_Scope3,2.0,UNKNOWN,"Sagar Cements_report.pdf, page 11",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Sagar Cements,Unknown,Water_Consumption,10.0,UNKNOWN,"Sagar Cements_report.pdf, page 14",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Siemens Limited,Unknown,Biodiversity_Actions,onserving water and biodiversity. evolving environments. We measure our impact through our comprehensive DEGREE targets. mitigation will secure a livable planet through the end of the century.1 DEGREE not only quantifies,Description,"Siemens Limited_2025_Read more in Siemens Impact 2025.pdf, page 5",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Siemens Limited,Unknown,GHG_Scope1,1.0,UNKNOWN,"Siemens Limited_2025_Read more in Siemens Impact 2025.pdf, page 9",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Siemens Limited,Unknown,GHG_Scope3,1.0,UNKNOWN,"Siemens Limited_2025_Read more in Siemens Impact 2025.pdf, page 9",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Siemens Limited,Unknown,Air_Emissions_PM,30.0,UNKNOWN,"Siemens Limited_2025_Read more in Siemens Impact 2025.pdf, page 10",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Siemens Limited,Unknown,Energy_Consumption,1000.0,UNKNOWN,"Siemens Limited_2025_Read more in Siemens Impact 2025.pdf, page 14",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Tata Elxsi Limited,Unknown,Air_Emissions_PM,2021.0,UNKNOWN,"Tata Elxsi Limited_Read Policy.pdf, page 1",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+UNITED BREWERIES LIMITED,Unknown,Facility_Locations,"facturing plants, 3 plants at Mangalore, Patna and Cherthala are currently not operational. 2 Brew a Better India",Description,"UNITED BREWERIES LIMITED_2024_report.pdf, page 2",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+UNITED BREWERIES LIMITED,Unknown,Biodiversity_Actions,"ter Net Zero Carbon conservation throughout our value chain — from barley fields to beer Moving Towards bottles. Circularity Healthy Watersheds, Thriving Ecosystems 100% reduction in 77,765 kl potential 3.1 kl/kl Scope 2",Description,"UNITED BREWERIES LIMITED_2024_report.pdf, page 9",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+UNITED BREWERIES LIMITED,Unknown,GHG_Scope1,1.0,UNKNOWN,"UNITED BREWERIES LIMITED_2024_report.pdf, page 26",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+UNITED BREWERIES LIMITED,Unknown,GHG_Scope2,1.0,UNKNOWN,"UNITED BREWERIES LIMITED_2024_report.pdf, page 26",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+UNITED BREWERIES LIMITED,Unknown,Water_Discharge,2.0,UNKNOWN,"UNITED BREWERIES LIMITED_2024_report.pdf, page 26",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+UNITED BREWERIES LIMITED,Unknown,Water_Consumption,2.0,UNKNOWN,"UNITED BREWERIES LIMITED_2024_report.pdf, page 26",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+UNITED BREWERIES LIMITED,Unknown,Waste_Generated,4.0,UNKNOWN,"UNITED BREWERIES LIMITED_2024_report.pdf, page 26",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+UNITED BREWERIES LIMITED,Unknown,Hazardous_Waste,4.0,UNKNOWN,"UNITED BREWERIES LIMITED_2024_report.pdf, page 26",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+UNITED BREWERIES LIMITED,Unknown,Air_Emissions_PM,7.0,UNKNOWN,"UNITED BREWERIES LIMITED_2024_report.pdf, page 26",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Usha Martin Limited,Unknown,Air_Emissions_PM,3.1,UNKNOWN,"Usha Martin Limited_Download.pdf, page 6",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Usha Martin Limited,Unknown,Biodiversity_Actions,"productivity, water conservation, and environmental sustainability in rural areas. • Soil Testing & Seed Distribution: Benefited 100 farmers across 8 villages, with 63% ST/women. Seed distribution activities reached over",Description,"Usha Martin Limited_Download.pdf, page 9",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Welspun Corp Limited,Unknown,Biodiversity_Actions,"hcare, road safety, biodiversity, and support for farming communities, among others. Managing Director and CEO Empowering Change for a Sustainable Planet 3",Description,"Welspun Corp Limited_SustainabilityReport.pdf, page 3",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Welspun Corp Limited,Unknown,Air_Emissions_PM,1.0,UNKNOWN,"Welspun Corp Limited_SustainabilityReport.pdf, page 31",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Welspun Corp Limited,Unknown,GHG_Scope1,1.0,tCO2e,"Welspun Corp Limited_SustainabilityReport.pdf, page 43",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Welspun Corp Limited,Unknown,GHG_Scope2,1.0,tCO2e,"Welspun Corp Limited_SustainabilityReport.pdf, page 43",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Welspun Corp Limited,Unknown,Energy_Consumption,1.0,kwh,"Welspun Corp Limited_SustainabilityReport.pdf, page 44",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Welspun Corp Limited,Unknown,Water_Consumption,23.0,KL,"Welspun Corp Limited_SustainabilityReport.pdf, page 49",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Welspun Corp Limited,Unknown,Waste_Generated,23.0,mt,"Welspun Corp Limited_SustainabilityReport.pdf, page 52",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Welspun Corp Limited,Unknown,Protected_Area_Proximity," 304-1 adjacent to, protected areas and areas of high Fostering Biodiversity Resilience 53 biodiversity value outside protected areas Significant impacts of activities, products and 304-2 Fostering Biodiversity Resilienc",Description,"Welspun Corp Limited_SustainabilityReport.pdf, page 91",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Welspun Corp Limited,Unknown,GHG_Scope3,3.0,UNKNOWN,"Welspun Corp Limited_SustainabilityReport.pdf, page 92",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Welspun Corp Limited,Unknown,Air_Emissions_NOx,1.0,UNKNOWN,"Welspun Corp Limited_SustainabilityReport.pdf, page 94",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Welspun Corp Limited,Unknown,Air_Emissions_SOx,1.0,UNKNOWN,"Welspun Corp Limited_SustainabilityReport.pdf, page 94",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Air_Emissions_PM,30000.0,UNKNOWN,"Adani Energy Solutions Limited_Annual Report.pdf, page 36",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Biodiversity_Actions,"et Positive Gain to biodiversity. Zero Alliance (UNEZA), Adani Energy Our target is net zero emissions by Solutions gains global insights and 2050, with interim SBTi milestones. shares expertise in high-capacity RE evacu",Description,"Adani Energy Solutions Limited_Annual Report.pdf, page 47",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Renewable_Energy_Pct,3.2,%,"Adani Energy Solutions Limited_Annual Report.pdf, page 124",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Energy_Consumption,2024.0,GJ,"Adani Energy Solutions Limited_Annual Report.pdf, page 161",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Waste_Recycled_Pct,2024.0,%,"Adani Energy Solutions Limited_Annual Report.pdf, page 161",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,GHG_Scope1,1.5,UNKNOWN,"Adani Energy Solutions Limited_Annual Report.pdf, page 165",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Land_Footprint,2024.0,ha,"Adani Energy Solutions Limited_Annual Report.pdf, page 196",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Green_Cover,1.0,ha,"Adani Energy Solutions Limited_Annual Report.pdf, page 197",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Facility_Locations,"d having registered office at “Adani Corporate House”, soft copies of the Annual Report and other information Shantigram, Near Vaishno Devi Circle, S G Highway, disseminated by the Company. Shareholders who have Khodiyar",Description,"Adani Energy Solutions Limited_Annual Report.pdf, page 364",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Adani Energy Solutions Limited,Unknown,Protected_Area_Proximity,"reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances are required, please specify details in the following format: Whether the conditions of enviro",Description,"Adani Energy Solutions Limited_Annual Report.pdf, page 433",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Cochin Shipyard Limited,Unknown,Biodiversity_Actions,"initiatives. Energy conservation 2.60 D Lakh units initiatives D To drive meaningful improvements in Estimated energy savings from D energy efficiency, we implemented a conservation measures CSR range of targeted interve",Description,"Cochin Shipyard Limited_2024_Annual Report 2024-25 including the Notice for the 53rd AGM.pdf, page 17",FY 2024-25,MEDIUM,Tier 1,PDF_Extraction
+Cochin Shipyard Limited,Unknown,Facility_Locations,"ast one independent office at Administrative Building, Cochin Shipyard woman director was on the Board during the year; Premises, Perumanoor, Cochin, Ernakulam, Kerala, India, 682015 (hereinafter referred to as ‘the Comp",Description,"Cochin Shipyard Limited_2024_Annual Report 2024-25 including the Notice for the 53rd AGM.pdf, page 76",FY 2024-25,MEDIUM,Tier 1,PDF_Extraction
+Cochin Shipyard Limited,Unknown,Protected_Area_Proximity,"reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals/ clearances are required, please specify details in the following format: Whether the conditions of environ",Description,"Cochin Shipyard Limited_2024_Annual Report 2024-25 including the Notice for the 53rd AGM.pdf, page 129",FY 2024-25,MEDIUM,Tier 1,PDF_Extraction
+Cochin Shipyard Limited,Unknown,Air_Emissions_PM,36.971784,UNKNOWN,"Cochin Shipyard Limited_2024_Annual Report 2024-25 including the Notice for the 53rd AGM.pdf, page 253",FY 2024-25,MEDIUM,Tier 1,PDF_Extraction
+IDFC FIRST Bank Limited,Unknown,Air_Emissions_PM,65.0,UNKNOWN,"IDFC FIRST Bank Limited_2024_Annual Report (2024-25).pdf, page 66",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+IDFC FIRST Bank Limited,Unknown,GHG_Scope2,1.0,UNKNOWN,"IDFC FIRST Bank Limited_2024_Annual Report (2024-25).pdf, page 94",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+IDFC FIRST Bank Limited,Unknown,GHG_Scope3,3.0,UNKNOWN,"IDFC FIRST Bank Limited_2024_Annual Report (2024-25).pdf, page 94",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+IDFC FIRST Bank Limited,Unknown,Biodiversity_Actions,25.0,Description,"IDFC FIRST Bank Limited_2024_Annual Report (2024-25).pdf, page 94",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+IDFC FIRST Bank Limited,Unknown,Energy_Consumption,1.0,GJ,"IDFC FIRST Bank Limited_2024_Annual Report (2024-25).pdf, page 103",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+IDFC FIRST Bank Limited,Unknown,Waste_Recycled_Pct,1.0,%,"IDFC FIRST Bank Limited_2024_Annual Report (2024-25).pdf, page 103",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+IDFC FIRST Bank Limited,Unknown,Facility_Locations,"d having registered office at KRM Tower, 7th Floor, No. 1, Harrington Road, Chetpet, Chennai 600 031 (hereinafter referred to as ‘the Bank’), produced before us by the Bank for the purpose of issuing this Certificate, in",Description,"IDFC FIRST Bank Limited_2024_Annual Report (2024-25).pdf, page 245",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+JSW Steel Limited,Unknown,Biodiversity_Actions,rate Governance 390 Biodiversity 136 Operations and presence 26 OUR Sustainable mining 144 Product suite 30 STRATEGY Local considerations 148 Investment case 32 422 Product sustainability 152 Chairman's message 36 Strate,Description,"JSW Steel Limited_2024_Annual Report 2024-25.pdf, page 3",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+JSW Steel Limited,Unknown,GHG_Scope1,51416.26,UNKNOWN,"JSW Steel Limited_2024_Annual Report 2024-25.pdf, page 13",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+JSW Steel Limited,Unknown,Water_Withdrawal,305.0,m3,"JSW Steel Limited_2024_Annual Report 2024-25.pdf, page 13",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+JSW Steel Limited,Unknown,Water_Recycling_Pct,305.0,%,"JSW Steel Limited_2024_Annual Report 2024-25.pdf, page 13",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+JSW Steel Limited,Unknown,Waste_Recycled_Pct,99.98,%,"JSW Steel Limited_2024_Annual Report 2024-25.pdf, page 13",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+JSW Steel Limited,Unknown,Air_Emissions_NOx,51416.26,tonnes,"JSW Steel Limited_2024_Annual Report 2024-25.pdf, page 13",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+JSW Steel Limited,Unknown,Air_Emissions_SOx,51416.26,tonnes,"JSW Steel Limited_2024_Annual Report 2024-25.pdf, page 13",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+JSW Steel Limited,Unknown,Air_Emissions_PM,51416.26,tonnes,"JSW Steel Limited_2024_Annual Report 2024-25.pdf, page 13",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+JSW Steel Limited,Unknown,Facility_Locations,equity 0.94x No. of manufacturing units 16 (domestic) + 3 (international) Activities ∞ Cold rolled steel ∞ Wires Diluted EPS 14.32 Domestic installed capacity 34.2# MTPA ∞ Galvanised/ Galvalume steel ∞ Special alloy stee,Description,"JSW Steel Limited_2024_Annual Report 2024-25.pdf, page 13",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+JSW Steel Limited,Unknown,Green_Cover,305.0,ha,"JSW Steel Limited_2024_Annual Report 2024-25.pdf, page 13",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+JSW Steel Limited,Unknown,Energy_Consumption,000,GJ,"JSW Steel Limited_2024_Annual Report 2024-25.pdf, page 52",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+JSW Steel Limited,Unknown,Water_Consumption,000,m3,"JSW Steel Limited_2024_Annual Report 2024-25.pdf, page 52",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+JSW Steel Limited,Unknown,Hazardous_Waste,000,kg,"JSW Steel Limited_2024_Annual Report 2024-25.pdf, page 52",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+JSW Steel Limited,Unknown,Renewable_Energy_Pct,10.0,MW,"JSW Steel Limited_2024_Annual Report 2024-25.pdf, page 58",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+JSW Steel Limited,Unknown,Land_Footprint,304.0,hectares,"JSW Steel Limited_2024_Annual Report 2024-25.pdf, page 72",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+JSW Steel Limited,Unknown,Protected_Area_Proximity,"in, or adjacent to, protected areas and areas of high biodiversity value 136-137 outside protected areas 203-1 Infrastructure investments and services supported 176-193 304-2 Significant impacts of activities, products a",Description,"JSW Steel Limited_2024_Annual Report 2024-25.pdf, page 109",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+L&T Finance Limited,Unknown,Biodiversity_Actions,"tary of the Company CONSERVATION OF ENERGY & TECHNOLOGY with effect from December 23, 2024. ABSORPTION The particulars relating to conservation of energy and The Board of Directors of the Company at its meeting technolog",Description,"L&T Finance Limited_Subsidiary Companies Annual Report- FY2024-25.pdf, page 6",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+L&T Finance Limited,Unknown,Air_Emissions_PM,5.0,UNKNOWN,"L&T Finance Limited_Subsidiary Companies Annual Report- FY2024-25.pdf, page 30",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Latent View Analytics Limited,Unknown,Air_Emissions_PM,13.0,UNKNOWN,"Latent View Analytics Limited_2025_DOWNLOAD ANNUAL REPORT.pdf, page 15",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Latent View Analytics Limited,Unknown,Biodiversity_Actions,"ms to use these 21. Conservation of Energy, Technology Absorption and Consolidated financial statement tools to strengthen the operating procedures. Standalone financial statement Foreign Exchange Earnings and Outgo Noti",Description,"Latent View Analytics Limited_2025_DOWNLOAD ANNUAL REPORT.pdf, page 81",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Latent View Analytics Limited,Unknown,Energy_Consumption,75.0,UNKNOWN,"Latent View Analytics Limited_2025_DOWNLOAD ANNUAL REPORT.pdf, page 97",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Latent View Analytics Limited,Unknown,GHG_Scope3,3.0,UNKNOWN,"Latent View Analytics Limited_2025_DOWNLOAD ANNUAL REPORT.pdf, page 98",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Latent View Analytics Limited,Unknown,Water_Discharge,3.0,UNKNOWN,"Latent View Analytics Limited_2025_DOWNLOAD ANNUAL REPORT.pdf, page 98",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Latent View Analytics Limited,Unknown,Water_Recycling_Pct,3.0,UNKNOWN,"Latent View Analytics Limited_2025_DOWNLOAD ANNUAL REPORT.pdf, page 98",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Latent View Analytics Limited,Unknown,Facility_Locations,"d having registered office at 4. Dipali Hemant Sheth 07556685 Non-Executive 15/06/2021 5th Floor, Neville Tower, Unit 6,7 and 8, Ramanujan IT City, Rajiv Gandhi Salai, Taramani, Chennai - 600113 Independent Director (her",Description,"Latent View Analytics Limited_2025_DOWNLOAD ANNUAL REPORT.pdf, page 147",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+MANKIND PHARMA LIMITED,Unknown,Air_Emissions_PM,24.2,UNKNOWN,"MANKIND PHARMA LIMITED_2025_report.pdf, page 15",FY 2018,HIGH,Tier 1,PDF_Extraction
+MANKIND PHARMA LIMITED,Unknown,Waste_Recycled_Pct,55.0,%,"MANKIND PHARMA LIMITED_2025_report.pdf, page 18",FY 2018,HIGH,Tier 1,PDF_Extraction
+MANKIND PHARMA LIMITED,Unknown,Biodiversity_Actions, Gold (Energy API-1 Conservation) from Silver from Frost & ICCQC and Gold Sullivan from Frost & Sullivan 44 45,Description,"MANKIND PHARMA LIMITED_2025_report.pdf, page 24",FY 2018,HIGH,Tier 1,PDF_Extraction
+MANKIND PHARMA LIMITED,Unknown,Facility_Locations," over 10,000 custom manufacturing units. India ` 2,16,217 Crore ` 3,20,000-3,30,000 Crore Anti-Diabetic 9.5% 8.9% 9.5% 8.3% 10.0-11.0% has a complete ecosystem for the development and Vitamins/Minerals/Nutrients 7.8% 7.8",Description,"MANKIND PHARMA LIMITED_2025_report.pdf, page 44",FY 2018,HIGH,Tier 1,PDF_Extraction
+MANKIND PHARMA LIMITED,Unknown,Protected_Area_Proximity,"reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where USD) (Total waste generated / Revenue from operations adjusted for PPP) environmental approvals / clearances are required, please s",Description,"MANKIND PHARMA LIMITED_2025_report.pdf, page 93",FY 2018,HIGH,Tier 1,PDF_Extraction
+MANKIND PHARMA LIMITED,Unknown,GHG_Scope1,1.0,UNKNOWN,"MANKIND PHARMA LIMITED_2025_report.pdf, page 99",FY 2018,HIGH,Tier 1,PDF_Extraction
+MANKIND PHARMA LIMITED,Unknown,GHG_Scope2,2.0,UNKNOWN,"MANKIND PHARMA LIMITED_2025_report.pdf, page 99",FY 2018,HIGH,Tier 1,PDF_Extraction
+Oberoi Realty Limited,Unknown,Air_Emissions_PM,3.0,UNKNOWN,"Oberoi Realty Limited_2025_Annual return as on March 31, 2025.pdf, page 13",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Piramal Pharma Limited,Unknown,GHG_Scope1,1.0,UNKNOWN,"Piramal Pharma Limited_2024_report.pdf, page 4",FY 2030,HIGH,Tier 1,PDF_Extraction
+Piramal Pharma Limited,Unknown,Hazardous_Waste,1.0,UNKNOWN,"Piramal Pharma Limited_2024_report.pdf, page 4",FY 2030,HIGH,Tier 1,PDF_Extraction
+Piramal Pharma Limited,Unknown,Green_Cover,1.0,ha,"Piramal Pharma Limited_2024_report.pdf, page 4",FY 2030,HIGH,Tier 1,PDF_Extraction
+Piramal Pharma Limited,Unknown,Biodiversity_Actions," on robust systems, afforestation, gender diversity, profitable growth in-line with our The business also delivered YoY inhalation anesthesia opportunity product launches and e-commerce streamlined processes, advanced he",Description,"Piramal Pharma Limited_2024_report.pdf, page 12",FY 2030,HIGH,Tier 1,PDF_Extraction
+Piramal Pharma Limited,Unknown,Facility_Locations,"d having registered office at Gr. Flr., Piramal Ananta, Agastya Corp. Park, Kamani with the conditions of Corporate Governance under Chapter IV to the Securities and Exchange Board of India (Listing Obligations Junction,",Description,"Piramal Pharma Limited_2024_report.pdf, page 63",FY 2030,HIGH,Tier 1,PDF_Extraction
+Piramal Pharma Limited,Unknown,Protected_Area_Proximity,"reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / dependency. clearances are required, please specify details. 8 Installed motion sensors Ahmedabad – PPDS ",Description,"Piramal Pharma Limited_2024_report.pdf, page 77",FY 2030,HIGH,Tier 1,PDF_Extraction
+Piramal Pharma Limited,Unknown,Air_Emissions_PM,5202.0,mt,"Piramal Pharma Limited_2024_report.pdf, page 129",FY 2030,HIGH,Tier 1,PDF_Extraction
+POLY MEDICURE LIMITED,Unknown,Air_Emissions_PM,75.0,UNKNOWN,"POLY MEDICURE LIMITED_2025_Annual Report 2024-2025.pdf, page 12",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+POLY MEDICURE LIMITED,Unknown,Biodiversity_Actions,"nued Particulars of Conservation of Energy, Technology Absorption and committed engagement with the Company. Foreign Exchange Earnings and Outgo The Directors would also like to thank the Members of the Company The infor",Description,"POLY MEDICURE LIMITED_2025_Annual Report 2024-2025.pdf, page 43",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+POLY MEDICURE LIMITED,Unknown,GHG_Scope1,305.0,tCO2e,"POLY MEDICURE LIMITED_2025_Annual Report 2024-2025.pdf, page 65",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+POLY MEDICURE LIMITED,Unknown,GHG_Scope2,305.0,tCO2e,"POLY MEDICURE LIMITED_2025_Annual Report 2024-2025.pdf, page 65",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+POLY MEDICURE LIMITED,Unknown,GHG_Scope3,305.0,tCO2e,"POLY MEDICURE LIMITED_2025_Annual Report 2024-2025.pdf, page 65",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+POLY MEDICURE LIMITED,Unknown,Water_Discharge,305.0,KL,"POLY MEDICURE LIMITED_2025_Annual Report 2024-2025.pdf, page 65",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+POLY MEDICURE LIMITED,Unknown,Water_Consumption,305.0,KL,"POLY MEDICURE LIMITED_2025_Annual Report 2024-2025.pdf, page 65",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+POLY MEDICURE LIMITED,Unknown,Waste_Generated,305.0,mt,"POLY MEDICURE LIMITED_2025_Annual Report 2024-2025.pdf, page 65",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+POLY MEDICURE LIMITED,Unknown,Energy_Consumption,8.0,UNKNOWN,"POLY MEDICURE LIMITED_2025_Annual Report 2024-2025.pdf, page 68",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+POLY MEDICURE LIMITED,Unknown,Water_Recycling_Pct,8.0,%,"POLY MEDICURE LIMITED_2025_Annual Report 2024-2025.pdf, page 68",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Prism Johnson Limited,Unknown,Biodiversity_Actions,"environment & water conservation, access Acknowledgement to potable drinking water, disaster management, and social welfare. By focussing on these pillars, we aim to create a lasting We attribute our Company’s success to",Description,"Prism Johnson Limited_2024_DownloadAnnual Report 2023-24.pdf, page 11",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Prism Johnson Limited,Unknown,Facility_Locations,"sence, catering 102 plants at 47 cities/towns mainly to the urban real-estate Plaster (including franchisee plants) and infrastructure sectors Construction chemicals 11",Description,"Prism Johnson Limited_2024_DownloadAnnual Report 2023-24.pdf, page 13",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Prism Johnson Limited,Unknown,Protected_Area_Proximity,"reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals/clearances are required, please specify details in the following format: S. Location of operations/offices ",Description,"Prism Johnson Limited_2024_DownloadAnnual Report 2023-24.pdf, page 101",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Prism Johnson Limited,Unknown,Air_Emissions_PM,13.0,UNKNOWN,"Prism Johnson Limited_2024_DownloadAnnual Report 2023-24.pdf, page 184",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+R R Kabel Limited,Unknown,Air_Emissions_PM,0,UNKNOWN,"R R Kabel Limited_2025_RRKL Annual Report 2024-25Download.pdf, page 11",FY 2024,MEDIUM,Tier 1,PDF_Extraction
+R R Kabel Limited,Unknown,Biodiversity_Actions,"tural resources and biodiversity, particularly around its manufacturing sites. 40 R R Kabel Limited v Annual Report 2024-25 41 ecnanrevoG laicoS tnemnorivnE",Description,"R R Kabel Limited_2025_RRKL Annual Report 2024-25Download.pdf, page 42",FY 2024,MEDIUM,Tier 1,PDF_Extraction
+R R Kabel Limited,Unknown,Facility_Locations,"d having Registered Office at Ram Ratna House, Victoria Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai - 400013 (hereinafter referred to as the “Company”), produced before me by the Company for the purpose of issui",Description,"R R Kabel Limited_2025_RRKL Annual Report 2024-25Download.pdf, page 130",FY 2024,MEDIUM,Tier 1,PDF_Extraction
+R R Kabel Limited,Unknown,Protected_Area_Proximity,"reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances are required, please specify details in the following format: Not applicable, we don’t have an",Description,"R R Kabel Limited_2025_RRKL Annual Report 2024-25Download.pdf, page 166",FY 2024,MEDIUM,Tier 1,PDF_Extraction
+Ramkrishna Forgings Limited,Unknown,Biodiversity_Actions,"T b) Committees: f) Conservation of Energy, Technology Absorption, and Foreign Exchange Earnings and Outgo The Company has in place the Committee(s) as mandated under the provisions of the Companies The particulars relat",Description,"Ramkrishna Forgings Limited_2024_Annual Report for the Financial Year 2024-25.pdf, page 13",FY 2023-24,MEDIUM,Tier 1,PDF_Extraction
+Ramkrishna Forgings Limited,Unknown,Facility_Locations,"ving its Registered Office at 23 Circus Selenium Building, Tower B, Avenue, Kolkata in the State of West Bengal, India. Plot No. 31-32, Financial District, The Corporate Identity Number (CIN) allotted to the Nanakramguda",Description,"Ramkrishna Forgings Limited_2024_Annual Report for the Financial Year 2024-25.pdf, page 62",FY 2023-24,MEDIUM,Tier 1,PDF_Extraction
+Ramkrishna Forgings Limited,Unknown,Air_Emissions_PM,53.15,UNKNOWN,"Ramkrishna Forgings Limited_2024_Annual Report for the Financial Year 2024-25.pdf, page 85",FY 2023-24,MEDIUM,Tier 1,PDF_Extraction
+RBL Bank Limited,Unknown,Biodiversity_Actions,"l learning modules, biodiversity and reducing the carbon footprint by planting “In line with this philosophy, we have awareness calendars, workshops, and structured committee over 8,000 saplings and maintaining them till",Description,"RBL Bank Limited_2024_Annual Report 2024-25.pdf, page 12",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+RBL Bank Limited,Unknown,Energy_Consumption,47693.0,gj,"RBL Bank Limited_2024_Annual Report 2024-25.pdf, page 40",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+RBL Bank Limited,Unknown,Water_Consumption,35306.0,kl,"RBL Bank Limited_2024_Annual Report 2024-25.pdf, page 40",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+RBL Bank Limited,Unknown,Air_Emissions_PM,2.0,UNKNOWN,"RBL Bank Limited_2024_Annual Report 2024-25.pdf, page 80",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+RBL Bank Limited,Unknown,GHG_Scope1,305.0,UNKNOWN,"RBL Bank Limited_2024_Annual Report 2024-25.pdf, page 82",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+RBL Bank Limited,Unknown,GHG_Scope2,305.0,UNKNOWN,"RBL Bank Limited_2024_Annual Report 2024-25.pdf, page 82",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+RBL Bank Limited,Unknown,GHG_Scope3,305.0,UNKNOWN,"RBL Bank Limited_2024_Annual Report 2024-25.pdf, page 82",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+RBL Bank Limited,Unknown,Water_Withdrawal,303.0,UNKNOWN,"RBL Bank Limited_2024_Annual Report 2024-25.pdf, page 82",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+RBL Bank Limited,Unknown,Water_Discharge,303.0,UNKNOWN,"RBL Bank Limited_2024_Annual Report 2024-25.pdf, page 82",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+RBL Bank Limited,Unknown,Waste_Generated,306.0,UNKNOWN,"RBL Bank Limited_2024_Annual Report 2024-25.pdf, page 82",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+RBL Bank Limited,Unknown,Waste_Recycled_Pct,306.0,UNKNOWN,"RBL Bank Limited_2024_Annual Report 2024-25.pdf, page 82",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+RBL Bank Limited,Unknown,Air_Emissions_NOx,305.0,UNKNOWN,"RBL Bank Limited_2024_Annual Report 2024-25.pdf, page 82",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+RBL Bank Limited,Unknown,Air_Emissions_SOx,305.0,UNKNOWN,"RBL Bank Limited_2024_Annual Report 2024-25.pdf, page 82",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+RBL Bank Limited,Unknown,Facility_Locations,"nt’s Responsibility Office at 1st Lane, Shahupuri, Kolhapur - 416001 to the Board of Directors of the Bank (‘the Board’) for the Financial Year ended The Compliance of conditions of Corporate Governance stipulated in the",Description,"RBL Bank Limited_2024_Annual Report 2024-25.pdf, page 133",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+RBL Bank Limited,Unknown,Protected_Area_Proximity,"reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances Essential Indicators are required, please specify details in the following format: 1. Details ",Description,"RBL Bank Limited_2024_Annual Report 2024-25.pdf, page 152",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+RITES Limited,Unknown,Air_Emissions_PM,3.0,UNKNOWN,"RITES Limited_2025__Annual report.pdf, page 7",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+RITES Limited,Unknown,Energy_Consumption,140.0,GJ,"RITES Limited_2025__Annual report.pdf, page 10",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+RITES Limited,Unknown,Biodiversity_Actions,"ntal Protection and Conservation, and Project Management.",Description,"RITES Limited_2025__Annual report.pdf, page 12",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+RITES Limited,Unknown,Green_Cover,2533.0,UNKNOWN,"RITES Limited_2025__Annual report.pdf, page 36",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+RITES Limited,Unknown,Facility_Locations,f the Company holds office at the same time as director in more than twenty (20) Companies with h) Status of major statutory and commercial claims on maximum ten (10) in Public Companies and no Director the Company. (inc,Description,"RITES Limited_2025__Annual report.pdf, page 84",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+RITES Limited,Unknown,Protected_Area_Proximity,"reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances are required, please specify details in the following format: No",Description,"RITES Limited_2025__Annual report.pdf, page 160",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Star Cement Limited,Unknown,Facility_Locations,"m market new cement manufacturing units share in addition to the subsidy are commissioned), be delivered inflow is expected to strengthen the to the two proposed units directly. Company’s financial foundation. The progre",Description,"Star Cement Limited_2023_Read more.pdf, page 34",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Star Cement Limited,Unknown,Air_Emissions_PM,55.0,UNKNOWN,"Star Cement Limited_2023_Read more.pdf, page 42",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Star Cement Limited,Unknown,Energy_Consumption,68.4,UNKNOWN,"Star Cement Limited_2023_Read more.pdf, page 48",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Star Cement Limited,Unknown,Water_Consumption,68.4,UNKNOWN,"Star Cement Limited_2023_Read more.pdf, page 48",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Star Cement Limited,Unknown,Water_Recycling_Pct,69.23,%,"Star Cement Limited_2023_Read more.pdf, page 49",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Star Cement Limited,Unknown,Biodiversity_Actions,tal stewardship and conservation efforts Government and regulatory bodies  Advocacy and compliance Annual Report 2023-24 | 49,Description,"Star Cement Limited_2023_Read more.pdf, page 51",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Star Cement Limited,Unknown,Air_Emissions_NOx,1.0,UNKNOWN,"Star Cement Limited_2023_Read more.pdf, page 133",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Star Cement Limited,Unknown,Water_Withdrawal,2428322.0,UNKNOWN,"Star Cement Limited_2023_Read more.pdf, page 161",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Star Cement Limited,Unknown,GHG_Scope1,1.0,UNKNOWN,"Star Cement Limited_2023_Read more.pdf, page 162",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Star Cement Limited,Unknown,GHG_Scope2,2.0,UNKNOWN,"Star Cement Limited_2023_Read more.pdf, page 162",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Star Cement Limited,Unknown,Air_Emissions_SOx,3451.0,mt,"Star Cement Limited_2023_Read more.pdf, page 162",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Star Cement Limited,Unknown,Waste_Generated,3263.77,UNKNOWN,"Star Cement Limited_2023_Read more.pdf, page 163",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Star Cement Limited,Unknown,Hazardous_Waste,24.021,UNKNOWN,"Star Cement Limited_2023_Read more.pdf, page 163",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Star Cement Limited,Unknown,Protected_Area_Proximity,"reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances are required, please specify details in the following format: Sl. Location of Type of Whether ",Description,"Star Cement Limited_2023_Read more.pdf, page 164",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Star Cement Limited,Unknown,GHG_Scope3,3.0,UNKNOWN,"Star Cement Limited_2023_Read more.pdf, page 165",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+TATA COMMUNICATIONS LIMITED,Unknown,Air_Emissions_PM,3.0,UNKNOWN,"TATA COMMUNICATIONS LIMITED_press releaseIntegrated annual report 23-24.pdf, page 2",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+TATA COMMUNICATIONS LIMITED,Unknown,GHG_Scope1,84.0,UNKNOWN,"TATA COMMUNICATIONS LIMITED_press releaseIntegrated annual report 23-24.pdf, page 6",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+TATA COMMUNICATIONS LIMITED,Unknown,GHG_Scope2,84.0,UNKNOWN,"TATA COMMUNICATIONS LIMITED_press releaseIntegrated annual report 23-24.pdf, page 6",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+TATA COMMUNICATIONS LIMITED,Unknown,Biodiversity_Actions,"te action and water conservation — N. Ganapathy Subramaniam share for FY 24-25 subject to the approval of through afforestation drives, watershed development and Chairman the shareholders. 10 11 Integrated Report Statuto",Description,"TATA COMMUNICATIONS LIMITED_press releaseIntegrated annual report 23-24.pdf, page 7",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+TATA COMMUNICATIONS LIMITED,Unknown,Protected_Area_Proximity,sustainable outside protected areas and introduce alternative agriculture and effectively raise household incomes. livelihoods for forest-adjacent communities. Beneficiaries Significant Outcomes  Restored 6 acres of lan,Description,"TATA COMMUNICATIONS LIMITED_press releaseIntegrated annual report 23-24.pdf, page 34",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+TATA COMMUNICATIONS LIMITED,Unknown,Facility_Locations,"ompany’s Registered Office at Tata Communications “RESOLVED FURTHER THAT the Board of Directors addresses. Members may note that the Notice and for a term of five consecutive years commencing from Limited, VSB, Mahatma G",Description,"TATA COMMUNICATIONS LIMITED_press releaseIntegrated annual report 23-24.pdf, page 47",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tata Elxsi Limited,Unknown,Biodiversity_Actions,"pics Key Highlights Biodiversity 1,19,026 Product and Service Stewardship Hours of Employee Volunteering Stakeholders Impacted SDGs Impacted Impact created across 6 Local States Communities Collaborators Academic Institu",Description,"Tata Elxsi Limited_2024_Click here to download.pdf, page 48",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tata Elxsi Limited,Unknown,Air_Emissions_PM,1500.0,UNKNOWN,"Tata Elxsi Limited_2024_Click here to download.pdf, page 97",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tata Elxsi Limited,Unknown,Facility_Locations,"ving its registered office at ITPB Road, Whitefield, Bengaluru-560048 (hereinafter referred to as ‘the Company’), and the relevant registers, records, forms, and returns maintained by the Company and made available to us",Description,"Tata Elxsi Limited_2024_Click here to download.pdf, page 105",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tata Elxsi Limited,Unknown,Protected_Area_Proximity,"reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals/clearances are required, please specify details in the following format: S. Location of Type Whether the co",Description,"Tata Elxsi Limited_2024_Click here to download.pdf, page 149",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tata Elxsi Limited,Unknown,GHG_Scope1,1.0,UNKNOWN,"Tata Elxsi Limited_2024_Click here to download.pdf, page 156",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tata Elxsi Limited,Unknown,GHG_Scope2,2.0,UNKNOWN,"Tata Elxsi Limited_2024_Click here to download.pdf, page 156",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tata Elxsi Limited,Unknown,Water_Discharge,4.0,KL,"Tata Elxsi Limited_2024_Click here to download.pdf, page 156",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tata Elxsi Limited,Unknown,Waste_Generated,21.0,mt,"Tata Elxsi Limited_2024_Click here to download.pdf, page 157",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tata Elxsi Limited,Unknown,GHG_Scope3,3.0,UNKNOWN,"Tata Elxsi Limited_2024_Click here to download.pdf, page 160",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tata Elxsi Limited,Unknown,Energy_Consumption,6.0,GJ,"Tata Elxsi Limited_2024_Click here to download.pdf, page 160",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tata Elxsi Limited,Unknown,Air_Emissions_NOx,18.0,mt,"Tata Elxsi Limited_2024_Click here to download.pdf, page 160",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tata Motors Limited,Unknown,Biodiversity_Actions,"itionally, flagship biodiversity the Company delivered consolidated preserving biodiversity, your Company projects, supported by active employee revenues of £29 billion, like the is embedding and actively advancing and c",Description,"Tata Motors Limited_2024_80th Integrated Annual Report 2024-25.pdf, page 12",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tata Motors Limited,Unknown,GHG_Scope1,1.0,UNKNOWN,"Tata Motors Limited_2024_80th Integrated Annual Report 2024-25.pdf, page 16",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tata Motors Limited,Unknown,GHG_Scope2,1.0,UNKNOWN,"Tata Motors Limited_2024_80th Integrated Annual Report 2024-25.pdf, page 16",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tata Motors Limited,Unknown,Waste_Generated,1.0,mt,"Tata Motors Limited_2024_80th Integrated Annual Report 2024-25.pdf, page 16",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tata Motors Limited,Unknown,Air_Emissions_PM,26.0,UNKNOWN,"Tata Motors Limited_2024_80th Integrated Annual Report 2024-25.pdf, page 41",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tata Motors Limited,Unknown,Renewable_Energy_Pct,0.8,%,"Tata Motors Limited_2024_80th Integrated Annual Report 2024-25.pdf, page 84",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tata Motors Limited,Unknown,Protected_Area_Proximity,"ects across legally protected areas. Going beyond an enterprise level, this strategy lays all 3 areas, which have strategic certification, these Tata Motors ‘nature down the steps to restore, enhance, relevance and poten",Description,"Tata Motors Limited_2024_80th Integrated Annual Report 2024-25.pdf, page 94",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tata Motors Limited,Unknown,Facility_Locations,"ter withdrawal. The plants at Lucknow, Pantnagar and menu transformation etc), secondary prevention (ensuring Dharwad have achieved Water Positive certification as per disease control status, stress testing), and primary",Description,"Tata Motors Limited_2024_80th Integrated Annual Report 2024-25.pdf, page 163",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tata Motors Limited,Unknown,Energy_Consumption,1.0,UNKNOWN,"Tata Motors Limited_2024_80th Integrated Annual Report 2024-25.pdf, page 192",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech Mahindra Limited,Unknown,Air_Emissions_PM,20.0,UNKNOWN,"Tech Mahindra Limited_2025_Know More.pdf, page 17",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech Mahindra Limited,Unknown,GHG_Scope1,6264.0,UNKNOWN,"Tech Mahindra Limited_2025_Know More.pdf, page 28",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech Mahindra Limited,Unknown,Energy_Consumption,6264.0,UNKNOWN,"Tech Mahindra Limited_2025_Know More.pdf, page 28",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech Mahindra Limited,Unknown,Water_Withdrawal,740510.0,kl,"Tech Mahindra Limited_2025_Know More.pdf, page 28",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech Mahindra Limited,Unknown,Water_Recycling_Pct,6264.0,%,"Tech Mahindra Limited_2025_Know More.pdf, page 28",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech Mahindra Limited,Unknown,Biodiversity_Actions,ip 10 Innovation 20 Biodiversity The materiality matrix exhibits the outcome TechM also undertakes scenario planning of the materiality assessment undertaken to evaluate climate- and water-related during FY25. There is n,Description,"Tech Mahindra Limited_2025_Know More.pdf, page 45",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech Mahindra Limited,Unknown,Green_Cover,20.0,ha,"Tech Mahindra Limited_2025_Know More.pdf, page 53",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech Mahindra Limited,Unknown,GHG_Scope3,30.0,UNKNOWN,"Tech Mahindra Limited_2025_Know More.pdf, page 95",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech Mahindra Limited,Unknown,Facility_Locations,d through treatment plants at secondary level. 111,Description,"Tech Mahindra Limited_2025_Know More.pdf, page 113",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech Mahindra Limited,Unknown,Protected_Area_Proximity,"vation. adjacent to protected areas or areas of high biodiversity value outside Key Impacts of Activities, Products & protected areas. Services on Biodiversity (GRI Disclosure 304-2) (GRI Disclosure 304-4) All our facili",Description,"Tech Mahindra Limited_2025_Know More.pdf, page 118",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech Mahindra Limited,Unknown,GHG_Scope2,2.0,UNKNOWN,"Tech Mahindra Limited_2025_Know More.pdf, page 357",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech Mahindra Limited,Unknown,Water_Discharge,133458.0,KL,"Tech Mahindra Limited_2025_Know More.pdf, page 357",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech Mahindra Limited,Unknown,Water_Consumption,2.0,KL,"Tech Mahindra Limited_2025_Know More.pdf, page 357",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech Mahindra Limited,Unknown,Hazardous_Waste,0.06,mt,"Tech Mahindra Limited_2025_Know More.pdf, page 357",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tejas Networks Limited,Unknown,Air_Emissions_PM,3.0,UNKNOWN,"Tejas Networks Limited_2025_Know More.pdf, page 17",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Tejas Networks Limited,Unknown,Biodiversity_Actions,"astructure, digital conservation of natural difference in the learning tools, and resources, and protection of Environmental communities • Supported care, education, and a nurturing educational materials the environment,",Description,"Tejas Networks Limited_2025_Know More.pdf, page 29",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Tejas Networks Limited,Unknown,Facility_Locations,"America and has its office at The Company constituted Tejas Networks Limited ESOP California, USA. Saankhya Labs Inc. which was hitherto a Trust by renaming, amending and restating the Saankhya wholly owned subsidiary of",Description,"Tejas Networks Limited_2025_Know More.pdf, page 50",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Tejas Networks Limited,Unknown,Hazardous_Waste,19.52,UNKNOWN,"Tejas Networks Limited_2025_Know More.pdf, page 119",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Tejas Networks Limited,Unknown,Water_Withdrawal,29189.0,UNKNOWN,"Tejas Networks Limited_2025_Know More.pdf, page 130",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Tejas Networks Limited,Unknown,Water_Discharge,16093.0,UNKNOWN,"Tejas Networks Limited_2025_Know More.pdf, page 130",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Tejas Networks Limited,Unknown,Water_Consumption,29189.0,UNKNOWN,"Tejas Networks Limited_2025_Know More.pdf, page 130",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Tejas Networks Limited,Unknown,GHG_Scope1,1.0,UNKNOWN,"Tejas Networks Limited_2025_Know More.pdf, page 131",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Tejas Networks Limited,Unknown,GHG_Scope2,2.0,UNKNOWN,"Tejas Networks Limited_2025_Know More.pdf, page 131",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Tejas Networks Limited,Unknown,Air_Emissions_NOx,3.0,UNKNOWN,"Tejas Networks Limited_2025_Know More.pdf, page 131",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Tejas Networks Limited,Unknown,Air_Emissions_SOx,3.0,UNKNOWN,"Tejas Networks Limited_2025_Know More.pdf, page 131",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Tejas Networks Limited,Unknown,Protected_Area_Proximity,"reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances are required, please specify details in the following format: Whether the conditions Sl. Locat",Description,"Tejas Networks Limited_2025_Know More.pdf, page 132",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+Tejas Networks Limited,Unknown,GHG_Scope3,3.0,UNKNOWN,"Tejas Networks Limited_2025_Know More.pdf, page 134",FY 2024-25,HIGH,Tier 1,PDF_Extraction
+UNITED BREWERIES LIMITED,Unknown,Biodiversity_Actions,"system, environment/biodiversity conditions of communities around us through our conservation and rainwater harvesting. CSR activities and at the same time, ensure that Agriculture Packaging and Consumers our production ",Description,"UNITED BREWERIES LIMITED_2025_report.pdf, page 12",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+UNITED BREWERIES LIMITED,Unknown,Water_Consumption,4.0,UNKNOWN,"UNITED BREWERIES LIMITED_2025_report.pdf, page 35",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+UNITED BREWERIES LIMITED,Unknown,Facility_Locations,undaries include 19 manufacturing units/breweries 3 Energy footprint • Total energy consumed and Head Office spread across different states in India. • % of energy consumed from renewable sources • Energy intensity Assur,Description,"UNITED BREWERIES LIMITED_2025_report.pdf, page 54",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+UNITED BREWERIES LIMITED,Unknown,Protected_Area_Proximity,"reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones, etc.) where environmental approvals/clearances are required, please specify details in the following format: Notes: Includes emissions from ow",Description,"UNITED BREWERIES LIMITED_2025_report.pdf, page 66",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+hindalco-TNFD-2024-report,Unknown,Biodiversity_Actions,"mation available in biodiversity, emissions, pollutants, waste, impacts, our Biodiversity Management Plans (BMPs). The data recovery and conservation initiatives. Additionally, pertains to Hindalco India (standalone) ope",Description,"hindalco-TNFD-2024-report.pdf, page 2",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+hindalco-TNFD-2024-report,Unknown,Water_Consumption,2018.0,UNKNOWN,"hindalco-TNFD-2024-report.pdf, page 5",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+hindalco-TNFD-2024-report,Unknown,Waste_Recycled_Pct,85.0,%,"hindalco-TNFD-2024-report.pdf, page 6",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+hindalco-TNFD-2024-report,Unknown,Green_Cover,4.1,ha,"hindalco-TNFD-2024-report.pdf, page 6",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+hindalco-TNFD-2024-report,Unknown,Land_Footprint,17.0,UNKNOWN,"hindalco-TNFD-2024-report.pdf, page 12",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+hindalco-TNFD-2024-report,Unknown,Protected_Area_Proximity,"iodiversity, waste, protected areas, and the overall business footprint. Of the total sites, 11 are located water and GHG footprints . Starting with this first report on TNFD, we will further align near protected areas o",Description,"hindalco-TNFD-2024-report.pdf, page 24",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+hindalco-TNFD-2024-report,Unknown,Facility_Locations,cross our different manufacturing units and mining sites. Hindalco Industries Limited | TNFD Report 2024 27 Strategy Management and Targets Introduction Governance Risk and Impact Metrics Annexures,Description,"hindalco-TNFD-2024-report.pdf, page 28",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+hindalco-TNFD-2024-report,Unknown,Air_Emissions_PM,5.0,UNKNOWN,"hindalco-TNFD-2024-report.pdf, page 40",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+hindalco-TNFD-2024-report,Unknown,GHG_Scope2,2050.0,UNKNOWN,"hindalco-TNFD-2024-report.pdf, page 53",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+hindalco-TNFD-2024-report,Unknown,Water_Recycling_Pct,2050.0,%,"hindalco-TNFD-2024-report.pdf, page 53",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+hindalco-TNFD-2024-report,Unknown,Renewable_Energy_Pct,300.0,mw,"hindalco-TNFD-2024-report.pdf, page 70",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+hindalco-TNFD-2024-report,Unknown,Water_Discharge,2.1,UNKNOWN,"hindalco-TNFD-2024-report.pdf, page 71",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+hindalco-TNFD-2024-report,Unknown,Waste_Generated,2.2,UNKNOWN,"hindalco-TNFD-2024-report.pdf, page 72",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+hindalco-TNFD-2024-report,Unknown,Water_Withdrawal,3.0,UNKNOWN,"hindalco-TNFD-2024-report.pdf, page 73",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Hindustan,Unknown,Biodiversity_Actions,rvices 20 Figure 1: Biodiversity Policy of Hindustan Zinc Limited 10 (A screening result of ENCORE tool) Figure 2: Scope of Business Value chain covered in the report 11 Table 3: Metal And Mining Sector Impact on Selecte,Description,"Hindustan_Zinc_Final-TNFD-Report.pdf, page 2",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Hindustan,Unknown,Protected_Area_Proximity,"the only integrated protected areas and strive to achieve No Net Deforestation zinc, lead, and silver producer. It is the world’s second-largest in operating sites by 2050 against the baseline of 2020. integrated zinc pr",Description,"Hindustan_Zinc_Final-TNFD-Report.pdf, page 5",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Hindustan,Unknown,Air_Emissions_PM,4.2,UNKNOWN,"Hindustan_Zinc_Final-TNFD-Report.pdf, page 7",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Hindustan,Unknown,Water_Withdrawal,2014.0,KL,"Hindustan_Zinc_Final-TNFD-Report.pdf, page 19",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Hindustan,Unknown,Green_Cover,11000.0,hectares,"Hindustan_Zinc_Final-TNFD-Report.pdf, page 19",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Hindustan,Unknown,GHG_Scope1,2.0,UNKNOWN,"Hindustan_Zinc_Final-TNFD-Report.pdf, page 22",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Hindustan,Unknown,GHG_Scope2,2.0,UNKNOWN,"Hindustan_Zinc_Final-TNFD-Report.pdf, page 22",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Hindustan,Unknown,Water_Consumption,5.0,UNKNOWN,"Hindustan_Zinc_Final-TNFD-Report.pdf, page 22",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Hindustan,Unknown,Water_Discharge,3.0,m3,"Hindustan_Zinc_Final-TNFD-Report.pdf, page 23",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Hindustan,Unknown,Waste_Generated,20.24,tonnes,"Hindustan_Zinc_Final-TNFD-Report.pdf, page 23",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Hindustan,Unknown,Hazardous_Waste,20.24,tonnes,"Hindustan_Zinc_Final-TNFD-Report.pdf, page 23",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+itc-nature-report,Unknown,Biodiversity_Actions,roach to Nature and Biodiversity 48 Annex 1: TNFD Core Disclosure Metrics Paperboards & Specialty 50 Annex 2: Key Terms 38 51 Annex 3: TNFD Index Papers Business,Description,"itc-nature-report.pdf, page 2",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+itc-nature-report,Unknown,Facility_Locations, Period third-party manufacturing units. ITC’s where such information is material. and opportunities associated with its first TNFD report focuses on the direct Metrics and targets provided in ITC’s operations. In FY 202,Description,"itc-nature-report.pdf, page 9",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+itc-nature-report,Unknown,Protected_Area_Proximity,"s interactions with Protected Areas, Tiger Opportunities, Risks, Step 4 : Offset and progress in line with nature and ecosystem services, addressing Corridors, and areas with and Exposure) and SBTN Step 5 : Positive TNFD",Description,"itc-nature-report.pdf, page 16",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+itc-nature-report,Unknown,GHG_Scope1,50.0,UNKNOWN,"itc-nature-report.pdf, page 46",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+itc-nature-report,Unknown,Air_Emissions_PM,40.0,UNKNOWN,"itc-nature-report.pdf, page 47",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+itc-nature-report,Unknown,Water_Discharge,2.1,UNKNOWN,"itc-nature-report.pdf, page 50",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+itc-nature-report,Unknown,Land_Footprint,1.0,acres,"itc-nature-report.pdf, page 50",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+itc-nature-report,Unknown,Water_Withdrawal,3.0,UNKNOWN,"itc-nature-report.pdf, page 51",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+JSL-TNFD-Report-FY-2024-25,Unknown,Biodiversity_Actions,TRATEGIC FRAMING OF BIODIVERSITY Training and Capacity Building 16 WITHIN ESG AND RISK SYSTEMS 12 EVALUATING IMPACTS AND DEPENDENCIES 32 MANAGEMENT-LEVEL OVERSIGHT 17 RISKS AND OPPORTUNITIES 36 Executive Oversight and St,Description,"JSL-TNFD-Report-FY-2024-25.pdf, page 2",FY 2023,HIGH,Tier 1,PDF_Extraction
+JSL-TNFD-Report-FY-2024-25,Unknown,Air_Emissions_PM,2024.0,UNKNOWN,"JSL-TNFD-Report-FY-2024-25.pdf, page 6",FY 2023,HIGH,Tier 1,PDF_Extraction
+JSL-TNFD-Report-FY-2024-25,Unknown,Green_Cover,2024.0,ha,"JSL-TNFD-Report-FY-2024-25.pdf, page 6",FY 2023,HIGH,Tier 1,PDF_Extraction
+JSL-TNFD-Report-FY-2024-25,Unknown,Facility_Locations,"es (05), subsidiary manufacturing units and opportunities across JSL’s India operations lies in (03), and major production hubs (03). While several In synergy with the findings of the double materiality to identifying ri",Description,"JSL-TNFD-Report-FY-2024-25.pdf, page 14",FY 2023,HIGH,Tier 1,PDF_Extraction
+JSL-TNFD-Report-FY-2024-25,Unknown,Protected_Area_Proximity,". and overlaps with protected areas. This screening process integrates ecological indicators with Following initial screening, detailed evaluations, informed by existing Biodiversity Risk Assessments operational relevanc",Description,"JSL-TNFD-Report-FY-2024-25.pdf, page 14",FY 2023,HIGH,Tier 1,PDF_Extraction
+JSL-TNFD-Report-FY-2024-25,Unknown,Land_Footprint,2070.0,ha,"JSL-TNFD-Report-FY-2024-25.pdf, page 24",FY 2023,HIGH,Tier 1,PDF_Extraction
+JSL-TNFD-Report-FY-2024-25,Unknown,GHG_Scope2,30.0,UNKNOWN,"JSL-TNFD-Report-FY-2024-25.pdf, page 28",FY 2023,HIGH,Tier 1,PDF_Extraction
+JSL-TNFD-Report-FY-2024-25,Unknown,Hazardous_Waste,2016.0,UNKNOWN,"JSL-TNFD-Report-FY-2024-25.pdf, page 28",FY 2023,HIGH,Tier 1,PDF_Extraction
+JSL-TNFD-Report-FY-2024-25,Unknown,Water_Recycling_Pct,2.0,UNKNOWN,"JSL-TNFD-Report-FY-2024-25.pdf, page 41",FY 2023,HIGH,Tier 1,PDF_Extraction
+JSL-TNFD-Report-FY-2024-25,Unknown,GHG_Scope1,2.0,tCO2e,"JSL-TNFD-Report-FY-2024-25.pdf, page 44",FY 2023,HIGH,Tier 1,PDF_Extraction
+JSL-TNFD-Report-FY-2024-25,Unknown,GHG_Scope3,3.0,tCO2e,"JSL-TNFD-Report-FY-2024-25.pdf, page 44",FY 2023,HIGH,Tier 1,PDF_Extraction
+JSL-TNFD-Report-FY-2024-25,Unknown,Water_Withdrawal,3.0,KL,"JSL-TNFD-Report-FY-2024-25.pdf, page 46",FY 2023,HIGH,Tier 1,PDF_Extraction
+JSL-TNFD-Report-FY-2024-25,Unknown,Air_Emissions_SOx,1067.68,mt,"JSL-TNFD-Report-FY-2024-25.pdf, page 46",FY 2023,HIGH,Tier 1,PDF_Extraction
+Tata,Unknown,Biodiversity_Actions,Biodiversity Policy & Commitment Document By Corporate Sustainability Department The Tata Power Company Limited May 2025 Rev No. Reason for Revision Prepared Checked By Approved on New Document- A det,Description,"Tata_Power_biodiversity-policy-commitment-document.pdf, page 1",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Tata,Unknown,Biodiversity_Actions,"rating globally and biodiversity is to announce that Tata Steel is actively working towards the declining faster than at any time in human history.” Globally, we are approaching a implementation of the TNFD (Taskforce on",Description,"Tata_Steel_tnfd-report-2025.pdf, page 3",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Tata,Unknown,Air_Emissions_PM,15.0,UNKNOWN,"Tata_Steel_tnfd-report-2025.pdf, page 19",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Tata,Unknown,GHG_Scope1,1.0,UNKNOWN,"Tata_Steel_tnfd-report-2025.pdf, page 30",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Tata,Unknown,GHG_Scope2,1.0,UNKNOWN,"Tata_Steel_tnfd-report-2025.pdf, page 30",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Tata,Unknown,GHG_Scope3,1.0,UNKNOWN,"Tata_Steel_tnfd-report-2025.pdf, page 30",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Tata,Unknown,Water_Withdrawal,115337391.0,UNKNOWN,"Tata_Steel_tnfd-report-2025.pdf, page 30",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Tata,Unknown,Water_Discharge,14208410.0,UNKNOWN,"Tata_Steel_tnfd-report-2025.pdf, page 30",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Tata,Unknown,Water_Consumption,101128980.0,UNKNOWN,"Tata_Steel_tnfd-report-2025.pdf, page 30",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Tata,Unknown,Waste_Generated,2381.0,tonnes,"Tata_Steel_tnfd-report-2025.pdf, page 30",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Tata,Unknown,Hazardous_Waste,16989548.0,tonnes,"Tata_Steel_tnfd-report-2025.pdf, page 30",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Tata,Unknown,Air_Emissions_NOx,22.0,tonnes,"Tata_Steel_tnfd-report-2025.pdf, page 30",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Tata,Unknown,Air_Emissions_SOx,46.0,tonnes,"Tata_Steel_tnfd-report-2025.pdf, page 30",FY 2023-24,HIGH,Tier 1,PDF_Extraction
+Tech,Unknown,Biodiversity_Actions," such as the Global Biodiversity Framework (Target 15), the UN Sustainable Development Goals (SDGs), and ISO guidelines. - Sandeep Chandna, Chief Sustainability Officer 4 Copyright © 2025 Tech Mahindra. All rights reserv",Description,"Tech_Mahindra _tnfd-report.pdf, page 4",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech,Unknown,Protected_Area_Proximity,"luding proximity to protected areas, biodiversity zones, and ecosystem condition. While scores were generally low, these risks remain relevant for stakeholder trust, regulatory visibility, and long-term license to operat",Description,"Tech_Mahindra _tnfd-report.pdf, page 17",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech,Unknown,GHG_Scope1,12435.0,mtco2e,"Tech_Mahindra _tnfd-report.pdf, page 31",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech,Unknown,GHG_Scope2,76735.0,mtco2e,"Tech_Mahindra _tnfd-report.pdf, page 31",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech,Unknown,Water_Discharge,2.1,UNKNOWN,"Tech_Mahindra _tnfd-report.pdf, page 31",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech,Unknown,Hazardous_Waste,2.2,mt,"Tech_Mahindra _tnfd-report.pdf, page 31",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech,Unknown,Water_Withdrawal,3.0,UNKNOWN,"Tech_Mahindra _tnfd-report.pdf, page 32",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech,Unknown,Water_Consumption,3.0,UNKNOWN,"Tech_Mahindra _tnfd-report.pdf, page 32",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech,Unknown,Air_Emissions_SOx,0.33,mt,"Tech_Mahindra _tnfd-report.pdf, page 32",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech,Unknown,Air_Emissions_PM,0.16,mt,"Tech_Mahindra _tnfd-report.pdf, page 32",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech,Unknown,Water_Recycling_Pct,8.0,%,"Tech_Mahindra _tnfd-report.pdf, page 33",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Tech,Unknown,Waste_Generated,600.0,mt,"Tech_Mahindra _tnfd-report.pdf, page 35",UNKNOWN_YEAR,HIGH,Tier 1,PDF_Extraction
+Vedanta-Aluminium-TNFD-2025,Unknown,Protected_Area_Proximity,"mental Clearance PA Protected Area EHS Environment, Health & Safety PCCF Principal Chief Conservator of Forests EIA Environmental Impact Assessments PRF Protected Reserved Forest ENCORE Exploring Natural Capital Opportun",Description,"Vedanta-Aluminium-TNFD-2025.pdf, page 3",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Vedanta-Aluminium-TNFD-2025,Unknown,Biodiversity_Actions,"meters per hour BMP Biodiversity Management Plan KPI Key Performance Indicators BRF Biodiversity Risk Filter LEAP Locate, Evaluate, Assess, Prepare BRSR Business Responsibility and Sustainability Report ManCom Management",Description,"Vedanta-Aluminium-TNFD-2025.pdf, page 3",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Vedanta-Aluminium-TNFD-2025,Unknown,Facility_Locations,", the captive power plants at environmental stewardship. The report aligns with each of these sites, Jamkhani Coal Mine (Odisha) the TNFD’s recommendations, ensuring seamless and VGCB (Andhra Pradesh). With assessments i",Description,"Vedanta-Aluminium-TNFD-2025.pdf, page 7",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Vedanta-Aluminium-TNFD-2025,Unknown,Air_Emissions_PM,2.5,UNKNOWN,"Vedanta-Aluminium-TNFD-2025.pdf, page 27",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Vedanta-Aluminium-TNFD-2025,Unknown,Hazardous_Waste,387958.61,mt,"Vedanta-Aluminium-TNFD-2025.pdf, page 35",UNKNOWN_YEAR,MEDIUM,Tier 1,PDF_Extraction
+Vedanta,Unknown,Biodiversity_Actions,on of site-specific Biodiversity Management 10 72 Plans (BMPs) Following the (International Council on Mining and Metals) ICMM mitigation hierarchy Chapter 1: Chapter 4: Introduction Risk and Impact Theme of the Report P,Description,"Vedanta_6_TNFD_Report_2025.pdf, page 2",FY 2025,HIGH,Tier 1,PDF_Extraction
+Vedanta,Unknown,Protected_Area_Proximity,dustry NPA National Protected Areas 96% 3 CoPs Communities of Practice NTFPs Non-Timber Forest Products Nearly Million CPCB Central Pollution Control Board OECD Organisation for Economic Co-operation and trees planted ti,Description,"Vedanta_6_TNFD_Report_2025.pdf, page 3",FY 2025,HIGH,Tier 1,PDF_Extraction
+Vedanta,Unknown,Air_Emissions_PM,550.0,UNKNOWN,"Vedanta_6_TNFD_Report_2025.pdf, page 20",FY 2025,HIGH,Tier 1,PDF_Extraction
+Vedanta,Unknown,GHG_Scope1,1.0,UNKNOWN,"Vedanta_6_TNFD_Report_2025.pdf, page 46",FY 2025,HIGH,Tier 1,PDF_Extraction
+Vedanta,Unknown,Water_Recycling_Pct,33.0,%,"Vedanta_6_TNFD_Report_2025.pdf, page 46",FY 2025,HIGH,Tier 1,PDF_Extraction
+Vedanta,Unknown,Water_Withdrawal,3.0,m3,"Vedanta_6_TNFD_Report_2025.pdf, page 52",FY 2025,HIGH,Tier 1,PDF_Extraction
+Vedanta,Unknown,Water_Discharge,2.1,m3,"Vedanta_6_TNFD_Report_2025.pdf, page 52",FY 2025,HIGH,Tier 1,PDF_Extraction
+Vedanta,Unknown,Hazardous_Waste,2.2,UNKNOWN,"Vedanta_6_TNFD_Report_2025.pdf, page 52",FY 2025,HIGH,Tier 1,PDF_Extraction

@@ -1,0 +1,100 @@
+Company_Name,Sector,Missing_Count,Missing_Scope1,Missing_Scope2,Missing_Scope3,Missing_Water,Missing_Waste
+Essar Steel India (AM/NS India),Steel & Iron,5,True,True,True,True,True
+KIOCL (Kudremukh Iron Ore Company),Steel & Iron,5,True,True,True,True,True
+Bikaji Foods,Pharmaceuticals & Healthcare,5,True,True,True,True,True
+Heritage Foods,Pharmaceuticals & Healthcare,5,True,True,True,True,True
+Prism Johnson (Cement),Cement Manufacturing,5,True,True,True,True,True
+IndiGo (InterGlobe Aviation),Transportation & Logistics,5,True,True,True,True,True
+GVK Mumbai Airport,Transportation & Logistics,5,True,True,True,True,True
+Bharat Heavy Electricals Limited (BHEL),Power Generation,5,True,True,True,True,True
+Damodar Valley Corporation (DVC),Power Generation,5,True,True,True,True,True
+West Coast Paper Mills,Chemicals & Fertilizers,5,True,True,True,True,True
+Welspun Living Limited (formerly Welspun India),Textiles & Apparel,5,True,True,True,True,True
+ITC Limited (Paperboards Division),Pharmaceuticals & Healthcare,5,True,True,True,True,True
+Nestle India,Pharmaceuticals & Healthcare,5,True,True,True,True,True
+Mother Dairy,Pharmaceuticals & Healthcare,5,True,True,True,True,True
+Haldiram Snacks Food Private Limited,Pharmaceuticals & Healthcare,5,True,True,True,True,True
+Sagar Cements,Cement Manufacturing,5,True,True,True,True,True
+Siemens Limited,Information Technology,5,True,True,True,True,True
+Rashtriya Ispat Nigam Limited (RINL) - Vizag Steel,Steel & Iron,5,True,True,True,True,True
+Vedanta,Steel & Iron,5,True,True,True,True,True
+JSW Energy,Power Generation,4,True,True,False,True,True
+Vardhman Textiles,Textiles & Apparel,4,True,True,False,True,True
+Bangalore International Airport Ltd (BIAL),Transportation & Logistics,4,True,True,False,True,True
+"Adani Airports (Mumbai, Ahmedabad, 6 others)",Transportation & Logistics,4,True,True,False,True,True
+"GMR Airports (Delhi, Hyderabad)",Transportation & Logistics,4,True,True,False,True,True
+APL Apollo Tubes,Steel & Iron,4,True,True,False,True,True
+LTIMindtree Limited,Information Technology,4,True,True,False,True,True
+Larsen & Toubro Limited,Information Technology,4,True,True,False,True,True
+LT Technology Services Limited,Information Technology,4,True,True,False,True,True
+Kalyani Steels,Steel & Iron,4,True,True,False,True,True
+Sunflag Iron and Steel,Steel & Iron,4,True,True,False,True,True
+Electrosteel Castings,Steel & Iron,4,True,True,False,True,True
+Sanghi Industries,Chemicals & Fertilizers,4,True,True,False,True,True
+Mangalam Cement,Cement Manufacturing,4,True,True,False,True,True
+SARDA ENERGY & MINERALS LIMITED,Steel & Iron,4,True,True,False,True,True
+Mrs. Bectors Food Specialities,Pharmaceuticals & Healthcare,4,True,True,False,True,True
+Himadri Speciality Chemical Limited,Chemicals & Fertilizers,4,True,True,False,True,True
+Sanofi India Limited,Pharmaceuticals & Healthcare,4,True,True,False,True,True
+DIVI'S LABORATORIES LIMITED,Pharmaceuticals & Healthcare,4,True,True,False,True,True
+JK Tyre & Industries Limited,Chemicals & Fertilizers,4,True,True,False,True,True
+Schaeffler India Limited,Information Technology,4,True,True,False,True,True
+IndiaMART InterMESH Limited,Information Technology,4,True,True,False,True,True
+Cochin International Airport (CIAL),Transportation & Logistics,4,True,True,False,True,True
+K.P.R. MILL LIMITED,Information Technology,4,True,True,False,True,True
+JK Paper,Chemicals & Fertilizers,4,True,True,False,True,True
+CCL Products (India) Limited,Information Technology,4,True,True,False,True,True
+Andhra Paper Limited (formerly Andhra Pradesh Paper Mills),Information Technology,4,True,True,False,True,True
+Seshasayee Paper and Boards Limited,Information Technology,4,True,True,False,True,True
+Emami Paper Mills Limited,Information Technology,4,True,True,False,True,True
+West Coast Paper Mills Limited,Information Technology,4,True,True,False,True,True
+Minda Corporation Limited,Chemicals & Fertilizers,4,True,True,False,True,True
+Narayana Hrudayalaya Ltd.,Pharmaceuticals & Healthcare,4,True,True,False,True,True
+Jindal Saw Limited,Steel & Iron,4,True,True,False,True,True
+Varun Beverages (PepsiCo franchise),Pharmaceuticals & Healthcare,4,True,True,False,True,True
+Infibeam Avenues Limited,Chemicals & Fertilizers,3,True,True,True,False,False
+IFCI Limited,Chemicals & Fertilizers,3,True,True,True,False,False
+MAHARASHTRA SCOOTERS LIMITED,Chemicals & Fertilizers,3,True,True,True,False,False
+Power Mech Projects Limited,Power Generation,3,True,True,True,False,False
+Responsive Industries Limited,Chemicals & Fertilizers,3,True,True,True,False,False
+RATTANINDIA ENTERPRISES LIMITED,Chemicals & Fertilizers,3,True,True,True,False,False
+Redtape Limited,Chemicals & Fertilizers,3,True,True,True,False,False
+Sun Pharma Advanced Research Company Limited,Pharmaceuticals & Healthcare,2,True,True,False,False,False
+Aegis Logistics Limited,Chemicals & Fertilizers,2,True,True,False,False,False
+CE INFO SYSTEMS LIMITED,Chemicals & Fertilizers,2,True,True,False,False,False
+Mishra Dhatu Nigam Limited,Chemicals & Fertilizers,1,False,False,True,False,False
+PNC Infratech Limited,Information Technology,1,False,False,True,False,False
+Piramal Pharma Limited,Pharmaceuticals & Healthcare,1,False,False,True,False,False
+Piramal Enterprises Limited,Chemicals & Fertilizers,1,False,False,True,False,False
+Man Infraconstruction Limited,Cement Manufacturing,1,False,False,True,False,False
+PTC Industries Limited,Chemicals & Fertilizers,1,False,False,True,False,False
+POLY MEDICURE LIMITED,Pharmaceuticals & Healthcare,1,False,False,True,False,False
+Engineers India Limited,Chemicals & Fertilizers,1,False,False,True,False,False
+Campus Activewear Limited,Chemicals & Fertilizers,1,False,False,True,False,False
+PATANJALI FOODS LIMITED,Pharmaceuticals & Healthcare,1,False,False,True,False,False
+Ircon International Limited,Chemicals & Fertilizers,1,False,False,True,False,False
+Data Patterns India Limited,Information Technology,1,False,False,True,False,False
+DOMS Industries Limited,Chemicals & Fertilizers,1,False,False,True,False,False
+Oberoi Realty Limited,Real Estate & Construction,1,False,False,True,False,False
+NBCC India Limited,Cement Manufacturing,1,False,False,True,False,False
+Cello World Limited,Pharmaceuticals & Healthcare,1,False,False,True,False,False
+KIOCL Limited,Steel & Iron,1,False,False,True,False,False
+RELIANCE POWER LIMITED,Oil & Gas,1,False,False,True,False,False
+KNR Constructions Limited,Cement Manufacturing,1,False,False,True,False,False
+Ramkrishna Forgings Limited,Chemicals & Fertilizers,1,False,False,True,False,False
+KPR MILL LIMITED,Textiles & Apparel,1,False,False,True,False,False
+Maharashtra Seamless Limited,Chemicals & Fertilizers,1,False,False,True,False,False
+JYOTI CNC AUTOMATION LIMITED,Chemicals & Fertilizers,1,False,False,True,False,False
+Kalyan Jewellers India Limited,Pharmaceuticals & Healthcare,1,False,False,True,False,False
+ALOK INDUSTRIES LIMITED,Chemicals & Fertilizers,1,False,False,True,False,False
+Welspun Corp Limited,Textiles & Apparel,1,False,False,True,False,False
+Vedant Fashions Limited,Textiles & Apparel,1,False,False,True,False,False
+VALOR ESTATE LIMITED,Chemicals & Fertilizers,1,False,False,True,False,False
+Thomas Cook  India  Limited,Chemicals & Fertilizers,1,False,False,True,False,False
+JAIPRAKASH POWER VENTURES LIMITED,Power Generation,1,False,False,True,False,False
+Star Cement Limited,Cement Manufacturing,1,False,False,True,False,False
+JAI BALAJI INDUSTRIES LIMITED,Chemicals & Fertilizers,1,False,False,True,False,False
+Sona BLW Precision Forgings Limited,Chemicals & Fertilizers,1,False,False,True,False,False
+Solar Industries India Limited,Chemicals & Fertilizers,1,False,False,True,False,False
+Signatureglobal India Limited,Chemicals & Fertilizers,1,False,False,True,False,False
+ALEMBIC PHARMACEUTICALS LIMITED,Pharmaceuticals & Healthcare,1,False,False,True,False,False

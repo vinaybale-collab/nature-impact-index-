@@ -7,6 +7,8 @@
   "nii_score": 5.2,
   "nii_rank": 250,
   "nii_sector_rank": 57,
+  "nii_sector_total": 148,
+  "nii_total_companies": 525,
   "nii_rating": "Average",
   "nii_percentile": 52,
   "taesc_cr": 188.28,
@@ -15,27 +17,58 @@
   "breakdown": {
     "climate": {
       "value_cr": 5.53,
-      "pct": 2.9
+      "pct": 2.9,
+      "sub_components": {
+        "scope1_cost_cr": 0.09,
+        "scope2_cost_cr": 0.65,
+        "scope2_net_cr": 0.16,
+        "scope3_cost_cr": 5.27,
+        "re_credit_cr": 0.48
+      }
     },
     "water": {
       "value_cr": 0.46,
-      "pct": 0.2
+      "pct": 0.2,
+      "sub_components": {
+        "consumption_cost_cr": 0.46,
+        "recycling_credit_cr": 0.0
+      }
     },
     "land": {
       "value_cr": 11.7,
-      "pct": 6.2
+      "pct": 6.2,
+      "sub_components": {
+        "footprint_cost_cr": 6.24,
+        "degradation_cost_cr": 5.46,
+        "restoration_credit_cr": 0.0
+      }
     },
     "biodiversity": {
       "value_cr": 157.36,
-      "pct": 83.6
+      "pct": 83.6,
+      "sub_components": {
+        "direct_msa_cost_cr": 150.6,
+        "scope3_bio_cost_cr": 6.77
+      }
     },
     "pollution": {
       "value_cr": 11.81,
-      "pct": 6.3
+      "pct": 6.3,
+      "sub_components": {
+        "waste_cost_cr": 2.04,
+        "overburden_cost_cr": 0.0,
+        "plastic_cost_cr": 9.92,
+        "ewaste_cost_cr": 0.69,
+        "hap_cost_cr": 0.0,
+        "recycling_credit_cr": 0.84
+      }
     },
     "energy_depletion": {
       "value_cr": 1.43,
-      "pct": 0.8
+      "pct": 0.8,
+      "sub_components": {
+        "non_renewable_cost_cr": 1.43
+      }
     }
   },
   "raw_data": {
@@ -57,6 +90,12 @@
     "sector_best_score": 7.5,
     "sector_median_taesc": 370.56,
     "sector_best_taesc": 8.45
+  },
+  "restoration_estimate": {
+    "acres_needed": 10459,
+    "hectares_equiv": 4233,
+    "theta_per_acre_lakh": 1.8,
+    "methodology": "Based on incremental ecosystem service value of Rs 1.8 lakh per acre per year from restoration"
   },
   "data_quality": {
     "tier": "Tier 2",

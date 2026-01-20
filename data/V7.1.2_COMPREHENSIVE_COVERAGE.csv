@@ -1,0 +1,17 @@
+Indicator,Total_Companies,Non_Null,Null_Count,Coverage_Pct,Zero_Count,Zero_Pct,Status
+Total_GHG_Emissions_tCO2e,525,524,1,99.81,0,0.0,EXCELLENT
+Water_Consumption_KL,525,525,0,100.0,2,0.38,EXCELLENT
+Waste_Generated_MT,525,525,0,100.0,1,0.19,EXCELLENT
+Land_Owned_ha,525,485,40,92.38,68,12.95,GOOD
+Land_Leased_ha,525,512,13,97.52,19,3.62,EXCELLENT
+Total_Land_ha,525,525,0,100.0,6,1.14,EXCELLENT
+Renewable_Energy_Pct,525,465,60,88.57,25,4.76,NEEDS_WORK
+Distance_To_Protected_Area_km,525,524,1,99.81,512,97.52,EXCELLENT
+GHG_Emissions_Normalized,525,524,1,99.81,0,0.0,EXCELLENT
+Water_Consumption_Normalized,525,525,0,100.0,8,1.52,EXCELLENT
+Waste_Generated_Normalized,525,525,0,100.0,9,1.71,EXCELLENT
+Water_Intensity,525,525,0,100.0,8,1.52,EXCELLENT
+Land_Intensity,525,525,0,100.0,6,1.14,EXCELLENT
+Revenue_Cr,525,525,0,100.0,0,0.0,EXCELLENT
+V7_Direct_EIF,525,525,0,100.0,0,0.0,EXCELLENT
+MSA_Intensity_V7_Total,525,525,0,100.0,0,0.0,EXCELLENT

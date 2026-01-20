@@ -7,6 +7,8 @@
   "nii_score": 8.4,
   "nii_rank": 82,
   "nii_sector_rank": 3,
+  "nii_sector_total": 3,
+  "nii_total_companies": 525,
   "nii_rating": "Excellent",
   "nii_percentile": 84,
   "taesc_cr": 45.43,
@@ -15,27 +17,58 @@
   "breakdown": {
     "climate": {
       "value_cr": 16.27,
-      "pct": 35.8
+      "pct": 35.8,
+      "sub_components": {
+        "scope1_cost_cr": 0.15,
+        "scope2_cost_cr": 1.54,
+        "scope2_net_cr": 1.54,
+        "scope3_cost_cr": 14.57,
+        "re_credit_cr": 0.0
+      }
     },
     "water": {
       "value_cr": 1.66,
-      "pct": 3.6
+      "pct": 3.6,
+      "sub_components": {
+        "consumption_cost_cr": 1.66,
+        "recycling_credit_cr": 0.0
+      }
     },
     "land": {
       "value_cr": 3.69,
-      "pct": 8.1
+      "pct": 8.1,
+      "sub_components": {
+        "footprint_cost_cr": 1.8,
+        "degradation_cost_cr": 1.89,
+        "restoration_credit_cr": 0.0
+      }
     },
     "biodiversity": {
       "value_cr": 20.01,
-      "pct": 44.1
+      "pct": 44.1,
+      "sub_components": {
+        "direct_msa_cost_cr": 0.0,
+        "scope3_bio_cost_cr": 20.01
+      }
     },
     "pollution": {
       "value_cr": 2.52,
-      "pct": 5.5
+      "pct": 5.5,
+      "sub_components": {
+        "waste_cost_cr": 0.65,
+        "overburden_cost_cr": 0.0,
+        "plastic_cost_cr": 0.01,
+        "ewaste_cost_cr": 2.17,
+        "hap_cost_cr": 0.0,
+        "recycling_credit_cr": 0.32
+      }
     },
     "energy_depletion": {
       "value_cr": 1.27,
-      "pct": 2.8
+      "pct": 2.8,
+      "sub_components": {
+        "non_renewable_cost_cr": 1.27
+      }
     }
   },
   "raw_data": {
@@ -57,6 +90,12 @@
     "sector_best_score": 9.4,
     "sector_median_taesc": 24.93,
     "sector_best_taesc": 12.11
+  },
+  "restoration_estimate": {
+    "acres_needed": 2523,
+    "hectares_equiv": 1021,
+    "theta_per_acre_lakh": 1.8,
+    "methodology": "Based on incremental ecosystem service value of Rs 1.8 lakh per acre per year from restoration"
   },
   "data_quality": {
     "tier": "Tier 2",

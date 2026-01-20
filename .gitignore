@@ -1,0 +1,73 @@
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# Build outputs
+.next/
+out/
+build/
+dist/
+
+# Testing
+coverage/
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-specific exclusions
+.checkpoint_*/
+.validation/
+.handoffs/
+.claude/
+Additional reports/
+Downloaded files/
+CLAUDE_OUTPUTS/
+DOCUMENTATION/
+FINAL_DATA_COMPLETENESS_PUSH/
+GEMINI_EXTRACTION/
+Landing page images/
+__pycache__/
+
+# Large data files and archives
+*.zip
+*.tar.gz
+aqueduct-4-0-water-risk-data.zip
+Globio4_TerrestrialMSA_10sec_2015.zip
+WDPA_WDOECM_Jan2026_Public_IND_shp.zip
+
+# Python scripts (keep only essential)
+*.pyc
+_temp_*.py
+
+# Markdown documentation (keep README only)
+[0-9]*.md
+[A-Z][A-Z]*.md
+!README.md
+
+# CSV logs and reports
+*_LOG.csv
+*_REPORT.csv
+*_ANALYSIS.csv
+OUTLIERS_*.csv
+MISSING_*.csv
+ZERO_*.csv

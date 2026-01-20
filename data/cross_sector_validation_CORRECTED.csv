@@ -1,0 +1,6 @@
+Comparison,Expected,Actual,Deviation_%,Status
+Steel & Iron / Cement,1.8x,0.4x,-79.8%,REVIEW
+Oil & Gas / Cement,2.0x,0.6x,-71.5%,REVIEW
+Power Generation / Cement,2.5x,3.3x,+30.5%,PASS
+Cement / Financial Services,50.0x,291.4x,+482.8%,REVIEW
+Cement / Information Technology,10.0x,2.8x,-72.3%,PASS

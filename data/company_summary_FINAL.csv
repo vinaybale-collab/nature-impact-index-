@@ -1,0 +1,125 @@
+Company,Sector,Metrics,Confidence,Year
+Kalyani Steels,Steel & Iron,5,HIGH,FY 2023-24
+Electrosteel Steels (ESL Steel Limited),Steel & Iron,3,MEDIUM,FY 2023-24
+Ratnamani Metals & Tubes Limited,Steel & Iron,4,HIGH,FY 2023-24
+Adhunik Metaliks,Steel & Iron,0,LOW,FY 2023-24
+Sunflag Iron and Steel,Steel & Iron,5,HIGH,FY 2023-24
+Electrosteel Castings,Steel & Iron,7,HIGH,FY 2023-24
+Uttam Galva Steels,Steel & Iron,1,MEDIUM,FY 2023-24
+Bhushan Steel (Tata Steel BSL),Steel & Iron,3,HIGH,FY 2023-24
+Essar Steel India (AM/NS India),Steel & Iron,5,HIGH,FY 2023-24
+KIOCL (Kudremukh Iron Ore Company),Steel & Iron,4,HIGH,FY 2023-24
+Rashtriya Ispat Nigam Limited (RINL) - Vizag Steel,Steel & Iron,4,HIGH,FY 2022-23
+Mrs. Bectors Food Specialities,FMCG,4,HIGH,FY 2023-24
+Bikaji Foods,FMCG,7,HIGH,FY 2023-24
+Varun Beverages (PepsiCo franchise),FMCG,6,HIGH,CY 2024
+Heritage Foods,FMCG,5,HIGH,FY 2023-24
+Amul (GCMMF),FMCG (Dairy),3,MEDIUM,FY 2023-24
+MOIL (Manganese Ore India),Mining,1,HIGH,FY 2023-24
+Vardhman Textiles,Textiles,7,HIGH,FY 2023-24
+Himadri Speciality Chemical Limited,Chemicals,8,HIGH,FY 2023-24
+Archean Chemical Industries Limited,Chemicals,3,MEDIUM,FY 2024-25
+Air India,Aviation,3,MEDIUM,CY 2023
+Amara Raja Energy & Mobility Limited,Power,3,HIGH,FY 2023-24
+JINDAL STEEL & POWER LIMITED,Power/Steel,1,MEDIUM,FY 2024-25
+SARDA ENERGY & MINERALS LIMITED,Power/Steel,5,HIGH,FY 2023-24
+Tata Power,Power,5,HIGH,FY 2023-24
+JSW Energy,Power,7,HIGH,FY 2023-24
+Gujarat State Electricity Corporation,Power,2,MEDIUM,FY 2023-24
+Torrent Power,Power,1,MEDIUM,FY 2023-24
+Burnpur Cement,Cement,1,LOW,FY 2023-24
+Prism Johnson (Cement),Cement,5,HIGH,FY 2023-24
+Kesoram Industries (Cement Division),Cement,2,MEDIUM,FY 2022-23
+JK Lakshmi Cement,Cement,3,HIGH,FY 2022-23
+Mangalam Cement,Cement,6,HIGH,FY 2023-24
+Nuvoco Vistas Corp (Nirma Cement),Cement,2,MEDIUM,FY 2023-24
+Cement Corporation of India,Cement,1,MEDIUM,FY 2023-24
+Sanghi Industries,Cement,4,HIGH,FY 2023-24
+Techno Electric & Engineering Company Limited,IT Services,4,HIGH,FY 2023-24
+Dixon Technologies (India) Limited,IT Services,3,MEDIUM,FY 2023-24
+LT Technology Services Limited,IT Services,6,HIGH,FY 2022-23
+Larsen & Toubro Limited,IT Services,5,HIGH,FY 2023-24
+LTIMindtree Limited,IT Services,7,HIGH,FY 2023-24
+APL Apollo Tubes,Other Business Services,4,MEDIUM,FY 2023-24
+Airports Authority of India (AAI),Other Business Services,2,MEDIUM,FY 2023-24
+IndiGo (InterGlobe Aviation),Other Business Services,6,HIGH,FY 2022-23
+SpiceJet,Other Business Services,2,MEDIUM,FY 2023-24
+Go First (GoAir),Other Business Services,0,LOW,FY 2022-23
+Vistara (TATA SIA Airlines),Other Business Services,1,MEDIUM,FY 2023-24
+Air Asia India,Other Business Services,0,LOW,FY 2023-24
+Alliance Air,Other Business Services,0,LOW,FY 2023-24
+Akasa Air,Other Business Services,1,MEDIUM,FY 2023-24
+"GMR Airports (Delhi, Hyderabad)",Other Business Services,6,HIGH,FY 2023-24
+"Adani Airports (Mumbai, Ahmedabad, 6 others)",Other Business Services,4,HIGH,FY 2023-24
+GVK Mumbai Airport,Other Business Services,3,MEDIUM,FY 2023-24
+Bangalore International Airport Ltd (BIAL),Other Business Services,4,HIGH,FY 2023-24
+Authum Investment & Infrastructure Limited,Financial Services,1,MEDIUM,FY 2024-25
+UCO BANK,Financial Services,3,HIGH,FY 2024-25 (Projected)
+Bajaj Holdings & Investment Limited,Financial Services,2,HIGH,FY 2024-25
+"Adani Airports (Mumbai, Ahmedabad, 6 others)",Other Business Services,4,HIGH,FY 2023-24
+Castrol India Limited,Other Business Services,4,HIGH,CY 2023
+Larsen & Toubro Limited,Other Business Services,5,HIGH,FY 2023-24
+Sanofi India Limited,Other Business Services,6,HIGH,CY 2023
+Mahindra & Mahindra Limited,Other Business Services,4,HIGH,FY 2023-24
+DIVI'S LABORATORIES LIMITED,Other Business Services,6,HIGH,FY 2023-24
+JK Tyre & Industries Limited,Other Business Services,6,HIGH,FY 2023-24
+Schaeffler India Limited,Other Business Services,5,HIGH,CY 2024
+Jindal Saw Limited,Other Business Services,5,HIGH,FY 2023-24
+Narayana Hrudayalaya Ltd.,Other Business Services,5,HIGH,FY 2023-24
+Dr. Reddy's Laboratories Limited,Other Business Services,3,HIGH,FY 2023-24
+Century Plyboards (India) Limited,Other Business Services,2,HIGH,FY 2024-25
+NBCC (India) Limited,Other Business Services,1,MEDIUM,FY 2023-24
+Safari Industries (India) Limited,Other Business Services,2,HIGH,FY 2023-24
+Minda Corporation Limited,Other Business Services,6,HIGH,FY 2023-24
+West Coast Paper Mills Limited,Paper & Pulp,7,HIGH,FY 2023-24
+Trident Limited,Textiles & Paper,5,HIGH,FY 2023-24
+Welspun Living Limited,Textiles,5,HIGH,FY 2024-25
+Nestle India Limited,FMCG,5,HIGH,CY 2022/2023
+Bharat Heavy Electricals Limited (BHEL),Engineering,6,HIGH,FY 2023-24
+Emami Paper Mills Limited,Paper & Pulp,7,HIGH,FY 2023-24
+Seshasayee Paper and Boards Limited,Paper & Pulp,5,HIGH,FY 2023-24
+Mahindra Holidays & Resorts India Limited,Hospitality,5,HIGH,FY 2023-24
+Angel One Limited,Financial Services,3,MEDIUM,FY 2024-25
+Punjab & Sind Bank,Banking,2,MEDIUM,FY 2024-25
+S Kumars Nationwide,Textiles,0,LOW,NOT_FOUND
+Andhra Paper Limited (formerly Andhra Pradesh Paper Mills),Paper,6,HIGH,FY 2023-24
+Monnet Ispat (JSW Ispat Special Products Limited),Steel & Iron,2,MEDIUM,FY 2022-23
+Damodar Valley Corporation (DVC),Power,4,HIGH,FY 2024-25
+Hindustan Paper Corporation,Paper,0,LOW,NOT_FOUND
+Tayo Rolls,Steel & Iron,0,LOW,NOT_FOUND
+Raymond Limited,Textiles,2,HIGH,FY 2023-24
+West Coast Paper Mills,Paper,7,HIGH,FY 2023-24
+Mukand Limited,Steel & Iron,4,HIGH,FY 2023-24
+S Kumars Nationwide,Textiles,0,LOW,NOT_FOUND
+Trident Limited,Textiles,6,HIGH,FY 2023-24
+Welspun Living Limited (formerly Welspun India),Textiles,6,HIGH,FY 2023-24
+CCL Products (India) Limited,FMCG,6,HIGH,FY 2023-24
+ITC Limited (Paperboards Division),Paper,4,HIGH,FY 2023-24
+Vistara (TATA SIA Airlines),Aviation,2,MEDIUM,FY 2023-24
+Nestle India,FMCG,5,HIGH,FY 2023-24
+Shreyans Industries (Paper),Paper,1,MEDIUM,FY 2023-24
+Siyaram Silk Mills,Textiles,2,HIGH,FY 2023-24
+Mahindra Holidays & Resorts India Limited,Hospitality,5,HIGH,FY 2023-24
+Britannia Industries,FMCG,4,HIGH,FY 2023-24
+Hatsun Agro Products,FMCG,3,HIGH,FY 2024-25
+Bombay Dyeing,Textiles,1,MEDIUM,FY 2023-24
+JK Paper,Paper,7,HIGH,FY 2023-24
+Kwality,FMCG,0,LOW,NOT_FOUND
+K.P.R. MILL LIMITED,Textiles,5,HIGH,FY 2023-24
+Bharat Heavy Electricals Limited (BHEL),Engineering,5,HIGH,FY 2023-24
+Mother Dairy,FMCG,5,HIGH,FY 2023-24
+KPR Mill Limited,Textiles,5,HIGH,FY 2023-24
+Haldiram Snacks Food Private Limited,FMCG,6,HIGH,FY 2023-24
+Bangalore International Airport Ltd (BIAL),Airports,6,HIGH,FY 2023-24
+Ion Exchange (India) Limited,Water Treatment,3,MEDIUM,FY 2023-24
+Cochin International Airport (CIAL),Airports,6,HIGH,FY 2023-24
+Century Pulp and Paper (Century Textiles),Paper,2,MEDIUM,FY 2023-24
+Seshasayee Paper and Boards Limited,Paper,6,HIGH,FY 2023-24
+Garden Reach Shipbuilders & Engineers Limited,Shipbuilding,3,MEDIUM,FY 2024-25
+Emami Paper Mills Limited,Paper,7,HIGH,FY 2023-24
+Hindustan Coca-Cola Beverages (Coca-Cola India),FMCG,4,HIGH,CY 2024
+L&T Finance Limited,Financial Services,7,HIGH,FY 2024-25 (Projected)
+Akasa Air,Aviation,3,HIGH,CY 2024-25
+Usha Martin Limited,Steel & Iron,4,HIGH,FY 2024-25
+Procter & Gamble Health Limited,Healthcare,3,HIGH,FY 2024-25
+Data Patterns (India) Limited,Defense & Aerospace,2,MEDIUM,FY 2023-24

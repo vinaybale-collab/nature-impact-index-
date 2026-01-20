@@ -1,0 +1,1095 @@
+Master_DB_Name,Source,Variant_Name,Confidence,Notes
+360 ONE WAM LIMITED,C3.2_Water_Quality,360 ONE WAM,HIGH,Exact match sans suffix
+3M INDIA LIMITED,C3.2_Water_Quality,3M INDIA LIMITED,HIGH,Exact match
+ACC Limited,G2.1_Land_BRSR,ACC Limited,HIGH,Exact match
+ADANI POWER LIMITED,C3.2_Water_Quality,ADANI POWER LIMITED,HIGH,Exact match
+AIA ENGINEERING LIMITED,C3.2_Water_Quality,AIA ENGINEERING,HIGH,Core name match
+ALEMBIC PHARMACEUTICALS LIMITED,C3.2_Water_Quality,ALEMBIC PHARMA,HIGH,Common abbreviation
+ALKYL AMINES CHEMICALS LIMITED,C3.2_Water_Quality,ALKYL AMINES,HIGH,Abbreviated
+ALOK INDUSTRIES LIMITED,G2.1_Land_BRSR,ALOK INDUSTRIES LIMITED,HIGH,Exact match
+APAR Industries Limited,C3.2_Water_Quality,APAR Industries,HIGH,Core name match
+APL Apollo Tubes Limited,G2.1_Land_BRSR,APL Apollo Tubes Limited,HIGH,Exact match
+APL Apollo Tubes,G2.2_Land_AR,APL Apollo Tubes,HIGH,Exact V2 match
+ARVIND LIMITED,G2.1_Land_BRSR,ARVIND LIMITED,HIGH,Exact match
+AU Small Finance Bank Limited,G2.1_Land_BRSR,AU Small Finance Bank Limited,HIGH,Exact match
+AUROBINDO PHARMA LIMITED,C3.1_Renewable,AUROBINDO PHARMA,HIGH,Abbreviated
+Aarti Industries Limited,C3.2_Water_Quality,Aarti Industries,HIGH,Core name match
+Aavas Financiers Limited,C3.1_Renewable,Aavas Financiers,HIGH,Core name match
+Adani Energy Solutions Limited,C3.1_Renewable,Adani Energy Solutions,HIGH,Core name match
+Adani Enterprises Limited,C3.1_Renewable,Adani Enterprises,HIGH,Core name match
+Adani Enterprises Limited,Facility_Geocoding,Adani Enterprises Limited,HIGH,Exact match
+Adani Ports and Special Economic Zone Limited,G2.1_Land_BRSR,Adani Ports,HIGH,Standard abbreviation
+Adani Ports and Special Economic Zone Limited,C2.1_Scope3_Manual,Adani Ports & SEZ,HIGH,Standard abbreviation
+Adani Total Gas Limited,C3.1_Renewable,Adani Total Gas,HIGH,Core name match
+Aditya Birla Capital Limited,G2.1_Land_BRSR,Aditya Birla Capital,HIGH,Core name match
+Aditya Birla Fashion and Retail Limited,C3.1_Renewable,Aditya Birla Fashion,HIGH,Abbreviated
+Aditya Birla Sun Life AMC Limited,G2.1_Land_BRSR,Aditya Birla Sun Life AMC,HIGH,Core name match
+Aegis Logistics Limited,G2.1_Land_BRSR,Aegis Logistics Limited,HIGH,Exact match
+Aether Industries Limited,G2.1_Land_BRSR,Aether Industries,HIGH,Core name match
+Ajanta Pharma Limited,G2.1_Land_BRSR,Ajanta Pharma Limited,HIGH,Exact match
+Akzo Nobel India Limited,C3.1_Renewable,Akzo Nobel India,HIGH,Core name match
+Alkem Laboratories Limited,C3.1_Renewable,Alkem Laboratories,HIGH,Core name match
+Amara Raja Energy  Mobility Limited,G2.1_Land_BRSR,Amara Raja Energy & Mobility,HIGH,Corrected with double space
+Amber Enterprises India Limited,C3.1_Renewable,Amber Enterprises,HIGH,Core name match
+Ambuja Cements Limited,C3.1_Renewable,Ambuja Cements,HIGH,Core name match
+Anand Rathi Wealth Limited,G2.1_Land_BRSR,Anand Rathi Wealth,HIGH,Core name match
+Anant Raj Limited,G2.1_Land_BRSR,Anant Raj Limited,HIGH,Exact match
+Andhra Paper Limited (formerly Andhra Pradesh Paper Mills),C2.1_Scope3_Remaining,Andhra Paper Limited,HIGH,Exact V2 match
+Andhra Paper Limited (formerly Andhra Pradesh Paper Mills),C3.2_Water_Quality,Andhra Paper Ltd,HIGH,Exact V2 match
+Anupam Rasayan India Limited,G2.1_Land_BRSR,Anupam Rasayan India,HIGH,Core name match
+Apollo Tyres Limited,C3.1_Renewable,Apollo Tyres,HIGH,Core name match
+Aptus Value Housing Finance India Limited,G2.1_Land_BRSR,Aptus Value Housing,HIGH,Core name match
+Asahi India Glass Limited,G2.1_Land_BRSR,Asahi India Glass Limited,HIGH,Exact match
+Ashok Leyland Limited,G2.1_Land_BRSR,Ashok Leyland Limited,HIGH,Exact match
+Asian Paints Limited,C3.1_Renewable,Asian Paints,HIGH,Core name match
+Aster DM Healthcare Limited,C3.1_Renewable,Aster DM Healthcare,HIGH,Core name match
+AstraZeneca Pharma India Limited,G2.1_Land_BRSR,AstraZeneca Pharma,HIGH,Core name match
+Astral Limited,G2.1_Land_BRSR,Astral Limited,HIGH,Exact match
+Atul Limited,G2.1_Land_BRSR,Atul Limited,HIGH,Exact match
+Avenue Supermarts Limited,G2.1_Land_BRSR,Avenue Supermarts,HIGH,Core name match
+Avenue Supermarts Limited,C3.1_Renewable,Avenue Supermarts (DMart),HIGH,Includes brand name
+Axis Bank Limited,G2.1_Land_BRSR,Axis Bank Limited,HIGH,Exact match
+BAJAJ ELECTRICALS LIMITED,C3.2_Water_Quality,BAJAJ ELECTRICALS,HIGH,Core name match
+BANK OF INDIA,G2.1_Land_BRSR,BANK OF INDIA,HIGH,Exact match
+BANK OF MAHARASHTRA,G2.1_Land_BRSR,BANK OF MAHARASHTRA,HIGH,Exact match
+BASF India Limited,G2.1_Land_BRSR,BASF India Limited,HIGH,Exact match
+BATA INDIA LIMITED,G2.1_Land_BRSR,BATA INDIA LIMITED,HIGH,Exact match
+BEML Limited,G2.1_Land_BRSR,BEML Limited,HIGH,Exact match
+BHARAT ELECTRONICS LIMITED,G2.1_Land_BRSR,BHARAT ELECTRONICS LIMITED,HIGH,Exact match
+BHARAT HEAVY ELECTRICALS LIMITED,G2.1_Land_BRSR,BHARAT HEAVY ELECTRICALS,HIGH,Suffix missing
+Bharat Heavy Electricals Limited (BHEL),G2.2_Land_AR,BHEL,HIGH,Exact match with abbreviation
+BLS International Services Limited,G2.1_Land_BRSR,BLS International Services,HIGH,Core name match
+Bajaj Auto Limited,G2.1_Land_BRSR,Bajaj Auto Limited,HIGH,Exact match
+Bajaj Finance Limited,G2.1_Land_BRSR,Bajaj Finance Limited,HIGH,Exact match
+Bajaj Finserv Limited,G2.1_Land_BRSR,Bajaj Finserv Limited,HIGH,Exact match
+Bajaj Holdings  Investment Limited,G2.1_Land_BRSR,Bajaj Holdings & Invest,HIGH,Corrected with double space
+Balkrishna Industries Limited,G2.1_Land_BRSR,Balkrishna Industries Limited,HIGH,Exact match
+Balrampur Chini Mills Limited,G2.1_Land_BRSR,Balrampur Chini Mills,HIGH,Core name match
+Bandhan Bank Limited,G2.1_Land_BRSR,Bandhan Bank Limited,HIGH,Exact match
+Bangalore International Airport Ltd (BIAL),G2.2_Land_AR,BIAL (Bangalore Airport),HIGH,Exact match
+Bharat Dynamics Limited,C3.1_Renewable,Bharat Dynamics,HIGH,Core name match
+Bharat Forge Limited,G2.1_Land_BRSR,Bharat Forge Limited,HIGH,Exact match
+Bharti Airtel Limited,G2.1_Land_BRSR,Bharti Airtel Limited,HIGH,Exact match
+Bharti Hexacom Limited,G2.1_Land_BRSR,Bharti Hexacom Limited,HIGH,Exact match
+Bikaji Foods,G2.2_Land_AR,Bikaji Foods,HIGH,Exact match
+Biocon Limited,G2.1_Land_BRSR,Biocon Limited,HIGH,Exact match
+Birla Corporation Limited,G2.1_Land_BRSR,Birla Corporation Limited,HIGH,Exact match
+Birlasoft Limited,G2.1_Land_BRSR,Birlasoft Limited,HIGH,Exact match
+Blue Dart Express Limited,C3.1_Renewable,Blue Dart Express,HIGH,Core name match
+Blue Star Limited,G2.1_Land_BRSR,Blue Star Limited,HIGH,Exact match
+Bosch limited,G2.1_Land_BRSR,Bosch limited,HIGH,Exact match
+Brigade Enterprises Limited,C3.1_Renewable,Brigade Enterprises,HIGH,Core name match
+Britannia Industries Limited,G2.1_Land_BRSR,Britannia Industries Limited,HIGH,Exact match
+CCL Products (India) Limited,G2.2_Land_AR,CCL Products (India),HIGH,Core name match
+CCL Products India Limited,G2.1_Land_BRSR,CCL Products India Limited,HIGH,Exact match
+CE INFO SYSTEMS LIMITED,G2.1_Land_BRSR,CE INFO SYSTEMS,HIGH,Core name match
+CE INFO SYSTEMS LIMITED,C2.1_Scope3_Remaining,CE INFO SYSTEMS LIMITED (MapmyIndia),HIGH,Includes brand name
+CEAT Limited,G2.1_Land_BRSR,CEAT Limited,HIGH,Exact match
+CERA Sanitaryware Limited,G2.1_Land_BRSR,CERA Sanitaryware Limited,HIGH,Exact match
+CESC Limited,G2.1_Land_BRSR,CESC Limited,HIGH,Exact match
+CG Power and Industrial Solutions Limited,G2.1_Land_BRSR,CG Power and Industrial,HIGH,Core name match
+CHENNAI PETROLEUM CORPORATION LIMITED,G2.1_Land_BRSR,CHENNAI PETROLEUM,HIGH,Abbreviated
+CITY UNION BANK LIMITED,G2.1_Land_BRSR,CITY UNION BANK LIMITED,HIGH,Exact match
+COAL INDIA LIMITED,G2.1_Land_BRSR,COAL INDIA LIMITED,HIGH,Exact match
+COROMANDEL INTERNATIONAL LIMITED,G2.1_Land_BRSR,COROMANDEL INTERNATIONAL,HIGH,Core name match
+Campus Activewear Limited,G2.1_Land_BRSR,Campus Activewear,HIGH,Core name match
+Can Fin Homes Limited,G2.1_Land_BRSR,Can Fin Homes Limited,HIGH,Exact match
+Canara Bank,G2.1_Land_BRSR,Canara Bank,HIGH,Exact match
+Caplin Point Laboratories Limited,G2.1_Land_BRSR,Caplin Point Laboratories,HIGH,Core name match
+Capri Global Capital Limited,G2.1_Land_BRSR,Capri Global Capital,HIGH,Core name match
+Carborundum Universal Limited,G2.1_Land_BRSR,Carborundum Universal,HIGH,Core name match
+Carborundum Universal Limited,C3.1_Renewable,Carborundum Universal (CUMI),HIGH,Includes common abbreviation
+Cello World Limited,G2.1_Land_BRSR,Cello World Limited,HIGH,Exact match
+Century Plyboards India Limited,G2.1_Land_BRSR,Century Plyboards India,HIGH,Core name match
+Century Plyboards India Limited,C3.1_Renewable,Century Plyboards,HIGH,Abbreviated
+Chalet Hotels Limited,G2.1_Land_BRSR,Chalet Hotels Limited,HIGH,Exact match
+Chemplast Sanmar Limited,G2.1_Land_BRSR,Chemplast Sanmar Limited,HIGH,Exact match
+Cholamandalam Financial Holdings Limited,G2.1_Land_BRSR,Cholamandalam Holdings,HIGH,Abbreviated
+Cholamandalam Investment and Finance Company Limited,G2.1_Land_BRSR,Cholamandalam Investment,HIGH,Abbreviated
+Cipla Limited,G2.1_Land_BRSR,Cipla Limited,HIGH,Exact match
+CITY UNION BANK LIMITED,C3.1_Renewable,City Union Bank,HIGH,Case correction to V2
+Clean Science and Technology Limited,G2.1_Land_BRSR,Clean Science and Tech,HIGH,Standard abbreviation
+Clean Science and Technology Limited,C3.1_Renewable,Clean Science and Technology,HIGH,Exact match sans suffix
+Cochin International Airport (CIAL),G2.2_Land_AR,CIAL (Cochin Airport),HIGH,Standard abbreviation
+Cochin Shipyard Limited,G2.1_Land_BRSR,Cochin Shipyard Limited,HIGH,Exact match
+Cochin Shipyard Limited,C3.1_Renewable,Cochin Shipyard,HIGH,Abbreviated
+Coforge Limited,G2.1_Land_BRSR,Coforge Limited,HIGH,Exact match
+Concord Biotech Limited,C3.1_Renewable,Concord Biotech Limited,HIGH,Exact match
+Container Corporation of India Limited,C3.1_Renewable,Container Corp (CONCOR),HIGH,Includes common abbreviation
+Container Corporation of India Limited,C2.1_Scope3_Remaining,Container Corporation of India Limited,HIGH,Exact match
+Craftsman Automation Limited,C3.1_Renewable,Craftsman Automation,HIGH,Core name match
+Craftsman Automation Limited,C2.1_Scope3_Remaining,Craftsman Automation Limited,HIGH,Exact match
+CreditAccess Grameen Limited,G2.1_Land_BRSR,CreditAccess Grameen,HIGH,Core name match
+Crompton Greaves Consumer Electricals Limited,C3.1_Renewable,Crompton Greaves,HIGH,Parent group name used
+Crompton Greaves Consumer Electricals Limited,C3.1_Renewable,Crompton Greaves Consumer,HIGH,Abbreviated
+Cummins India Limited,C2.1_Scope3_Remaining,Cummins India Limited,HIGH,Exact match
+Cyient Limited,C2.1_Scope3_Remaining,Cyient Limited,HIGH,Exact match
+DIVI'S LABORATORIES LIMITED,G2.1_Land_BRSR,DIVIS LABORATORIES LIMITED,HIGH,Character match to V2
+DIVI'S LABORATORIES LIMITED,G2.2_Land_AR,DIVI'S LABORATORIES,HIGH,Core name match
+DIVI'S LABORATORIES LIMITED,C2.2_Missing_Env,Divi's Laboratories,HIGH,Case variation
+DLF Limited,C2.1_Scope3_Remaining,DLF Limited,HIGH,Exact match
+DOMS Industries Limited,C2.1_Scope3_Remaining,DOMS Industries Limited,HIGH,Exact match
+Dabur India Limited,C3.1_Renewable,Dabur India,HIGH,Core name match
+Dalmia Bharat Limited,C3.1_Renewable,Dalmia Bharat Limited,HIGH,Exact match
+Damodar Valley Corporation (DVC),G2.2_Land_AR,Damodar Valley Corp (DVC),HIGH,Standard abbreviation
+Data Patterns India Limited,C3.1_Renewable,Data Patterns India,HIGH,Core name match
+Data Patterns India Limited,C2.1_Scope3_Remaining,Data Patterns India Limited,HIGH,Exact match
+Deepak Nitrite Limited,C3.1_Renewable,Deepak Nitrite Limited,HIGH,Exact match
+Delhivery Limited,C3.1_Renewable,Delhivery Limited,HIGH,Exact match
+Devyani International Limited,C3.1_Renewable,Devyani International,HIGH,Core name match
+Devyani International Limited,C2.1_Scope3_Remaining,Devyani International Limited,HIGH,Exact match
+Dixon Technologies India Limited,C3.1_Renewable,Dixon Technologies,HIGH,Core name match
+Dixon Technologies India Limited,C2.1_Scope3_Remaining,Dixon Technologies India Limited,HIGH,Exact match
+Dr Reddys Laboratories Limited,C3.1_Renewable,Dr Reddys Laboratories,HIGH,Core name match
+Dr Reddys Laboratories Limited,C2.2_Missing_Env,Dr. Reddy's Laboratories,HIGH,Standard punctuation correction
+EICHER MOTORS LIMITED,C3.1_Renewable,Eicher Motors Limited,HIGH,Corrected to ALL CAPS per V2
+EICHER MOTORS LIMITED,C2.1_Scope3_Remaining,EICHER MOTORS LIMITED,HIGH,Exact match
+EIH Limited,C3.1_Renewable,EIH Limited,HIGH,Exact match
+ESAB India Limited,C2.1_Scope3_Remaining,ESAB India Limited,HIGH,Exact match
+Easy Trip Planners Limited,C3.1_Renewable,Easy Trip Planners,HIGH,Core name match
+Easy Trip Planners Limited,C2.1_Scope3_Remaining,Easy Trip Planners Limited,HIGH,Exact match
+Electronics Mart India Limited,C3.1_Renewable,Electronics Mart India,HIGH,Core name match
+Electronics Mart India Limited,C2.1_Scope3_Remaining,Electronics Mart India Limited,HIGH,Exact match
+Electrosteel Castings,G2.2_Land_AR,Electrosteel Castings,HIGH,"V2 Name sans ""Limited"""
+Elgi Equipments Limited,C2.1_Scope3_Remaining,Elgi Equipments Limited,HIGH,Exact match
+Emami Limited,C3.1_Renewable,Emami Limited,HIGH,Exact match
+Emami Paper Mills Limited,G2.2_Land_AR,Emami Paper Mills,HIGH,Core name match
+Emami Paper Mills Limited,C2.1_Scope3_Remaining,Emami Paper Mills Limited,HIGH,Exact match
+Endurance Technologies Limited,C3.1_Renewable,Endurance Technologies,HIGH,Core name match
+Engineers India Limited,C3.1_Renewable,Engineers India Limited,HIGH,Exact match
+Engineers India Limited,C3.1_Renewable,Engineers India Limited (EIL),HIGH,Includes common abbreviation
+Equitas Small Finance Bank Limited,C3.1_Renewable,Equitas Small Finance Bank,HIGH,Core name match
+Eris Lifesciences Limited,C3.1_Renewable,Eris Lifesciences Limited,HIGH,Exact match
+Escorts Kubota Limited,C3.1_Renewable,Escorts Kubota Limited,HIGH,Exact match
+Essar Steel India (AM/NS India),G2.2_Land_AR,Essar Steel (AM/NS India),HIGH,Standard brand mapping
+Eureka Forbes Limited,C2.1_Scope3_Remaining,Eureka Forbes Limited,HIGH,Exact match
+Exide Industries Limited,C3.1_Renewable,Exide Industries Limited,HIGH,Exact match
+FERTILIZERS AND CHEMICALS TRAVANCORE LIMITED,G2.1_Land_BRSR,FERTILIZERS AND CHEMICALS,HIGH,Abbreviated
+FERTILIZERS AND CHEMICALS TRAVANCORE LIMITED,C2.1_Scope3_Remaining,FERTILIZERS AND CHEMICALS TRAVANCORE LIMITED,HIGH,Exact match
+FINE ORGANIC INDUSTRIES LIMITED,G2.1_Land_BRSR,FINE ORGANIC INDUSTRIES,HIGH,Core name match
+Finolex Cables Limited,C2.1_Scope3_Remaining,Finolex Cables Limited,HIGH,Exact match
+Finolex Industries Limited,C3.1_Renewable,Finolex Industries,HIGH,Core name match
+Firstsource Solutions Limited,C3.1_Renewable,Firstsource Solutions,HIGH,Core name match
+Five-Star Business Finance Limited,C3.1_Renewable,Five-Star Business Finance,HIGH,Core name match
+Force Motors Ltd,C3.1_Renewable,Force Motors Ltd,HIGH,Suffix correction to V2
+Fortis Healthcare Limited,C2.1_Scope3_Remaining,Fortis Healthcare Limited,HIGH,Exact match
+GAIL (India) Limited,G2.2_Land_AR,GAIL (India) Limited,HIGH,Exact match
+GAIL India Limited,C2.2_Missing_Env,GAIL India Limited,HIGH,Exact V2 entry variation
+GALAXY SURFACTANTS LIMITED,G2.1_Land_BRSR,GALAXY SURFACTANTS,HIGH,Core name match
+GLAND PHARMA LIMITED,C2.1_Scope3_Remaining,GLAND PHARMA LIMITED,HIGH,Case correction to V2
+GLOBAL HEALTH LIMITED,C2.1_Scope3_Remaining,GLOBAL HEALTH LIMITED,HIGH,Exact match
+"GMR Airports (Delhi, Hyderabad)",G2.2_Land_AR,GMR Airports,HIGH,Mapping to exact V2 parent name
+GODAWARI POWER AND ISPAT LIMITED,C2.1_Scope3_Remaining,GODAWARI POWER AND ISPAT LIMITED,HIGH,Exact match
+GODFREY PHILLIPS INDIA LIMITED,C2.1_Scope3_Remaining,GODFREY PHILLIPS INDIA LIMITED,HIGH,Exact match
+GODREJ AGROVET LIMITED,G2.1_Land_BRSR,GODREJ AGROVET LIMITED,HIGH,Exact match
+GRANULES INDIA LIMITED,G2.1_Land_BRSR,GRANULES INDIA LIMITED,HIGH,Exact match
+GRAPHITE INDIA LIMITED,G2.1_Land_BRSR,GRAPHITE INDIA LIMITED,HIGH,Exact match
+GlaxoSmithKline Pharmaceuticals Limited,C3.1_Renewable,GSK Pharma India,HIGH,Mapping to full V2 name
+GUJARAT GAS LIMITED,G2.1_Land_BRSR,GUJARAT GAS LIMITED,HIGH,Exact match
+Garden Reach Shipbuilders  Engineers Limited,C2.1_Scope3_Remaining,Garden Reach Shipbuilders,HIGH,Fixed double space per V2
+Garden Reach Shipbuilders  Engineers Limited,G2.2_Land_AR,Garden Reach Shipbuilders (GRSE),HIGH,Fixed double space per V2
+General Insurance Corporation of India,C3.1_Renewable,General Insurance Corp (GIC),HIGH,Exact V2 match
+General Insurance Corporation of India,C2.1_Scope3_Remaining,General Insurance Corporation of India,HIGH,Exact match
+Gillette India Limited,C3.1_Renewable,Gillette India Limited,HIGH,Exact match
+GLAND PHARMA LIMITED,C3.1_Renewable,Gland Pharma Limited,HIGH,Corrected to ALL CAPS per V2
+GlaxoSmithKline Pharmaceuticals Limited,C2.1_Scope3_Remaining,GlaxoSmithKline Pharmaceuticals Limited,HIGH,Exact match
+GlaxoSmithKline Pharmaceuticals Limited,C3.1_Renewable,GlaxoSmithKline Pharma,HIGH,Core name match
+Glenmark Pharmaceuticals Limited,C3.1_Renewable,Glenmark Pharmaceuticals Limited,HIGH,Exact match
+GLOBAL HEALTH LIMITED,C3.1_Renewable,Global Health (Medanta),HIGH,Corrected to ALL CAPS per V2
+Go Digit General Insurance Limited,C2.1_Scope3_Remaining,Go Digit General Insurance Limited,HIGH,Exact match
+Godrej Consumer Products Limited,C3.1_Renewable,Godrej Consumer Products Limited,HIGH,Exact match
+Godrej Industries Limited,C3.1_Renewable,Godrej Industries Limited,HIGH,Exact match
+Godrej Properties Limited,C3.1_Renewable,Godrej Properties Limited,HIGH,Exact match
+Grasim Industries Limited,C2.1_Scope3_Manual,Grasim Industries Limited,HIGH,Exact match
+Grindwell Norton Limited,C2.1_Scope3_Remaining,Grindwell Norton Limited,HIGH,Exact match
+Gujarat Ambuja Exports Limited,C3.1_Renewable,Gujarat Ambuja Exports Limited,HIGH,Exact match
+Gujarat Fluorochemicals Limited,C3.1_Renewable,Gujarat Fluorochemicals Limited,HIGH,Exact match
+Gujarat Pipavav Port Limited,C2.1_Scope3_Remaining,Gujarat Pipavav Port Limited,HIGH,Exact match
+Gujarat Pipavav Port Limited,C3.1_Renewable,Gujarat Pipavav Port (GPPL),HIGH,Includes abbreviation
+Gujarat State Petronet Limited,C3.1_Renewable,Gujarat State Petronet Limited,HIGH,Exact match
+HINDUSTAN AERONAUTICS LIMITED,C3.1_Renewable,HAL,HIGH,Mapping to V2 CAPS name
+HCL Technologies Limited,Facility_Geocoding,HCL Technologies Limited,HIGH,Exact match
+HCL Technologies Limited,C3.1_Renewable,HCL Technologies,HIGH,Core name match
+HDFC Asset Management Company Limited,C3.1_Renewable,HDFC Asset Management,HIGH,Core name match
+HDFC Bank Limited,Facility_Geocoding,HDFC Bank Limited,HIGH,Exact match
+HDFC Bank Limited,C2.2_Missing_Env,HDFC Bank,HIGH,Core name match
+HDFC Life Insurance Company Limited,C3.1_Renewable,HDFC Life,HIGH,Core name match
+HDFC Life Insurance Company Limited,Facility_Geocoding,HDFC Life Insurance Company Limited,HIGH,Exact match
+HEG Limited,C3.1_Renewable,HEG Limited,HIGH,Exact match
+HERO MOTOCORP LIMITED,C3.1_Renewable,Hero MotoCorp,HIGH,Corrected to ALL CAPS per V2
+HFCL Limited,C3.1_Renewable,HFCL Limited,HIGH,Corrected to ALL CAPS per V2
+HINDALCO INDUSTRIES LIMITED,Facility_Geocoding,HINDALCO INDUSTRIES LIMITED,HIGH,Exact match
+HINDALCO INDUSTRIES LIMITED,C3.1_Renewable,Hindalco Industries,HIGH,Core name match
+HINDUSTAN AERONAUTICS LIMITED,C2.1_Scope3_Remaining,HINDUSTAN AERONAUTICS LIMITED,HIGH,Exact match
+HINDUSTAN COPPER LIMITED,C2.1_Scope3_Remaining,HINDUSTAN COPPER LIMITED,HIGH,Exact match
+HONEYWELL AUTOMATION INDIA LIMITED,C2.1_Scope3_Remaining,HONEYWELL AUTOMATION INDIA LIMITED,HIGH,Exact match
+Haldiram Snacks Food Private Limited,C2.1_Scope3_Remaining,Haldiram Snacks Food Private Limited,HIGH,Exact match
+Haldiram Snacks Food Private Limited,G2.2_Land_AR,Haldiram Snacks,HIGH,Brand variant
+Happiest Minds Technologies Limited,C3.1_Renewable,Happiest Minds Technologies Limited,HIGH,Exact match
+Happy Forgings Limited,C3.1_Renewable,Happy Forgings Limited,HIGH,Exact match
+Heritage Foods,G2.2_Land_AR,Heritage Foods,HIGH,"Corrected to V2 name (no ""Limited"")"
+Himadri Speciality Chemical Limited,C3.1_Renewable,Himadri Speciality Chemical Limited,HIGH,Exact match
+Himadri Speciality Chemical Limited,G2.2_Land_AR,Himadri Speciality,HIGH,Core name match
+Hindustan Petroleum Corporation Limited,C3.1_Renewable,Hindustan Petroleum (HPCL),HIGH,Includes abbreviation
+Hindustan Petroleum Corporation Limited,Facility_Geocoding,Hindustan Petroleum Corporation Limited,HIGH,Exact match
+Hindustan Petroleum Corporation Limited,C2.2_Missing_Env,Hindustan Petroleum Corp Ltd,HIGH,Standard abbreviation
+Hindustan Unilever Limited,Facility_Geocoding,Hindustan Unilever Limited,HIGH,Exact match
+Hindustan Unilever Limited,C3.1_Renewable,Hindustan Unilever (HUL),HIGH,Includes abbreviation
+Hindustan Zinc Limited,C3.1_Renewable,Hindustan Zinc Limited,HIGH,Exact match
+Hitachi Energy India Limited,C3.1_Renewable,Hitachi Energy India Limited,HIGH,Exact match
+Home First Finance Company India Limited,C3.1_Renewable,Home First Finance,HIGH,Core name match
+Honasa Consumer Limited,C3.1_Renewable,Honasa Consumer Limited (Mamaearth),HIGH,Includes brand name
+ICICI Bank Limited,Facility_Geocoding,ICICI Bank Limited,HIGH,Exact match
+ICICI Lombard General Insurance Company Limited,C3.1_Renewable,ICICI Lombard General,HIGH,Core name match
+ICICI Prudential Life Insurance Company Limited,C3.1_Renewable,ICICI Prudential Life,HIGH,Core name match
+ICICI Prudential Life Insurance Company Limited,C2.1_Scope3_Manual,ICICI Prudential Life Insurance,HIGH,Core name match
+IDBI Bank Limited,C3.1_Renewable,IDBI Bank,HIGH,Core name match
+IDFC FIRST Bank Limited,C3.1_Renewable,IDFC FIRST Bank,HIGH,Core name match
+IFCI Limited,C3.1_Renewable,IFCI Limited,HIGH,Exact match
+IIFL Finance Limited,C3.1_Renewable,IIFL Finance Limited,HIGH,Exact match
+INDIAN OVERSEAS BANK,G2.1_Land_BRSR,INDIAN OVERSEAS BANK,HIGH,Exact match
+INDIAN RAILWAY FINANCE CORPORATION LIMITED,G2.1_Land_BRSR,INDIAN RAILWAY FINANCE,HIGH,Corrected to V2 CAPS name
+INOX India Limited,G2.1_Land_BRSR,INOX India Limited,HIGH,Exact match
+INTELLECT DESIGN ARENA LIMITED,G2.1_Land_BRSR,INTELLECT DESIGN ARENA,HIGH,Corrected to V2 CAPS name
+Ipca Laboratories Limited,C3.1_Renewable,IPCA Laboratories,HIGH,Case correction to V2 (Ipca)
+IRB Infrastructure Developers Limited,C3.1_Renewable,IRB Infrastructure,HIGH,Core name match
+Ircon International Limited,C2.1_Scope3_Remaining,IRCON International Limited,HIGH,Case correction to V2 (Ircon)
+Indian Renewable Energy Development Agency Limited,C3.1_Renewable,IREDA,HIGH,Mapping to full V2 name
+ISGEC Heavy Engineering Limited,C3.1_Renewable,ISGEC Heavy Engineering,HIGH,Core name match
+ITC Limited,Facility_Geocoding,ITC Limited,HIGH,Exact match
+ITC Limited (Paperboards Division),C3.2_Water_Quality,ITC Limited (Paperboards Division),HIGH,Exact match
+Indegene Limited,C3.1_Renewable,Indegene Limited,HIGH,Exact match
+IndiGo (InterGlobe Aviation),C3.1_Renewable,IndiGo (InterGlobe Aviation),HIGH,Exact match
+IndiaMART InterMESH Limited,C3.1_Renewable,IndiaMART InterMESH,HIGH,Core name match
+Indian Energy Exchange Limited,C3.1_Renewable,Indian Energy Exchange,HIGH,Core name match
+Indian Oil Corporation Limited,Facility_Geocoding,Indian Oil Corporation Limited,HIGH,Exact match
+Indian Oil Corporation Limited,C3.1_Renewable,Indian Oil Corporation (IOCL),HIGH,Includes abbreviation
+INDIAN OVERSEAS BANK,C3.1_Renewable,Indian Overseas Bank,HIGH,Corrected to CAPS per V2
+Infosys Limited,C3.1_Renewable,INFOSYS LIMITED,HIGH,Corrected case to V2 Title Case
+Infosys Limited,Facility_Geocoding,Infosys Limited,HIGH,Exact match
+JAI BALAJI INDUSTRIES LIMITED,G2.1_Land_BRSR,JAI BALAJI INDUSTRIES,HIGH,Suffix missing
+JAIPRAKASH POWER VENTURES LIMITED,G2.1_Land_BRSR,JAIPRAKASH POWER VENTURES,HIGH,Suffix missing
+JINDAL STEEL  POWER LIMITED,G2.1_Land_BRSR,JINDAL STEEL & POWER,HIGH,Fixed double space/ampersand per V2
+JK CEMENT LIMITED,G2.1_Land_BRSR,JK CEMENT LIMITED,HIGH,Exact match
+JK LAKSHMI CEMENT LIMITED,G2.1_Land_BRSR,JK LAKSHMI CEMENT LIMITED,HIGH,Exact match
+JSW Steel Limited,C2.1_Scope3_Manual,JSW Steel Limited,HIGH,Exact match
+JK Paper,G2.2_Land_AR,JK Paper,HIGH,Exact V2 match (Short form)
+JK Tyre & Industries Limited,G2.2_Land_AR,JK Tyre & Industries,HIGH,Exact characters per V2
+JSW Energy Limited,G2.2_Land_AR,JSW Energy,HIGH,Exact V2 match
+JUBILANT INGREVIA LIMITED,G2.1_Land_BRSR,JUBILANT INGREVIA,HIGH,Core name match
+JYOTI CNC AUTOMATION LIMITED,G2.1_Land_BRSR,JYOTI CNC AUTOMATION,HIGH,Exact match
+Jindal Saw Limited,G2.2_Land_AR,Jindal Saw Limited,HIGH,Exact match
+Jindal Stainless Limited,C3.1_Renewable,Jindal Stainless Limited,HIGH,Exact match
+Jio Financial Services Limited,C3.1_Renewable,Jio Financial Services,HIGH,Core name match
+Jubilant FoodWorks Limited,C3.1_Renewable,Jubilant FoodWorks,HIGH,Core name match
+Jubilant Pharmova Limited,C3.1_Renewable,Jubilant Pharmova Limited,HIGH,Exact match
+K.P.R. MILL LIMITED,G2.2_Land_AR,K.P.R. MILL LIMITED,HIGH,Added punctuation per V2
+KARUR VYSYA BANK LIMITED,G2.1_Land_BRSR,KARUR VYSYA BANK,HIGH,Core name match
+KEC International Limited,C3.1_Renewable,KEC International,HIGH,Core name match
+KEI INDUSTRIES LIMITED,G2.1_Land_BRSR,KEI INDUSTRIES,HIGH,Core name match
+KFin Technologies Limited,C3.1_Renewable,KFin Technologies,HIGH,Core name match
+KIOCL Limited,G2.2_Land_AR,KIOCL Limited,HIGH,Exact match
+KOTAK MAHINDRA BANK LIMITED,G2.1_Land_BRSR,KOTAK MAHINDRA BANK,HIGH,Case correction per V2
+KPI GREEN ENERGY LIMITED,G2.1_Land_BRSR,KPI GREEN ENERGY,HIGH,Core name match
+KPIT Technologies Limited,C3.1_Renewable,KPIT Technologies,HIGH,Core name match
+Kajaria Ceramics Limited,C3.1_Renewable,Kajaria Ceramics,HIGH,Core name match
+Kalpataru Projects International Limited,C3.1_Renewable,Kalpataru Projects,HIGH,Core name match
+Kalyan Jewellers India Limited,C3.1_Renewable,Kalyan Jewellers,HIGH,Core name match
+Kalyani Steels,G2.2_Land_AR,Kalyani Steels,HIGH,"V2 Name (no ""Limited"")"
+KARUR VYSYA BANK LIMITED,C3.1_Renewable,Karur Vysya Bank,HIGH,Case correction to V2 CAPS
+Kaynes Technology India Limited,C3.1_Renewable,Kaynes Technology India,HIGH,Core name match
+Keystone Realtors Limited,C3.1_Renewable,Keystone Realtors,HIGH,Core name match
+Kirloskar Brothers Limited,C3.1_Renewable,Kirloskar Brothers Limited,HIGH,Exact match
+Kirloskar Oil Engines Limited,C3.1_Renewable,Kirloskar Oil Engines,HIGH,Core name match
+KOTAK MAHINDRA BANK LIMITED,C3.1_Renewable,Kotak Mahindra Bank,HIGH,Case correction to V2 CAPS
+Krishna Institute of Medical Sciences Limited,C3.1_Renewable,Krishna Institute Medical,HIGH,Core name match
+L&T Finance Limited,C3.1_Renewable,L&T Finance Limited,HIGH,Exact match
+LAURUS LABS LIMITED,G2.1_Land_BRSR,LAURUS LABS,HIGH,Case correction to V2 CAPS
+LIC Housing Finance Limited,C3.1_Renewable,LIC Housing Finance,HIGH,Core name match
+LTIMindtree Limited,C3.1_Renewable,LTIMindtree Limited,HIGH,Exact match
+Larsen & Toubro Limited,C2.1_Scope3_Manual,Larsen & Toubro Limited,HIGH,Case correction to V2 Title
+Larsen & Toubro Limited,C3.1_Renewable,Larsen & Toubro,HIGH,Core name match
+Latent View Analytics Limited,C3.1_Renewable,Latent View Analytics,HIGH,Core name match
+LAURUS LABS LIMITED,C3.1_Renewable,Laurus Labs Limited,HIGH,Case correction to V2 CAPS
+Lemon Tree Hotels Limited,C3.1_Renewable,Lemon Tree Hotels,HIGH,Core name match
+Life Insurance Corporation of India,Facility_Geocoding,Life Insurance Corporation of India,HIGH,Exact match
+Linde India Limited,C3.1_Renewable,Linde India Limited,HIGH,Exact match
+Lloyds Metals and Energy Limited,C3.1_Renewable,Lloyds Metals and Energy Limited,HIGH,Exact match
+Lupin Limited,C3.1_Renewable,Lupin Limited,HIGH,Exact match
+MACROTECH DEVELOPERS LIMITED,G2.1_Land_BRSR,MACROTECH DEVELOPERS,HIGH,Core name match
+MAHARASHTRA SCOOTERS LIMITED,G2.1_Land_BRSR,MAHARASHTRA SCOOTERS,HIGH,Core name match
+MANKIND PHARMA LIMITED,G2.1_Land_BRSR,MANKIND PHARMA,HIGH,Core name match
+MAX HEALTHCARE INSTITUTE LIMITED,G2.1_Land_BRSR,MAX HEALTHCARE INSTITUTE,HIGH,Core name match
+MUTHOOT FINANCE LIMITED,G2.1_Land_BRSR,MUTHOOT FINANCE,HIGH,Core name match
+MACROTECH DEVELOPERS LIMITED,C3.1_Renewable,Macrotech Developers (Lodha),HIGH,Case correction to V2 CAPS
+Mahanagar Gas Limited,C3.1_Renewable,Mahanagar Gas Limited,HIGH,Exact match
+Maharashtra Seamless Limited,C3.1_Renewable,Maharashtra Seamless,HIGH,Core name match
+Mahindra  Mahindra Limited,C2.1_Scope3_Manual,Mahindra & Mahindra Limited,HIGH,Corrected to V2 double space
+Mahindra  Mahindra Limited,Facility_Geocoding,Mahindra Mahindra Limited,HIGH,Corrected to V2 double space
+Mahindra  Mahindra Financial Services Limited,C3.1_Renewable,Mahindra Finance,HIGH,Corrected to V2 double space
+Mahindra Holidays  Resorts India Limited,G2.2_Land_AR,Mahindra Holidays,HIGH,Corrected to V2 double space
+Mahindra Lifespace Developers Limited,C3.1_Renewable,Mahindra Lifespace,HIGH,Core name match
+Manappuram Finance Limited,C3.1_Renewable,Manappuram Finance Ltd,HIGH,Standard abbreviation
+Mangalam Cement,G2.2_Land_AR,Mangalam Cement,HIGH,Exact V2 match (Short form)
+Marico Limited,C3.1_Renewable,Marico Limited,HIGH,Exact match
+Maruti Suzuki India Limited,Facility_Geocoding,Maruti Suzuki India Limited,HIGH,Exact match
+Mastek Limited,C3.1_Renewable,Mastek Limited,HIGH,Exact match
+Max Financial Services Limited,C3.1_Renewable,Max Financial Services,HIGH,Core name match
+MAX HEALTHCARE INSTITUTE LIMITED,C3.1_Renewable,Max Healthcare Institute,HIGH,Case correction to V2 CAPS
+Mazagon Dock Shipbuilders Limited,C3.1_Renewable,Mazagon Dock,HIGH,Core name match
+MedPlus Health Services Limited,C3.1_Renewable,MedPlus Health Services,HIGH,Exact match
+Metro Brands Limited,C3.1_Renewable,Metro Brands Limited,HIGH,Exact match
+Metropolis Healthcare Limited,C3.1_Renewable,Metropolis Healthcare,HIGH,Core name match
+Minda Corporation Limited,G2.2_Land_AR,Minda Corporation,HIGH,Core name match
+Mishra Dhatu Nigam Limited,C3.1_Renewable,Mishra Dhatu Nigam (MIDHANI),HIGH,Includes brand name
+Mother Dairy,G2.2_Land_AR,Mother Dairy,HIGH,Exact V2 match (Short form)
+Motherson Sumi Wiring India Limited,C3.1_Renewable,Motherson Sumi Wiring,HIGH,Core name match
+Motilal Oswal Financial Services Limited,C3.1_Renewable,Motilal Oswal Financial,HIGH,Core name match
+Mphasis Limited,C3.1_Renewable,Mphasis Limited,HIGH,Exact match
+Mrs. Bectors Food Specialities,G2.2_Land_AR,Mrs. Bectors Food,HIGH,"V2 Name (no ""Limited"")"
+MUTHOOT FINANCE LIMITED,C3.1_Renewable,Muthoot Finance Limited,HIGH,Case correction to V2 CAPS
+NAVA LIMITED,G2.1_Land_BRSR,NAVA,HIGH,Core name match
+NCC LIMITED,G2.1_Land_BRSR,NCC,HIGH,Core name match
+NHPC Limited,C3.1_Renewable,NHPC Limited,HIGH,Exact match
+NLC India Limited,C3.1_Renewable,NLC India Limited,HIGH,Exact match
+NMDC Limited,C3.1_Renewable,NMDC Limited,HIGH,Exact match
+NTPC LIMITED,C2.1_Scope3_Manual,NTPC LIMITED,HIGH,Exact match
+NTPC LIMITED,C2.2_Missing_Env,NTPC Limited,HIGH,Case correction to V2 CAPS
+NUVAMA WEALTH MANAGEMENT LIMITED,G2.1_Land_BRSR,NUVAMA WEALTH MANAGEMENT,HIGH,Core name match
+Narayana Hrudayalaya Ltd,G2.2_Land_AR,Narayana Hrudayalaya,HIGH,Exact V2 match
+NATCO Pharma Limited,C3.1_Renewable,Natco Pharma Limited,HIGH,Adjusted to V2 case (NATCO)
+Navin Fluorine International Limited,C3.1_Renewable,Navin Fluorine International,HIGH,Core name match
+Nestle India,G2.2_Land_AR,Nestle India,HIGH,Exact V2 match (Short form)
+THE NEW INDIA ASSURANCE COMPANY LIMITED,C3.1_Renewable,New India Assurance,HIGH,"Corrected to V2 ""THE... LIMITED"""
+Nippon Life India Asset Management Limited,C3.1_Renewable,Nippon Life India Asset,HIGH,Core name match
+Oberoi Realty Limited,C3.1_Renewable,Oberoi Realty Limited,HIGH,Exact match
+Oil India Limited,C3.1_Renewable,Oil India Limited,HIGH,Exact match
+PB FINTECH LIMITED,C3.1_Renewable,PB Fintech (Policybazaar),HIGH,Includes brand name
+PI INDUSTRIES LIMITED,C3.1_Renewable,PI Industries,HIGH,Exact match per V2
+PNB Housing Finance Limited,C3.1_Renewable,PNB Housing Finance,HIGH,Exact match per V2
+PNB Housing Finance Limited,C2.1_Scope3_Remaining,PNB Housing Finance Limited,HIGH,Exact match
+PNC Infratech Limited,C3.1_Renewable,PNC Infratech Limited,HIGH,Exact match per V2
+POLY MEDICURE LIMITED,G2.1_Land_BRSR,POLY MEDICURE LIMITED,HIGH,Exact match per V2
+PTC Industries Limited,G2.1_Land_BRSR,PTC Industries Limited,HIGH,Exact match per V2
+PUNJAB NATIONAL BANK,G2.1_Land_BRSR,PUNJAB NATIONAL BANK,HIGH,Exact match per V2
+PUNJAB NATIONAL BANK,C2.1_Scope3_Manual,Punjab National Bank,HIGH,Case correction to V2 CAPS
+PVR INOX LIMITED,G2.1_Land_BRSR,PVR INOX LIMITED,HIGH,Exact match per V2
+PVR INOX LIMITED,C3.1_Renewable,PVR INOX Limited,HIGH,Case correction to V2 CAPS
+Page Industries Limited,C3.1_Renewable,Page Industries,HIGH,Core name match
+Page Industries Limited,C3.1_Renewable,Page Industries (Jockey),HIGH,Includes brand name
+Page Industries Limited,C2.1_Scope3_Remaining,Page Industries Limited,HIGH,Exact match per V2
+PATANJALI FOODS LIMITED,C3.1_Renewable,Patanjali Foods,HIGH,Case correction to V2 CAPS
+PATANJALI FOODS LIMITED,G2.1_Land_BRSR,PATANJALI FOODS LIMITED,HIGH,Exact match per V2
+Persistent Systems Limited,C3.1_Renewable,Persistent Systems,HIGH,Core name match
+Persistent Systems Limited,C2.1_Scope3_Remaining,Persistent Systems Limited,HIGH,Exact match per V2
+Petronet LNG Limited,C3.1_Renewable,Petronet LNG Limited,HIGH,Exact match per V2
+Pfizer Limited,C3.1_Renewable,Pfizer Limited,HIGH,Exact match per V2
+THE PHOENIX MILLS LIMITED,C3.1_Renewable,Phoenix Mills Limited,HIGH,Mapping to exact V2 name
+Pidilite Industries Limited,C3.1_Renewable,Pidilite Industries,HIGH,Core name match
+Pidilite Industries Limited,C2.1_Scope3_Remaining,Pidilite Industries Limited,HIGH,Exact match per V2
+Piramal Enterprises Limited,C3.1_Renewable,Piramal Enterprises,HIGH,Core name match
+Piramal Enterprises Limited,C2.1_Scope3_Remaining,Piramal Enterprises Limited,HIGH,Exact match per V2
+Piramal Pharma Limited,C3.1_Renewable,Piramal Pharma Limited,HIGH,Exact match per V2
+Polycab India Limited,C3.1_Renewable,Polycab India Limited,HIGH,Exact match per V2
+Poonawalla Fincorp Limited,C3.1_Renewable,Poonawalla Fincorp,HIGH,Core name match
+Poonawalla Fincorp Limited,C2.1_Scope3_Remaining,Poonawalla Fincorp Limited,HIGH,Exact match per V2
+Power Finance Corporation Limited,C3.1_Renewable,PFC (Power Finance Corp),HIGH,Core name match
+Power Finance Corporation Limited,C2.1_Scope3_Manual,Power Finance Corporation Limited,HIGH,Exact match
+Power Grid Corporation of India Limited,C3.1_Renewable,Power Grid Corp of India,HIGH,Core name match
+Power Grid Corporation of India Limited,C3.1_Renewable,Power Grid Corporation,HIGH,Core name match
+Power Grid Corporation of India Limited,C2.2_Missing_Env,Power Grid Corporation of India,HIGH,Core name match
+Power Grid Corporation of India Limited,C3.1_Renewable,Power Grid Corporation of India Limited,HIGH,Exact match per V2
+Power Mech Projects Limited,C3.1_Renewable,Power Mech Projects,HIGH,Core name match
+Power Mech Projects Limited,C2.1_Scope3_Remaining,Power Mech Projects Limited,HIGH,Exact match per V2
+Praj Industries Limited,G2.1_Land_BRSR,Praj Industries Limited,HIGH,Exact match per V2
+Prestige Estates Projects Limited,C3.1_Renewable,Prestige Estates Projects,HIGH,Core name match
+Prestige Estates Projects Limited,C2.1_Scope3_Remaining,Prestige Estates Projects Limited,HIGH,Exact match per V2
+Prism Johnson Limited,C3.1_Renewable,Prism Johnson (Cement),HIGH,Core name match
+Prism Johnson Limited,C2.1_Scope3_Remaining,Prism Johnson Limited,HIGH,Exact match per V2
+Procter  Gamble Health Limited,C3.1_Renewable,Procter & Gamble Health,HIGH,Fixed V2 double space/ampersand
+Procter  Gamble Health Limited,C3.1_Renewable,Procter & Gamble Health Limited,HIGH,Fixed V2 double space/ampersand
+Punjab  Sind Bank,C3.1_Renewable,Punjab & Sind Bank,HIGH,Fixed V2 double space/ampersand
+Quess Corp Limited,C3.1_Renewable,Quess Corp Limited,HIGH,Exact match per V2
+R R Kabel Limited,G2.1_Land_BRSR,R R Kabel Limited,HIGH,Exact match per V2
+RATTANINDIA ENTERPRISES LIMITED,G2.1_Land_BRSR,RATTANINDIA ENTERPRISES,HIGH,Core name match
+RATTANINDIA ENTERPRISES LIMITED,G2.1_Land_BRSR,RATTANINDIA ENTERPRISES LIMITED,HIGH,Exact match per V2
+RBL Bank Limited,C3.1_Renewable,RBL Bank Limited,HIGH,Exact match per V2
+REC Limited,C3.1_Renewable,REC Limited,HIGH,Exact match per V2
+RELIANCE POWER LIMITED,G2.1_Land_BRSR,RELIANCE POWER LIMITED,HIGH,Exact match per V2
+RHI Magnesita India Ltd,G2.1_Land_BRSR,RHI Magnesita India Ltd,HIGH,Exact match per V2
+Rashtriya Ispat Nigam Limited (RINL) - Vizag Steel,G2.2_Land_AR,RINL - Vizag Steel,HIGH,Exact V2 name mapping
+RITES Limited,C3.1_Renewable,RITES Limited,HIGH,Exact match per V2
+Radico Khaitan Limited,C3.1_Renewable,Radico Khaitan Limited,HIGH,Exact match per V2
+Rail Vikas Nigam Limited,C3.1_Renewable,Rail Vikas Nigam (RVNL),HIGH,Includes abbreviation
+Rail Vikas Nigam Limited,C2.1_Scope3_Remaining,Rail Vikas Nigam Limited,HIGH,Exact match per V2
+Railtel Corporation of India Limited,C3.1_Renewable,Railtel Corporation,HIGH,Core name match
+Railtel Corporation of India Limited,C2.1_Scope3_Remaining,Railtel Corporation of India Limited,HIGH,Exact match per V2
+Ramkrishna Forgings Limited,C3.1_Renewable,Ramkrishna Forgings,HIGH,Core name match
+Ramkrishna Forgings Limited,G2.1_Land_BRSR,Ramkrishna Forgings Limited,HIGH,Exact match per V2
+Rashtriya Ispat Nigam Limited (RINL) - Vizag Steel,G2.2_Land_AR,Rashtriya Ispat Nigam Limited (RINL),HIGH,Adjusted to full V2 name
+RateGain Travel Technologies Limited,C3.1_Renewable,RateGain Travel Tech,HIGH,Core name match
+RateGain Travel Technologies Limited,G2.1_Land_BRSR,RateGain Travel Technologies Limited,HIGH,Exact match per V2
+Ratnamani Metals  Tubes Limited,C3.1_Renewable,Ratnamani Metals & Tubes,HIGH,Fixed V2 double space/ampersand
+Ratnamani Metals  Tubes Limited,G2.1_Land_BRSR,Ratnamani Metals & Tubes Limited,HIGH,Fixed V2 double space/ampersand
+Raymond Limited,C3.1_Renewable,Raymond Limited,HIGH,Exact match per V2
+Redington Limited,C3.1_Renewable,Redington Limited,HIGH,Exact match
+Redtape Limited,C3.1_Renewable,Redtape Limited,HIGH,Exact match per V2
+Relaxo Footwears Limited,C3.1_Renewable,Relaxo Footwears,HIGH,Core name match
+Relaxo Footwears Limited,G2.1_Land_BRSR,Relaxo Footwears Limited,HIGH,Exact match per V2
+Reliance Industries Limited,C2.1_Scope3_Manual,Reliance Industries Limited,HIGH,Corrected case to V2 Title Case
+Reliance Industries Limited,G2.3B_MSA_Proxy,Reliance Industries,HIGH,Corrected case to V2 Title Case
+Reliance Infrastructure Limited,C3.1_Renewable,Reliance Infrastructure,HIGH,Corrected case to V2 Title Case
+Reliance Infrastructure Limited,G2.1_Land_BRSR,Reliance Infrastructure Limited,HIGH,Corrected case to V2 Title Case
+Responsive Industries Limited,C3.1_Renewable,Responsive Industries,HIGH,Core name match
+Responsive Industries Limited,G2.1_Land_BRSR,Responsive Industries Limited,HIGH,Exact match per V2
+Route Mobile Limited,C3.1_Renewable,Route Mobile Limited,HIGH,Exact match per V2
+SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED,G2.1_Land_BRSR,SAMVARDHANA MOTHERSON,HIGH,Case correction to V2 CAPS
+SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED,C3.1_Renewable,Samvardhana Motherson,HIGH,Case correction to V2 CAPS
+SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED,Facility_Geocoding,SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED,HIGH,Exact match per V2
+SAPPHIRE FOODS INDIA LIMITED,G2.1_Land_BRSR,SAPPHIRE FOODS,HIGH,Core name match
+SAPPHIRE FOODS INDIA LIMITED,G2.1_Land_BRSR,SAPPHIRE FOODS INDIA LIMITED,HIGH,Exact match per V2
+SARDA ENERGY & MINERALS LIMITED,G2.1_Land_BRSR,SARDA ENERGY & MINERALS,HIGH,Exact V2 match
+SARDA ENERGY & MINERALS LIMITED,G2.1_Land_BRSR,SARDA ENERGY & MINERALS LIMITED,HIGH,Exact V2 match
+SAREGAMA India Limited,G2.1_Land_BRSR,SAREGAMA India Limited,HIGH,Exact V2 match
+SBFC Finance Limited,G2.1_Land_BRSR,SBFC Finance Limited,HIGH,Exact V2 match
+SBI Cards and Payment Services Limited,C3.1_Renewable,SBI Cards & Payment,HIGH,Core name match
+SBI Cards and Payment Services Limited,G2.1_Land_BRSR,SBI Cards and Payment Services,HIGH,Core name match
+SBI Cards and Payment Services Limited,G2.1_Land_BRSR,SBI Cards and Payment Services Limited,HIGH,Exact V2 match
+SBI Life Insurance Company Limited,C3.1_Renewable,SBI Life Insurance,HIGH,Core name match
+SBI Life Insurance Company Limited,Facility_Geocoding,SBI Life Insurance Company Limited,HIGH,Exact V2 match
+SHIPPING CORPORATION OF INDIA LIMITED,G2.1_Land_BRSR,SHIPPING CORPORATION,HIGH,Corrected to ALL CAPS per V2
+SHIPPING CORPORATION OF INDIA LIMITED,G2.1_Land_BRSR,SHIPPING CORPORATION OF INDIA LIMITED,HIGH,Corrected to ALL CAPS per V2
+SJVN Limited,C3.1_Renewable,SJVN Limited,HIGH,Exact V2 match
+SKF INDIA LIMITED,G2.1_Land_BRSR,SKF INDIA LIMITED,HIGH,Exact V2 match
+SKF INDIA LIMITED,C3.1_Renewable,SKF India Limited,HIGH,Case correction to V2 CAPS
+SRF LIMITED,G2.1_Land_BRSR,SRF LIMITED,HIGH,Exact V2 match
+SRF LIMITED,C3.1_Renewable,SRF Limited,HIGH,Case correction to V2 CAPS
+STATE BANK OF INDIA,C3.1_Renewable,SBI,HIGH,Exact V2 match
+STATE BANK OF INDIA,G2.1_Land_BRSR,State Bank of India,HIGH,Case correction to V2 CAPS
+STATE BANK OF INDIA,Facility_Geocoding,STATE BANK OF INDIA,HIGH,Exact V2 match
+STATE BANK OF INDIA,C3.1_Renewable,State Bank of India (SBI),HIGH,Mapping to exact V2 CAPS
+SUMITOMO CHEMICAL INDIA LIMITED,G2.1_Land_BRSR,SUMITOMO CHEMICAL,HIGH,Core name match
+SUMITOMO CHEMICAL INDIA LIMITED,G2.1_Land_BRSR,SUMITOMO CHEMICAL INDIA LIMITED,HIGH,Exact V2 match
+SUNDARAM FINANCE LIMITED,G2.1_Land_BRSR,SUNDARAM FINANCE LIMITED,HIGH,Exact V2 match
+SUPREME PETROCHEM LIMITED,G2.1_Land_BRSR,SUPREME PETROCHEM LIMITED,HIGH,Exact V2 match
+SUZLON ENERGY LIMITED,G2.1_Land_BRSR,SUZLON ENERGY LIMITED,HIGH,Exact V2 match
+Safari Industries India Limited,C3.1_Renewable,Safari Industries India,HIGH,Core name match
+Safari Industries India Limited,G2.1_Land_BRSR,Safari Industries India Limited,HIGH,Exact V2 match
+Sagar Cements,G2.2_Land_AR,Sagar Cements,HIGH,Exact V2 match (Short form)
+SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED,C3.1_Renewable,Samvardhana Motherson International,HIGH,Case correction to V2 CAPS
+Sandur Manganese  Iron Ores Limited,C3.1_Renewable,Sandur Manganese & Iron,HIGH,Fixed V2 double space
+Sandur Manganese  Iron Ores Limited,G2.1_Land_BRSR,Sandur Manganese & Iron Ores Limited,HIGH,Fixed V2 double space
+Sanghi Industries,G2.2_Land_AR,Sanghi Industries,HIGH,Exact V2 match (Short form)
+Sanghi Industries,G2.1_Land_BRSR,Sanghi Industries Limited,HIGH,Exact V2 match (Short form)
+Sanofi India Limited,G2.2_Land_AR,Sanofi India Limited,HIGH,Exact V2 match
+Schaeffler India Limited,G2.2_Land_AR,Schaeffler India Limited,HIGH,Exact V2 match
+Schneider Electric Infrastructure Limited,C3.1_Renewable,Schneider Electric Infra,HIGH,Core name match
+Schneider Electric Infrastructure Limited,G2.1_Land_BRSR,Schneider Electric Infrastructure Limited,HIGH,Exact V2 match
+Seshasayee Paper and Boards Limited,G2.2_Land_AR,Seshasayee Paper,HIGH,Core name match
+Seshasayee Paper and Boards Limited,C3.1_Renewable,Seshasayee Paper and Boards,HIGH,Core name match
+Seshasayee Paper and Boards Limited,G2.1_Land_BRSR,Seshasayee Paper and Boards Limited,HIGH,Exact V2 match
+Sheela Foam Limited,G2.1_Land_BRSR,Sheela Foam Limited,HIGH,Exact V2 match
+SHIPPING CORPORATION OF INDIA LIMITED,C3.1_Renewable,Shipping Corp of India,HIGH,Case correction to V2 CAPS
+Shoppers Stop Limited,C3.1_Renewable,Shoppers Stop,HIGH,Core name match
+Shoppers Stop Limited,G2.1_Land_BRSR,Shoppers Stop Limited,HIGH,Exact V2 match
+Shree Renuka Sugars Limited,G2.1_Land_BRSR,Shree Renuka Sugars Limited,HIGH,Exact V2 match
+Shriram Finance Limited,G2.1_Land_BRSR,Shriram Finance Limited,HIGH,Exact V2 match
+Shyam Metalics and Energy Limited,C3.1_Renewable,Shyam Metalics and Energy,HIGH,Core name match
+Shyam Metalics and Energy Limited,G2.1_Land_BRSR,Shyam Metalics and Energy Limited,HIGH,Exact V2 match
+Siemens Limited,G2.2_Land_AR,Siemens Limited,HIGH,Exact V2 match
+Signatureglobal India Limited,C3.1_Renewable,Signatureglobal India,HIGH,Core name match
+Signatureglobal India Limited,G2.1_Land_BRSR,Signatureglobal India Limited,HIGH,Exact V2 match
+Sobha Limited,C3.1_Renewable,Sobha Limited,HIGH,Exact V2 match
+Solar Industries India Limited,C3.1_Renewable,Solar Industries India,HIGH,Core name match
+Solar Industries India Limited,G2.1_Land_BRSR,Solar Industries India Limited,HIGH,Exact V2 match
+Sona BLW Precision Forgings Limited,C3.1_Renewable,Sona BLW Precision (Sona Comstar),HIGH,Includes brand name
+Sona BLW Precision Forgings Limited,G2.1_Land_BRSR,Sona BLW Precision Forgings,HIGH,Core name match
+Sona BLW Precision Forgings Limited,G2.1_Land_BRSR,Sona BLW Precision Forgings Limited,HIGH,Exact V2 match
+Sonata Software Limited,G2.1_Land_BRSR,Sonata Software Limited,HIGH,Exact V2 match
+Star Cement Limited,G2.1_Land_BRSR,Star Cement Limited,HIGH,Exact V2 match
+Star Health and Allied Insurance Company Limited,C3.1_Renewable,Star Health Insurance,HIGH,Core name match
+Star Health and Allied Insurance Company Limited,G2.1_Land_BRSR,Star Health and Allied Insurance,HIGH,Core name match
+Star Health and Allied Insurance Company Limited,G2.1_Land_BRSR,Star Health and Allied Insurance Company Limited,HIGH,Exact V2 match
+Steel Authority of India Limited,Facility_Geocoding,Steel Authority of India Limited,HIGH,Exact V2 match
+Sterling and Wilson Renewable Energy Limited,C3.1_Renewable,Sterling and Wilson,HIGH,Core name match
+Sterling and Wilson Renewable Energy Limited,C3.1_Renewable,Sterling and Wilson Renewable,HIGH,Core name match
+Sterling and Wilson Renewable Energy Limited,G2.1_Land_BRSR,Sterling and Wilson Renewable Energy Limited,HIGH,Exact V2 match
+Sun Pharma Advanced Research Company Limited,C3.1_Renewable,Sun Pharma Advanced Research,HIGH,Core name match
+Sun Pharma Advanced Research Company Limited,G2.1_Land_BRSR,Sun Pharma Advanced Research Company (SPARC),HIGH,Includes abbreviation
+Sun Pharma Advanced Research Company Limited,G2.1_Land_BRSR,Sun Pharma Advanced Research Company Limited,HIGH,Exact V2 match
+Sun Pharmaceutical Industries Limited,C3.1_Renewable,Sun Pharmaceutical,HIGH,Core name match
+Sun Pharmaceutical Industries Limited,C2.2_Missing_Env,Sun Pharmaceutical Industries Limited,HIGH,Exact V2 match
+Sun TV Network Limited,C3.1_Renewable,Sun TV Network,HIGH,Core name match
+Sun TV Network Limited,G2.1_Land_BRSR,Sun TV Network Limited,HIGH,Exact V2 match
+Sundram Fasteners Limited,G2.1_Land_BRSR,Sundram Fasteners Limited,HIGH,Exact V2 match
+Sunflag Iron and Steel,G2.2_Land_AR,Sunflag Iron and Steel,HIGH,Exact V2 match (Short form)
+Supreme Industries Limited,C3.1_Renewable,Supreme Industries,HIGH,Core name match
+Supreme Industries Limited,G2.1_Land_BRSR,Supreme Industries Limited,HIGH,Exact V2 match
+Syngene International Limited,C3.1_Renewable,Syngene International,HIGH,Core name match
+Syngene International Limited,G2.1_Land_BRSR,Syngene International Limited,HIGH,Exact V2 match
+Syrma SGS Technology Limited,C3.1_Renewable,Syrma SGS Technology,HIGH,Core name match
+Syrma SGS Technology Limited,G2.1_Land_BRSR,Syrma SGS Technology Limited,HIGH,Exact V2 match
+TATA CHEMICALS LIMITED,G2.1_Land_BRSR,Tata Chemicals Limited,HIGH,Case correction to V2 CAPS
+TATA CHEMICALS LIMITED,C3.2_Water_Quality,TATA CHEMICALS LIMITED,HIGH,Exact V2 match
+TATA CHEMICALS LIMITED,G2.3B_MSA_Proxy,Tata Chemicals,HIGH,Case correction to V2 CAPS
+TATA COMMUNICATIONS LIMITED,G2.1_Land_BRSR,TATA COMMUNICATIONS,HIGH,Exact V2 match
+TATA COMMUNICATIONS LIMITED,G2.1_Land_BRSR,TATA COMMUNICATIONS LIMITED,HIGH,Exact V2 match
+TATA COMMUNICATIONS LIMITED,C3.2_Water_Quality,Tata Communications,HIGH,Case correction to V2 CAPS
+Tata Consultancy Services Limited,C3.1_Renewable,TCS,HIGH,Case correction to V2 Title Case
+Tata Consultancy Services Limited,C2.1_Scope3_Manual,Tata Consultancy Services Limited,HIGH,Exact V2 match
+Tata Consultancy Services Limited,C3.2_Water_Quality,TATA Consultancy Services,HIGH,Case correction to V2 Title Case
+Tata Consumer Products Limited,G2.1_Land_BRSR,Tata Consumer Products Limited,HIGH,Exact V2 match
+Tata Consumer Products Limited,C3.2_Water_Quality,Tata Consumer,HIGH,Core name match
+Tata Elxsi Limited,G2.1_Land_BRSR,Tata Elxsi Limited,HIGH,Exact V2 match
+Tata Elxsi Limited,C3.2_Water_Quality,Tata Elxsi,HIGH,Core name match
+Tata Investment Corporation Limited,G2.1_Land_BRSR,Tata Investment Corp,HIGH,Standard abbreviation
+Tata Investment Corporation Limited,G2.1_Land_BRSR,Tata Investment Corporation Limited,HIGH,Exact V2 match
+Tata Investment Corporation Limited,C3.2_Water_Quality,Tata Investment,HIGH,Core name match
+Tata Motors Limited,C2.1_Scope3_Manual,Tata Motors Limited,HIGH,Exact V2 match
+Tata Motors Limited,C3.2_Water_Quality,Tata Motors,HIGH,Core name match
+Tata Power,C2.1_Scope3_Manual,Tata Power Company Limited,HIGH,Mapping to short V2 name
+Tata Power,G2.2_Land_AR,Tata Power,HIGH,Exact V2 match
+Tata Steel Limited,C2.1_Scope3_Manual,Tata Steel Limited,HIGH,Exact V2 match
+Tata Steel Limited,G2.2_Land_AR,Tata Steel,HIGH,Core name match
+Tata Technologies Limited,G2.1_Land_BRSR,Tata Technologies Limited,HIGH,Exact V2 match
+Tata Technologies Limited,C3.2_Water_Quality,Tata Technologies,HIGH,Core name match
+Tata Teleservices Maharashtra Limited,G2.1_Land_BRSR,Tata Teleservices Maha,HIGH,Standard abbreviation
+Tata Teleservices Maharashtra Limited,G2.1_Land_BRSR,Tata Teleservices Maharashtra Limited,HIGH,Exact V2 match
+Tata Teleservices Maharashtra Limited,C3.2_Water_Quality,Tata Teleservices,HIGH,Core name match
+Tech Mahindra Limited,Facility_Geocoding,Tech Mahindra Limited,HIGH,Exact V2 match
+Tech Mahindra Limited,C3.1_Renewable,Tech Mahindra,HIGH,Core name match
+Tech Mahindra Limited,C3.2_Water_Quality,Tech Mahindra Ltd,HIGH,Standard abbreviation
+Techno Electric  Engineering Company Limited,G2.1_Land_BRSR,Techno Electric & Engineering Company Limited,HIGH,Fixed double space per V2
+Techno Electric  Engineering Company Limited,G2.1_Land_BRSR,Techno Electric & Eng,HIGH,Fixed double space per V2
+Techno Electric  Engineering Company Limited,C3.2_Water_Quality,Techno Electric,HIGH,Fixed double space per V2
+Tejas Networks Limited,G2.1_Land_BRSR,Tejas Networks Limited,HIGH,Exact V2 match
+Tejas Networks Limited,C3.2_Water_Quality,Tejas Networks,HIGH,Core name match
+THE NEW INDIA ASSURANCE COMPANY LIMITED,G2.1_Land_BRSR,THE NEW INDIA ASSURANCE,HIGH,Exact V2 match
+THE NEW INDIA ASSURANCE COMPANY LIMITED,G2.1_Land_BRSR,THE NEW INDIA ASSURANCE COMPANY LIMITED,HIGH,Exact V2 match
+THE PHOENIX MILLS LIMITED,G2.1_Land_BRSR,THE PHOENIX MILLS LIMITED,HIGH,Exact V2 match
+THE PHOENIX MILLS LIMITED,C3.2_Water_Quality,Phoenix Mills,HIGH,Case correction to CAPS
+The Ramco Cements Limited,G2.1_Land_BRSR,The Ramco Cements Limited,HIGH,Exact V2 match
+The Ramco Cements Limited,C3.2_Water_Quality,Ramco Cements,HIGH,Core name match
+Thermax Limited,G2.1_Land_BRSR,Thermax Limited,HIGH,Exact V2 match
+Thermax Limited,C3.2_Water_Quality,Thermax,HIGH,Core name match
+Thomas Cook  India  Limited,G2.1_Land_BRSR,Thomas Cook India Limited,HIGH,Fixed double spaces per V2
+Thomas Cook  India  Limited,C3.2_Water_Quality,Thomas Cook India,HIGH,Fixed double spaces per V2
+Timken India Limited,G2.1_Land_BRSR,Timken India Limited,HIGH,Exact V2 match
+Timken India Limited,C3.2_Water_Quality,Timken,HIGH,Core name match
+Titan Company Limited,Facility_Geocoding,Titan Company Limited,HIGH,Exact V2 match
+Titan Company Limited,G2.1_Land_BRSR,Titan Company,HIGH,Core name match
+Titan Company Limited,C3.2_Water_Quality,Titan,HIGH,Core name match
+Torrent Pharmaceuticals Limited,G2.1_Land_BRSR,Torrent Pharmaceuticals Limited,HIGH,Exact V2 match
+Torrent Pharmaceuticals Limited,G2.1_Land_BRSR,Torrent Pharmaceuticals,HIGH,Core name match
+Torrent Pharmaceuticals Limited,C3.2_Water_Quality,Torrent Pharma,HIGH,Industry abbreviation
+Torrent Power Limited,G2.1_Land_BRSR,Torrent Power Limited,HIGH,Exact V2 match
+Torrent Power Limited,C3.2_Water_Quality,Torrent Power,HIGH,Core name match
+TRIDENT LIMITED,G2.1_Land_BRSR,TRIDENT LIMITED,HIGH,Exact V2 match
+TRIDENT LIMITED,C3.2_Water_Quality,Trident Limited,HIGH,Case correction to CAPS
+Triveni Engineering  Industries Limited,G2.1_Land_BRSR,Triveni Engineering,HIGH,Fixed double space per V2
+Triveni Engineering  Industries Limited,G2.1_Land_BRSR,Triveni Engineering & Industries Limited,HIGH,Fixed double space per V2
+Triveni Engineering  Industries Limited,C3.2_Water_Quality,Triveni Eng,HIGH,Fixed double space per V2
+Triveni Turbine Limited,G2.1_Land_BRSR,Triveni Turbine Limited,HIGH,Exact V2 match
+Triveni Turbine Limited,C3.2_Water_Quality,Triveni Turbine,HIGH,Core name match
+Tube Investments of India Limited,G2.1_Land_BRSR,Tube Investments of India Limited,HIGH,Exact V2 match
+Tube Investments of India Limited,G2.1_Land_BRSR,Tube Investments of India,HIGH,Core name match
+Tube Investments of India Limited,C3.2_Water_Quality,Tube Investments,HIGH,Core name match
+TVS Motor Company Limited,G2.1_Land_BRSR,TVS Motor Company Limited,HIGH,Exact V2 match
+TVS Motor Company Limited,G2.1_Land_BRSR,TVS Motor Company,HIGH,Core name match
+TVS Motor Company Limited,C3.2_Water_Quality,TVS Motor,HIGH,Core name match
+TVS Supply Chain Solutions Limited,G2.1_Land_BRSR,TVS Supply Chain Solutions Limited,HIGH,Exact V2 match
+TVS Supply Chain Solutions Limited,G2.1_Land_BRSR,TVS Supply Chain Solutions,HIGH,Core name match
+TVS Supply Chain Solutions Limited,C3.2_Water_Quality,TVS Supply Chain,HIGH,Core name match
+UNION BANK OF INDIA,G2.1_Land_BRSR,UNION BANK OF INDIA,HIGH,Exact V2 match
+UNION BANK OF INDIA,C2.1_Scope3_Manual,Union Bank of India,HIGH,Case correction to CAPS
+UNITED BREWERIES LIMITED,G2.1_Land_BRSR,UNITED BREWERIES LIMITED,HIGH,Exact V2 match
+UNITED BREWERIES LIMITED,C3.2_Water_Quality,United Breweries,HIGH,Case correction to CAPS
+United Spirits Limited,G2.1_Land_BRSR,United Spirits Limited,HIGH,Exact V2 match
+United Spirits Limited,G2.1_Land_BRSR,United Spirits (Diageo),HIGH,Includes brand name
+United Spirits Limited,C3.2_Water_Quality,United Spirits,HIGH,Core name match
+UPL LIMITED,G2.1_Land_BRSR,UPL LIMITED,HIGH,Exact V2 match
+UPL LIMITED,C3.2_Water_Quality,UPL Limited,HIGH,Case correction to CAPS
+UTI Asset Management Company Limited,C3.2_Water_Quality,UTI Asset Management,HIGH,Exact V2 match
+UTI Asset Management Company Limited,C3.2_Water_Quality,UTI Asset Mgmt,HIGH,Core name match
+Ujjivan Small Finance Bank Limited,C3.2_Water_Quality,Ujjivan Small Finance Bank,HIGH,Exact V2 match
+UltraTech Cement Limited,C3.2_Water_Quality,UltraTech Cement,HIGH,Core name match
+Uno Minda Limited,C3.2_Water_Quality,Uno Minda Limited,HIGH,Exact V2 match
+Usha Martin Limited,C3.2_Water_Quality,Usha Martin Ltd,HIGH,Standard abbreviation
+V-GUARD INDUSTRIES LIMITED,C3.2_Water_Quality,V-GUARD INDUSTRIES,HIGH,Core name match
+V-GUARD INDUSTRIES LIMITED,C3.2_Water_Quality,V-Guard Industries,HIGH,Case correction to CAPS per V2
+VALOR ESTATE LIMITED,C3.2_Water_Quality,VALOR ESTATE,HIGH,Core name match
+Vardhman Textiles,C3.2_Water_Quality,Vardhman Textiles,HIGH,"Exact V2 match (No ""Limited"")"
+Varroc Engineering Limited,C3.2_Water_Quality,Varroc Engineering,HIGH,Core name match
+Varun Beverages (PepsiCo franchise),C3.2_Water_Quality,Varun Beverages,HIGH,Mapping to exact V2 brand variant
+Vedant Fashions Limited,C3.2_Water_Quality,Vedant Fashions Limited,HIGH,Exact match
+Vedant Fashions Limited,C3.2_Water_Quality,Vedant Fashions Limited (Manyavar),HIGH,Includes brand name
+Vedanta Limited,C3.2_Water_Quality,Vedanta,HIGH,Core name match
+Vinati Organics Limited,C3.2_Water_Quality,Vinati Organics Limited,HIGH,Exact match
+Voltamp Transformers Limited,C3.2_Water_Quality,Voltamp Transformers,HIGH,Core name match
+Voltas Limited,C3.2_Water_Quality,Voltas Limited,HIGH,Exact match
+Waaree Renewable Technologies Limited,C3.2_Water_Quality,Waaree Renewable Technologies Limited,HIGH,Exact match
+Welspun Corp Limited,C3.2_Water_Quality,Welspun Corp Limited,HIGH,Exact match
+Welspun Living Limited,C3.2_Water_Quality,Welspun Living,HIGH,Core name match
+Welspun Living Limited,C3.2_Water_Quality,Welspun Living Limited,HIGH,Exact match
+West Coast Paper Mills Limited,C3.2_Water_Quality,West Coast Paper Mills,HIGH,Core name match
+Whirlpool of India Limited,C3.2_Water_Quality,Whirlpool of India Limited,HIGH,Exact match
+Wipro Limited,C3.2_Water_Quality,Wipro Limited,HIGH,Exact match
+Wockhardt Limited,C3.2_Water_Quality,Wockhardt Limited,HIGH,Exact match
+YES Bank Limited,C3.2_Water_Quality,YES Bank Limited,HIGH,Exact V2 match (Case specific)
+ZENSAR TECHNOLOGIES LIMITED,C3.2_Water_Quality,ZENSAR TECHNOLOGIES LIMITED,HIGH,Exact V2 match
+ZF Commercial Vehicle Control Systems India Limited,C3.2_Water_Quality,ZF Commercial Vehicle,HIGH,Core name match
+Zee Entertainment Enterprises Limited,C3.2_Water_Quality,Zee Entertainment,HIGH,Core name match
+Zen Technologies Limited,C3.2_Water_Quality,Zen Technologies Limited,HIGH,Exact match
+Zydus Lifesciences Limited,C3.2_Water_Quality,Zydus Lifesciences,HIGH,Core name match
+Zydus Wellness Limited,C3.2_Water_Quality,Zydus Wellness,HIGH,Core name match
+eClerx Services Limited,C3.2_Water_Quality,eClerx Services Limited,HIGH,Exact V2 match (Case specific)
+360 ONE WAM LIMITED,G2.3B_MSA_Proxy,360 ONE WAM LIMITED,HIGH,Exact match
+AIA ENGINEERING LIMITED,G2.3B_MSA_Proxy,AIA ENGINEERING LTD,HIGH,Standard abbreviation
+ALKYL AMINES CHEMICALS LIMITED,G2.3B_MSA_Proxy,ALKYL AMINES CHEM,HIGH,Case correction to CAPS
+APAR Industries Limited,G2.3B_MSA_Proxy,APAR Industries Ltd,HIGH,Standard abbreviation
+AU Small Finance Bank Limited,G2.3B_MSA_Proxy,AU Small Finance Bank,HIGH,Core name match
+Aavas Financiers Limited,G2.3B_MSA_Proxy,Aavas Financiers Ltd,HIGH,Standard abbreviation
+Aditya Birla Sun Life AMC Limited,G2.3B_MSA_Proxy,Aditya Birla Sun Life,HIGH,Core name match
+Aegis Logistics Limited,G2.3B_MSA_Proxy,Aegis Logistics Ltd,HIGH,Standard abbreviation
+Akzo Nobel India Limited,G2.3B_MSA_Proxy,Akzo Nobel India Ltd,HIGH,Standard abbreviation
+ALOK INDUSTRIES LIMITED,G2.3B_MSA_Proxy,Alok Industries,HIGH,Case correction to CAPS per V2
+Amara Raja Energy  Mobility Limited,G2.3B_MSA_Proxy,Amara Raja Energy,HIGH,Fixed V2 double space
+Anupam Rasayan India Limited,G2.3B_MSA_Proxy,Anupam Rasayan,HIGH,Core name match
+ARVIND LIMITED,G2.3B_MSA_Proxy,Arvind Limited,HIGH,Case correction to CAPS per V2
+Asahi India Glass Limited,G2.3B_MSA_Proxy,Asahi India Glass,HIGH,Core name match
+Ashok Leyland Limited,G2.3B_MSA_Proxy,Ashok Leyland,HIGH,Core name match
+Aster DM Healthcare Limited,G2.3B_MSA_Proxy,Aster DM Health,HIGH,Core name match
+BLS International Services Limited,G2.3B_MSA_Proxy,BLS International,HIGH,Core name match
+Bajaj Finserv Limited,G2.3B_MSA_Proxy,Bajaj Finserv Ltd,HIGH,Standard abbreviation
+Bajaj Holdings  Investment Limited,G2.3B_MSA_Proxy,Bajaj Holdings,HIGH,Fixed V2 double space
+Balkrishna Industries Limited,G2.3B_MSA_Proxy,Balkrishna Ind,HIGH,Standard abbreviation
+BATA INDIA LIMITED,G2.3B_MSA_Proxy,Bata India Limited,HIGH,Case correction to CAPS per V2
+BHARAT ELECTRONICS LIMITED,G2.3B_MSA_Proxy,Bharat Electronics,HIGH,Case correction to CAPS per V2
+Bharat Forge Limited,G2.3B_MSA_Proxy,Bharat Forge,HIGH,Core name match
+Bharti Airtel Limited,G2.3B_MSA_Proxy,Bharti Airtel Ltd,HIGH,Standard abbreviation
+Bharti Hexacom Limited,G2.3B_MSA_Proxy,Bharti Hexacom Ltd,HIGH,Standard abbreviation
+Bikaji Foods International Limited,G2.3B_MSA_Proxy,Bikaji Foods Int,HIGH,Core name match
+Britannia Industries Limited,G2.3B_MSA_Proxy,Britannia Industries,HIGH,Core name match
+CCL Products India Limited,G2.3B_MSA_Proxy,CCL Products India,HIGH,Exact characters per V2
+CERA Sanitaryware Limited,G2.3B_MSA_Proxy,CERA Sanitaryware,HIGH,Core name match
+CG Power and Industrial Solutions Limited,G2.3B_MSA_Proxy,CG Power & Industrial,HIGH,Core name match
+CITY UNION BANK LIMITED,G2.3B_MSA_Proxy,CITY UNION BANK LTD,HIGH,Case correction to V2 CAPS
+COROMANDEL INTERNATIONAL LIMITED,G2.3B_MSA_Proxy,COROMANDEL INT,HIGH,Core name match
+Can Fin Homes Limited,G2.3B_MSA_Proxy,Can Fin Homes Ltd,HIGH,Core name match
+Caplin Point Laboratories Limited,G2.3B_MSA_Proxy,Caplin Point Labs,HIGH,Core name match
+Carborundum Universal Limited,G2.3B_MSA_Proxy,Carborundum Uni,HIGH,Core name match
+Chemplast Sanmar Limited,G2.3B_MSA_Proxy,Chemplast Sanmar,HIGH,Core name match
+Cholamandalam Financial Holdings Limited,G2.3B_MSA_Proxy,Cholamandalam Hold,HIGH,Core name match
+Cholamandalam Investment and Finance Company Limited,G2.3B_MSA_Proxy,Cholamandalam Invest,HIGH,Core name match
+Clean Science and Technology Limited,G2.3B_MSA_Proxy,Clean Science & Tech,HIGH,Core name match
+Cochin Shipyard Limited,G2.3B_MSA_Proxy,Cochin Shipyard Ltd,HIGH,Core name match
+Computer Age Management Services Limited,G2.3B_MSA_Proxy,Computer Age Mgmt,HIGH,Core name match
+Concord Biotech Limited,G2.3B_MSA_Proxy,Concord Biotech Ltd,HIGH,Core name match
+DCM Shriram Limited,G2.3B_MSA_Proxy,DCM Shriram,HIGH,Core name match
+DOMS Industries Limited,G2.3B_MSA_Proxy,DOMS Industries Ltd,HIGH,Core name match
+Dabur India Limited,G2.3B_MSA_Proxy,Dabur India Ltd,HIGH,Core name match
+Deepak Nitrite Limited,G2.3B_MSA_Proxy,Deepak Nitrite Ltd,HIGH,Core name match
+EICHER MOTORS LIMITED,G2.3B_MSA_Proxy,Eicher Motors,HIGH,Case correction to V2 CAPS
+Electronics Mart India Limited,G2.3B_MSA_Proxy,Electronics Mart,HIGH,Core name match
+Elgi Equipments Limited,G2.3B_MSA_Proxy,Elgi Equipments Ltd,HIGH,Core name match
+Endurance Technologies Limited,G2.3B_MSA_Proxy,Endurance Tech,HIGH,Core name match
+Engineers India Limited,G2.3B_MSA_Proxy,Engineers India Ltd,HIGH,Core name match
+Equitas Small Finance Bank Limited,G2.3B_MSA_Proxy,Equitas Small Finance,HIGH,Core name match
+Eris Lifesciences Limited,G2.3B_MSA_Proxy,Eris Lifesciences,HIGH,Core name match
+Escorts Kubota Limited,G2.3B_MSA_Proxy,Escorts Kubota,HIGH,Core name match
+Exide Industries Limited,G2.3B_MSA_Proxy,Exide Industries,HIGH,Core name match
+FINE ORGANIC INDUSTRIES LIMITED,G2.3B_MSA_Proxy,FINE ORGANIC IND,HIGH,Case correction to V2 CAPS
+Finolex Cables Limited,G2.3B_MSA_Proxy,Finolex Cables Ltd,HIGH,Core name match
+Five-Star Business Finance Limited,G2.3B_MSA_Proxy,Five-Star Business,HIGH,Core name match
+G R Infraprojects Limited,G2.3B_MSA_Proxy,G R Infraprojects,HIGH,Core name match
+GLOBAL HEALTH LIMITED,G2.3B_MSA_Proxy,GLOBAL HEALTH LTD,HIGH,Case correction to V2 CAPS
+GODFREY PHILLIPS INDIA LIMITED,G2.3B_MSA_Proxy,GODFREY PHILLIPS,HIGH,Case correction to V2 CAPS
+GRANULES INDIA LIMITED,G2.3B_MSA_Proxy,GRANULES INDIA LTD,HIGH,Case correction to V2 CAPS
+GRAPHITE INDIA LIMITED,G2.3B_MSA_Proxy,GRAPHITE INDIA LTD,HIGH,Case correction to V2 CAPS
+GlaxoSmithKline Pharmaceuticals Limited,G2.3B_MSA_Proxy,GSK Pharma,HIGH,Industry abbreviation
+Gujarat State Petronet Limited,G2.3B_MSA_Proxy,GSPL,HIGH,Standard abbreviation
+"Adani Airports (Mumbai, Ahmedabad, 6 others)",G2.3B_MSA_Proxy,GVK Mumbai Airport,HIGH,Subsidiary to Parent mapping
+Garden Reach Shipbuilders  Engineers Limited,G2.3B_MSA_Proxy,Garden Reach Ship,HIGH,Double space per V2
+Genus Power Infrastructures Limited,G2.3B_MSA_Proxy,Genus Power Infra,HIGH,Core name match
+Gillette India Limited,G2.3B_MSA_Proxy,Gillette India Ltd,HIGH,Core name match
+Glenmark Pharmaceuticals Limited,G2.3B_MSA_Proxy,Glenmark Pharma,HIGH,Core name match
+Go Digit General Insurance Limited,G2.3B_MSA_Proxy,Go Digit Insurance,HIGH,Core name match
+Godrej Consumer Products Limited,G2.3B_MSA_Proxy,Godrej Consumer,HIGH,Core name match
+Godrej Industries Limited,G2.3B_MSA_Proxy,Godrej Industries,HIGH,Core name match
+Grindwell Norton Limited,G2.3B_MSA_Proxy,Grindwell Norton Ltd,HIGH,Core name match
+Gujarat Ambuja Exports Limited,G2.3B_MSA_Proxy,Gujarat Ambuja Exp,HIGH,Core name match
+Gujarat Fluorochemicals Limited,G2.3B_MSA_Proxy,Gujarat Fluorochem,HIGH,Core name match
+GUJARAT GAS LIMITED,G2.3B_MSA_Proxy,Gujarat Gas Limited,HIGH,Case correction to V2 CAPS
+HDFC Asset Management Company Limited,G2.3B_MSA_Proxy,HDFC Asset Mgmt,HIGH,Core name match
+HDFC Life Insurance Company Limited,G2.3B_MSA_Proxy,HDFC Life Insurance,HIGH,Core name match
+HONEYWELL AUTOMATION INDIA LIMITED,G2.3B_MSA_Proxy,HONEYWELL AUTO,HIGH,Case correction to V2 CAPS
+Happiest Minds Technologies Limited,G2.3B_MSA_Proxy,Happiest Minds Tech,HIGH,Core name match
+Happy Forgings Limited,G2.3B_MSA_Proxy,Happy Forgings Ltd,HIGH,Core name match
+Hindustan Unilever Limited,G2.3B_MSA_Proxy,Hindustan Unilever,HIGH,Exact characters per V2
+Hitachi Energy India Limited,G2.3B_MSA_Proxy,Hitachi Energy India,HIGH,Core name match
+Honasa Consumer Limited,G2.3B_MSA_Proxy,Honasa Consumer Ltd,HIGH,Standard abbreviation
+ICICI Lombard General Insurance Company Limited,G2.3B_MSA_Proxy,ICICI Lombard,HIGH,Core name match
+ICICI Prudential Life Insurance Company Limited,G2.3B_MSA_Proxy,ICICI Prudential,HIGH,Core name match
+IDBI Bank Limited,G2.3B_MSA_Proxy,IDBI Bank Limited,HIGH,Exact match
+IDFC FIRST Bank Limited,G2.3B_MSA_Proxy,IDFC FIRST Bank Ltd,HIGH,Standard abbreviation
+INDIAN RAILWAY FINANCE CORPORATION LIMITED,G2.3B_MSA_Proxy,INDIAN RAILWAY FIN,HIGH,Case correction to V2 CAPS
+INTELLECT DESIGN ARENA LIMITED,G2.3B_MSA_Proxy,INTELLECT DESIGN,HIGH,Case correction to V2 CAPS
+ISGEC Heavy Engineering Limited,G2.3B_MSA_Proxy,ISGEC Heavy Eng,HIGH,Standard abbreviation
+Indian Energy Exchange Limited,G2.3B_MSA_Proxy,Indian Energy Exch,HIGH,Standard abbreviation
+IndusInd Bank Limited,G2.3B_MSA_Proxy,IndusInd Bank Limited,HIGH,Exact match
+Infibeam Avenues Limited,G2.3B_MSA_Proxy,Infibeam Avenues Ltd,HIGH,Standard abbreviation
+InterGlobe Aviation Limited,G2.3B_MSA_Proxy,InterGlobe (IndiGo),HIGH,Includes brand name
+Ion Exchange India Limited,G2.3B_MSA_Proxy,Ion Exchange India,HIGH,Core name match
+Ipca Laboratories Limited,G2.3B_MSA_Proxy,Ipca Laboratories,HIGH,Exact V2 case match
+Ircon International Limited,G2.3B_MSA_Proxy,Ircon International,HIGH,Exact V2 case match
+JBM Auto Limited,G2.3B_MSA_Proxy,JBM Auto Limited,HIGH,Exact match
+JK Tyre & Industries Limited,G2.3B_MSA_Proxy,JK Tyre & Ind,HIGH,Standard abbreviation
+JM Financial Limited,G2.3B_MSA_Proxy,JM Financial Limited,HIGH,Exact match
+JYOTHY LABS LIMITED,G2.3B_MSA_Proxy,JYOTHY LABS LIMITED,HIGH,Exact match
+JYOTI CNC AUTOMATION LIMITED,G2.3B_MSA_Proxy,JYOTI CNC AUTO,HIGH,Standard abbreviation
+Jio Financial Services Limited,G2.3B_MSA_Proxy,Jio Financial Serv,HIGH,Standard abbreviation
+Jubilant Pharmova Limited,G2.3B_MSA_Proxy,Jubilant Pharmova,HIGH,Core name match
+Juniper Hotels Limited,G2.3B_MSA_Proxy,Juniper Hotels Limited,HIGH,Exact match
+Jupiter Life Line Hospitals Limited,G2.3B_MSA_Proxy,Jupiter Life Line,HIGH,Core name match
+Jupiter Wagons Limited,G2.3B_MSA_Proxy,Jupiter Wagons Ltd,HIGH,Standard abbreviation
+Just Dial Limited,G2.3B_MSA_Proxy,Just Dial Limited,HIGH,Exact match
+KEC International Limited,G2.3B_MSA_Proxy,KEC International Ltd,HIGH,Standard abbreviation
+KEI INDUSTRIES LIMITED,G2.3B_MSA_Proxy,KEI INDUSTRIES LTD,HIGH,Standard abbreviation
+KNR Constructions Limited,G2.3B_MSA_Proxy,KNR Constructions,HIGH,Core name match
+KPR MILL LIMITED,G2.3B_MSA_Proxy,KPR MILL LIMITED,HIGH,Exact match
+Kaynes Technology India Limited,G2.3B_MSA_Proxy,Kaynes Technology,HIGH,Core name match
+Kirloskar Brothers Limited,G2.3B_MSA_Proxy,Kirloskar Brothers,HIGH,Core name match
+Krishna Institute of Medical Sciences Limited,G2.3B_MSA_Proxy,Krishna Institute,HIGH,Core name match
+LAURUS LABS LIMITED,G2.3B_MSA_Proxy,Laurus Labs Ltd,HIGH,Standard abbreviation
+Life Insurance Corporation of India,G2.3B_MSA_Proxy,Life Insurance Corp,HIGH,Standard abbreviation
+MAX HEALTHCARE INSTITUTE LIMITED,G2.3B_MSA_Proxy,MAX HEALTHCARE,HIGH,Case correction to V2 CAPS
+MACROTECH DEVELOPERS LIMITED,G2.3B_MSA_Proxy,Macrotech Developers,HIGH,Core name match
+Mahanagar Gas Limited,G2.3B_MSA_Proxy,Mahanagar Gas,HIGH,Core name match
+Mahindra  Mahindra Limited,G2.3B_MSA_Proxy,Mahindra & Mahindra,HIGH,Fixed V2 double space
+Mahindra  Mahindra Financial Services Limited,G2.3B_MSA_Proxy,Mahindra Financial,HIGH,Fixed V2 double space
+Mahindra Holidays & Resorts India Limited,G2.3B_MSA_Proxy,Mahindra Holidays,HIGH,Core name match
+Man Infraconstruction Limited,G2.3B_MSA_Proxy,Man Infraconstruction,HIGH,Core name match
+Manappuram Finance Limited,G2.3B_MSA_Proxy,Manappuram Finance,HIGH,Core name match
+MANKIND PHARMA LIMITED,G2.3B_MSA_Proxy,Mankind Pharma,HIGH,Core name match
+Maruti Suzuki India Limited,G2.3B_MSA_Proxy,Maruti Suzuki,HIGH,Core name match
+Max Financial Services Limited,G2.3B_MSA_Proxy,Max Financial Serv,HIGH,Standard abbreviation
+MedPlus Health Services Limited,G2.3B_MSA_Proxy,MedPlus Health,HIGH,Core name match
+Metro Brands Limited,G2.3B_MSA_Proxy,Metro Brands,HIGH,Core name match
+Metropolis Healthcare Limited,G2.3B_MSA_Proxy,Metropolis Health,HIGH,Core name match
+Mishra Dhatu Nigam Limited,G2.3B_MSA_Proxy,Mishra Dhatu Nigam,HIGH,Core name match
+Motilal Oswal Financial Services Limited,G2.3B_MSA_Proxy,Motilal Oswal Fin,HIGH,Standard abbreviation
+NATCO Pharma Limited,G2.3B_MSA_Proxy,NATCO Pharma Limited,HIGH,Exact V2 case match
+NBCC India Limited,G2.3B_MSA_Proxy,NBCC India Limited,HIGH,Exact V2 characters
+NCC LIMITED,G2.3B_MSA_Proxy,NCC LIMITED,HIGH,Exact V2 match
+NETWEB TECHNOLOGIES INDIA LIMITED,G2.3B_MSA_Proxy,NETWEB TECHNOLOGIES,HIGH,Exact case alignment with V2
+THE NEW INDIA ASSURANCE COMPANY LIMITED,G2.3B_MSA_Proxy,NEW INDIA ASSURANCE,HIGH,Exact characters per V2
+NUVAMA WEALTH MANAGEMENT LIMITED,G2.3B_MSA_Proxy,NUVAMA WEALTH MGMT,HIGH,Case correction to CAPS
+Navin Fluorine International Limited,G2.3B_MSA_Proxy,Navin Fluorine Int,HIGH,Core name match
+Nestle India Limited,G2.3B_MSA_Proxy,Nestle India Limited,HIGH,Exact match
+Neuland Laboratories Limited,G2.3B_MSA_Proxy,Neuland Laboratories,HIGH,Exact characters per V2
+Newgen Software Technologies Limited,G2.3B_MSA_Proxy,Newgen Software,HIGH,Core name match
+Nippon Life India Asset Management Limited,G2.3B_MSA_Proxy,Nippon Life India,HIGH,Core name match
+Oberoi Realty Limited,G2.3B_MSA_Proxy,Oberoi Realty Ltd,HIGH,Exact characters per V2
+Olectra Greentech Limited,G2.3B_MSA_Proxy,Olectra Greentech,HIGH,Exact characters per V2
+One 97 Communications Limited,G2.3B_MSA_Proxy,One 97 Comm (Paytm),HIGH,Core name match
+Oracle Financial Services Software Limited,G2.3B_MSA_Proxy,Oracle Financial Serv,HIGH,Core name match
+Procter  Gamble Health Limited,G2.3B_MSA_Proxy,P&G Health,HIGH,Fixed V2 double space
+PB FINTECH LIMITED,G2.3B_MSA_Proxy,PB FINTECH LIMITED,HIGH,Case correction to CAPS
+PI INDUSTRIES LIMITED,G2.3B_MSA_Proxy,PI INDUSTRIES LIMITED,HIGH,Case correction to CAPS
+PNC Infratech Limited,G2.3B_MSA_Proxy,PNC Infratech Ltd,HIGH,Exact characters per V2
+POLY MEDICURE LIMITED,G2.3B_MSA_Proxy,POLY MEDICURE LTD,HIGH,Case correction to CAPS
+PTC Industries Limited,G2.3B_MSA_Proxy,PTC Industries Ltd,HIGH,Exact characters per V2
+Piramal Pharma Limited,G2.3B_MSA_Proxy,Piramal Pharma,HIGH,Exact characters per V2
+Praj Industries Limited,G2.3B_MSA_Proxy,Praj Industries Ltd,HIGH,Exact characters per V2
+RATTANINDIA ENTERPRISES LIMITED,G2.3B_MSA_Proxy,RATTANINDIA ENT,HIGH,Case correction to CAPS
+RHI Magnesita India Ltd,G2.3B_MSA_Proxy,RHI Magnesita India,HIGH,Exact characters per V2
+Radico Khaitan Limited,G2.3B_MSA_Proxy,Radico Khaitan Ltd,HIGH,Exact characters per V2
+Rail Vikas Nigam Limited,G2.3B_MSA_Proxy,Rail Vikas Nigam Ltd,HIGH,Exact characters per V2
+Ratnamani Metals  Tubes Limited,G2.3B_MSA_Proxy,Ratnamani Metals,HIGH,Fixed V2 double space
+Responsive Industries Limited,G2.3B_MSA_Proxy,Responsive Ind,HIGH,Exact characters per V2
+SAREGAMA India Limited,G2.3B_MSA_Proxy,SAREGAMA India Ltd,HIGH,Exact characters per V2
+SBI Cards and Payment Services Limited,G2.3B_MSA_Proxy,SBI Cards,HIGH,Exact characters per V2
+SHIPPING CORPORATION OF INDIA LIMITED,G2.3B_MSA_Proxy,SHIPPING CORP,HIGH,Case correction to CAPS
+SUNDARAM FINANCE LIMITED,G2.3B_MSA_Proxy,SUNDARAM FINANCE LTD,HIGH,Case correction to CAPS
+Safari Industries India Limited,G2.3B_MSA_Proxy,Safari Industries,HIGH,Exact characters per V2
+Schaeffler India Limited,G2.3B_MSA_Proxy,Schaeffler India Ltd,HIGH,Exact characters per V2
+Schneider Electric Infrastructure Limited,G2.3B_MSA_Proxy,Schneider Electric,HIGH,Exact characters per V2
+Shree Renuka Sugars Limited,G2.3B_MSA_Proxy,Shree Renuka Sugars,HIGH,Exact characters per V2
+Shriram Finance Limited,G2.3B_MSA_Proxy,Shriram Finance Ltd,HIGH,Exact characters per V2
+Sona BLW Precision Forgings Limited,G2.3B_MSA_Proxy,Sona BLW Precision,HIGH,Exact characters per V2
+Sonata Software Limited,G2.3B_MSA_Proxy,Sonata Software Ltd,HIGH,Exact characters per V2
+Star Health and Allied Insurance Company Limited,G2.3B_MSA_Proxy,Star Health Ins,HIGH,Exact characters per V2
+Sun Pharma Advanced Research Company Limited,G2.3B_MSA_Proxy,Sun Pharma Advanced,HIGH,Exact characters per V2
+Sun TV Network Limited,G2.3B_MSA_Proxy,Sun TV Network Ltd,HIGH,Exact characters per V2
+Sundram Fasteners Limited,G2.3B_MSA_Proxy,Sundram Fasteners,HIGH,Exact characters per V2
+SUPREME PETROCHEM LIMITED,G2.3B_MSA_Proxy,Supreme Petrochem,HIGH,Case correction to CAPS
+Syrma SGS Technology Limited,G2.3B_MSA_Proxy,Syrma SGS Tech,HIGH,Exact characters per V2
+TBO Tek Limited,G2.3B_MSA_Proxy,TBO Tek Limited,HIGH,Exact match
+TEGA INDUSTRIES LIMITED,G2.3B_MSA_Proxy,TEGA INDUSTRIES LTD,HIGH,Case correction to CAPS
+THE PHOENIX MILLS LIMITED,G2.3B_MSA_Proxy,THE PHOENIX MILLS,HIGH,Case correction to CAPS
+TITAGARH RAIL SYSTEMS LIMITED,G2.3B_MSA_Proxy,TITAGARH RAIL,HIGH,Case correction to CAPS
+TTK PRESTIGE LIMITED,G2.3B_MSA_Proxy,TTK PRESTIGE LIMITED,HIGH,Exact match
+Tamilnad Mercantile Bank Limited,G2.3B_MSA_Proxy,Tamilnad Mercantile,HIGH,Exact characters per V2
+Tanla Platforms Limited,G2.3B_MSA_Proxy,Tanla Platforms Ltd,HIGH,Exact characters per V2
+Tata Consultancy Services Limited,G2.3B_MSA_Proxy,Tata Consultancy (TCS),HIGH,Includes common abbreviation
+Tejas Networks Limited,G2.3B_MSA_Proxy,Tejas Networks Ltd,HIGH,Exact characters per V2
+TITAGARH RAIL SYSTEMS LIMITED,G2.3B_MSA_Proxy,Titagarh Rail,HIGH,Case correction to V2 CAPS
+Titan Company Limited,G2.3B_MSA_Proxy,Titan Company Ltd,HIGH,Exact characters per V2
+Triveni Turbine Limited,G2.3B_MSA_Proxy,Triveni Turbine Ltd,HIGH,Exact characters per V2
+Ujjivan Small Finance Bank Limited,G2.3B_MSA_Proxy,Ujjivan Small Fin,HIGH,Core name match
+Usha Martin Limited,G2.3B_MSA_Proxy,Usha Martin Limited,HIGH,Exact match
+VIP INDUSTRIES LIMITED,G2.3B_MSA_Proxy,VIP Industries,HIGH,Case correction to V2 CAPS
+VALOR ESTATE LIMITED,G2.3B_MSA_Proxy,Valor Estate,HIGH,Case correction to V2 CAPS
+Vedant Fashions Limited,G2.3B_MSA_Proxy,Vedant Fashions,HIGH,Core name match
+Vinati Organics Limited,G2.3B_MSA_Proxy,Vinati Organics Ltd,HIGH,Exact characters per V2
+Waaree Renewable Technologies Limited,G2.3B_MSA_Proxy,Waaree Renewable Tech,HIGH,Core name match
+Welspun Corp Limited,G2.3B_MSA_Proxy,Welspun Corp,HIGH,Core name match
+West Coast Paper Mills,G2.3B_MSA_Proxy,West Coast Paper,HIGH,Core name match
+Whirlpool of India Limited,G2.3B_MSA_Proxy,Whirlpool of India,HIGH,Core name match
+ZENSAR TECHNOLOGIES LIMITED,G2.3B_MSA_Proxy,ZENSAR TECHNOLOGIES,HIGH,Case correction to V2 CAPS
+Zen Technologies Limited,G2.3B_MSA_Proxy,Zen Technologies,HIGH,Core name match
+Zydus Wellness Limited,G2.3B_MSA_Proxy,Zydus Wellness Ltd,HIGH,Core name match
+eClerx Services Limited,G2.3B_MSA_Proxy,eClerx Services Ltd,HIGH,Core name match
+AIA ENGINEERING LIMITED,C3.1_Renewable,AIA Engineering,HIGH,Case correction to V2 CAPS
+Aarti Industries Limited,C3.1_Renewable,Aarti Industries Limited,HIGH,Exact match
+Aavas Financiers Limited,C3.1_Renewable,Aavas Financiers Limited,HIGH,Exact match
+Adani Ports and Special Economic Zone Limited,C3.1_Renewable,Adani Ports (APSEZ),HIGH,Includes abbreviation
+ALEMBIC PHARMACEUTICALS LIMITED,C3.1_Renewable,Alembic Pharmaceuticals,HIGH,Core name match
+APAR Industries Limited,C3.1_Renewable,Apar Industries Limited,HIGH,Exact characters per V2
+Asian Paints Limited,C3.1_Renewable,Asian Paints Limited,HIGH,Exact match
+AUROBINDO PHARMA LIMITED,C3.1_Renewable,Aurobindo Pharma,HIGH,Core name match
+BHARAT ELECTRONICS LIMITED,C3.1_Renewable,BEL,HIGH,Case correction to V2 CAPS
+BHARAT HEAVY ELECTRICALS LIMITED,C3.1_Renewable,BHEL,HIGH,Case correction to V2 CAPS
+BAJAJ ELECTRICALS LIMITED,C3.1_Renewable,Bajaj Electricals,HIGH,Case correction to V2 CAPS
+BANK OF INDIA,C3.1_Renewable,Bank of India,HIGH,Case correction to V2 CAPS
+BANK OF MAHARASHTRA,C3.1_Renewable,Bank of Maharashtra,HIGH,Case correction to V2 CAPS
+Bharat Dynamics Limited,C3.1_Renewable,Bharat Dynamics (BDL),HIGH,Includes common abbreviation
+CCL Products India Limited,C3.1_Renewable,CCL Products (India) Limited,HIGH,Brackets variation mapping
+CERA Sanitaryware Limited,C3.1_Renewable,Cera Sanitaryware,HIGH,Core name match
+COAL INDIA LIMITED,C3.1_Renewable,Coal India Limited,HIGH,Case correction to V2 CAPS
+COROMANDEL INTERNATIONAL LIMITED,C3.1_Renewable,Coromandel International,HIGH,Case correction to V2 CAPS
+Adani Total Gas Limited,C2.1_Scope3_Manual,Adani Total Gas Limited,HIGH,Exact match
+HDFC Life Insurance Company Limited,C2.1_Scope3_Manual,HDFC Life Insurance Company,HIGH,Suffix missing
+HINDALCO INDUSTRIES LIMITED,C2.1_Scope3_Manual,Hindalco Industries Limited,HIGH,Case correction to V2 CAPS
+InterGlobe Aviation Limited,C2.1_Scope3_Manual,InterGlobe Aviation Limited (IndiGo),HIGH,Includes brand name
+SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED,C2.1_Scope3_Manual,SAMVARDHANA MOTHERSON INTERNATIONAL,HIGH,Case alignment with V2 CAPS
+UltraTech Cement Limited,C2.1_Scope3_Manual,UltraTech Cement Limited,HIGH,Exact match
+Vedanta Limited,C2.1_Scope3_Manual,Vedanta Limited,HIGH,Exact match
+"Adani Airports (Mumbai, Ahmedabad, 6 others)",C2.1_Scope3_Remaining,Adani Airports,HIGH,Mapping to exact V2 name
+Aditya Birla Capital Limited,C2.1_Scope3_Remaining,Aditya Birla Capital Limited,HIGH,Exact match
+Aditya Birla Sun Life AMC Limited,C2.1_Scope3_Remaining,Aditya Birla Sun Life AMC Limited,HIGH,Exact match
+Alkem Laboratories Limited,C2.1_Scope3_Remaining,Alkem Laboratories Limited,HIGH,Exact match
+Amber Enterprises India Limited,C2.1_Scope3_Remaining,Amber Enterprises India Limited,HIGH,Exact match
+Ambuja Cements Limited,C2.1_Scope3_Remaining,Ambuja Cements Limited,HIGH,Exact match
+Anand Rathi Wealth Limited,C2.1_Scope3_Remaining,Anand Rathi Wealth Limited,HIGH,Exact match
+Aptus Value Housing Finance India Limited,C2.1_Scope3_Remaining,Aptus Value Housing Finance India Limited,HIGH,Exact match
+AstraZeneca Pharma India Limited,C2.1_Scope3_Remaining,AstraZeneca Pharma India Limited,HIGH,Exact match
+BLS International Services Limited,C2.1_Scope3_Remaining,BLS International Services Limited,HIGH,Exact match
+Bajaj Holdings  Investment Limited,C2.1_Scope3_Remaining,Bajaj Holdings & Investment Limited,HIGH,Fixed V2 double space
+Bangalore International Airport Ltd (BIAL),C2.1_Scope3_Remaining,Bangalore International Airport Ltd (BIAL),HIGH,Exact match
+Bharat Dynamics Limited,C2.1_Scope3_Remaining,Bharat Dynamics Limited,HIGH,Exact match
+Bharat Heavy Electricals Limited (BHEL),C2.1_Scope3_Remaining,Bharat Heavy Electricals Limited (BHEL),HIGH,Exact match
+Bikaji Foods International Limited,C2.1_Scope3_Remaining,Bikaji Foods International Limited,HIGH,Exact match
+CCL Products (India) Limited,C2.1_Scope3_Remaining,CCL Products (India) Limited,HIGH,Exact match
+COROMANDEL INTERNATIONAL LIMITED,C2.1_Scope3_Remaining,COROMANDEL INTERNATIONAL LIMITED,HIGH,Exact match
+Campus Activewear Limited,C2.1_Scope3_Remaining,Campus Activewear Limited,HIGH,Exact match
+Caplin Point Laboratories Limited,C2.1_Scope3_Remaining,Caplin Point Laboratories Limited,HIGH,Exact match
+Carborundum Universal Limited,C2.1_Scope3_Remaining,Carborundum Universal Limited,HIGH,Exact match
+Century Plyboards India Limited,C2.1_Scope3_Remaining,Century Plyboards India Limited,HIGH,Exact match
+Cochin International Airport (CIAL),C2.1_Scope3_Remaining,Cochin International Airport (CIAL),HIGH,Exact match
+Crompton Greaves Consumer Electricals Limited,C2.1_Scope3_Remaining,Crompton Greaves Consumer Electricals Limited,HIGH,Exact match
+DIVI'S LABORATORIES LIMITED,C2.1_Scope3_Remaining,DIVI'S LABORATORIES LIMITED,HIGH,Exact match (Caps)
+Essar Steel India (AM/NS India),C2.1_Scope3_Remaining,Essar Steel India (AM/NS India),HIGH,Exact match
+Five-Star Business Finance Limited,C2.1_Scope3_Remaining,Five-Star Business Finance Limited,HIGH,Exact match
+GLOBAL HEALTH LIMITED,C2.1_Scope3_Remaining,GLOBAL HEALTH LIMITED (Medanta),HIGH,Includes brand name
+GVK Mumbai Airport,C2.1_Scope3_Remaining,GVK Mumbai Airport,HIGH,Exact V2 match
+Adani Ports and Special Economic Zone Limited,C2.2_Missing_Env,Adani Ports and SEZ Limited,HIGH,Standard V2 expansion
+JSW Steel Limited,C3.2_Water_Quality,JSW Steel,HIGH,Core name match
+JK LAKSHMI CEMENT LIMITED,C3.2_Water_Quality,JK Lakshmi Cement,HIGH,Case correction to V2 CAPS
+SUMITOMO CHEMICAL INDIA LIMITED,C3.2_Water_Quality,Sumitomo Chemical,HIGH,Case correction to V2 CAPS
+Star Cement Limited,C3.2_Water_Quality,Star Cement,HIGH,Core name match
+DLF Limited,C3.2_Water_Quality,DLF,HIGH,Standard abbreviation
+FERTILIZERS AND CHEMICALS TRAVANCORE LIMITED,G2.3B_MSA_Proxy,Fertilizers and Chemicals Travancore (FACT),HIGH,Full name alignment
+Indian Oil Corporation Limited,G2.3B_MSA_Proxy,Indian Oil Corp (IOCL),HIGH,Core name match
+Indus Towers Limited,G2.3B_MSA_Proxy,Indus Towers Ltd,HIGH,Core name match
+Reliance Infrastructure Limited,G2.3B_MSA_Proxy,Reliance Infrastructure (Inland projects),HIGH,Project specific variant
+Bosch limited,G2.3B_MSA_Proxy,Bosch Limited,HIGH,"Case correction per V2 (""limited"")"
+ADANI POWER LIMITED,G2.3B_MSA_Proxy,Adani Power Limited,HIGH,Case correction to V2 CAPS
+Sun Pharmaceutical Industries Limited,G2.3B_MSA_Proxy,Sun Pharmaceutical Industries,HIGH,Core name match
+DCM Shriram Limited,C3.1_Renewable,DCM Shriram Limited,HIGH,Case correction to V2 Title Case
+G R Infraprojects Limited,C3.1_Renewable,G R Infraprojects Limited,HIGH,Case correction to V2 Title Case
+GAIL (India) Limited,C3.1_Renewable,GAIL India Limited,HIGH,Mapping to exact V2 with brackets
+Glenmark Pharmaceuticals Limited,C3.1_Renewable,Glenmark Pharmaceuticals,HIGH,Core name match
+Go Digit General Insurance Limited,C3.1_Renewable,Go Digit General Insurance,HIGH,Core name match
+Godrej Consumer Products Limited,C3.1_Renewable,Godrej Consumer Products,HIGH,Core name match
+GRANULES INDIA LIMITED,C3.1_Renewable,Granules India Limited,HIGH,Case correction to V2 CAPS
+GRAPHITE INDIA LIMITED,C3.1_Renewable,Graphite India Limited,HIGH,Case correction to V2 CAPS
+Grasim Industries Limited,C3.1_Renewable,Grasim Industries,HIGH,Core name match
+Gujarat Ambuja Exports Limited,C3.1_Renewable,Gujarat Ambuja Exports,HIGH,Core name match
+Gujarat Fluorochemicals Limited,C3.1_Renewable,Gujarat Fluorochemicals,HIGH,Core name match
+Gujarat Pipavav Port Limited,C3.1_Renewable,Gujarat Pipavav Port,HIGH,Core name match
+Honasa Consumer Limited,C3.1_Renewable,Honasa Consumer (Mamaearth),HIGH,Includes brand name
+HONEYWELL AUTOMATION INDIA LIMITED,C3.1_Renewable,Honeywell Automation,HIGH,Case correction to V2 CAPS
+Indus Towers Limited,C3.1_Renewable,Indus Towers Limited,HIGH,Case correction to V2 Title Case
+IndusInd Bank Limited,C3.1_Renewable,IndusInd Bank,HIGH,Case correction to V2 Title Case
+Inox Wind Limited,C3.1_Renewable,Inox Wind Limited,HIGH,Case correction to V2 Title Case
+INTELLECT DESIGN ARENA LIMITED,C3.1_Renewable,Intellect Design Arena,HIGH,Case correction to V2 CAPS
+InterGlobe Aviation Limited,C3.1_Renewable,InterGlobe Aviation,HIGH,Core name match
+Ion Exchange India Limited,C3.1_Renewable,Ion Exchange (India),HIGH,Fixed V2 (removed brackets)
+Ircon International Limited,C3.1_Renewable,Ircon International Limited,HIGH,Case correction to V2 Title Case
+JK Tyre  Industries Limited,C3.1_Renewable,JK Tyre & Industries,HIGH,Fixed V2 double space
+JSW Infrastructure Limited,C3.1_Renewable,JSW Infrastructure Limited,HIGH,Case correction to V2 Title Case
+Jio Financial Services Limited,G2.1_Land_BRSR,Jio Financial Services Limited,HIGH,Exact match
+Jubilant FoodWorks Limited,G2.1_Land_BRSR,Jubilant FoodWorks Limited,HIGH,Exact characters per V2
+Jupiter Life Line Hospitals Limited,G2.1_Land_BRSR,Jupiter Life Line Hospitals Limited,HIGH,Exact characters per V2
+Jupiter Wagons Limited,G2.1_Land_BRSR,Jupiter Wagons Limited,HIGH,Exact characters per V2
+JYOTHY LABS LIMITED,G2.1_Land_BRSR,Jyothy Labs Limited,HIGH,Case correction to V2 CAPS
+KFin Technologies Limited,G2.1_Land_BRSR,KFin Technologies Limited,HIGH,Exact match
+KNR Constructions Limited,G2.1_Land_BRSR,KNR Constructions Limited,HIGH,Exact characters per V2
+KPIT Technologies Limited,G2.1_Land_BRSR,KPIT Technologies Limited,HIGH,Exact match
+Kajaria Ceramics Limited,G2.1_Land_BRSR,Kajaria Ceramics Limited,HIGH,Exact characters per V2
+Kalpataru Projects International Limited,G2.1_Land_BRSR,Kalpataru Projects International Limited,HIGH,Exact match
+Kalyan Jewellers India Limited,G2.1_Land_BRSR,Kalyan Jewellers India Limited,HIGH,Exact characters per V2
+Kalyani Steels,G2.1_Land_BRSR,Kalyani Steels Limited,HIGH,Mapping to exact V2 shorthand
+Kaynes Technology India Limited,G2.1_Land_BRSR,Kaynes Technology India Limited,HIGH,Exact match
+Keystone Realtors Limited,G2.1_Land_BRSR,Keystone Realtors Limited,HIGH,Exact match
+Kirloskar Oil Engines Limited,G2.1_Land_BRSR,Kirloskar Oil Engines Limited,HIGH,Exact match
+Krishna Institute of Medical Sciences Limited,C3.1_Renewable,Krishna Institute of Medical Sciences (KIMS),HIGH,Exact match per V2
+Latent View Analytics Limited,G2.1_Land_BRSR,Latent View Analytics Limited,HIGH,Exact match
+Latent View Analytics Limited,C3.1_Renewable,LatentView Analytics,HIGH,Core name match
+Lemon Tree Hotels Limited,G2.1_Land_BRSR,Lemon Tree Hotels Limited,HIGH,Exact match
+Lloyds Metals and Energy Limited,C3.1_Renewable,Lloyds Metals and Energy,HIGH,Core name match
+Mahindra  Mahindra Limited,C3.1_Renewable,M&M (Mahindra & Mahindra),HIGH,Fixed V2 double space
+MAHARASHTRA SCOOTERS LIMITED,G2.1_Land_BRSR,MAHARASHTRA SCOOTERS LIMITED,HIGH,Exact V2 match
+MANKIND PHARMA LIMITED,G2.1_Land_BRSR,MANKIND PHARMA LIMITED,HIGH,Exact V2 match
+MAX HEALTHCARE INSTITUTE LIMITED,G2.1_Land_BRSR,MAX HEALTHCARE INSTITUTE LIMITED,HIGH,Exact V2 match
+MOIL Limited,G2.1_Land_BRSR,MOIL Limited,HIGH,Exact V2 case match
+MRF Limited,G2.1_Land_BRSR,MRF Limited,HIGH,Exact characters per V2
+MUTHOOT FINANCE LIMITED,G2.1_Land_BRSR,MUTHOOT FINANCE LIMITED,HIGH,Exact V2 match
+Maharashtra Seamless Limited,G2.1_Land_BRSR,Maharashtra Seamless Limited,HIGH,Exact characters per V2
+Mahindra  Mahindra Financial Services Limited,G2.1_Land_BRSR,Mahindra & Mahindra Financial Services Limited,HIGH,Fixed V2 double space
+Mahindra  Mahindra Financial Services Limited,C3.1_Renewable,Mahindra & Mahindra Financial,HIGH,Fixed V2 double space
+Mahindra Holidays  Resorts India Limited,G2.1_Land_BRSR,Mahindra Holidays & Resorts India Limited,HIGH,Fixed V2 double space
+Mahindra Lifespace Developers Limited,G2.1_Land_BRSR,Mahindra Lifespace Developers Limited,HIGH,Exact match
+Man Infraconstruction Limited,G2.1_Land_BRSR,Man Infraconstruction Limited,HIGH,Exact characters per V2
+Manappuram Finance Limited,G2.1_Land_BRSR,Manappuram Finance Limited,HIGH,Exact characters per V2
+Maruti Suzuki India Limited,C3.1_Renewable,Maruti Suzuki India,HIGH,Core name match
+Mazagon Dock Shipbuilders Limited,G2.1_Land_BRSR,Mazagon Dock Shipbuilders Limited,HIGH,Exact match
+MedPlus Health Services Limited,G2.1_Land_BRSR,MedPlus Health Services Limited,HIGH,Exact characters per V2
+Metropolis Healthcare Limited,G2.1_Land_BRSR,Metropolis Healthcare Limited,HIGH,Exact match
+Minda Corporation Limited,G2.1_Land_BRSR,Minda Corporation Limited,HIGH,Exact match
+Mishra Dhatu Nigam Limited,G2.1_Land_BRSR,Mishra Dhatu Nigam Limited (MIDHANI),HIGH,Includes brand name
+Mishra Dhatu Nigam Limited,C3.1_Renewable,Mishra Dhatu Nigam Ltd,HIGH,Standard abbreviation
+Motherson Sumi Wiring India Limited,G2.1_Land_BRSR,Motherson Sumi Wiring India Limited,HIGH,Exact characters per V2
+Motilal Oswal Financial Services Limited,G2.1_Land_BRSR,Motilal Oswal Financial Services Limited,HIGH,Exact match
+Mrs. Bectors Food Specialities,G2.1_Land_BRSR,Mrs. Bectors Food Specialities,HIGH,Exact characters per V2
+MUTHOOT FINANCE LIMITED,C3.1_Renewable,Muthoot Finance,HIGH,Case correction to V2 CAPS
+NAVA LIMITED,G2.1_Land_BRSR,NAVA LIMITED,HIGH,Exact V2 CAPS match
+NBCC India Limited,G2.1_Land_BRSR,NBCC (India) Limited,HIGH,Mapping to exact V2 (no brackets)
+NCC LIMITED,G2.1_Land_BRSR,NCC Limited,HIGH,Case correction to V2 CAPS
+NETWEB TECHNOLOGIES INDIA LIMITED,G2.1_Land_BRSR,NETWEB TECHNOLOGIES INDIA LIMITED,HIGH,Exact case alignment with V2 CAPS
+NMDC Steel Limited,G2.1_Land_BRSR,NMDC Steel Limited,HIGH,Exact match
+NUVAMA WEALTH MANAGEMENT LIMITED,G2.1_Land_BRSR,NUVAMA WEALTH MANAGEMENT LIMITED,HIGH,Exact characters per V2
+Narayana Hrudayalaya Ltd,G2.1_Land_BRSR,Narayana Hrudayalaya Ltd,HIGH,Exact match per V2
+Narayana Hrudayalaya Ltd.,G2.1_Land_BRSR,Narayana Hrudayalaya Ltd.,HIGH,Exact match per V2
+Navin Fluorine International Limited,G2.1_Land_BRSR,Navin Fluorine International Limited,HIGH,Exact match
+Neuland Laboratories Limited,G2.1_Land_BRSR,Neuland Laboratories Limited,HIGH,Exact match
+Newgen Software Technologies Limited,G2.1_Land_BRSR,Newgen Software Tech,HIGH,Core name match
+Newgen Software Technologies Limited,G2.1_Land_BRSR,Newgen Software Technologies Limited,HIGH,Exact match
+Nippon Life India Asset Management Limited,G2.1_Land_BRSR,Nippon Life India Asset Management Limited,HIGH,Exact match
+Nuvoco Vistas Corporation Limited,G2.1_Land_BRSR,Nuvoco Vistas Corporation,HIGH,Suffix missing
+Nuvoco Vistas Corporation Limited,G2.1_Land_BRSR,Nuvoco Vistas Corporation Limited,HIGH,Exact match
+Olectra Greentech Limited,G2.1_Land_BRSR,Olectra Greentech Limited,HIGH,Exact match
+One 97 Communications Limited,G2.1_Land_BRSR,One 97 (Paytm),HIGH,Mapping to exact V2 name
+One 97 Communications Limited,G2.1_Land_BRSR,One 97 Communications Limited,HIGH,Exact match
+Oracle Financial Services Software Limited,G2.1_Land_BRSR,Oracle Financial Services,HIGH,Core name match
+Oracle Financial Services Software Limited,G2.1_Land_BRSR,Oracle Financial Services Software Limited,HIGH,Exact match
+Procter  Gamble Health Limited,G2.1_Land_BRSR,P&G Hygiene,HIGH,Mapping to V2 double space entry
+PATANJALI FOODS LIMITED,G2.1_Land_BRSR,Patanjali Foods Limited,HIGH,Case correction to V2 CAPS
+PI INDUSTRIES LIMITED,G2.1_Land_BRSR,PI Industries Limited,HIGH,Case correction to V2 CAPS
+Rashtriya Ispat Nigam Limited (RINL) - Vizag Steel,G2.1_Land_BRSR,Rashtriya Ispat Nigam Limited (RINL) - Vizag Steel,HIGH,Exact match
+SAPPHIRE FOODS INDIA LIMITED,G2.1_Land_BRSR,SAPPHIRE FOODS INDIA,HIGH,Exact match sans suffix
+SARDA ENERGY  MINERALS LIMITED,G2.1_Land_BRSR,SARDA ENERGY & MINERALS LIMITED,HIGH,Fixed V2 double space/CAPS
+SARDA ENERGY  MINERALS LIMITED,G2.1_Land_BRSR,SARDA ENERGY & MINERALS,HIGH,Fixed V2 double space/CAPS
+SUMITOMO CHEMICAL INDIA LIMITED,G2.1_Land_BRSR,SUMITOMO CHEMICAL INDIA,HIGH,Core name match
+SAPPHIRE FOODS INDIA LIMITED,G2.1_Land_BRSR,Sapphire Foods,HIGH,Core name match
+SAREGAMA India Limited,G2.1_Land_BRSR,Saregama India Ltd,HIGH,Standard abbreviation
+Tata Consultancy Services Limited,G2.1_Land_BRSR,TATA CONSULTANCY SERVICES LIMITED,HIGH,Case correction to V2 Title Case
+Tata Consumer Products Limited,G2.1_Land_BRSR,TATA CONSUMER PRODUCTS LIMITED,HIGH,Case correction to V2 Title Case
+Tata Elxsi Limited,G2.1_Land_BRSR,TATA ELXSI LIMITED,HIGH,Case correction to V2 Title Case
+Tata Investment Corporation Limited,G2.1_Land_BRSR,TATA INVESTMENT CORPORATION LIMITED,HIGH,Case correction to V2 Title Case
+Tata Motors Limited,G2.1_Land_BRSR,TATA MOTORS LIMITED,HIGH,Case correction to V2 Title Case
+Tata Power,G2.1_Land_BRSR,TATA POWER COMPANY LIMITED,HIGH,Mapping to exact short V2 name
+Tata Steel Limited,G2.1_Land_BRSR,TATA STEEL LIMITED,HIGH,Case correction to V2 Title Case
+Tata Technologies Limited,G2.1_Land_BRSR,TATA TECHNOLOGIES LIMITED,HIGH,Case correction to V2 Title Case
+Tata Teleservices Maharashtra Limited,G2.1_Land_BRSR,TATA TELESERVICES MAHARASHTRA LIMITED,HIGH,Case correction to V2 Title Case
+Tech Mahindra Limited,G2.1_Land_BRSR,TECH MAHINDRA LIMITED,HIGH,Case correction to V2 Title Case
+Techno Electric  Engineering Company Limited,G2.1_Land_BRSR,TECHNO ELECTRIC & ENGINEERING COMPANY LIMITED,HIGH,Fixed V2 CAPS and double-space
+Tejas Networks Limited,G2.1_Land_BRSR,TEJAS NETWORKS LIMITED,HIGH,Case correction to V2 Title Case
+UTI Asset Management Company Limited,G2.1_Land_BRSR,UTI Asset Management Company Limited,HIGH,Exact characters per V2
+Ujjivan Small Finance Bank Limited,G2.1_Land_BRSR,Ujjivan Small Finance Bank Limited,HIGH,Exact match per V2
+V-GUARD INDUSTRIES LIMITED,G2.1_Land_BRSR,V-Guard Industries Limited,HIGH,Case correction to V2 CAPS
+VALOR ESTATE LIMITED,G2.1_Land_BRSR,VALOR ESTATE LIMITED,HIGH,Exact match per V2
+VIP INDUSTRIES LIMITED,G2.1_Land_BRSR,VIP INDUSTRIES LIMITED,HIGH,Exact match per V2
+Varroc Engineering Limited,G2.1_Land_BRSR,Varroc Engineering Limited,HIGH,Exact match per V2
+Varun Beverages (PepsiCo franchise),G2.1_Land_BRSR,Varun Beverages (PepsiCo franchise),HIGH,Exact match per V2
+Vodafone Idea Limited,G2.1_Land_BRSR,Vodafone Idea Limited,HIGH,Exact match per V2
+Voltamp Transformers Limited,G2.1_Land_BRSR,Voltamp Transformers Limited,HIGH,Exact match per V2
+Welspun Living Limited (formerly Welspun India),G2.1_Land_BRSR,Welspun Living Limited (formerly Welspun India),HIGH,Exact match per V2
+West Coast Paper Mills Limited,G2.1_Land_BRSR,West Coast Paper Mills Limited,HIGH,Exact match per V2
+YES Bank Limited,G2.1_Land_BRSR,Yes Bank Limited,HIGH,Case correction to V2 (Mixed)
+ZF Commercial Vehicle Control Systems India Limited,G2.1_Land_BRSR,ZF Commercial Vehicle Control Systems India Limited,HIGH,Exact match per V2
+Zee Entertainment Enterprises Limited,G2.1_Land_BRSR,Zee Entertainment Enterprises,HIGH,Core name match
+Zee Entertainment Enterprises Limited,G2.1_Land_BRSR,Zee Entertainment Enterprises Limited,HIGH,Exact match per V2
+ZENSAR TECHNOLOGIES LIMITED,G2.1_Land_BRSR,Zensar Technologies,HIGH,Case correction to V2 CAPS
+Zydus Lifesciences Limited,G2.1_Land_BRSR,Zydus Lifesciences Limited,HIGH,Exact characters per V2
+Zydus Wellness Limited,G2.1_Land_BRSR,Zydus Wellness Limited,HIGH,Exact match
+Aditya Birla Sun Life AMC Limited,C3.2_Water_Quality,AB Sun Life AMC,HIGH,Mapping to exact V2 name
+Aditya Birla Fashion and Retail Limited,C3.2_Water_Quality,ABFRL,HIGH,Standard abbreviation
+Adani Energy Solutions Limited,C3.2_Water_Quality,AESL,HIGH,Standard abbreviation
+Essar Steel India (AM/NS India),C3.2_Water_Quality,AM/NS India,HIGH,Exact match per V2
+Asahi India Glass Limited,C3.2_Water_Quality,AIS,HIGH,Corporate abbreviation
+Adani Total Gas Limited,C3.2_Water_Quality,ATGL,HIGH,Standard abbreviation
+Balkrishna Industries Limited,C3.2_Water_Quality,BKT,HIGH,Global brand mapping
+Balrampur Chini Mills Limited,C3.2_Water_Quality,BCML,HIGH,Standard abbreviation
+Bharat Dynamics Limited,C3.2_Water_Quality,BDL,HIGH,PSU abbreviation
+Crompton Greaves Consumer Electricals Limited,C3.2_Water_Quality,CGCEL,HIGH,Standard abbreviation
+CHENNAI PETROLEUM CORPORATION LIMITED,C3.2_Water_Quality,CPCL,HIGH,PSU abbreviation
+"GMR Airports (Delhi, Hyderabad)",C3.2_Water_Quality,DIAL,HIGH,Subsidiary to V2 Parent
+"GMR Airports (Delhi, Hyderabad)",C3.2_Water_Quality,GHIAL,HIGH,Subsidiary to V2 Parent
+"Adani Airports (Mumbai, Ahmedabad, 6 others)",C3.2_Water_Quality,MIAL,HIGH,Subsidiary to V2 Parent
+Hindustan Petroleum Corporation Limited,C3.2_Water_Quality,HPCL,HIGH,PSU abbreviation
+Indian Oil Corporation Limited,C3.2_Water_Quality,IOCL,HIGH,PSU abbreviation
+Jio Financial Services Limited,C3.2_Water_Quality,JFS,HIGH,Standard abbreviation
+Keystone Realtors Limited,C3.2_Water_Quality,Rustomjee,HIGH,Brand mapping to legal name
+Mahindra Holidays  Resorts India Limited,C3.2_Water_Quality,MHRIL,HIGH,Fixed V2 double space
+Maharashtra Seamless Limited,C3.2_Water_Quality,MSL,HIGH,Standard abbreviation
+Navin Fluorine International Limited,C3.2_Water_Quality,NFIL,HIGH,Standard abbreviation
+Piramal Enterprises Limited,C3.2_Water_Quality,PEL,HIGH,Standard abbreviation
+Piramal Pharma Limited,C3.2_Water_Quality,PPL,HIGH,Standard abbreviation
+RELIANCE POWER LIMITED,C3.2_Water_Quality,R-Power,HIGH,Case correction to CAPS
+RELIANCE POWER LIMITED,C3.2_Water_Quality,Sasan Power,MEDIUM,Project name (NOT IN V2 - NEEDS VERIFICATION)
+RELIANCE POWER LIMITED,C3.2_Water_Quality,Rosa Power,MEDIUM,Project name (NOT IN V2 - NEEDS VERIFICATION)
+Ramkrishna Forgings Limited,C3.2_Water_Quality,RK Forgings,HIGH,Common shorthand
+R R Kabel Limited,C3.2_Water_Quality,RR Kabel,HIGH,Exact characters per V2
+Seshasayee Paper and Boards Limited,C3.2_Water_Quality,SPB,HIGH,Standard abbreviation
+SUPREME PETROCHEM LIMITED,C3.2_Water_Quality,SPL,HIGH,Case correction to CAPS
+Tamilnad Mercantile Bank Limited,C3.2_Water_Quality,TMB,HIGH,Standard abbreviation
+TVS Supply Chain Solutions Limited,C3.2_Water_Quality,TVS SCS,HIGH,Standard abbreviation
+Zee Entertainment Enterprises Limited,C3.2_Water_Quality,ZEEL,HIGH,Standard abbreviation
+Honasa Consumer Limited,C3.2_Water_Quality,Mamaearth,HIGH,Brand mapping to legal name
+CE INFO SYSTEMS LIMITED,C3.2_Water_Quality,MapmyIndia,HIGH,Brand mapping to legal name
+Page Industries Limited,C3.2_Water_Quality,Jockey,HIGH,Brand mapping to legal name
+Vedant Fashions Limited,C3.2_Water_Quality,Manyavar,HIGH,Brand mapping to legal name
+TATA CHEMICALS LIMITED,C3.2_Water_Quality,Mithapur,HIGH,Site mapping to legal name
+Godrej Industries Limited,C3.2_Water_Quality,Valia plant,HIGH,Site mapping to legal name
+Tata Steel Limited,C3.2_Water_Quality,TSL,HIGH,Standard abbreviation
+Adani Ports and Special Economic Zone Limited,C3.2_Water_Quality,APSEZ,HIGH,Standard abbreviation
+Reliance Industries Limited,C3.2_Water_Quality,RIL,HIGH,Standard abbreviation
+Prism Johnson (Cement),V2_Database,Prism Johnson (Cement),HIGH,Self-mapping for V2 company
+LT Technology Services Limited,V2_Database,LT Technology Services Limited,HIGH,Self-mapping for V2 company
+JSW Energy,V2_Database,JSW Energy,HIGH,Self-mapping for V2 company
+KIOCL (Kudremukh Iron Ore Company),V2_Database,KIOCL (Kudremukh Iron Ore Company),HIGH,Self-mapping for V2 company
+DIVIS LABORATORIES LIMITED,V2_Database,DIVIS LABORATORIES LIMITED,HIGH,Self-mapping for V2 company
+Vedanta,V2_Database,Vedanta,HIGH,Self-mapping for V2 company
+Punjab & Sind Bank,V2_Database,Punjab & Sind Bank,HIGH,Self-mapping for V2 company

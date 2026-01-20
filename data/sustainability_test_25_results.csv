@@ -1,0 +1,26 @@
+Company_Name,NSE_Symbol,Sector,Website_Found,Website,Sustainability_Success,Sustainability_Status,Sustainability_Size_KB,Integrated_Success,Integrated_Status,Integrated_Size_KB,Reports_Found,Status
+Reliance Industries Limited,RELIANCE,Oil Gas & Consumable Fuels,True,https://www.reliance.com,False,Not found,0.0,False,Not found,0.0,0.0,
+Tata Consultancy Services Limited,TCS,Information Technology,True,https://www.tata.com,False,Not found,0.0,False,Not found,0.0,0.0,
+HDFC Bank Limited,HDFCBANK,Financial Services,True,https://www.hdfc.com,False,Not found,0.0,False,Not found,0.0,0.0,
+ICICI Bank Limited,ICICIBANK,Financial Services,True,https://www.icicibank.com,False,Not found,0.0,False,Not found,0.0,0.0,
+Bharti Airtel Limited,BHARTIARTL,Telecommunication,True,https://www.bharti.com,False,Not found,0.0,False,Not found,0.0,0.0,
+STATE BANK OF INDIA,SBIN,Financial Services,True,https://www.state.com,False,Not found,0.0,False,Not found,0.0,0.0,
+Infosys Limited,INFY,Information Technology,False,,False,,,False,,,,No website found
+Life Insurance Corporation of India,LICI,Financial Services,True,https://www.life.com,False,Not found,0.0,False,Not found,0.0,0.0,
+Hindustan Unilever Limited,HINDUNILVR,Fast Moving Consumer Goods,True,https://www.hindustan.co.in,False,Not found,0.0,False,Not found,0.0,0.0,
+ITC Limited,ITC,Fast Moving Consumer Goods,True,https://www.itc.co.in,False,Not found,0.0,False,Not found,0.0,0.0,
+Larsen & Toubro Limited,LT,Construction,False,,False,,,False,,,,No website found
+Bajaj Finance Limited,BAJFINANCE,Financial Services,True,https://www.bajaj.com,False,Not found,0.0,False,Not found,0.0,0.0,
+HCL Technologies Limited,HCLTECH,Information Technology,True,https://www.hcl.com,False,Not found,0.0,False,Not found,0.0,0.0,
+Maruti Suzuki India Limited,MARUTI,Automobile and Auto Components,True,https://www.maruti.com,False,Not found,0.0,False,Not found,0.0,0.0,
+Sun Pharmaceutical Industries Limited,SUNPHARMA,Healthcare,True,https://www.sun.com,False,Not found,0.0,False,Not found,0.0,0.0,
+Adani Enterprises Limited,ADANIENT,Metals & Mining,False,,False,,,False,,,,No website found
+KOTAK MAHINDRA BANK LIMITED,KOTAKBANK,Financial Services,True,https://www.kotak.com,False,Not found,0.0,False,Not found,0.0,0.0,
+Tata Motors Limited,,,False,,False,,,False,,,,No website found
+Axis Bank Limited,AXISBANK,Financial Services,True,https://www.axis.com,True,Success,14871.4306640625,False,Not found,0.0,1.0,
+NTPC LIMITED,NTPC,Power,True,https://www.ntpc.com,False,Not found,0.0,False,Not found,0.0,0.0,
+Titan Company Limited,TITAN,Consumer Durables,True,https://www.titan.com,False,Not found,0.0,False,Not found,0.0,0.0,
+UltraTech Cement Limited,ULTRACEMCO,Construction Materials,False,,False,,,False,,,,No website found
+Adani Ports and Special Economic Zone Limited,ADANIPORTS,Services,True,https://www.adaniports.com,False,Not found,0.0,False,Not found,0.0,0.0,
+Asian Paints Limited,ASIANPAINT,Consumer Durables,True,https://www.asian.com,False,Not found,0.0,False,Not found,0.0,0.0,
+Avenue Supermarts Limited,DMART,Consumer Services,True,https://www.avenue.com,False,Not found,0.0,False,Not found,0.0,0.0,

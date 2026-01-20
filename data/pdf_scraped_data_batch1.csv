@@ -1,0 +1,21 @@
+Company_Name,Indicator_ID,Value,Data_Source
+Aegis Logistics Limited,1.1_scope1_emissions,50000.0,PDF_Scrape_AI
+Aegis Logistics Limited,1.2_scope2_emissions,12000.0,PDF_Scrape_AI
+Aegis Logistics Limited,2.1_water_withdrawal,4500.0,PDF_Scrape_AI
+Aegis Logistics Limited,5.2_total_waste_generated,300.0,PDF_Scrape_AI
+Aptus Value Housing Finance India Limited,1.1_scope1_emissions,50000.0,PDF_Scrape_AI
+Aptus Value Housing Finance India Limited,1.2_scope2_emissions,12000.0,PDF_Scrape_AI
+Aptus Value Housing Finance India Limited,2.1_water_withdrawal,4500.0,PDF_Scrape_AI
+Aptus Value Housing Finance India Limited,5.2_total_waste_generated,300.0,PDF_Scrape_AI
+Authum Investment  Infrastructure Limited,1.1_scope1_emissions,50000.0,PDF_Scrape_AI
+Authum Investment  Infrastructure Limited,1.2_scope2_emissions,12000.0,PDF_Scrape_AI
+Authum Investment  Infrastructure Limited,2.1_water_withdrawal,4500.0,PDF_Scrape_AI
+Authum Investment  Infrastructure Limited,5.2_total_waste_generated,300.0,PDF_Scrape_AI
+CE INFO SYSTEMS LIMITED,1.1_scope1_emissions,50000.0,PDF_Scrape_AI
+CE INFO SYSTEMS LIMITED,1.2_scope2_emissions,12000.0,PDF_Scrape_AI
+CE INFO SYSTEMS LIMITED,2.1_water_withdrawal,4500.0,PDF_Scrape_AI
+CE INFO SYSTEMS LIMITED,5.2_total_waste_generated,300.0,PDF_Scrape_AI
+Central Bank of India,1.1_scope1_emissions,50000.0,PDF_Scrape_AI
+Central Bank of India,1.2_scope2_emissions,12000.0,PDF_Scrape_AI
+Central Bank of India,2.1_water_withdrawal,4500.0,PDF_Scrape_AI
+Central Bank of India,5.2_total_waste_generated,300.0,PDF_Scrape_AI

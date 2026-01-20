@@ -7,6 +7,8 @@
   "nii_score": 2.7,
   "nii_rank": 381,
   "nii_sector_rank": 2,
+  "nii_sector_total": 19,
+  "nii_total_companies": 525,
   "nii_rating": "Poor",
   "nii_percentile": 27,
   "taesc_cr": 3102.33,
@@ -15,27 +17,58 @@
   "breakdown": {
     "climate": {
       "value_cr": 0.01,
-      "pct": 0.0
+      "pct": 0.0,
+      "sub_components": {
+        "scope1_cost_cr": 0.01,
+        "scope2_cost_cr": 0.0,
+        "scope2_net_cr": 0.0,
+        "scope3_cost_cr": 0.0,
+        "re_credit_cr": 2120.95
+      }
     },
     "water": {
       "value_cr": 210.54,
-      "pct": 6.8
+      "pct": 6.8,
+      "sub_components": {
+        "consumption_cost_cr": 227.36,
+        "recycling_credit_cr": 16.82
+      }
     },
     "land": {
       "value_cr": 631.57,
-      "pct": 20.4
+      "pct": 20.4,
+      "sub_components": {
+        "footprint_cost_cr": 383.6,
+        "degradation_cost_cr": 259.37,
+        "restoration_credit_cr": 11.4
+      }
     },
     "biodiversity": {
       "value_cr": 1065.7,
-      "pct": 34.4
+      "pct": 34.4,
+      "sub_components": {
+        "direct_msa_cost_cr": 1030.48,
+        "scope3_bio_cost_cr": 35.23
+      }
     },
     "pollution": {
       "value_cr": 154.83,
-      "pct": 5.0
+      "pct": 5.0,
+      "sub_components": {
+        "waste_cost_cr": 48.52,
+        "overburden_cost_cr": 0.0,
+        "plastic_cost_cr": 116.64,
+        "ewaste_cost_cr": 0.13,
+        "hap_cost_cr": 13.68,
+        "recycling_credit_cr": 24.14
+      }
     },
     "energy_depletion": {
       "value_cr": 1039.68,
-      "pct": 33.5
+      "pct": 33.5,
+      "sub_components": {
+        "non_renewable_cost_cr": 1039.68
+      }
     }
   },
   "raw_data": {
@@ -57,6 +90,12 @@
     "sector_best_score": 5.1,
     "sector_median_taesc": 4419.77,
     "sector_best_taesc": 197.59
+  },
+  "restoration_estimate": {
+    "acres_needed": 172351,
+    "hectares_equiv": 69749,
+    "theta_per_acre_lakh": 1.8,
+    "methodology": "Based on incremental ecosystem service value of Rs 1.8 lakh per acre per year from restoration"
   },
   "data_quality": {
     "tier": "Tier 2",

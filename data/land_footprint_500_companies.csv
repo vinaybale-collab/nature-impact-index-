@@ -1,0 +1,501 @@
+Company_Name,NSE_Symbol,Sector,Land_Footprint_Hectares,Data_Source,Data_Tier,Confidence,Status
+Reliance Industries Limited,RELIANCE,Oil Gas & Consumable Fuels,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Tata Consultancy Services Limited,TCS,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+HDFC Bank Limited,HDFCBANK,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+ICICI Bank Limited,ICICIBANK,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Bharti Airtel Limited,BHARTIARTL,Telecommunication,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+STATE BANK OF INDIA,SBIN,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Infosys Limited,INFY,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+Life Insurance Corporation of India,LICI,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Hindustan Unilever Limited,HINDUNILVR,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+ITC Limited,ITC,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+Larsen & Toubro Limited,LT,Construction,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Bajaj Finance Limited,BAJFINANCE,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+HCL Technologies Limited,HCLTECH,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+Maruti Suzuki India Limited,MARUTI,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Sun Pharmaceutical Industries Limited,SUNPHARMA,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Adani Enterprises Limited,ADANIENT,Metals & Mining,500.0,Estimated (sector avg),Tier 3,40,Tier 3
+KOTAK MAHINDRA BANK LIMITED,KOTAKBANK,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Tata Motors Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Axis Bank Limited,AXISBANK,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+NTPC LIMITED,NTPC,Power,100.0,Estimated (sector avg),Tier 3,40,Tier 3
+Titan Company Limited,TITAN,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+UltraTech Cement Limited,ULTRACEMCO,Construction Materials,50.0,Estimated (sector avg),Tier 3,40,Tier 3
+Adani Ports and Special Economic Zone Limited,ADANIPORTS,Services,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+Asian Paints Limited,ASIANPAINT,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Avenue Supermarts Limited,DMART,Consumer Services,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+COAL INDIA LIMITED,COALINDIA,Oil Gas & Consumable Fuels,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Power Grid Corporation of India Limited,POWERGRID,Power,100.0,Estimated (sector avg),Tier 3,40,Tier 3
+Mahindra & Mahindra Limited,M&M,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Bajaj Finserv Limited,BAJAJFINSV,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Wipro Limited,WIPRO,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+HINDUSTAN AERONAUTICS LIMITED,HAL,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Nestle India Limited,NESTLEIND,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+Bajaj Auto Limited,BAJAJ-AUTO,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+ADANI POWER LIMITED,ADANIPOWER,Power,100.0,Estimated (sector avg),Tier 3,40,Tier 3
+Indian Oil Corporation Limited,IOC,Oil Gas & Consumable Fuels,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+DLF Limited,DLF,Realty,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+JSW Steel Limited,JSWSTEEL,Metals & Mining,500.0,Estimated (sector avg),Tier 3,40,Tier 3
+Jio Financial Services Limited,JIOFIN,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+INDIAN RAILWAY FINANCE CORPORATION LIMITED,IRFC,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Siemens Limited,SIEMENS,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Tata Steel Limited,TATASTEEL,Metals & Mining,500.0,Estimated (sector avg),Tier 3,40,Tier 3
+Varun Beverages Limited,VBL,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+Hindustan Zinc Limited,HINDZINC,Metals & Mining,500.0,Estimated (sector avg),Tier 3,40,Tier 3
+BHARAT ELECTRONICS LIMITED,BEL,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Grasim Industries Limited,GRASIM,Construction Materials,50.0,Estimated (sector avg),Tier 3,40,Tier 3
+LTIMindtree Limited,LTIM,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+Pidilite Industries Limited,PIDILITIND,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+SBI Life Insurance Company Limited,SBILIFE,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Power Finance Corporation Limited,PFC,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+InterGlobe Aviation Limited,INDIGO,Services,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+Bank of Baroda,BANKBARODA,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+HINDALCO INDUSTRIES LIMITED,HINDALCO,Metals & Mining,500.0,Estimated (sector avg),Tier 3,40,Tier 3
+PUNJAB NATIONAL BANK,PNB,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+ABB India Limited,ABB,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+HDFC Life Insurance Company Limited,HDFCLIFE,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Godrej Consumer Products Limited,GODREJCP,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+Vedanta Limited,VEDL,Metals & Mining,500.0,Estimated (sector avg),Tier 3,40,Tier 3
+Tech Mahindra Limited,TECHM,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+REC Limited,RECLTD,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Ambuja Cements Limited,AMBUJACEM,Construction Materials,50.0,Estimated (sector avg),Tier 3,40,Tier 3
+GAIL (India) Limited,GAIL,Oil Gas & Consumable Fuels,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Britannia Industries Limited,BRITANNIA,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+MACROTECH DEVELOPERS LIMITED,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Adani Energy Solutions Limited,ADANIENSOL,Power,100.0,Estimated (sector avg),Tier 3,40,Tier 3
+IndusInd Bank Limited,INDUSINDBK,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+INDIAN OVERSEAS BANK,IOB,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Cipla Limited,CIPLA,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+EICHER MOTORS LIMITED,EICHERMOT,Automobile and Auto Components,2.0,NSE Profile,Tier 2,70,Success
+UNION BANK OF INDIA,UNIONBANK,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Tata Consumer Products Limited,TATACONSUM,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+Adani Total Gas Limited,ATGL,Oil Gas & Consumable Fuels,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+DIVI'S LABORATORIES LIMITED,DIVISLAB,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Cholamandalam Investment and Finance Company Limited,CHOLAFIN,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Canara Bank,CANBK,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+TVS Motor Company Limited,TVSMOTOR,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Dr. Reddy's Laboratories Limited,DRREDDY,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Havells India Limited,HAVELLS,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Dabur India Limited,DABUR,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+HERO MOTOCORP LIMITED,HEROMOTOCO,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+JSW Energy Limited,JSWENERGY,Power,100.0,Estimated (sector avg),Tier 3,40,Tier 3
+Zydus Lifesciences Limited,ZYDUSLIFE,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Bajaj Holdings & Investment Limited,BAJAJHLDNG,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+NHPC Limited,NHPC,Power,100.0,Estimated (sector avg),Tier 3,40,Tier 3
+Shriram Finance Limited,SHRIRAMFIN,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+IDBI Bank Limited,IDBI,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+JINDAL STEEL & POWER LIMITED,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Torrent Pharmaceuticals Limited,TORNTPHARM,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+BHARAT HEAVY ELECTRICALS LIMITED,BHEL,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+MANKIND PHARMA LIMITED,MANKIND,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED,MOTHERSON,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+United Spirits Limited,UNITDSPR,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+Bosch limited,BOSCHLTD,Automobile and Auto Components,0.11,Website: /company/,Tier 1,90,Success
+Cummins India Limited,CUMMINSIND,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Polycab India Limited,POLYCAB,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+CG Power and Industrial Solutions Limited,CGPOWER,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Vodafone Idea Limited,IDEA,Telecommunication,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+ICICI Prudential Life Insurance Company Limited,ICICIPRULI,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+ICICI Lombard General Insurance Company Limited,ICICIGI,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+HDFC Asset Management Company Limited,HDFCAMC,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+MAX HEALTHCARE INSTITUTE LIMITED,MAXHEALTH,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Indus Towers Limited,INDUSTOWER,Telecommunication,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+Solar Industries India Limited,SOLARINDS,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+Tube Investments of India Limited,TIINDIA,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Lupin Limited,LUPIN,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+YES Bank Limited,YESBANK,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+SRF LIMITED,SRF,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+Marico Limited,MARICO,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+Hindustan Petroleum Corporation Limited,HINDPETRO,Oil Gas & Consumable Fuels,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Godrej Properties Limited,GODREJPROP,Realty,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+NMDC Limited,NMDC,Metals & Mining,500.0,Estimated (sector avg),Tier 3,40,Tier 3
+Indian Bank,INDIANB,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+SBI Cards and Payment Services Limited,SBICARD,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Oracle Financial Services Software Limited,OFSS,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+AUROBINDO PHARMA LIMITED,AUROPHARMA,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+UCO BANK,UCOBANK,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+General Insurance Corporation of India,GICRE,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Torrent Power Limited,TORNTPOWER,Power,100.0,Estimated (sector avg),Tier 3,40,Tier 3
+MUTHOOT FINANCE LIMITED,MUTHOOTFIN,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Oil India Limited,OIL,Oil Gas & Consumable Fuels,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Bharat Forge Limited,BHARATFORG,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+BANK OF INDIA,BANKINDIA,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Alkem Laboratories Limited,ALKEM,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Persistent Systems Limited,PERSISTENT,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+Rail Vikas Nigam Limited,RVNL,Construction,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+SUZLON ENERGY LIMITED,SUZLON,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Linde India Limited,LINDEINDIA,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+Container Corporation of India Limited,CONCOR,Services,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+Supreme Industries Limited,SUPREMEIND,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Steel Authority of India Limited,SAIL,Metals & Mining,500.0,Estimated (sector avg),Tier 3,40,Tier 3
+IDFC FIRST Bank Limited,IDFCFIRSTB,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+MRF Limited,MRF,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Jindal Stainless Limited,JSL,Metals & Mining,500.0,Estimated (sector avg),Tier 3,40,Tier 3
+Ashok Leyland Limited,ASHOKLEY,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Oberoi Realty Limited,OBEROIRLTY,Realty,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Prestige Estates Projects Limited,PRESTIGE,Realty,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+PI INDUSTRIES LIMITED,PIIND,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+Schaeffler India Limited,SCHAEFFLER,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Astral Limited,ASTRAL,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+L&T Technology Services Limited,LTTS,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+PATANJALI FOODS LIMITED,PATANJALI,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+Central Bank of India,CENTRALBK,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+JSW Infrastructure Limited,JSWINFRA,Services,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+TATA COMMUNICATIONS LIMITED,TATACOMM,Telecommunication,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+Aditya Birla Capital Limited,ABCAPITAL,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+THE PHOENIX MILLS LIMITED,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+PB FINTECH LIMITED,POLICYBZR,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Mazagon Dock Shipbuilders Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Balkrishna Industries Limited,BALKRISIND,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Bharti Hexacom Limited,BHARTIHEXA,Telecommunication,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+Thermax Limited,THERMAX,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+UNITED BREWERIES LIMITED,UBL,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+SJVN Limited,SJVN,Power,100.0,Estimated (sector avg),Tier 3,40,Tier 3
+FERTILIZERS AND CHEMICALS TRAVANCORE LIMITED,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Tata Elxsi Limited,TATAELXSI,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+ACC Limited,ACC,Construction Materials,50.0,Estimated (sector avg),Tier 3,40,Tier 3
+Dixon Technologies (India) Limited,DIXON,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Mphasis Limited,MPHASIS,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+SUNDARAM FINANCE LIMITED,SUNDARMFIN,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+AU Small Finance Bank Limited,AUBANK,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Tata Technologies Limited,TATATECH,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+Indian Renewable Energy Development Agency Limited,IREDA,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+BANK OF MAHARASHTRA,MAHABANK,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Uno Minda Limited,UNOMINDA,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+APL Apollo Tubes Limited,APLAPOLLO,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Petronet LNG Limited,PETRONET,Oil Gas & Consumable Fuels,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+KPIT Technologies Limited,KPITTECH,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+L&T Finance Limited,LTF,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Kalyan Jewellers India Limited,KALYANKJIL,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Page Industries Limited,PAGEIND,Textiles,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Voltas Limited,VOLTAS,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Punjab & Sind Bank,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+THE NEW INDIA ASSURANCE COMPANY LIMITED,NIACL,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+UPL LIMITED,UPL,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+GUJARAT GAS LIMITED,GUJGASLTD,Oil Gas & Consumable Fuels,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+HONEYWELL AUTOMATION INDIA LIMITED,HONAUT,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Bharat Dynamics Limited,BDL,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+IRB Infrastructure Developers Limited,IRB,Construction,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Sona BLW Precision Forgings Limited,SONACOMS,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Gujarat Fluorochemicals Limited,FLUOROCHEM,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+GlaxoSmithKline Pharmaceuticals Limited,GLAXO,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Dalmia Bharat Limited,DALBHARAT,Construction Materials,50.0,Estimated (sector avg),Tier 3,40,Tier 3
+3M INDIA LIMITED,3MINDIA,Diversified,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+AIA ENGINEERING LIMITED,AIAENG,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Poonawalla Fincorp Limited,POONAWALLA,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Escorts Kubota Limited,ESCORTS,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Coforge Limited,COFORGE,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+COROMANDEL INTERNATIONAL LIMITED,COROMANDEL,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+LIC Housing Finance Limited,LICHSGFIN,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Biocon Limited,BIOCON,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Mahindra & Mahindra Financial Services Limited,M&MFIN,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+GLOBAL HEALTH LIMITED,MEDANTA,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Nippon Life India Asset Management Limited,NAM-INDIA,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Exide Industries Limited,EXIDEIND,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Hitachi Energy India Limited,POWERINDIA,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Max Financial Services Limited,MFSL,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Fortis Healthcare Limited,FORTIS,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+KEI INDUSTRIES LIMITED,KEI,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Crisil Limited,CRISIL,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+NLC India Limited,NLCINDIA,Power,100.0,Estimated (sector avg),Tier 3,40,Tier 3
+Jubilant FoodWorks Limited,JUBLFOOD,Consumer Services,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Bandhan Bank Limited,BANDHANBNK,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Lloyds Metals and Energy Limited,LLOYDSME,Metals & Mining,500.0,Estimated (sector avg),Tier 3,40,Tier 3
+Star Health and Allied Insurance Company Limited,STARHEALTH,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+JK CEMENT LIMITED,JKCEMENT,Construction Materials,50.0,Estimated (sector avg),Tier 3,40,Tier 3
+Tata Investment Corporation Limited,TATAINVEST,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Delhivery Limited,DELHIVERY,Services,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+Deepak Nitrite Limited,DEEPAKNTR,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+Cochin Shipyard Limited,COCHINSHIP,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Apollo Tyres Limited,APOLLOTYRE,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Metro Brands Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Ipca Laboratories Limited,IPCALAB,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+GLAND PHARMA LIMITED,GLAND,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+HINDUSTAN COPPER LIMITED,HINDCOPPER,Metals & Mining,500.0,Estimated (sector avg),Tier 3,40,Tier 3
+Motherson Sumi Wiring India Limited,MSUMI,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Go Digit General Insurance Limited,GODIGIT,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Motilal Oswal Financial Services Limited,MOTILALOFS,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+ZF Commercial Vehicle Control Systems India Limited,ZFCVINDIA,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Endurance Technologies Limited,ENDURANCE,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+One 97 Communications Limited,PAYTM,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Syngene International Limited,SYNGENE,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Glenmark Pharmaceuticals Limited,GLENMARK,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Ajanta Pharma Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+APAR Industries Limited,APARINDS,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Godrej Industries Limited,GODREJIND,Diversified,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Blue Star Limited,BLUESTARCO,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+K.P.R. MILL LIMITED,KPRMILL,Textiles,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+TATA CHEMICALS LIMITED,TATACHEM,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+360 ONE WAM LIMITED,360ONE,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+KIOCL Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Narayana Hrudayalaya Ltd.,NH,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Sun TV Network Limited,SUNTV,Media Entertainment & Publication,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+EIH Limited,EIHOTEL,Consumer Services,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Timken India Limited,TIMKEN,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Angel One Limited,ANGELONE,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Carborundum Universal Limited,CARBORUNIV,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Grindwell Norton Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Vedant Fashions Limited,MANYAVAR,Consumer Services,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Aditya Birla Fashion and Retail Limited,ABFRL,Consumer Services,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+SKF INDIA LIMITED,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Brigade Enterprises Limited,BRIGADE,Realty,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Sundram Fasteners Limited,SUNDRMFAST,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Aarti Industries Limited,AARTIIND,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+Kansai Nerolac Paints Limited,KANSAINER,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+CreditAccess Grameen Limited,CREDITACC,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+NBCC (India) Limited,NBCC,Construction,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Emami Limited,EMAMILTD,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+JBM Auto Limited,JBMA,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+LAURUS LABS LIMITED,LAURUSLABS,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Radico Khaitan Limited,RADICO,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+Ratnamani Metals & Tubes Limited,RATNAMANI,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Gillette India Limited,GILLETTE,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+Ircon International Limited,IRCON,Construction,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Cyient Limited,CYIENT,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+Cyient Limited,CYIENT,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+Five-Star Business Finance Limited,FIVESTAR,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Crompton Greaves Consumer Electricals Limited,CROMPTON,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Relaxo Footwears Limited,RELAXO,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Cholamandalam Financial Holdings Limited,CHOLAHLDNG,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+TRIDENT LIMITED,TRIDENT,Textiles,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Aster DM Healthcare Limited,ASTERDM,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Pfizer Limited,PFIZER,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+SUMITOMO CHEMICAL INDIA LIMITED,SUMICHEM,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+The Ramco Cements Limited,RAMCOCEM,Construction Materials,50.0,Estimated (sector avg),Tier 3,40,Tier 3
+Kajaria Ceramics Limited,KAJARIACER,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Birlasoft Limited,BSOFT,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+Elgi Equipments Limited,ELGIEQUIP,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Devyani International Limited,DEVYANI,Consumer Services,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Piramal Enterprises Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+PNB Housing Finance Limited,PNBHOUSING,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Castrol India Limited,CASTROLIND,Oil Gas & Consumable Fuels,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Sonata Software Limited,SONATSOFTW,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+IIFL Finance Limited,IIFL,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+TVS Holdings Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Gujarat State Petronet Limited,GSPL,Oil Gas & Consumable Fuels,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+CIE AUTOMOTIVE INDIA LIMITED,CIEINDIA,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Kaynes Technology India Limited,KAYNES,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+ALEMBIC PHARMACEUTICALS LIMITED,APLLTD,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Piramal Pharma Limited,PPLPHARMA,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Capri Global Capital Limited,CGCL,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+KEC International Limited,KEC,Construction,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+BATA INDIA LIMITED,BATAINDIA,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+CESC Limited,CESC,Power,100.0,Estimated (sector avg),Tier 3,40,Tier 3
+Aegis Logistics Limited,AEGISLOG,Oil Gas & Consumable Fuels,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Atul Limited,ATUL,Chemicals,0.204386688,Website: /about/,Tier 1,90,Success
+Whirlpool of India Limited,WHIRLPOOL,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Cello World Limited,CELLO,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Jupiter Wagons Limited,JWL,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Inox Wind Limited,INOXWIND,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Signatureglobal (India) Limited,SIGNATURE,Realty,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+JYOTI CNC AUTOMATION LIMITED,JYOTICNC,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+R R Kabel Limited,RRKABEL,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Shyam Metalics and Energy Limited,SHYAMMETL,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Amara Raja Energy & Mobility Limited,ARE&M,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+NMDC Steel Limited,NSLNISP,Metals & Mining,500.0,Estimated (sector avg),Tier 3,40,Tier 3
+NATCO Pharma Limited,NATCOPHARM,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Vinati Organics Limited,VINATIORGA,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+Finolex Cables Limited,FINCABLES,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Chalet Hotels Limited,CHALET,Consumer Services,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Kalpataru Projects International Limited,KPIL,Construction,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+TBO Tek Limited,TBOTEK,Consumer Services,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+JYOTHY LABS LIMITED,JYOTHYLAB,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+Aptus Value Housing Finance India Limited,APTUS,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Himadri Speciality Chemical Limited,HSCL,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+Waaree Renewable Technologies Limited,WAAREERTL,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Navin Fluorine International Limited,NAVINFLUOR,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+Krishna Institute of Medical Sciences Limited,KIMS,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Tata Teleservices (Maharashtra) Limited,TTML,Telecommunication,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+Jindal Saw Limited,JINDALSAW,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+RITES Limited,RITES,Construction,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Zee Entertainment Enterprises Limited,ZEEL,Media Entertainment & Publication,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+GODFREY PHILLIPS INDIA LIMITED,GODFRYPHLP,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+JAI BALAJI INDUSTRIES LIMITED,JAIBALAJI,Metals & Mining,500.0,Estimated (sector avg),Tier 3,40,Tier 3
+Finolex Industries Limited,FINPIPE,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Schneider Electric Infrastructure Limited,SCHNEIDER,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Triveni Turbine Limited,TRITURBINE,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+BASF India Limited,BASF,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+Tejas Networks Limited,TEJASNET,Telecommunication,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+Redington Limited,REDINGTON,Services,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+Blue Dart Express Limited,BLUEDART,Services,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+INDIAMART INTERMESH LIMITED,INDIAMART,Consumer Services,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Sanofi India Limited,SANOFI,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+NUVAMA WEALTH MANAGEMENT LIMITED,NUVAMA,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+RBL Bank Limited,RBLBANK,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+NCC LIMITED,NCC,Construction,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Concord Biotech Limited,CONCORDBIO,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+POLY MEDICURE LIMITED,POLYMED,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Century Plyboards (India) Limited,CENTURYPLY,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Sobha Limited,SOBHA,Realty,3.2376,Website: /manufacturing/,Tier 1,90,Success
+Manappuram Finance Limited,MANAPPURAM,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Computer Age Management Services Limited,CAMS,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Anand Rathi Wealth Limited,ANANDRATHI,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+DCM Shriram Limited,DCMSHRIRAM,Diversified,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+KARUR VYSYA BANK LIMITED,KARURVYSYA,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Aditya Birla Sun Life AMC Limited,ABSLAMC,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Authum Investment & Infrastructure Limited,AIIL,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+V-GUARD INDUSTRIES LIMITED,VGUARD,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+TITAGARH RAIL SYSTEMS LIMITED,TITAGARH,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Clean Science and Technology Limited,CLEAN,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+BEML Limited,BEML,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Welspun Corp Limited,WELCORP,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Olectra Greentech Limited,OLECTRA,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Welspun Living Limited,WELSPUNLIV,Textiles,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+BLS International Services Limited,BLS,Consumer Services,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+AstraZeneca Pharma India Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+HFCL Limited,HFCL,Telecommunication,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+KSB Limited,KSB,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Sterling and Wilson Renewable Energy Limited,SWSOLAR,Construction,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+ALOK INDUSTRIES LIMITED,ALOKINDS,Textiles,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Bikaji Foods International Limited,BIKAJI,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+Data Patterns (India) Limited,DATAPATTNS,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Asahi India Glass Limited,ASAHIINDIA,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Kirloskar Oil Engines Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Firstsource Solutions Limited,FSL,Services,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+Honasa Consumer Limited,HONASA,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+PVR INOX LIMITED,PVRINOX,Media Entertainment & Publication,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Mahanagar Gas Limited,MGL,Oil Gas & Consumable Fuels,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Indian Energy Exchange Limited,IEX,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+FINE ORGANIC INDUSTRIES LIMITED,FINEORG,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+ZENSAR TECHNOLOGIES LIMITED,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+RHI Magnesita India Ltd,RHIM,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+CHENNAI PETROLEUM CORPORATION LIMITED,CHENNPETRO,Oil Gas & Consumable Fuels,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+INTELLECT DESIGN ARENA LIMITED,INTELLECT,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+Ramkrishna Forgings Limited,RKFORGE,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Raymond Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Indegene Limited,INDGN,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+G R Infraprojects Limited,GRINFRA,Construction,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Tanla Platforms Limited,TANLA,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+Engineers India Limited,ENGINERSIN,Construction,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Amber Enterprises India Limited,AMBER,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Happiest Minds Technologies Limited,HAPPSTMNDS,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+Railtel Corporation of India Limited,RAILTEL,Telecommunication,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+Westlife Foodworld Limited,WESTLIFE,Consumer Services,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+JAIPRAKASH POWER VENTURES LIMITED,JPPOWER,Power,100.0,Estimated (sector avg),Tier 3,40,Tier 3
+SUPREME PETROCHEM LIMITED,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+IFCI Limited,IFCI,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Eris Lifesciences Limited,ERIS,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Aavas Financiers Limited,AAVAS,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+eClerx Services Limited,ECLERX,Services,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+Nuvoco Vistas Corporation Limited,NUVOCO,Construction Materials,50.0,Estimated (sector avg),Tier 3,40,Tier 3
+Anant Raj Limited,ANANTRAJ,Realty,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Newgen Software Technologies Limited,NEWGEN,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+PTC Industries Limited,PTCIL,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Akzo Nobel India Limited,AKZOINDIA,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Garden Reach Shipbuilders & Engineers Limited,GRSE,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Birla Corporation Limited,BIRLACORPN,Construction Materials,50.0,Estimated (sector avg),Tier 3,40,Tier 3
+Maharashtra Seamless Limited,MAHSEAMLES,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+GRAPHITE INDIA LIMITED,GRAPHITE,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+UTI Asset Management Company Limited,UTIAMC,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+JK Tyre & Industries Limited,JKTYRE,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Equitas Small Finance Bank Limited,EQUITASBNK,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+BAJAJ ELECTRICALS LIMITED,BAJAJELEC,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+GODAWARI POWER AND ISPAT LIMITED,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+PNC Infratech Limited,PNCINFRA,Construction,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Aether Industries Limited,AETHER,Chemicals,1.05,Website: /about-us/,Tier 1,90,Success
+MMTC LIMITED,MMTC,Services,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+KFin Technologies Limited,KFINTECH,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Lemon Tree Hotels Limited,LEMONTREE,Consumer Services,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+VALOR ESTATE LIMITED,DBREALTY,Consumer Services,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Sheela Foam Limited,SFL,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+ALKYL AMINES CHEMICALS LIMITED,ALKYLAMINE,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+CITY UNION BANK LIMITED,CUB,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+RATTANINDIA ENTERPRISES LIMITED,RTNINDIA,Consumer Services,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+INOX India Limited,INOXINDIA,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+RELIANCE POWER LIMITED,RPOWER,Power,100.0,Estimated (sector avg),Tier 3,40,Tier 3
+Zydus Wellness Limited,ZYDUSWELL,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+GRANULES INDIA LIMITED,GRANULES,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Caplin Point Laboratories Limited,CAPLIPOINT,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+GODREJ AGROVET LIMITED,GODREJAGRO,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+C.E. INFO SYSTEMS LIMITED,MAPMYINDIA,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+CEAT Limited,CEATLTD,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Techno Electric & Engineering Company Limited,TECHNOE,Construction,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+SHIPPING CORPORATION OF INDIA LIMITED,SCI,Services,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+Can Fin Homes Limited,CANFINHOME,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Usha Martin Limited,USHAMART,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Sun Pharma Advanced Research Company Limited,SPARC,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Ujjivan Small Finance Bank Limited,UJJIVANSFB,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Juniper Hotels Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+TTK PRESTIGE LIMITED,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Latent View Analytics Limited,LATENTVIEW,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+Jubilant Pharmova Limited,JUBLPHARMA,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Kirloskar Brothers Limited,KIRLOSBROS,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+JK LAKSHMI CEMENT LIMITED,JKLAKSHMI,Construction Materials,50.0,Estimated (sector avg),Tier 3,40,Tier 3
+DOMS Industries Limited,DOMS,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+NETWEB TECHNOLOGIES INDIA LIMITED,NETWEB,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+Minda Corporation Limited,MINDACORP,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Electrosteel Castings Limited,ELECTCAST,Capital Goods,97.9374,Website: /facilities/,Tier 1,90,Success
+Route Mobile Limited,ROUTE,Telecommunication,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+Praj Industries Limited,PRAJIND,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+CERA Sanitaryware Limited,CERA,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Shree Renuka Sugars Limited,RENUKA,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+Anupam Rasayan India Limited,ANURAS,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+KPI GREEN ENERGY LIMITED,KPIGREEN,Power,100.0,Estimated (sector avg),Tier 3,40,Tier 3
+Safari Industries (India) Limited,SAFARI,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Craftsman Automation Limited,CRAFTSMAN,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Gujarat Pipavav Port Limited,GPPL,Services,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+Happy Forgings Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+RAJESH EXPORTS LIMITED,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Voltamp Transformers Limited,VOLTAMP,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+SAPPHIRE FOODS INDIA LIMITED,SAPPHIRE,Consumer Services,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Mahindra Lifespace Developers Limited,MAHLIFE,Realty,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Redtape Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+SBFC Finance Limited,SBFC,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+GALAXY SURFACTANTS LIMITED,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Infibeam Avenues Limited,INFIBEAM,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Syrma SGS Technology Limited,SYRMA,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Force Motors Ltd,FORCEMOT,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Metropolis Healthcare Limited,METROPOLIS,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Eureka Forbes Limited,EUREKAFORB,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+TEGA INDUSTRIES LIMITED,TEGA,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+RateGain Travel Technologies Limited,RATEGAIN,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+MAHARASHTRA SCOOTERS LIMITED,MAHSCOOTER,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Thomas Cook  (India)  Limited,THOMASCOOK,Consumer Services,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+JM Financial Limited,JMFINANCIL,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+Prism Johnson Limited,PRSMJOHNSN,Construction Materials,50.0,Estimated (sector avg),Tier 3,40,Tier 3
+Star Cement Limited,STARCEMENT,Construction Materials,50.0,Estimated (sector avg),Tier 3,40,Tier 3
+Reliance Infrastructure Limited,RELINFRA,Power,100.0,Estimated (sector avg),Tier 3,40,Tier 3
+ESAB India Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Varroc Engineering Limited,VARROC,Automobile and Auto Components,10.0,Estimated (sector avg),Tier 3,40,Tier 3
+Mastek Limited,MASTEK,Information Technology,0.5,Estimated (sector avg),Tier 3,40,Tier 3
+MedPlus Health Services Limited,MEDPLUS,Consumer Services,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Neuland Laboratories Limited,NEULANDLAB,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Mahindra Holidays & Resorts India Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Procter & Gamble Health Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Quess Corp Limited,QUESS,Services,0.2,Estimated (sector avg),Tier 3,40,Tier 3
+Vesuvius India Limited,VESUVIUS,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+ARVIND LIMITED,ARVIND,Textiles,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Electronics Mart India Limited,EMIL,Consumer Services,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+SARDA ENERGY & MINERALS LIMITED,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+NAVA LIMITED,NAVA,Power,100.0,Estimated (sector avg),Tier 3,40,Tier 3
+Home First Finance Company India Limited,HOMEFIRST,Financial Services,0.1,Estimated (sector avg),Tier 3,40,Tier 3
+CCL Products (India) Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Shoppers Stop Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Mishra Dhatu Nigam Limited,MIDHANI,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+SAREGAMA India Limited,SAREGAMA,Media Entertainment & Publication,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Archean Chemical Industries Limited,ACI,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+Easy Trip Planners Limited,EASEMYTRIP,Consumer Services,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Wockhardt Limited,WOCKPHARMA,Healthcare,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Responsive Industries Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Jupiter Life Line Hospitals Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Balrampur Chini Mills Limited,BALRAMCHIN,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+Campus Activewear Limited,CAMPUS,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Power Mech Projects Limited,POWERMECH,Construction,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+TVS Supply Chain Solutions Limited,TVSSCS,Services,97.0,NSE Profile,Tier 2,70,Success
+HEG Limited,HEG,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+JUBILANT INGREVIA LIMITED,JUBLINGREA,Chemicals,20.0,Estimated (sector avg),Tier 3,40,Tier 3
+Keystone Realtors Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+KNR Constructions Limited,KNRCON,Construction,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Just Dial Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Man Infraconstruction Limited,MANINFRA,Construction,1.0,Estimated (sector avg),Tier 3,40,Tier 3
+Gujarat Ambuja Exports Limited,GAEL,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+Genus Power Infrastructures Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Sandur Manganese & Iron Ores Limited,SANDUMA,Oil Gas & Consumable Fuels,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Zen Technologies Limited,ZENTEC,Capital Goods,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Tamilnad Mercantile Bank Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Ion Exchange (India) Limited,IONEXCHANG,Utilities,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+Chemplast Sanmar Limited,,,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+MOIL Limited,MOIL,Metals & Mining,500.0,Estimated (sector avg),Tier 3,40,Tier 3
+Triveni Engineering & Industries Limited,TRIVENI,Fast Moving Consumer Goods,3.0,Estimated (sector avg),Tier 3,40,Tier 3
+VIP INDUSTRIES LIMITED,VIPIND,Consumer Durables,5.0,Estimated (sector avg),Tier 3,40,Tier 3
+ISGEC Heavy Engineering Limited,ISGEC,Construction,1.0,Estimated (sector avg),Tier 3,40,Tier 3

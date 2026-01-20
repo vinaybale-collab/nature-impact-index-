@@ -1,0 +1,2 @@
+Dataset,Companies,Sectors,GIST_Score,GBS_Score,LCA_Score,ISS_BIAT_Score,ENCORE_Score,Tier1_Avg,Overall_Weighted,All_Criteria_Passed
+V7_FINAL_CORRECTED,528,8,100.0,100.0,100.0,86.75328468813838,84.37607516401533,100.0,96.39116998151921,True

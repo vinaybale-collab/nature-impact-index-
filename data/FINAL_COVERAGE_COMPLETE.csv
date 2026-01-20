@@ -1,0 +1,6 @@
+Metric,Has_Value,Pct,Reported_0,Missing_NaN,Total
+Scope 1 GHG,512,97.9%,11,0,523
+Scope 2 GHG,517,98.9%,6,0,523
+Scope 3 GHG,523,100.0%,0,0,523
+Water Consumption,515,98.5%,8,0,523
+Waste Generated,514,98.3%,9,0,523

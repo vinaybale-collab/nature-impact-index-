@@ -1,0 +1,1203 @@
+Company_Name,Facility_ID,Facility_Type,Address,City,State,Country,Source
+360 ONE WAM LIMITED,1,Registered Office,"360 ONE Centre, Kamala City, Senapati Bapat Marg, Lower Parel, Mumbai – 400013",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+3M INDIA LIMITED,1,Registered Office,"Plot Nos. 48-51, Electronics City, Hosur Road, Bengaluru - 560 100",Hosur,Karnataka,India,XBRL_RegisteredOffice
+3M INDIA LIMITED,2,Corporate Office,"Marksquare, 5th Floor, St. Marks Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",Bengaluru,Karnataka,India,XBRL_CorporateOffice
+3M INDIA LIMITED,3,Plant,"Bengaluru Plant, Bengaluru Corporate Office, Gurgaon Office and Ranjangaon Plant",Bengaluru,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Aarti Industries Limited,1,Registered Office,"Plot Nos. 801, 801/23, G.I.D.C. Estate, Phase-III, Vapi, Dist. Valsad, Gujarat-396195",Vapi,Gujarat,India,XBRL_RegisteredOffice
+Aarti Industries Limited,2,Corporate Office,"71, 2nd Floor, Udyog Kshetra, Mulund-Goregaon Link Road, Salpa Devi Pada, Mulund West, Mumbai - 400 080, Maharashtra",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Aarti Industries Limited,3,Plant,Manufacturing locations situated in Gujarat & Maharashtra,,Maharashtra,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Aarti Industries Limited,4,Facility,Vadodara,Vadodara,Gujarat,India,XBRL_TextExtraction
+Aavas Financiers Limited,1,Registered Office,"201-202,2nd Floor, Southend Square, Mansarovar Industrial Area, Jaipur - 302020",Jaipur,Rajasthan,India,XBRL_RegisteredOffice
+ABB India Limited,1,Registered Office,"“Disha”, Corporate Office, 3rd Floor. Plot No. 5 &
+6, 2nd Stage, Peenya Industrial Area IV, Peenya,
+Bengaluru - 560 058, Karnataka.",Bengaluru,Karnataka,India,XBRL_RegisteredOffice
+ABB India Limited,2,Plant,"Bangalore (Rural & Urban), Faridabad, Vadodara & Nashik",Bangalore,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+ACC Limited,1,Registered Office,"Adani Corporate House, Shantigram, Near Vaishno Devi Circle, S.G. Highway,
+Ahmedabad – 382421",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+Adani Energy Solutions Limited,1,Registered Office,"“Adani Corporate House”, Shantigram, Near VaishnoDevi Circle, S. G. Highway, Khodiyar, Ahmedabad – 382421, Gujarat, India",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+Adani Energy Solutions Limited,2,Corporate Office,"“Adani Corporate House”, Shantigram, Near VaishnoDevi Circle, S. G. Highway, Khodiyar, Ahmedabad – 382421, Gujarat, India.",Ahmedabad,Gujarat,India,XBRL_CorporateOffice
+Adani Energy Solutions Limited,3,Plant,"1) Mahendergarh HVDC in Haryana
+2) Badaun substation in Uttar Pradesh 
+3) Sami Substation in Gujrat, 
+4) MES Gwalior Substation and
+5) Morena Substation in Madhya Pradesh 
+Plus, following 7 substations in Rajasthan
+6) Bar Substation
+7) Peeplu Substation
+8) Khatoti Substation
+9) Riyabari Substation
+10) Sorda Substation
+11) Ahore Substation
+12) Deedwana Substation",Gwalior,Rajasthan,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Adani Energy Solutions Limited,4,Facility,Ahmedabad have been certified as Zero Waste to Landfill sites by,Ahmedabad,Gujarat,India,XBRL_TextExtraction
+Adani Enterprises Limited,1,Registered Office,"Adani Corporate House, Shantigram, Near Vaishnodevi Circle, S. G. Highway, Khodiyar, Ahmedabad –382421, Gujarat, India.",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+Adani Ports and Special Economic Zone Limited,1,Registered Office,"Adani Corporate House, Shantigram, Near Vaishno Devi Circle, S. G. Highway, Khodiyar, Ahmedabad-382421 Gujarat",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+Adani Ports and Special Economic Zone Limited,2,Plant,"Patli, Kishangarh, Kilaraipur, Malur, Loni, Kanech, Dewas, Kannauj, Kotkapura, Panipat,
+Ujjain, Moga, Kaithal and Malur",Loni,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+ADANI POWER LIMITED,1,Registered Office,"Adani Corporate House, Shantigram, Near Vaishno Devi Circle, S. G. Highway, Khodiyar, NA Ahmedabad Ahmedabad GJ 382421 IN",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+ADANI POWER LIMITED,2,Plant,"Kawai, Atru Tehsil, Baran Dist, - APL. Kawai.",,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+ADANI POWER LIMITED,3,Facility,Mundra,Mundra,,India,XBRL_TextExtraction
+Adani Total Gas Limited,1,Registered Office,"“Adani Corporate House”, Shantigram, Near VaishnoDevi
+Circle, S. G. Highway, Khodiyar, Ahmedabad – 382421,
+Gujarat, India.",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+Adani Total Gas Limited,2,Facility,its city gas station situated in Ramol,Ramol,,India,XBRL_TextExtraction
+Aditya Birla Capital Limited,1,Registered Office,"Indian Rayon Compound, Veraval – 362266, Gujarat",,Gujarat,India,XBRL_RegisteredOffice
+Aditya Birla Capital Limited,2,Corporate Office,"18th floor, One World Centre, Jupiter Mills Compound, 841, Senapati Bapat, Mumbai – 400013, 
+Maharashtra",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Aditya Birla Capital Limited,3,Plant,"Jaipur, Indore, Lucknow, Chennai, Bengaluru, Gurgaon",Jaipur,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Aditya Birla Fashion and Retail Limited,1,Registered Office,"Piramal Agastya Corporate Park, Building ‘A’, 4th and 5th Floor, Unit No. 401, 403, 501, 502, L.B.S. Road, Kurla, Mumbai, Maharashtra - 400 070",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Aditya Birla Fashion and Retail Limited,2,Corporate Office,"KH No 118/110/1 Building2 Divyashree Technopolis, Yemalur Post, HAL Old Airport Rd, Bengaluru, Karnataka - 560 037",Bengaluru,Karnataka,India,XBRL_CorporateOffice
+Aditya Birla Fashion and Retail Limited,3,Plant,Banglore and Gurugram,Gurugram,Haryana,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Aditya Birla Sun Life AMC Limited,1,Registered Office,"One World Center, Tower 1, 17th Floor, Jupiter Mills, Senapati Bapat Marg Elphinstone Road, Mumbai - 400013",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Aditya Birla Sun Life AMC Limited,2,Corporate Office,"One World Center, Tower 1, 17th Floor, Jupiter Mills, Senapati Bapat Marg, Elphinstone Road, Mumbai - 400013",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Aditya Birla Sun Life AMC Limited,3,Facility,"Mumbai
+Fuel consumption pertains to the use of diesel in diesel generator",Mumbai,Maharashtra,India,XBRL_TextExtraction
+Aegis Logistics Limited,1,Registered Office,"502, 5th Floor, Skylon Co. Op. Housing Society Limited., GIDC, Char Rasta, Vapi- 396195, Dist. Valsad, Gujarat State, India",Vapi,Gujarat,India,XBRL_RegisteredOffice
+Aegis Logistics Limited,2,Corporate Office,"1202, Tower B, Peninsula Business Park, G K MARG, Lower Parel (WEST) Mumbai-400013 MH",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Aether Industries Limited,1,Registered Office,"Aether Industries Limited, Plot No. 8203, GIDC Sachin, Surat-394230, Gujarat.",Surat,Gujarat,India,XBRL_RegisteredOffice
+AIA ENGINEERING LIMITED,1,Registered Office,"115, G.V.M.M. ESTATE, ODAV ROAD, ODHAV, 
+AHMEDABAD - 382415",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+AIA ENGINEERING LIMITED,2,Corporate Office,"11/12, SIGMA COPRORATES, B/H. HOF 
+SHOWROOM, OFF. S.G. HIGHWAY, SINDHU BHAVAN 
+ROAD, BODAKDEV, AHMEDABAD - 380054",Ahmedabad,Gujarat,India,XBRL_CorporateOffice
+AIA ENGINEERING LIMITED,3,Facility,Bavla District,Bavla,,India,XBRL_TextExtraction
+Ajanta Pharma Limited,1,Registered Office,"Ajanta House 98, Govt Industrial Area, Charkop, Kandivli (West), Mumbai- 400067, Maharashtra, India.",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Ajanta Pharma Limited,2,Corporate Office,Same as above,,,India,XBRL_CorporateOffice
+Akzo Nobel India Limited,1,Registered Office,"801A, South City Business Park, 770, Anandapur, Eastern Metropolitan Bypass, Near Fortis Hospital, E.K.T., Kolkata – 700 107, West Bengal",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+Akzo Nobel India Limited,2,Corporate Office,"9th Floor, Magnum Towers 1, Sector 58, Gurugram 122 011, India",Gurugram,Haryana,India,XBRL_CorporateOffice
+ALEMBIC PHARMACEUTICALS LIMITED,1,Registered Office,"ALEMBIC ROAD, VADODARA, Gujarat, India, 390003",Vadodara,Gujarat,India,XBRL_RegisteredOffice
+Alkem Laboratories Limited,1,Registered Office,"Alkem House, Senapati Bapat Marg, Lower Parel, Mumbai - 400 013, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Alkem Laboratories Limited,2,Plant,"Daman, Ahmedabad, Jaipur, Patna",Daman,Gujarat,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+ALKYL AMINES CHEMICALS LIMITED,1,Registered Office,"401-407 Nirman Vyapar Kendra, Sector 17, Vashi, Navi Mumbai - 400703",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+ALKYL AMINES CHEMICALS LIMITED,2,Corporate Office,"207A, Kakad Chambers, 132, Dr. Annie Besant Road, Worli, Mumbai - 400018",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+ALKYL AMINES CHEMICALS LIMITED,3,Facility,Gujarat this year,,Gujarat,India,XBRL_TextExtraction
+ALKYL AMINES CHEMICALS LIMITED,4,Facility,Patalganga MIDC,Patalganga,,India,XBRL_TextExtraction
+ALOK INDUSTRIES LIMITED,1,Registered Office,"Survey Nos. 17/5/1 & 521/1, Village Rakholi/ Sayli, Silvassa, Union Territory of Dadra and Nagar Haveli and Daman and Diu – 396230",Silvassa,Dadra and Nagar Haveli,India,XBRL_RegisteredOffice
+ALOK INDUSTRIES LIMITED,2,Corporate Office,"Dhirubhai Ambani Knowledge City (DAKC), Building No. 24, 5th and 6th floor, MIDC, Plot no. 1 of 2, TTC Industrial area, Kopar Khairane, Navi Mumbai - 400 710.",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Amara Raja Energy  Mobility Limited,1,Registered Office,"Renignuta-Cuddapah Road, Karakambadi, Tirupati, Andhra Pradesh – 517520.",,Andhra Pradesh,India,XBRL_RegisteredOffice
+Amara Raja Energy  Mobility Limited,2,Corporate Office,"TERMINAL A, 1-18/1/AMR/NR, Nanakramguda, Gachibowli, Hyderabad – 500032.",Hyderabad,Telangana,India,XBRL_CorporateOffice
+Amber Enterprises India Limited,1,Registered Office,C – 1 Phase – II Focal Point Rajpura Town Punjab – 140401,,Punjab,India,XBRL_RegisteredOffice
+Amber Enterprises India Limited,2,Corporate Office,Universal Trade Tower 1st Floor Sector – 49 Sohna Road Gurgaon – 122018,Gurgaon,Haryana,India,XBRL_CorporateOffice
+Amber Enterprises India Limited,3,Plant,Faridabad Manesar Pune Rajpura Kothputli,Faridabad,Maharashtra,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Ambuja Cements Limited,1,Registered Office,"Adani Corporate House, Shantigram, Near Vaishno Devi Circle, S.G. Highway,
+Ahmedabad – 382421",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+Anand Rathi Wealth Limited,1,Registered Office,"Express Zone, A Wing, 10th Floor, Western Express Highway, Goregaon (E), Mumbai - 400063",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Anand Rathi Wealth Limited,2,Corporate Office,"Floor No. 2&3, Block B & C, E Wing, Trade Link, Kamala Mills Compound, Senapati Bapat Marg, Lower Parel, Mumbai - 400013",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Anant Raj Limited,1,Registered Office,"Plot No. CP-1, Sector-8 IMT Manesar, Gurugram-122051, Haryana, India",Manesar,Haryana,India,XBRL_RegisteredOffice
+Anant Raj Limited,2,Corporate Office,"H-65, Connaught Circus, New Delhi-110001",Delhi,Delhi,India,XBRL_CorporateOffice
+Angel One Limited,1,Registered Office,"601, 6th Floor, Ackruti Star, Central Road, MIDC, Andheri East,Mumbai-400093",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Anupam Rasayan India Limited,1,Registered Office,1101 to 1107 11th Floor Icon Rio Behind Icon Business Centre Dumas Road Surat 395007 Gujarat India,Surat,Gujarat,India,XBRL_RegisteredOffice
+Anupam Rasayan India Limited,2,Corporate Office,10th Floor Icon Rio Behind Icon Business Centre Dumas Road Surat 395007 Gujarat India,Surat,Gujarat,India,XBRL_CorporateOffice
+APAR Industries Limited,1,Registered Office,"301 Panorama Complex, RC Dutt Road, Vadodara, Gujarat - 390007, India",Vadodara,Gujarat,India,XBRL_RegisteredOffice
+APAR Industries Limited,2,Corporate Office,"APAR House', Bldg. No. 5, Corporate Park, Sion - Trombay Road, Chembur, Mumbai – 400071, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+APL Apollo Tubes Limited,1,Registered Office,"37, Hargobind Enclave, Vikas Marg, Delhi 110092",Delhi,Delhi,India,XBRL_RegisteredOffice
+APL Apollo Tubes Limited,2,Corporate Office,"SG Centre, 37C, Block B, Sector 132, Noida, Uttar Pradesh - 201304",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+APL Apollo Tubes Limited,3,Plant,"Hyderabad, Sikanderabad, and Bangalore",Hyderabad,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Apollo Tyres Limited,1,Registered Office,"3rd Floor, Areekal Mansion, Pampilly Nagar, Kochi-682036 (Kerala), India",Kochi,Kerala,India,XBRL_RegisteredOffice
+Apollo Tyres Limited,2,Corporate Office,"7, Apollo House, Institutional Area, Sector-32, Gurugram-122001, Haryana",Gurugram,Haryana,India,XBRL_CorporateOffice
+Aptus Value Housing Finance India Limited,1,Registered Office,"NO. 8B, DOSHI TOWERS, 8TH FLOOR, NO:205, POONAMALLEE HIGH ROAD, KILPAUK, CHENNAI, Tamil Nadu, India, 600010",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+Archean Chemical Industries Limited,1,Registered Office,"No.2, North Crescent Road, T Nagar Chennai, Tamil Nadu-600017",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+ARVIND LIMITED,1,Registered Office,"NARODA ROAD, AHMEDABAD",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+ARVIND LIMITED,2,Plant,Sabarmati Basin and Cauvery & Pennar Basin,,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Asahi India Glass Limited,1,Registered Office,"A-2/10, 1st Floor, WHS DDA Marble Market, Kirti Nagar,
+New Delhi-110 015",Delhi,Delhi,India,XBRL_RegisteredOffice
+Asahi India Glass Limited,2,Corporate Office,"3rd Floor, Tower – D, Global Business Park, Mehrauli-Gurgaon Road, Gurgaon – 122002, Haryana",Gurgaon,Haryana,India,XBRL_CorporateOffice
+Asahi India Glass Limited,3,Plant,"Bawal (Haryana), Bengaluru (Karnataka), Chennai (Tamil Nadu) and Soniyana (Rajasthan)",Bengaluru,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Ashok Leyland Limited,1,Registered Office,"No. 1, Sardar Patel Road, Guindy,
+Chennai – 600 032",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+Ashok Leyland Limited,2,Plant,"Ennore, Bhandara, Sriperumbudur, Alwar, Hosur, Pantnagar",Hosur,Tamil Nadu,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Ashok Leyland Limited,3,Facility,Uttarakhand,,Uttarakhand,India,XBRL_TextExtraction
+Asian Paints Limited,1,Registered Office,"6A & 6B, Shantinagar, Santacruz (East), Mumbai – 400 055, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Asian Paints Limited,2,Corporate Office,"6A & 6B, Shantinagar, Santacruz (East), 
+Mumbai – 400 055, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Aster DM Healthcare Limited,1,Registered Office,"Awfis, 2nd Floor, Renaissance Centra, 27 & 27/1, Mission Road Sampangi Rama Nagar, Bengaluru, Karnataka 560027",Bengaluru,Karnataka,India,XBRL_RegisteredOffice
+Aster DM Healthcare Limited,2,Corporate Office,"Awfis, 2nd Floor, Renaissance Centra, 27 & 27/1, Mission Road, Sampangi Rama Nagar, Bengaluru, Karnataka 560027",Bengaluru,Karnataka,India,XBRL_CorporateOffice
+Astral Limited,1,Registered Office,"“Astral House’’, 207/1, Behind Rajpath Club, Off. S. G. Highway, Ahmedabad-380059, Gujarat, India.",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+Astral Limited,2,Facility,Jamnagar and Adhesives plant at Santej,Jamnagar,,India,XBRL_TextExtraction
+Astral Limited,3,Facility,Hyderabad,Hyderabad,Telangana,India,XBRL_TextExtraction
+AstraZeneca Pharma India Limited,1,Registered Office,"Block N1, 12th Floor, Manyata Embassy Business Park, Rachenahalli, Outer Ring Road, Bengaluru – 560 045, Karnataka, India",Bengaluru,Karnataka,India,XBRL_RegisteredOffice
+AstraZeneca Pharma India Limited,2,Plant,"Yelahanka, Bengaluru North - 560063",Bengaluru,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Atul Limited,1,Registered Office,"Atul House, G I Patel Marg, Ahmedabad 380 014, Gujarat, India",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+Atul Limited,2,Corporate Office,"Atul 396 020, Gujarat, India",,Gujarat,India,XBRL_CorporateOffice
+AUROBINDO PHARMA LIMITED,1,Registered Office,"Plot no.2, Maithrivihar, Behind Maithrivanam, Ameerpet, Hyderabad - 500038, Telangana, India",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+AUROBINDO PHARMA LIMITED,2,Corporate Office,"Galaxy, Floor 22-24; Plot No 1, Sy No 83/1, Hyderabad Knowledge City, Raidurg Panmaktha, Hyderabad - 500032, Telangana, India",Hyderabad,Telangana,India,XBRL_CorporateOffice
+AUROBINDO PHARMA LIMITED,3,Plant,"Bhiwadi, Rajasthan",,Rajasthan,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Authum Investment  Infrastructure Limited,1,Registered Office,"707, Raheja Centre, Free Press Journal Marg, Nariman Point, Mumbai 400021",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Authum Investment  Infrastructure Limited,2,Corporate Office,"The Ruby, 11th Floor, North-West Wing, Plot No. 29, Senapati Bapat Marg, Dadar (West), Mumbai 400 028",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+AU Small Finance Bank Limited,1,Registered Office,"19-A, Dhuleshwar Garden, Ajmer Road, Jaipur – 302001,
+Rajasthan",Ajmer,Rajasthan,India,XBRL_RegisteredOffice
+AU Small Finance Bank Limited,2,Corporate Office,"5th Floor, E-Wing, Kanakia Zillion, Junction of CST Road & LBS Road, Kurla (West), Mumbai – 400070, Maharashtra",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Avenue Supermarts Limited,1,Registered Office,"Anjaneya CHS Ltd, Orchard Avenue, Opp. Hiranandani Foundation School, Powai, Mumbai- 400076",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Avenue Supermarts Limited,2,Corporate Office,"B-72/72A, Wagle Industrial Estate, Road No. 33, Kamgar Hospital Road, Thane- 400604",Thane,,India,XBRL_CorporateOffice
+Avenue Supermarts Limited,3,Facility,Katol near Nagpur,Nagpur,,India,XBRL_TextExtraction
+Axis Bank Limited,1,Registered Office,"“TRISHUL”, Third Floor, Opp. Samartheshwar Temple, Law Garden, Ellisbridge, 
+Ahmedabad - 380 006, Gujarat",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+Axis Bank Limited,2,Corporate Office,"‘Axis House’, C-2, Pandurang Budhkar Marg, Worli, Mumbai – 400 025, Maharashtra",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Bajaj Auto Limited,1,Registered Office,"Mumbai-Pune Road, Akurdi, Pune – 411035, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+BAJAJ ELECTRICALS LIMITED,1,Registered Office,"45/47, Veer Nariman Road, Mumbai 400001",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+BAJAJ ELECTRICALS LIMITED,2,Corporate Office,"Bajaj Electricals Limited, 26th and 27th Floors, One Unity Center, Senapati Bapat Marg, Prabhadevi 
+(West), Mumbai – 400013",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+BAJAJ ELECTRICALS LIMITED,3,Facility,Nashik,Nashik,Maharashtra,India,XBRL_TextExtraction
+BAJAJ ELECTRICALS LIMITED,4,Facility,Chakan and Nashik,Nashik,Maharashtra,India,XBRL_TextExtraction
+Bajaj Finance Limited,1,Registered Office,"Akurdi, Pune - 411035",Pune,Maharashtra,India,XBRL_RegisteredOffice
+Bajaj Finance Limited,2,Corporate Office,"4th Floor, Bajaj Finserv Corporate office, Off Pune - Ahmednagar Road, Viman Nagar, Pune - 411014",Pune,Maharashtra,India,XBRL_CorporateOffice
+Bajaj Finserv Limited,1,Registered Office,"Bajaj Auto Limited Complex Mumbai - Pune Road, Pune",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Bajaj Finserv Limited,2,Corporate Office,"6th Floor, Bajaj Finserv Corporate office, Off Pune Ahmednagar Road, Viman Nagar, Pune - 411014",Pune,Maharashtra,India,XBRL_CorporateOffice
+Bajaj Holdings  Investment Limited,1,Registered Office,"C/o. Bajaj Auto Ltd., Mumbai-Pune Road, Akurdi,",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Bajaj Holdings  Investment Limited,2,Corporate Office,"3rd Floor, Panchshil Tech Park, Viman Nagar, Pune – 411014",Pune,Maharashtra,India,XBRL_CorporateOffice
+Balkrishna Industries Limited,1,Registered Office,"B-66, Waluj MIDC, Waluj Industrial Area, Chhatrapati Sambhaji Nagar, 431136 – Maharashtra",,Maharashtra,India,XBRL_RegisteredOffice
+Balkrishna Industries Limited,2,Corporate Office,"BKT House, C/15, Trade World, Kamala Mills Compound, Senapati Bapat Marg, Lower Parel, Mumbai – 400 013, India",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Balkrishna Industries Limited,3,Plant,"Bhuj, Bhiwadi and Chopanki are located in over exploited category of water stress area as per Central Ground Water Board (CGWB).",,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Balrampur Chini Mills Limited,1,Registered Office,"234/3A, A J C Bose Road, FMC Fortuna, 2nd Floor, Kolkata 700020",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+Bandhan Bank Limited,1,Registered Office,"DN-32, Sector – V, Salt Lake, Kolkata – 700 091, West Bengal",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+Bandhan Bank Limited,2,Corporate Office,"Floors 12-14, Adventz Infinity@5, BN-5, Sector V, Salt Lake City, Kolkata - 700 091, West Bengal",Kolkata,West Bengal,India,XBRL_CorporateOffice
+Bank of Baroda,1,Registered Office,"Baroda House Mandvi Vadodara 390001
+Gujarat India",Vadodara,Gujarat,India,XBRL_RegisteredOffice
+Bank of Baroda,2,Corporate Office,"Baroda Corporate Centre, Plot No. C-26, Block G, Bandra Kurla Complex, Bandra (East), Mumbai – 400051, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+BANK OF INDIA,1,Registered Office,"Star House, C-5, G-Block, 8th Floor, Bandra Kurla Complex, Bandra (East), Mumbai – 400 051",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+BANK OF MAHARASHTRA,1,Registered Office,"Lokmangal, 1501, Shivajinagar, Pune",Pune,Maharashtra,India,XBRL_RegisteredOffice
+BASF India Limited,1,Registered Office,"Unit Nos. 10A, 10B, 10C (Part), 10th Floor, Godrej One, Pirojshanagar, Eastern Express Highway, Vikhroli (East), Mumbai 400 079",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+BATA INDIA LIMITED,1,Registered Office,"27B, Camac Street, 1st Floor, Kolkata - 700016, West Bengal",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+BATA INDIA LIMITED,2,Corporate Office,"Milestone Experion Centre, 2nd Floor, Sector-15, Part – II, Gurugram – 122001, Haryana",Gurugram,Haryana,India,XBRL_CorporateOffice
+BEML Limited,1,Registered Office,"BEML Soudha, 23/1, 4th Main, S R Nagar, Bengaluru – 560027",Bengaluru,Karnataka,India,XBRL_RegisteredOffice
+Bharat Dynamics Limited,1,Registered Office,"KANCHANBAGH, HYDERABAD TG 500058 IN",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+Bharat Dynamics Limited,2,Corporate Office,"Plot No.38-39, TSFC Building, Near ICICI Towers, Financial District, Nanakramguda HYDERABAD TG 500032 IN",Hyderabad,Telangana,India,XBRL_CorporateOffice
+Bharat Dynamics Limited,3,Plant,"Kanchanbagh, Bhanur and Visakhapatnam Units.",Visakhapatnam,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+BHARAT ELECTRONICS LIMITED,1,Registered Office,"Outer Ring Raod, Nagavara, Bengaluru - 560045",Bengaluru,Karnataka,India,XBRL_RegisteredOffice
+Bharat Forge Limited,1,Registered Office,"Mundhwa, Pune Cantonment, Pune - 411 036, Maharashtra, India",Pune,Maharashtra,India,XBRL_RegisteredOffice
+BHARAT HEAVY ELECTRICALS LIMITED,1,Registered Office,"BHEL House, Siri Fort, New Delhi – 110049",Delhi,Delhi,India,XBRL_RegisteredOffice
+Bharti Airtel Limited,1,Registered Office,"Airtel Centre, Plot No. 16, Udyog Vihar, Phase-IV, Gurugram, Haryana- 122 015, India",Gurugram,Haryana,India,XBRL_RegisteredOffice
+Bharti Airtel Limited,2,Corporate Office,"Bharti Crescent, 1 Nelson Mandela Road, Vasant Kunj, Phase II, New Delhi- 110 070, India",Delhi,Delhi,India,XBRL_CorporateOffice
+Bharti Hexacom Limited,1,Registered Office,"Airtel Center, Plot No. 16, Udyog Vihar, Phase-IV,
+Gurugram - 122015, India",Gurugram,Haryana,India,XBRL_RegisteredOffice
+Bharti Hexacom Limited,2,Corporate Office,"Bharti Crescent, 1, Nelson Mandela Road,
+Vasant Kunj, Phase II, New Delhi - 110070, India",Delhi,Delhi,India,XBRL_CorporateOffice
+Bikaji Foods International Limited,1,Registered Office,"F 196-199, F 178 & E 188 Bichhwal Industrial Area, Bikaner – 334 006 Rajasthan, India",Bikaner,Rajasthan,India,XBRL_RegisteredOffice
+Bikaji Foods International Limited,2,Corporate Office,"Plot No. E-558-561, C-569-572, E- 573-577, F-585-592 Karni Extension, RIICO Industrial Area, Bikaner – 334 004 Rajasthan, India",Bikaner,Rajasthan,India,XBRL_CorporateOffice
+Biocon Limited,1,Registered Office,"20th KM, Hosur Road, Electronic City, Bangalore 560 100, Karnataka, India",Hosur,Karnataka,India,XBRL_RegisteredOffice
+Birlasoft Limited,1,Registered Office,"35 & 36, Rajiv Gandhi Infotech Park, Phase-I, MIDC, Hinjawadi, Pune-411057, Maharashtra, India.",Pune,Maharashtra,India,XBRL_RegisteredOffice
+Birlasoft Limited,2,Corporate Office,"Assotech Business Cresterra, Tower 3, Plot No. 22, Sector 135,
+Expressway Noida - 201301, India.",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+Birlasoft Limited,3,Facility,Pune office SDB,Pune,Maharashtra,India,XBRL_TextExtraction
+Birlasoft Limited,4,Facility,Pune location is certified with ISO,Pune,Maharashtra,India,XBRL_TextExtraction
+Birla Corporation Limited,1,Registered Office,"9/1, R N Mukherjee Road, Birla Building, Kolkata 700 001",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+Birla Corporation Limited,2,Corporate Office,"1, Shakespeare Sarani (2nd Floor), Kolkata 700 071",Kolkata,West Bengal,India,XBRL_CorporateOffice
+Birla Corporation Limited,3,Plant,"Chanderia, Rajasthan",,Rajasthan,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+BLS International Services Limited,1,Registered Office,"G-4B-1 Extension, Mohan Co-Operative Indl. Estate, Mathura Road, New Delhi 110044",Delhi,Delhi,India,XBRL_RegisteredOffice
+BLS International Services Limited,2,Corporate Office,"912, Indraprakash Building, 21, Barakhamba Road, New Delhi 110001",Delhi,Delhi,India,XBRL_CorporateOffice
+Blue Dart Express Limited,1,Registered Office,"Blue Dart Centre, Sahar Airport Road, Andheri (East), Mumbai – 400099",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Blue Star Limited,1,Registered Office,"Kasturi Buildings, Mohan T Advani Chowk, Jamshedji Tata Road, Mumbai 400020",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Blue Star Limited,2,Corporate Office,"Band Box House, Dr Annie Besant Road, Worli, Mumbai 400030",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Bosch limited,1,Registered Office,"Hosur Road, Adugodi, bangalore, Karnataka, 560030, India",Bangalore,Karnataka,India,XBRL_RegisteredOffice
+Bosch limited,2,Plant,"Bengaluru, Bidadi, Chennai, Gangaikondan, Jaipur and Naganathapura",Bengaluru,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Brigade Enterprises Limited,1,Registered Office,"29th & 30th Floor, World Trade Center, 26/1, Brigade Gateway Dr. Rajkumar Road, Malleswaram-Rajajinagar Bangalore - 560055",Bangalore,Karnataka,India,XBRL_RegisteredOffice
+Brigade Enterprises Limited,2,Plant,Brigade Group has its development projects across six cities in India as mentioned in section A of the report.,,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Britannia Industries Limited,1,Registered Office,"5/1A, Hungerford Street, Kolkata-700017, West Bengal, India",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+Britannia Industries Limited,2,Corporate Office,"Prestige Shantiniketan, The Business Precinct, Tower C, 15th, 16th & 17th Floor, Whitefield Main Road,Mahadevapura Post, Bengaluru - 560048, Karnataka, India",Bengaluru,Karnataka,India,XBRL_CorporateOffice
+Britannia Industries Limited,3,Plant,"Hajipur, Bihar",,Bihar,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Campus Activewear Limited,1,Registered Office,"D1- Udyog Nagar, Main Rohtak Road, New Delhi- 110041",Delhi,Delhi,India,XBRL_RegisteredOffice
+Campus Activewear Limited,2,Corporate Office,"DLF Cyber park, Block B, First Floor, Sector-20, Udyog Vihar, Phase III, Gurugram- 122016",Gurugram,Haryana,India,XBRL_CorporateOffice
+Canara Bank,1,Registered Office,"Canara Bank, Head Office,
+112 J C Road, Bengaluru- 560002",Bengaluru,Karnataka,India,XBRL_RegisteredOffice
+Can Fin Homes Limited,1,Registered Office,"No.29/1, 1st Floor, Sir M N Krishna Rao Road, Basavanagudi, Bengaluru 560004",Bengaluru,Karnataka,India,XBRL_RegisteredOffice
+Caplin Point Laboratories Limited,1,Registered Office,"Ashvich Towers, 3rd Floor, No.3, Developed Plots Industrial Estate, Perungudi, Chennai, Tamil Nadu 600096",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+Capri Global Capital Limited,1,Registered Office,"502, Tower A, Peninsula Business Park, Senapati Bapat Marg, Lower Parel Mumbai - 400013",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Carborundum Universal Limited,1,Registered Office,"Dare House’, No.234, N.S.C.Bose Road, Parrys, Chennai ‐ 600001",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+Castrol India Limited,1,Registered Office,"Technopolis Knowledge Park, Mahakali Caves Road, Andheri (East), Mumbai – 400 093",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Castrol India Limited,2,Facility,Mumbai continues to procure green power for,Mumbai,Maharashtra,India,XBRL_TextExtraction
+CCL Products India Limited,1,Registered Office,"Duggirala, Guntur, Andhra Pradesh -522330, India",Guntur,Andhra Pradesh,India,XBRL_RegisteredOffice
+CCL Products India Limited,2,Corporate Office,"8-2-269/4A, Road No. 2, Banjara Hills, Hyderabad - 500034, Telangana, India",Hyderabad,Telangana,India,XBRL_CorporateOffice
+CEAT Limited,1,Registered Office,"463, Dr. Annie Besant Road, Worli, Mumbai - 400 030",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Cello World Limited,1,Registered Office,"597/2A, Somnath Road, Dabhel, Nani Daman 396 210, Daman and Diu, India",Daman,Daman and Diu,India,XBRL_RegisteredOffice
+Cello World Limited,2,Corporate Office,"Cello House, Corporate Avenue, B Wing, 8th Floor, Sonawala Road, Goregaon (East), Mumbai – 400 063, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Central Bank of India,1,Registered Office,"Chandermukhi Building, Nariman Point, Mumbai - 400 021",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Century Plyboards India Limited,1,Registered Office,"P-15/1, Taratala Road, Kolkata- 700 088",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+Century Plyboards India Limited,2,Corporate Office,"CENTURY HOUSE, P-15/1, Taratala Road, Kolkata - 700 088",Kolkata,West Bengal,India,XBRL_CorporateOffice
+Century Plyboards India Limited,3,Plant,"Karnal, Gummidipoondi, Hoshiarpur",,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Century Plyboards India Limited,4,Facility,Kolkata and,Kolkata,West Bengal,India,XBRL_TextExtraction
+CERA Sanitaryware Limited,1,Registered Office,"9, GIDC Industrial Estate, Kadi-382715, Dist. Mehsana, Gujarat, India.",Mehsana,Gujarat,India,XBRL_RegisteredOffice
+CERA Sanitaryware Limited,2,Corporate Office,"7th & 8th Floor, B Wing, Privilon, Ambli BRTS Road, ISKCON Crossroads, Ahmedabad - 380059",Ahmedabad,Gujarat,India,XBRL_CorporateOffice
+CESC Limited,1,Registered Office,"CESC House, Chowringhee Square, Kolkata 700001, West Bengal, India",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+CE INFO SYSTEMS LIMITED,1,Registered Office,"FIRST, SECOND, THIRD FLOOR, PLOT NO. 237, OKHLA INDUSTRIAL AREA, PHASE-III, NEW DELHI-110020",Delhi,Delhi,India,XBRL_RegisteredOffice
+CE INFO SYSTEMS LIMITED,2,Corporate Office,"FIRST, SECOND & THRID FLOOR, PLOT NO. 237 OKHLA INDUSTRIAL ESTATE, PHASE –III, NEW DELHI NEW DELHI South Delhi DL 110020 IN",Delhi,Delhi,India,XBRL_CorporateOffice
+CG Power and Industrial Solutions Limited,1,Registered Office,"CG House, 6th Floor, Dr. Annie Besant Road, Worli, Mumbai - 400030,  Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Chalet Hotels Limited,1,Registered Office,"Raheja Tower, Plot No. C-30, Block ‘G’, Next to Bank of Baroda, Bandra Kurla Complex, Bandra (East), Mumbai 400051",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Chemplast Sanmar Limited,1,Registered Office,"No. 9 Cathedral Road, Chennai 600086",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+CHENNAI PETROLEUM CORPORATION LIMITED,1,Registered Office,"CHENNAI PETROLEUM CORPORATION LIMITED, 536, ANNA SALAI, TEYNAMPET, CHENNAI-6000018",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+CHENNAI PETROLEUM CORPORATION LIMITED,2,Plant,"Manali, Chennai",Chennai,Tamil Nadu,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Cholamandalam Financial Holdings Limited,1,Registered Office,"‘Dare House’, No. 234, NSC Bose Road, Chennai - 600 001, Tamil Nadu",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+Cholamandalam Investment and Finance Company Limited,1,Registered Office,"Chola Crest, C54-55 & Super B-4, Thiru-Vi-Ka Industrial Estate, Guindy, Chennai - 600032.",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+CIE AUTOMOTIVE INDIA LIMITED,1,Registered Office,"Suite F9D, Grand Hyatt Plaza (Lobby Level) Off Western Express Highway, Santacruz  (E) Mumbai-400055",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+CIE AUTOMOTIVE INDIA LIMITED,2,Corporate Office,"602-603, Amar Business Park, Baner Road, opp. Sadanand Resort, Pune, Maharashtra 411045",Pune,Maharashtra,India,XBRL_CorporateOffice
+Cipla Limited,1,Registered Office,"Cipla House, Peninsula Business Park, Ganpatrao Kadam Marg, Lower Parel, Mumbai - 400013",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Cipla Limited,2,Plant,"Baddi, Bommasandra, Virgonagar, Indore, Satara
+Note: As per WRI Aqueduct tool (Beta Version 3.0). Sites with water stress >80% are considered",Baddi,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+CITY UNION BANK LIMITED,1,Registered Office,"149, TSR (Big) street, Thanjavur Dist. Kumbakonam, Tamil Nadu, India - 612 001",,Tamil Nadu,India,XBRL_RegisteredOffice
+CITY UNION BANK LIMITED,2,Corporate Office,"""Narayana"" No.24B, Gandhi Nagar Kumbakonam, Tamilnadu, India - 612 001",,,India,XBRL_CorporateOffice
+Clean Science and Technology Limited,1,Registered Office,"Office No. 603 & 604, 6th floor, Tower No. 15, Cybercity,Magarpatta City, Hadapsar, Pune 411013",Pune,Maharashtra,India,XBRL_RegisteredOffice
+COAL INDIA LIMITED,1,Registered Office,"Coal Bhawan, Premises 04-MAR, Action Area 1A, Newtown Rajarhat Kolkata-700156",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+COAL INDIA LIMITED,2,Facility,Gujarat and,,Gujarat,India,XBRL_TextExtraction
+Cochin Shipyard Limited,1,Registered Office,"Cochin Shipyard Limited, Administrative Building, Cochin Shipyard Premises, Perumanoor, Kochi – 682015, Kerala, India",Kochi,Kerala,India,XBRL_RegisteredOffice
+Coforge Limited,1,Registered Office,"Plot No. 13, Udyog Vihar, Phase-IV, Sector-18, Palam Road, Gurugram - 122015, Haryana, India",Gurugram,Haryana,India,XBRL_RegisteredOffice
+Coforge Limited,2,Corporate Office,"Special Economic Zone, Plot No. TZ-2& 2A, Sector - Tech Zone, Greater Noida (UP)- 201308, India",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+Computer Age Management Services Limited,1,Registered Office,"New No.10, Old No 178, M.G.R. Salai, Nungambakkam, Chennai (Madras), Tamil Nadu, 600034",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+Computer Age Management Services Limited,2,Corporate Office,"Rayala Towers, Tower - 1, Anna Salai, No.158, Rayala Towers, Tower - I, 3rd Floor, Anna Salai 
+Chennai 600002",Chennai,Tamil Nadu,India,XBRL_CorporateOffice
+Concord Biotech Limited,1,Registered Office,"1482-1486, Trasad Road, Dholka, Dist. Ahmedabad - 382225, Gujarat",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+Concord Biotech Limited,2,Corporate Office,"B-1601-1602, B-Wing, Mondeal Heights, Iskcon CrossRoad, S. G. Highway, Ahmedabad - 380015, Gujarat",Ahmedabad,Gujarat,India,XBRL_CorporateOffice
+Container Corporation of India Limited,1,Registered Office,"CONCOR Bhawan, C-3, Mathura Road, Opposite Apollo Hospital, New Delhi-110076",Delhi,Delhi,India,XBRL_RegisteredOffice
+COROMANDEL INTERNATIONAL LIMITED,1,Registered Office,"Coromandel House’, 1-2-10, Sardar Patel Road, Secunderabad - 500 003",,,India,XBRL_RegisteredOffice
+COROMANDEL INTERNATIONAL LIMITED,2,Corporate Office,"Olympia Terraces, #15B(SP), SIDCO Industrial Estate, Guindy, Chennai – 600 032",Chennai,Tamil Nadu,India,XBRL_CorporateOffice
+COROMANDEL INTERNATIONAL LIMITED,3,Plant,"Udaipur, Block Girwa, Rajasthan",Udaipur,Rajasthan,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Craftsman Automation Limited,1,Registered Office,"123/4, Sangothipalayam Road, Arasur Post, Coimbatore –641407 Tamil Nadu, India.",Coimbatore,Tamil Nadu,India,XBRL_RegisteredOffice
+Craftsman Automation Limited,2,Corporate Office,"Krishna Towers, 4th & 5th Floor, 1087, Avinashi Road,Coimbatore – 641037 Tamil Nadu, India.",Coimbatore,Tamil Nadu,India,XBRL_CorporateOffice
+CreditAccess Grameen Limited,1,Registered Office,"New No. 49 (Old No725), 46th Cross, 8th Block, Jayanagar, 
+(Next to Rajalakshmi Kalyana Mantap) Bengaluru KA-560070",Bengaluru,Karnataka,India,XBRL_RegisteredOffice
+Crisil Limited,1,Registered Office,"Crisil House, Central Avenue, Hiranandani Business Park, Powai, Mumbai 400 076*
+
+*Registered Office shifted to Lightbridge IT Park, Saki Vihar Road, Andheri East, Mumbai 400 072 w.e.f. March 19, 2025.",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Crisil Limited,2,Corporate Office,"Lightbridge IT Park, Saki Vihar Road, Andheri East, Mumbai 400 072",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Crisil Limited,3,Plant,"India offices of Ahmedabad, Gurugram, Pune (one)",Ahmedabad,Maharashtra,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Crisil Limited,4,Facility,"Mumbai
+In the conceptualisation and execution of our new office at Lightbridge",Mumbai,Maharashtra,India,XBRL_TextExtraction
+Crompton Greaves Consumer Electricals Limited,1,Registered Office,"05GBD, Godrej Business District, Pirojshanagar, Vikhroli (West), Mumbai 400079",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Cummins India Limited,1,Registered Office,"Cummins India Office Campus, Tower A, 5th Floor, Survey No. 21, Balewadi Pune, 411045, Maharashtra, India",Pune,Maharashtra,India,XBRL_RegisteredOffice
+Cyient Limited,1,Registered Office,"4th Floor, ‘A’ Wing, Plot .11, Software, Units Layout,
+Infocity, Madhapur Hyderabad, Telangana - 500 0815G, Survey No.99/1, Mamidipalli Village, GMR Aerospace & Industrial Park Limited, Rajiv Gandhi International Airport, Shamshabad, Hyderabad, Telangana, India - 500108",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+Cyient Limited,2,Corporate Office,"4th Floor, ‘A’ Wing, Plot .11, Software, Units Layout,
+Infocity, Madhapur Hyderabad, Telangana - 500 081",Hyderabad,Telangana,India,XBRL_CorporateOffice
+Dabur India Limited,1,Registered Office,"8/3, Asaf Ali Road, New Delhi – 110002",Delhi,Delhi,India,XBRL_RegisteredOffice
+Dabur India Limited,2,Corporate Office,"Dabur India Limited, Kaushambi, Ghaziabad – 201010, Uttar Pradesh, India",Ghaziabad,Uttar Pradesh,India,XBRL_CorporateOffice
+Dabur India Limited,3,Plant,"i.	Uttar Pradesh - Sahibabad
+ii.	Rajasthan - Newai, Alwar
+iii.	Madhya Pradesh – Indore, Pithampur
+iv.	Dadra & Nagar Haveli - Silvassa",Indore,Rajasthan,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Dabur India Limited,4,Facility,Uttar Pradesh now operates entirely on renewable electricity,,Uttar Pradesh,India,XBRL_TextExtraction
+Dabur India Limited,5,Facility,Uttar Pradesh has become the first factory in the Dabur Network to operate using,,Uttar Pradesh,India,XBRL_TextExtraction
+Dalmia Bharat Limited,1,Registered Office,"Dalmiapuram, Dist. Tiruchirapalli, Tamil Nadu- 621651",,Tamil Nadu,India,XBRL_RegisteredOffice
+Dalmia Bharat Limited,2,Corporate Office,"11th & 12th Floors, Hansalaya Building, 15, Barakhamba Road, New Delhi-110001",Delhi,Delhi,India,XBRL_CorporateOffice
+Dalmia Bharat Limited,3,Plant,"Kadapa, Andhra Pradesh",,Andhra Pradesh,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Dalmia Bharat Limited,4,Plant,"Belgaum, Karnataka",,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress2
+Data Patterns India Limited,1,Registered Office,"Plot No. H-9, Fourth Main Road, SIPCOT IT Park, Siruseri, Chenai - 603103",,,India,XBRL_RegisteredOffice
+DCM Shriram Limited,1,Registered Office,"2nd Floor (West wing), Worldmark-1, Aerocity, New Delhi-110037",Delhi,Delhi,India,XBRL_RegisteredOffice
+DCM Shriram Limited,2,Facility,Kota,Kota,,India,XBRL_TextExtraction
+DCM Shriram Limited,3,Facility,Kota resulted in reduced steam consumption,Kota,,India,XBRL_TextExtraction
+Deepak Nitrite Limited,1,Registered Office,"2nd Floor, Fermenter House, Alembic City, Alembic Avenue Road,
+Vadodara - 390003",Vadodara,Gujarat,India,XBRL_RegisteredOffice
+Deepak Nitrite Limited,2,Plant,Nandesari and Dahej in Gujarat and Jeedimetla in Telangana,,Gujarat,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Delhivery Limited,1,Registered Office,"N24-N34, S24-S34, Air Cargo Logistics Centre-II, Opposite Gate 6 Cargo Terminal, IGI Airport, New Delhi 110037",Delhi,Delhi,India,XBRL_RegisteredOffice
+Delhivery Limited,2,Corporate Office,"Plot No. 5, Sector 44, Gurugram 122001",Gurugram,Haryana,India,XBRL_CorporateOffice
+Devyani International Limited,1,Registered Office,"F-2/7, Okhla Industrial Area, Phase-I, New Delhi-110020",Delhi,Delhi,India,XBRL_RegisteredOffice
+Devyani International Limited,2,Corporate Office,"Plot No.-18, Sector-35, Gurugram-122004, Haryana",Gurugram,Haryana,India,XBRL_CorporateOffice
+Devyani International Limited,3,Plant,"As per the Central Ground Water Authority categorization, for all stores/offices located in water stress areas.",,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+DIVIS LABORATORIES LIMITED,1,Registered Office,"Divi Towers,1-72/23(P)/DIVIS/303, Cyber Hills, Gachibowli, Hyderabad - 500 032, Telangana, India",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+Dixon Technologies India Limited,1,Registered Office,"B-14 & 15, Phase-II, District Gautam Buddha Nagar,
+Noida, Uttar Pradesh-201305",Noida,Uttar Pradesh,India,XBRL_RegisteredOffice
+DLF Limited,1,Registered Office,"Shopping Mall, 3rd Floor, Arjun Marg, Phase - I, DLF City, Gurugram - 122 002 (Haryana)",Gurugram,Haryana,India,XBRL_RegisteredOffice
+DLF Limited,2,Corporate Office,"DLF Gateway Tower, R Block, DLF City, Phase – III, Gurugram - 122 002 (Haryana)",Gurugram,Haryana,India,XBRL_CorporateOffice
+DLF Limited,3,Plant,"DLF has operations across the locations of North Capital Region (Gurugram and New Delhi), Chennai and Hyderabad.",Gurugram,Delhi,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+DOMS Industries Limited,1,Registered Office,"J-19, G.I.D.C, Opp. Telephone Exchange, Umbergaon, Dist. Valsad, Gujarat, India – 396171",Valsad,Gujarat,India,XBRL_RegisteredOffice
+DOMS Industries Limited,2,Corporate Office,"Plot No. 117, 52 Hector Expansion Area, G.I.D.C, Umbergaon, Dist. Valsad, Gujarat, India – 396171",Valsad,Gujarat,India,XBRL_CorporateOffice
+Dr Reddys Laboratories Limited,1,Registered Office,"8-2-337, Road No. 3, Banjara Hills, Hyderabad – 500 034,  Telangana, India",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+Dr Reddys Laboratories Limited,2,Plant,"Hyderabad, Pydibhimavaram",Hyderabad,Telangana,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Easy Trip Planners Limited,1,Registered Office,"223 FIE Patparganj Industrial Area, East Delhi,
+Delhi-110092",Delhi,Delhi,India,XBRL_RegisteredOffice
+eClerx Services Limited,1,Registered Office,"Sonawala Building, 1st Floor, 29 Bank Street, Fort, Mumbai – 400 023, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+eClerx Services Limited,2,Corporate Office,"4th Floor, Express Towers, Nariman Point, Mumbai – 400021",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+EICHER MOTORS LIMITED,1,Registered Office,"Office Number 1111, 11th Floor, Ashoka Estate, Plot no. 24, Barakhamba Road, New Delhi - 110001, India",Delhi,Delhi,India,XBRL_RegisteredOffice
+EICHER MOTORS LIMITED,2,Corporate Office,"#96, Sector 32, Gurugram- 122 001, Haryana, India",Gurugram,Haryana,India,XBRL_CorporateOffice
+EIH Limited,1,Registered Office,"N-806-A, 8th Floor, Diamond Heritage Building, 16, Strand Road, Fairley Place, Kolkata – 700 001 West Bengal",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+EIH Limited,2,Corporate Office,"7 Shamnath Marg, Delhi – 110054",Delhi,Delhi,India,XBRL_CorporateOffice
+EIH Limited,3,Plant,"The following hotels/units are located in water stress areas: 
+ The Oberoi Gurgaon, The Oberoi New Delhi, Trident Gurgaon, Maidens New Delhi, The Oberoi Amarvilas, Agra, Trident Agra, The Oberoi Bangalore, Trident Hyderabad, Trident Chennai, The Oberoi Vanyavilas, The Oberoi Udaivilas, The Oberoi Rajvilas, Trident Jaipur, Trident Udaipur, The Oberoi Marrakech, The Oberoi 
+       Lombok, On-Flight services, Delhi, On-Flight services, Chennai",Gurgaon,Delhi,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Electronics Mart India Limited,1,Registered Office,"6-1-91, Shop No. 10, Ground Floor, Next to Telephone Bhawan, Secretariat Road, Saifabad, Hyderabad,Telangana - 500004",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+Electronics Mart India Limited,2,Corporate Office,"6-3-666/A1 to 7, Opp. NIMS Hospital, Panjagutta Main Road, Hyderabad,Telangana - 500082",Hyderabad,Telangana,India,XBRL_CorporateOffice
+Electrosteel Castings Limited,1,Registered Office,"Rathod Colony, Rajgangpur, Sundergarh, Odisha 770 017",,Odisha,India,XBRL_RegisteredOffice
+Electrosteel Castings Limited,2,Corporate Office,"G. K. Tower, 19, Camac Street, Kolkata – 700017",Kolkata,West Bengal,India,XBRL_CorporateOffice
+Elgi Equipments Limited,1,Registered Office,"Elgi Industrial Complex III, Trichy Road, Singanallur Coimbatore -641 005",Coimbatore,Tamil Nadu,India,XBRL_RegisteredOffice
+Elgi Equipments Limited,2,Plant,"CCP, ACP and Foundry Plant",,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Emami Limited,1,Registered Office,"Emami Tower, 687, Anandapur, E.M. Bypass, Kolkata 700107",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+Emami Limited,2,Plant,"Silvassa, Dadra and Nagar Haveli",Silvassa,Dadra and Nagar Haveli,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Endurance Technologies Limited,1,Registered Office,"E-92, MIDC Industrial Area, Waluj, Chh. Sambhajinagar - 431 136, Maharashtra",,Maharashtra,India,XBRL_RegisteredOffice
+Endurance Technologies Limited,2,Plant,"Narasapura plant, located in Malur Taluk of Kolar district",,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Engineers India Limited,1,Registered Office,"Engineers India Bhavan, 1, Bhikaji Cama Place, New Delhi -110066",Delhi,Delhi,India,XBRL_RegisteredOffice
+Equitas Small Finance Bank Limited,1,Registered Office,"4th Floor, Phase II, Spencer Plaza No.769,
+Mount Road, Anna Salai,
+Chennai – 600 002, Tamil Nadu",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+Eris Lifesciences Limited,1,Registered Office,"Shivarth Ambit, Plot No 142/2, Ramdas Road, Off SBR, Near Swati Bungalows, Bodakdev, Ahmedabad, Gujarat-380054",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+Eris Lifesciences Limited,2,Facility,Ahmedabad for both the fiscal years,Ahmedabad,Gujarat,India,XBRL_TextExtraction
+Eris Lifesciences Limited,3,Facility,Ahmedabad was added to the scope of reporting,Ahmedabad,Gujarat,India,XBRL_TextExtraction
+Eris Lifesciences Limited,4,Facility,Guwahati manufacturing facility to eliminate liquid waste and recycle treated water for gardening and utility purposes,Guwahati,,India,XBRL_TextExtraction
+ESAB India Limited,1,Registered Office,"No.13, 3rd Main Road, Industrial Estate, Ambattur,Chennai 600 058.",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+Escorts Kubota Limited,1,Registered Office,"15/5, Mathura Road, Faridabad, Haryana – 121003, India",Faridabad,Haryana,India,XBRL_RegisteredOffice
+Eureka Forbes Limited,1,Registered Office,"B1/B2, 7th Floor, 701, Marathon Innova, Ganpatrao Kadam Marg, Lower Parel, Mumbai – 400013",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Exide Industries Limited,1,Registered Office,"Exide House, 59E Chowringhee Road, Kolkata - 700020",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+Exide Industries Limited,2,Plant,"Krishnagiri district, Tamil Nadu; Purba Medinipur district, West Bengal",,Tamil Nadu,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+FERTILIZERS AND CHEMICALS TRAVANCORE LIMITED,1,Registered Office,"Eloor Udyogamandal, Ernakulam District, Kerala - 683501",,Kerala,India,XBRL_RegisteredOffice
+FINE ORGANIC INDUSTRIES LIMITED,1,Registered Office,"Fine House, Anandji Street, Off M. G. Road, Ghatkopar East, Mumbai- 400077, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Finolex Cables Limited,1,Registered Office,"26-27 Mumbai-Pune Road, Pimpri, Pune - 411 018,
+Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Finolex Industries Limited,1,Registered Office,"Gat No.399, Village Urse, Taluka Maval, District Pune, Maharashtra, India - 410506",Pune,Maharashtra,India,XBRL_RegisteredOffice
+Finolex Industries Limited,2,Corporate Office,"IndiQube - The Kode, 11th Floor, Baner-Pashan Link Road Baner Gaon, Pune, Maharashtra, India - 411045",Pune,Maharashtra,India,XBRL_CorporateOffice
+Firstsource Solutions Limited,1,Registered Office,"5th Floor, Paradigm ‘B’ Wing, Mindspace, Link Road, Malad - West, Mumbai - 400064, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Five-Star Business Finance Limited,1,Registered Office,"New No.27, Old No.4, Taylor's Road, Kilpauk, Chennai - 600010",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+Force Motors Ltd,1,Registered Office,"Mumbai-Pune Road, Akurdi, Pune – 411 035",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Fortis Healthcare Limited,1,Registered Office,"Fortis Hospital, Sector 62, Phase VIII, Mohali-160062, Punjab",,Punjab,India,XBRL_RegisteredOffice
+Fortis Healthcare Limited,2,Corporate Office,"Tower A, 3rd Floor, Unitech Business Park, South City-1, Gurugram, Haryana- 120001",Gurugram,Haryana,India,XBRL_CorporateOffice
+Fortis Healthcare Limited,3,Plant,"Hospital name with location Below
+1. Fortis Hospital Kalyan, Maharashtra
+2. Fortis Hospital B G Road Bengaluru, Karnataka 
+3. Fortis Hospital C G Road Bengaluru, Karnataka 
+4. Fortis Hospital Rajaji Nagar Bengaluru, Karnataka
+5. Fortis Hospital Nagarbhavi Road Bengaluru
+6.  Karnataka Fortis Hospital Ludhiana I Punjab
+7.Fortis Hospital Ludhiana II Punjab 
+8.Fortis Hospital Amritsar Punjab 
+9. Fortis Hospital Jaipur Rajasthan 
+10. Fortis Hospital Okhla Delhi
+11. Fortis Hospital Noida UP
+12. Fortis Hospital Faridabad GurugramHaryana 
+13. Fortis Hospital La Femme GK Delhi
+14. Fortis Memorial Research Institute Gurugram, Haryana 
+15.Fortis Cancer Institute Defence Colony Delhi",Bengaluru,Maharashtra,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+GAIL India Limited,1,Registered Office,"16, Bhikaji Cama Place, R.K Puram, New Delhi-110066",Delhi,Delhi,India,XBRL_RegisteredOffice
+GAIL India Limited,2,Plant,"Gandhar, Jamnagar, Jhabua",Jamnagar,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+GAIL India Limited,3,Facility,"Vijaipur 
+
+Kochi",Kochi,,India,XBRL_TextExtraction
+GALAXY SURFACTANTS LIMITED,1,Registered Office,"C-49/2, TTC Industrial Area, Pawne, Navi Mumbai, Maharashtra – 400703",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Garden Reach Shipbuilders  Engineers Limited,1,Registered Office,"GRSE Bhavan, 61, Garden Reach Road, Kolkata, West Bengal – 700 024",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+Garden Reach Shipbuilders  Engineers Limited,2,Plant,"Garden Reach, Kolkata",Kolkata,West Bengal,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+General Insurance Corporation of India,1,Registered Office,"‘Suraksha’, 170, J. T. Road, Churchgate, Mumbai – 400020",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Genus Power Infrastructures Limited,1,Registered Office,"G-123, Sector-63, Noida, Uttar Pradesh – 201307",Noida,Uttar Pradesh,India,XBRL_RegisteredOffice
+Genus Power Infrastructures Limited,2,Corporate Office,"SPL-3, RIICO Industrial Area, Sitapura, Tonk Road, Jaipur, Rajasthan – 302022",Jaipur,Rajasthan,India,XBRL_CorporateOffice
+Gillette India Limited,1,Registered Office,"P&G Plaza, Cardinal Gracias Road, Chakala, Andheri (East), Mumbai – 400099",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+GLAND PHARMA LIMITED,1,Registered Office,"SY.NO.143-148,150 &151, NEAR GANDI MAISAMMA X ROADS D.P.PALLY, DUNDIGAL ,DUNDIGAL - GANDIMAISAMMA(M), Rangareddi, MEDCHAL MALKAJGIRIDISTRICT HYDERABAD, Telangana, India, 500043",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+GLAND PHARMA LIMITED,2,Corporate Office,"Plot No.11& 84,TSIIC, Phase-IV, Pashamylaram (V), Patancheru (M), Sangareddy District, Hyderabad, Telangana, India, 502307",Hyderabad,Telangana,India,XBRL_CorporateOffice
+GlaxoSmithKline Pharmaceuticals Limited,1,Registered Office,"GlaxoSmithKline Pharmaceuticals Limited, GSK House, Worli, Dr Annie
+Besant Road, Mumbai- 400030",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+GlaxoSmithKline Pharmaceuticals Limited,2,Plant,"Ambad, Nashik",Nashik,Maharashtra,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Glenmark Pharmaceuticals Limited,1,Registered Office,"B/2, Mahalaxmi Chambers, 22, Bhulabhai Desai Road,
+Mumbai - 400026, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Glenmark Pharmaceuticals Limited,2,Corporate Office,"Glenmark House, B. D. Sawant Marg, Chakala,
+Off Western Express Highway, Andheri (E),
+Mumbai - 400 099, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Glenmark Pharmaceuticals Limited,3,Facility,"the Nashik facility to eliminate the
+use of refrigerants and coolants",Nashik,Maharashtra,India,XBRL_TextExtraction
+GLOBAL HEALTH LIMITED,1,Registered Office,"MEDANTA-MEDICLINIC, E-18, DEFENCE COLONY, 
+NEW DELHI 110024",Delhi,Delhi,India,XBRL_RegisteredOffice
+GLOBAL HEALTH LIMITED,2,Corporate Office,"“Medanta The Medicity”, Sector 38, Gurugram, Haryana 122001",Gurugram,Haryana,India,XBRL_CorporateOffice
+GLOBAL HEALTH LIMITED,3,Plant,"Gurgaon, New Delhi, Lucknow City, Indore, Patna",Gurgaon,Delhi,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+GODAWARI POWER AND ISPAT LIMITED,1,Registered Office,"PLOT NO.428/2, PHASE- 1 INDUSTRIAL AREA, SILTARA, RAIPUR, Chattisgarh, India, 492001",Raipur,,India,XBRL_RegisteredOffice
+GODAWARI POWER AND ISPAT LIMITED,2,Corporate Office,"Hira Arcade, Near New Bus Stand, Pandri, Raipur Chhattisgarh 492001",Raipur,Chhattisgarh,India,XBRL_CorporateOffice
+GODFREY PHILLIPS INDIA LIMITED,1,Registered Office,"Macropolo Building, Ground Floor, Rd. Babasaheb Ambedkar Road, Lalbaug, Mumbai– 400033, Maharashtra",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+GODFREY PHILLIPS INDIA LIMITED,2,Corporate Office,"14, Omaxe Square, Jasola District Centre, New Delhi, Delhi 110025",Delhi,Delhi,India,XBRL_CorporateOffice
+GODFREY PHILLIPS INDIA LIMITED,3,Plant,"Guldhar, Meerut Road, Ghaziabad 201003",Meerut,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+GODREJ AGROVET LIMITED,1,Registered Office,"“Godrej One”, 3rd Floor,  Pirojshanagar, Eastern Express Highway, Vikhroli (East), Mumbai – 400 079,  Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+GODREJ AGROVET LIMITED,2,Plant,"Erode - Tamil Nadu, Coimbatore - Tamil Nadu, Tumakaru - Karnataka, Malkajgiri - Telangana, Pune - Maharashtra, Surat - Gujarat, Ludhiana - Punjab, Vaishali - Bihar, Ajmer - Rajasthan, Indore - Madhya Pradesh, Varanasi - Uttar Pradesh, Bundi - Rajasthan, Puducherry",Coimbatore,Maharashtra,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Godrej Consumer Products Limited,1,Registered Office,"Godrej One, Pirojshanagar, Eastern Express Highway, Vikhroli
+(E), Mumbai 400 079",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Godrej Consumer Products Limited,2,Plant,"Our plants in Karaikal, Chennai, Kathua and Malanpur – Coil 6, Coil 7, Coil 9, Coil 11, Conso,
+Kathua, MM Nagar, and Malanpur are considered in FY 24-25 and FY23-24",Chennai,Tamil Nadu,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Godrej Industries Limited,1,Registered Office,"Godrej One, Pirojshanagar, Eastern Express Highway, Vikhroli (East), Mumbai – 400 079, Maharashtra.",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Godrej Industries Limited,2,Plant,Valia In Gujarat and Ambernath in Maharashtra,,Maharashtra,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Godrej Properties Limited,1,Registered Office,"Godrej One, 5th Floor, Pirojshanagar, Eastern Express Highway, Vikhroli (East), Mumbai – 400079",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Go Digit General Insurance Limited,1,Registered Office,"1st to 6th Floor, Ananta One, Pride Hotel Lane, Narveer Tanaji Wadi, City Survey No.1579, Shivajinagar, Pune, Pune, Maharashtra, India, 411005",Pune,Maharashtra,India,XBRL_RegisteredOffice
+Go Digit General Insurance Limited,2,Corporate Office,"Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, Bengaluru 560095",Bengaluru,Karnataka,India,XBRL_CorporateOffice
+GRANULES INDIA LIMITED,1,Registered Office,"15th Floor, Granules Tower,Botanical Garden Road, Kondapur, Hyderabad – 500084, Telangana, India.",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+GRANULES INDIA LIMITED,2,Corporate Office,"15th Floor, Granules Tower, Botanical Garden Road, Kondapur, Hyderabad – 500084, Telangana, India.",Hyderabad,Telangana,India,XBRL_CorporateOffice
+GRANULES INDIA LIMITED,3,Plant,"Hyderabad (Gagillapur, Bonthapally, Jeedimetla, Pragathi Nagar, Shameerpet), Visakhapatnam (Parawada) and Pune",Hyderabad,Telangana,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+GRAPHITE INDIA LIMITED,1,Registered Office,"31, Chowringhee Road, Kolkata - 700 016",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+GRAPHITE INDIA LIMITED,2,Plant,"Titlagarh, Bolangir District, Odisha",,Odisha,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Grasim Industries Limited,1,Registered Office,"Birlagram, Nagda – 456 331, Madhya Pradesh, India",,Madhya Pradesh,India,XBRL_RegisteredOffice
+Grasim Industries Limited,2,Corporate Office,"Aditya Birla Centre, ‘A’ Wing, 2nd Floor,S. K. Ahire Marg, Worli, Mumbai – 400 030, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Grasim Industries Limited,3,Plant,"Cellulosic Fibres - Vilayat, Kharach, Nagda, Harihar, Veraval. 
+Chemicals - Nagda, Veraval, Vilayat, Balabhadhrapuram,Ganjam. 
+Paints - Panipat, Cheyyar, Ludhiana.
+Textiles - Malanpur, Kolhapur. 
+Insulators - Halol.",Panipat,Haryana,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Grindwell Norton Limited,1,Registered Office,"5th Level, Leela Business Park, Andheri-Kurla Road Marol, Andheri (East), Mumbai 400 059",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Grindwell Norton Limited,2,Plant,All sites of GNO,,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Gujarat Ambuja Exports Limited,1,Registered Office,"""Ambuja Tower"", Opp. Sindhu Bhavan, Sindhu Bhavan Road, PO - Thaltej, Bodakdev, Ahmedabad - 380054",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+Gujarat Fluorochemicals Limited,1,Registered Office,"Plot No. 1, Khasra Nos. 264 to 267, Industrial Area, Village Basal, Una, Himachal Pradesh - 174303",,Himachal Pradesh,India,XBRL_RegisteredOffice
+Gujarat Fluorochemicals Limited,2,Corporate Office,"Inox Towers, 17 Sector 16 A, Noida - 201301, Uttar Pradesh",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+Gujarat Fluorochemicals Limited,3,Plant,"All our facilities are located in safe zones as classified by the Central Ground Water Authority
+(CGWA)",,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+GUJARAT GAS LIMITED,1,Registered Office,"Gujarat Gas Limited, Gujarat Gas CNG Station Sector 5/C, Gandhinagar, Gandhinagar, Gujarat, India, 382006",Gandhinagar,Gujarat,India,XBRL_RegisteredOffice
+GUJARAT GAS LIMITED,2,Corporate Office,"Office No. 4 & 5, Gr. Floor IT Tower-2, Infocity, Gandhinagar,Gujarat - 382009",Gandhinagar,Gujarat,India,XBRL_CorporateOffice
+GUJARAT GAS LIMITED,3,Plant,"Corporate office of Gandhinagar, Offices, CNG & CGS stations of Dadra & Nagar Haveli (DNH), Gandhinagar, Kutch, Jalore, Sirohi, Ujjain, Dewas, Indore, Ratlam, Jhabua, Banswara, Dungarpur, Amritsar, Bathinda, Hoshiarpur, Gurdaspur, Sirsa, Fatehabad, Mansa, Ferozepur, Faridkot, Sri Muktsar Sahib, Warehouses in Silvasa, Gandhinagar, Amritsar, Bathinda, Sirsa, Ratlam, Sirohi",Gandhinagar,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Gujarat Pipavav Port Limited,1,Registered Office,"Pipavav Port, At Post Rampara-2 via Rajula Dist Amreli - 365560",,,India,XBRL_RegisteredOffice
+Gujarat Pipavav Port Limited,2,Corporate Office,"5th Floor, Godrej Two, Pirojshanagar, Vikhroli East, Mumbai - 400079",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Gujarat State Petronet Limited,1,Registered Office,"GSPC Bhavan, Behind Udyog Bhavan, Sector-11, Gandhinagar-382 010, Gujarat, India.",Gandhinagar,Gujarat,India,XBRL_RegisteredOffice
+Gujarat State Petronet Limited,2,Corporate Office,"GSPL Bhavan, E-18, GIDC Electronics Estate, Nr. K-7 Circle, Sector – 26, Gandhinagar",Gandhinagar,,India,XBRL_CorporateOffice
+Gujarat State Petronet Limited,3,Plant,"Vadodara, Bhavnagar, Anjar, Ahmedabad & Gandhinagar",Vadodara,Gujarat,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+G R Infraprojects Limited,1,Registered Office,"Revenue Block No. 223, Old Survey No. 384/1, 384/2, Paiki and 384/3, Khata No. 464, Kochariya, Ahmedabad, Gujarat - 382220, India",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+G R Infraprojects Limited,2,Corporate Office,"G R Infraprojects Limited, 2nd Floor, Novus Tower, Plot No. 18, Sector 18, Gurugram, Haryana - 122015, India",Gurugram,Haryana,India,XBRL_CorporateOffice
+Happiest Minds Technologies Limited,1,Registered Office,"53/1-4, Hosur, Main Road, Madivala, Bengaluru-560068, Karnataka",Hosur,Karnataka,India,XBRL_RegisteredOffice
+Happy Forgings Limited,1,Registered Office,"BXXIX-2254/1, Kanganwal Road, P.O. Jugiana, Ludhiana-141120",Ludhiana,,India,XBRL_RegisteredOffice
+Happy Forgings Limited,2,Corporate Office,"Happy Forgings Ltd., H.B. No. 220, P.O. Rajgarh, Village Dugri, Ludhiana-141421",Ludhiana,,India,XBRL_CorporateOffice
+Havells India Limited,1,Registered Office,"904, 9th Floor, Surya Kiran Building, KG Marg, Connaught Place, New Delhi – 110001",Delhi,Delhi,India,XBRL_RegisteredOffice
+Havells India Limited,2,Corporate Office,"QRG Towers, 2D, Sector – 126, Expressway, Noida – 201304",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+Havells India Limited,3,Plant,"Sahibabad, Faridabad, Alwar, Neemrana, Ghiloth, Tumakuru, Noida",Faridabad,Haryana,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+HCL Technologies Limited,1,Registered Office,"806, Siddharth, 96, Nehru Place, New Delhi - 110019, India",Delhi,Delhi,India,XBRL_RegisteredOffice
+HCL Technologies Limited,2,Corporate Office,"Technology Hub, Special Economic Zone, Plot No. 3A, Sector 126, Noida - 201304, U.P., India",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+HCL Technologies Limited,3,Plant,"Bengaluru (Bangalore), Chennai, Gurugram, Hyderabad, Lucknow, Madurai, Nagpur, Noida, Pune, Vijayawada",Bengaluru,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+HDFC Asset Management Company Limited,1,Registered Office,"HDFC House, 2nd Floor, H.T. Parekh Marg, 165-166, Backbay Reclamation, Churchgate, Mumbai – 400 020",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+HDFC Bank Limited,1,Registered Office,"HDFC Bank House, Senapati Bapat Marg, Lower Parel, Mumbai - 400 013",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+HDFC Bank Limited,2,Corporate Office,"HDFC Bank House, Shiv Sagar Estate, Dr Annie Besant Road, Worli, Mumbai - 400 018",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+HDFC Life Insurance Company Limited,1,Registered Office,"13th Floor, Lodha Excelus, Apollo Mills Compound, N.M Joshi Marg, Mahalaxmi, Mumbai- 400 011",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+HDFC Life Insurance Company Limited,2,Corporate Office,"12th, 13th and 14th Floor, Lodha Excelus, Apollo Mills Compound, N.M Joshi Marg, Mahalaxmi, Mumbai- 400 011",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+HEG Limited,1,Registered Office,"Mandideep, Near Bhopal Dist. Raisen MP- 462046",Bhopal,Madhya Pradesh,India,XBRL_RegisteredOffice
+HEG Limited,2,Corporate Office,"Bhilwara Towers, A-12, Sector-1, Noida - 201301",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+HERO MOTOCORP LIMITED,1,Registered Office,"THE GRAND PLAZA, PLOT NO. 2 NELSON MANDELA ROAD, VASANT KUNJ - PHASE - II, NEW DELHI - 110070",Delhi,Delhi,India,XBRL_RegisteredOffice
+HERO MOTOCORP LIMITED,2,Plant,Haryana and Rajasthan,,Rajasthan,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+HFCL Limited,1,Registered Office,"8, Electronics Complex, Chambaghat, Solan - 173213, Himachal Pradesh",,Himachal Pradesh,India,XBRL_RegisteredOffice
+HFCL Limited,2,Corporate Office,"8, Commercial Complex, Masjid Moth, Greater Kailash- II, New Delhi-110 048",Delhi,Delhi,India,XBRL_CorporateOffice
+HFCL Limited,3,Plant,"HFCL Telecom Plant at Manesar, HFCL Haryana Offices: (Building 28, Sector 32, Gurugram;
+Building No. 38, Sector 38, Gurugram; Plot No. 229, Udyog Vihar Phase 1, Sector 20, Gurugram), HFCL Corporate
+Office Delhi (8, Commercial Complex, Masjid Moth, Greater Kailash – II, New Delhi), Jharkhand Office - Ranchi,
+Punjab Office - Ferozepur, Ludhiana, UP Office - Lucknow, Rajasthan Office- Jaipur, Karnataka Office - Bangalore",Manesar,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+HFCL Limited,4,Facility,Delhi and  Gurugram Office,Delhi,Delhi,India,XBRL_TextExtraction
+HFCL Limited,5,Facility,Manesar has obtained EPR Registration under the,Manesar,,India,XBRL_TextExtraction
+Himadri Speciality Chemical Limited,1,Registered Office,"23-A, Netaji Subhas Road, 8th Floor, Suite No. 15, Kolkata – 700001",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+Himadri Speciality Chemical Limited,2,Corporate Office,"8, India Exchange Place, 2nd Floor, Kolkata -700001",Kolkata,West Bengal,India,XBRL_CorporateOffice
+HINDALCO INDUSTRIES LIMITED,1,Registered Office,"21st Floor, One International Center, Tower 4, Near Prabhadevi Railway Station, Senapati Bapat Marg, Prabhadevi, Mumbai, Maharashtra- 400013. India w.e.f. Dec 1, 2023",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+HINDALCO INDUSTRIES LIMITED,2,Corporate Office,"7th Floor, Birla Centurion, Pandurang Budhkar Marg, Worli, Mumbai – 400030, India",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+HINDALCO INDUSTRIES LIMITED,3,Plant,"Dahej, Belagavi, Kuppam",,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+HINDUSTAN AERONAUTICS LIMITED,1,Registered Office,"15/1, CUBBON ROAD, BANGALURU - 560001",,,India,XBRL_RegisteredOffice
+HINDUSTAN COPPER LIMITED,1,Registered Office,"‘Tamra Bhavan’ 1, Ashutosh Chowdhury Avenue, Kolkata – 700019, West Bengal, India",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+HINDUSTAN COPPER LIMITED,2,Plant,"Khetri Copper Complex (KCC), Khetri, Jhunjhunu, Rajasthan",,Rajasthan,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Hindustan Petroleum Corporation Limited,1,Registered Office,"Petroleum House, 17, Jamshedji Tata Road, Churchgate, Mumbai
+400020",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Hindustan Petroleum Corporation Limited,2,Corporate Office,Same as above,,,India,XBRL_CorporateOffice
+Hindustan Petroleum Corporation Limited,3,Plant,"Aviation Service Facilities : Bhuj, Goa, Kurnool
+CGD Facility : Ahmedabad, Jind
+LPG Plants : Ajmer, Bhatinda, Cherlapally,
+Gandhinagar, Jamshedpur, Jind,
+Kota, Loni
+Lube Plants : Chennai, Silvassa
+Pipeline Stations : Ajmer, Awa, Bachau, Bharatpur,
+Bhatinda, Cherlapally, Jaipur,
+Palanpur, Tikrikalan, Vadodara
+POL Depots/ Terminals : Ajmer, Bengaluru, Bharatpur,
+Bhatinda, Chennai,
+Indore, Jaipur, Jalandhar,
+Jodhpur, Vadodara
+Retail (COMCOs) : Bengaluru Based – 3 nos
+Admin Offices : HP Green R&D Centre, IS
+Centre Hyderabad",Kurnool,Goa,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Hindustan Petroleum Corporation Limited,4,Facility,Mumbai Refinery,Mumbai,Maharashtra,India,XBRL_TextExtraction
+Hindustan Unilever Limited,1,Registered Office,"Unilever House, B. D. Sawant Marg, Chakala, Andheri (East),Mumbai-400099",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Hindustan Unilever Limited,2,Plant,"As per the Central Ground Water Authority, the below locations are in water-stressed areas: Chhindwara, Nabha,
+Rajpura, Sonipat, Pondicherry, Amli, Dapada, and Nashik.",Nashik,Maharashtra,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Hindustan Unilever Limited,3,Facility,the Existing HUL Nashik Factory,Nashik,Maharashtra,India,XBRL_TextExtraction
+Hindustan Zinc Limited,1,Registered Office,"Yashad Bhavan, Udaipur, Rajasthan 313004 - India",Udaipur,Rajasthan,India,XBRL_RegisteredOffice
+Hindustan Zinc Limited,2,Plant,"Chanderiya Lead Zinc Smelter, Dariba Smelting Complex, Rajpura Dariba Mine, Sindesar Khurd Mine, Rampura Agucha Mine, Kayad Mine, Zawar Mines, Zinc Smelter Debari.",,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Hitachi Energy India Limited,1,Registered Office,"8th Floor, Brigade Opus, 70/401, Kodigehalli Main Road, Bengaluru - 560092",Bengaluru,Karnataka,India,XBRL_RegisteredOffice
+Home First Finance Company India Limited,1,Registered Office,"511, Acme Plaza, Andheri Kurla Road,
+Mumbai – 400059",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Home First Finance Company India Limited,2,Corporate Office,same as above,,,India,XBRL_CorporateOffice
+Honasa Consumer Limited,1,Registered Office,"Unit No. 404, 4th Floor, City Centre,
+Plot No. 05, Sector – 12, Dwarka, New Delhi – 110075",Delhi,Delhi,India,XBRL_RegisteredOffice
+Honasa Consumer Limited,2,Corporate Office,"10th and 11th Floor, Capital Cyberscape
+Ullahwas, Bhondsi, Gurgaon, Haryana – 122102",Gurgaon,Haryana,India,XBRL_CorporateOffice
+HONEYWELL AUTOMATION INDIA LIMITED,1,Registered Office,"56 & 57, HADAPSAR INDUSTRIALESTATE PUNE - 411 013., PUNE, Maharashtra, India, 411013",Pune,Maharashtra,India,XBRL_RegisteredOffice
+HONEYWELL AUTOMATION INDIA LIMITED,2,Plant,Fulgaon Plant,,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+ICICI Bank Limited,1,Registered Office,"ICICI Bank Tower, Near Chakli Circle, Old Padra Road, Vadodara, Gujarat 390007",Vadodara,Gujarat,India,XBRL_RegisteredOffice
+ICICI Bank Limited,2,Corporate Office,"ICICI Bank Towers, Bandra-Kurla Complex, Mumbai 400051",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+ICICI Lombard General Insurance Company Limited,1,Registered Office,"ICICI Lombard General Insurance Company Limited, ICICI Lombard House, 414, Veer Savarkar Marg, Near Siddhi Vinayak Temple, Prabhadevi, Mumbai - 400 025",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+ICICI Prudential Life Insurance Company Limited,1,Registered Office,"ICICI Prulife Towers, 1089, Appasaheb Marathe Marg, Prabhadevi, Mumbai - 400 025",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+IDBI Bank Limited,1,Registered Office,"IDBI Tower, WTC Complex, Cuffe Parade, Mumbai - 400005",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+IDBI Bank Limited,2,Facility,Mumbai and all its Zonal Offices,Mumbai,Maharashtra,India,XBRL_TextExtraction
+IDFC FIRST Bank Limited,1,Registered Office,"KRM Tower, 7th Floor, No. 1, Harrington Road, Chetpet, Chennai – 600 031, Tamil Nadu, India.",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+IDFC FIRST Bank Limited,2,Corporate Office,"IDFC FIRST Bank Tower, The Square, C-61, G-Block, Bandra-Kurla Complex, Bandra (East), Mumbai – 400 051, Maharashtra, India.",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+IFCI Limited,1,Registered Office,"IFCI Limited, IFCI Tower, 61 Nehru Place, New Delhi-110019",Delhi,Delhi,India,XBRL_RegisteredOffice
+IIFL Finance Limited,1,Registered Office,"IIFL House, Sun Infotech Park, Road No. 16V, Plot No. B-23, Thane Industrial Area, Wagle Estate, Thane – 400604",Thane,,India,XBRL_RegisteredOffice
+IIFL Finance Limited,2,Corporate Office,"802, 8th Floor, Hubtown Solaris, N.S. Phadke Marg, Vijay Nagar, Andheri East, Mumbai - 400069",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Indegene Limited,1,Registered Office,"Aspen G4, 3rd Floor, Manyata Embassy Business Park Outer Ring Road, Nagavara, Bangalore, Karnataka, India – 560 045",Bangalore,Karnataka,India,XBRL_RegisteredOffice
+INDIAMART INTERMESH LIMITED,1,Registered Office,"1st Floor, 29-Daryaganj, Netaji Subash Marg, New Delhi- 110002",Delhi,Delhi,India,XBRL_RegisteredOffice
+INDIAMART INTERMESH LIMITED,2,Corporate Office,"6th floor, Tower 2, Assotech Business Cresterra, Plot No.22, Sec 135, Noida - 201305, Uttar Pradesh",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+Indian Bank,1,Registered Office,"66, Rajaji Salai, Chennai 600 001",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+Indian Bank,2,Corporate Office,"254-260, Avvai Shanmugam Salai, Royapettah, Chennai – 600 014",Chennai,Tamil Nadu,India,XBRL_CorporateOffice
+Indian Energy Exchange Limited,1,Registered Office,"1st Floor, Unit No.1.14(a), Avanta Business Centre Southern Park, D-2, District Centre, Saket New Delhi 110017, India",Delhi,Delhi,India,XBRL_RegisteredOffice
+Indian Energy Exchange Limited,2,Corporate Office,"Plot No. C-001/A/1, 9th Floor, Max Towers Sector 16B, Noida, Gautam Buddha Nagar, Uttar Pradesh-201301,India",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+Indian Oil Corporation Limited,1,Registered Office,"IndianOil Bhavan, G-9, Ali Yavar Jung Marg. Bandra (East), Mumbai-400051.",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Indian Oil Corporation Limited,2,Corporate Office,"3079/3, Sadiq Nagar, J. B. Tito Marg, New Delhi-110049",Delhi,Delhi,India,XBRL_CorporateOffice
+Indian Oil Corporation Limited,3,Plant,Gujarat Refinery,,Gujarat,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Indian Oil Corporation Limited,4,Plant,Panipat Refinery,Panipat,Haryana,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress2
+Indian Oil Corporation Limited,5,Plant,Mathura Refinery,,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress3
+Indian Oil Corporation Limited,6,Plant,Marketing Division,,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress4
+Indian Oil Corporation Limited,7,Plant,Pipeline Division,,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress5
+Indian Oil Corporation Limited,8,Facility,Panipat with,Panipat,Haryana,India,XBRL_TextExtraction
+INDIAN OVERSEAS BANK,1,Registered Office,"763, Anna Salai, Chennai-600002",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+INDIAN RAILWAY FINANCE CORPORATION LIMITED,1,Registered Office,"UG Floor, East Tower, NBCC Place, Bhisham Pitamah Marg,
+Pragati Vihar, Lodhi Road, New Delhi-110003",Delhi,Delhi,India,XBRL_RegisteredOffice
+Indian Renewable Energy Development Agency Limited,1,Registered Office,"Core 4A, 1st Floor India Habitat Centre, Lodhi Road, New Delhi, 110003",Delhi,Delhi,India,XBRL_RegisteredOffice
+Indian Renewable Energy Development Agency Limited,2,Corporate Office,"3rd Floor, August Kranti Bhawan, Bhikaji Cama Place, New Delhi – 110066",Delhi,Delhi,India,XBRL_CorporateOffice
+IndusInd Bank Limited,1,Registered Office,"IndusInd Bank Limited, 2401, Gen Thimmayya Road, (Contonment), Pune, Maharashtra - 411001, India.",Pune,Maharashtra,India,XBRL_RegisteredOffice
+IndusInd Bank Limited,2,Corporate Office,"IndusInd Bank Limited, 8th floor, Tower 1, One World Centre, 841, Senapati Bapat Marg, Prabhadevi (W), Mumbai - 400013",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+IndusInd Bank Limited,3,Facility,Mumbai is using,Mumbai,Maharashtra,India,XBRL_TextExtraction
+Indus Towers Limited,1,Registered Office,"Building No. 10, Tower-A, 4th Floor, DLF Cyber City, Gurugram - 122002",Gurugram,Haryana,India,XBRL_RegisteredOffice
+Infibeam Avenues Limited,1,Registered Office,"28th Floor, GIFT Two Building, Block No. 56, Road – 5C, Zone -5, GIFT CITY, Gandhinagar - 382050 Gujarat, India",Gandhinagar,Gujarat,India,XBRL_RegisteredOffice
+Infosys Limited,1,Registered Office,"Electronics City, Hosur Road, Bengaluru, Karnataka 560 100, India",Hosur,Karnataka,India,XBRL_RegisteredOffice
+Infosys Limited,2,Plant,"India, Australia, Bulgaria, Chile, Mexico, Poland, Romania, Saudi Arabia, South Africa, Spain, Sweden, Thailand, UAE",,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+INOX India Limited,1,Registered Office,"9th Floor, KP Platina, Race Course, Vadodara - 390007",Vadodara,Gujarat,India,XBRL_RegisteredOffice
+INOX India Limited,2,Facility,our Kalol works to help reduce GHG emissions,Kalol,,India,XBRL_TextExtraction
+Inox Wind Limited,1,Registered Office,"Plot No. 1, Khasra Nos. 264 to 267 Industrial Area, Village Basal, Una- 174303, Himachal Pradesh, India",,Himachal Pradesh,India,XBRL_RegisteredOffice
+Inox Wind Limited,2,Corporate Office,"INOXGFL Towers, Plot No.17 Sector 16A, Noida - 201301, Uttar Pradesh, India",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+INTELLECT DESIGN ARENA LIMITED,1,Registered Office,"244, Anna Salai, Chennai – 600 006",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+INTELLECT DESIGN ARENA LIMITED,2,Corporate Office,"Plot No. 3/G3, SIPCOT IT Park, Siruseri, Chennai – 600 130, India.",Chennai,Tamil Nadu,India,XBRL_CorporateOffice
+InterGlobe Aviation Limited,1,Registered Office,"Upper Ground Floor, Thapar House, Gate No. 2, Western Wing, 124, Janpath, New Delhi - 110 001",Delhi,Delhi,India,XBRL_RegisteredOffice
+InterGlobe Aviation Limited,2,Corporate Office,"Emaar Capital Tower-II, Sector-26, Sikander Ghosi, MG Road, Gurugram-122002, Haryana, India.",Gurugram,Haryana,India,XBRL_CorporateOffice
+Ion Exchange India Limited,1,Registered Office,"Ion House, Dr. E. Moses Road, Mahalaxmi, Mumbai-400011",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Ipca Laboratories Limited,1,Registered Office,"48, Kandivli Industrial Estate, Kandivli (West), Mumbai – 400 067, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Ipca Laboratories Limited,2,Corporate Office,"125, Kandivli Industrial Estate, Kandivli (West), Mumbai – 400 067, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Ipca Laboratories Limited,3,Plant,"Ratlam, Indore, Dewas, Pithampur, Ranu, Kandla, Athal and Piparia",Ratlam,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+IRB Infrastructure Developers Limited,1,Registered Office,"1101, Hiranandani Knowledge Park, 11th Floor,
+Technology Street, Hill Side Avenue,
+Opp. Hiranandani Hospital,
+Powai, Mumbai – 400 076",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+IRB Infrastructure Developers Limited,2,Corporate Office,"3rd Floor, IRB Complex,
+Chandivali Farm, Chandivali Village,
+Andheri (East), Mumbai – 400 072",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Ircon International Limited,1,Registered Office,"C-4, District Centre, Saket, New Delhi - 110017",Delhi,Delhi,India,XBRL_RegisteredOffice
+ISGEC Heavy Engineering Limited,1,Registered Office,"Radaur Road, Yamuna Nagar-135001, Haryana",,Haryana,India,XBRL_RegisteredOffice
+ISGEC Heavy Engineering Limited,2,Corporate Office,"A-4, Sector-24, Noida, Uttar Pradesh 201301",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+ITC Limited,1,Registered Office,"Virginia House, 37 Jawaharlal Nehru Road, Kolkata 700 071",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+ITC Limited,2,Plant,"Kolar, Kapurthala, Saharanpur, Ranjangaon, Kothagudem, Bengaluru and Kovai",Saharanpur,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+JAIPRAKASH POWER VENTURES LIMITED,1,Registered Office,"Complex of Jaypee Nigrie Super Thermal Power Plant  Tehsil Sarai, Nigrie, Singrauli, Madhya Pradesh 486669",,Madhya Pradesh,India,XBRL_RegisteredOffice
+JAIPRAKASH POWER VENTURES LIMITED,2,Corporate Office,"JA House -63, Basant Lok, Vasant Vihar, New Delhi-110057",Delhi,Delhi,India,XBRL_CorporateOffice
+JAIPRAKASH POWER VENTURES LIMITED,3,Facility,Uttarakhand,,Uttarakhand,India,XBRL_TextExtraction
+JAI BALAJI INDUSTRIES LIMITED,1,Registered Office,"5, BENTINCK STREET, KOLKATA- 700001",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+JBM Auto Limited,1,Registered Office,"Plot no. 133, Sector 24, Faridabad - 121005",Faridabad,Haryana,India,XBRL_RegisteredOffice
+JBM Auto Limited,2,Corporate Office,"Plot No. 9, Institutional Area, Sector-44, Gurugram- 122003, Haryana",Gurugram,Haryana,India,XBRL_CorporateOffice
+Jindal Saw Limited,1,Registered Office,"A-1, UPSIDC Industrial Area, Nandgaon Road, Kosi Kalan, Mathura, Uttar Pradesh-281403",,Uttar Pradesh,India,XBRL_RegisteredOffice
+Jindal Saw Limited,2,Corporate Office,"Jindal Centre, 12, Bhikaiji Cama Place, New Delhi-110066",Delhi,Delhi,India,XBRL_CorporateOffice
+Jindal Saw Limited,3,Plant,"New Delhi, Indore, Bhilwara, Samaghogha and Pragpar, Nanakapaya, Kosi Kalan, Nashik and Haresamudram.",Delhi,Delhi,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Jindal Stainless Limited,1,Registered Office,"O.P. Jindal Marg, Hisar, Haryana- 125005",,Haryana,India,XBRL_RegisteredOffice
+Jindal Stainless Limited,2,Corporate Office,"Jindal Centre, 12, Bhikaiji Cama Place, New Delhi-110066",Delhi,Delhi,India,XBRL_CorporateOffice
+Jindal Stainless Limited,3,Plant,"Hisar Unit, Haryana",,Haryana,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+JINDAL STEEL  POWER LIMITED,1,Registered Office,"O.P. Jindal Marg Hisar-125005, Haryana",,Haryana,India,XBRL_RegisteredOffice
+JINDAL STEEL  POWER LIMITED,2,Corporate Office,"Jindal Centre, 12, Bhikaji Cama Place, New Delhi – 110 066",Delhi,Delhi,India,XBRL_CorporateOffice
+Jio Financial Services Limited,1,Registered Office,"1st Floor, Building 4NA, Maker Maxity, Bandra Kurla Complex, Bandra (East), Mumbai, Maharashtra, India 400 051",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+JK CEMENT LIMITED,1,Registered Office,"Kamla Tower, Kanpur – 208001, Uttar Pradesh, India",Kanpur,Uttar Pradesh,India,XBRL_RegisteredOffice
+JK CEMENT LIMITED,2,Corporate Office,"Prism Tower, Ninaniya Estate, Gwal Pahari, Gurugram - 122102, Haryana",Gurugram,Haryana,India,XBRL_CorporateOffice
+JK CEMENT LIMITED,3,Plant,Gotan Integrated Cement Plant,,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+JK CEMENT LIMITED,4,Plant,Mangrol Integrated Cement Plant,,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress2
+JK CEMENT LIMITED,5,Plant,Nimbahera Integrated Cement Plant,,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress3
+JK LAKSHMI CEMENT LIMITED,1,Registered Office,"JAYAKAYPURAM BASANTGARH DISTT SIROHI, NA, Rajasthan, India, 307019",,Rajasthan,India,XBRL_RegisteredOffice
+JK LAKSHMI CEMENT LIMITED,2,Corporate Office,"Nehru House,4, Bahadur Shah Zafar Marg, New Delhi, Delhi, India, 110002",Delhi,Delhi,India,XBRL_CorporateOffice
+JK Tyre  Industries Limited,1,Registered Office,"Jaykaygram, PO - Tyre Factory, Kankroli - 313 342 (Rajasthan)",,Rajasthan,India,XBRL_RegisteredOffice
+JK Tyre  Industries Limited,2,Corporate Office,"3, Bahadur Shah Zafar Marg, New Delhi- 110 002",Delhi,Delhi,India,XBRL_CorporateOffice
+JK Tyre  Industries Limited,3,Plant,"Kankroli Tyre Plant, Chennai Tyre Plant",Chennai,Tamil Nadu,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+JM Financial Limited,1,Registered Office,"7th Floor, Cnergy, Appasaheb Marathe Marg, Prabhadevi, Mumbai 400 025",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+JSW Energy Limited,1,Registered Office,"JSW Centre, Bandra Kurla Complex, Bandra (East), Mumbai - 400 051",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+JSW Energy Limited,2,Plant,"Barmer, Ratnagiri,Vijayanagar,Sholtu",,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+JSW Infrastructure Limited,1,Registered Office,"JSW Centre, Bandra Kurla Complex, Bandra East, Mumbai 400051",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+JSW Steel Limited,1,Registered Office,"JSW Centre, Bandra Kurla Complex, Bandra East, Mumbai- 400051, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+JSW Steel Limited,2,Plant,"Vijayanagar, Salem, Raigarh, Vijayanagar Mines",Salem,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Jubilant FoodWorks Limited,1,Registered Office,"Plot No. 1A, Sector 16-A, Gautam Buddha Nagar, 
+Noida – 201301, U.P., India",Noida,Uttar Pradesh,India,XBRL_RegisteredOffice
+Jubilant FoodWorks Limited,2,Corporate Office,"15th Floor, Tower E, Skymark One, Plot No. H – 
+10/A, Sector 98, Noida- 201301, U.P., India",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+JUBILANT INGREVIA LIMITED,1,Registered Office,"Bhartiagram, Gajraula, District Amroha-244 223, Uttar Pradesh, India",,Uttar Pradesh,India,XBRL_RegisteredOffice
+JUBILANT INGREVIA LIMITED,2,Corporate Office,"Jubilant Ingrevia Limited, 1A, Sector 16A, Noida - 201 301, Uttar Pradesh, India",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+Jubilant Pharmova Limited,1,Registered Office,"Bhartiagram, Gajraula, District Amroha-244 223, Uttar Pradesh, India",,Uttar Pradesh,India,XBRL_RegisteredOffice
+Jubilant Pharmova Limited,2,Corporate Office,"1A, Sector 16A, Filmcity, Noida-201301, Uttar Pradesh",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+Juniper Hotels Limited,1,Registered Office,"Off Western Express Highway, Santacruz East, Mumbai 400 055, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Jupiter Life Line Hospitals Limited,1,Registered Office,"1004, 360 Degree Business Park, 10th Floor, Maharana Pratap Chowk, LBS Marg Mulund (West), Mumbai - 400 080, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Jupiter Life Line Hospitals Limited,2,Corporate Office,"Jupiter Hospital, Eastern Express Highway, Thane (West), Mumbai - 400 601, Maharashtra, India",Thane,Maharashtra,India,XBRL_CorporateOffice
+Jupiter Wagons Limited,1,Registered Office,"48, Vandana Vihar, Narmada Road, Gorakhpur, Jabalpur, Madhya Pradesh 482001",Gorakhpur,Madhya Pradesh,India,XBRL_RegisteredOffice
+Jupiter Wagons Limited,2,Corporate Office,"4/2. Middleton Street, Kolkata – 700071",Kolkata,West Bengal,India,XBRL_CorporateOffice
+Just Dial Limited,1,Registered Office,"Palm Court, Building-M, 501/B, 5th Floor, New Link Road,
+Beside Goregaon Sports Complex, Malad (West),
+Mumbai – 400 064.",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Just Dial Limited,2,Corporate Office,"Palm Court, Building-M, 501/B, 5th Floor, New Link
+Road, Beside Goregaon Sports Complex, Malad (West),
+Mumbai – 400 064.",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+JYOTHY LABS LIMITED,1,Registered Office,"Ujala House', Ram Krishna Mandir Road, Kondivita, Andheri (East), Mumbai - 400 059",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+JYOTI CNC AUTOMATION LIMITED,1,Registered Office,"G – 506, Lodhika GIDC, Vill: Metoda, Rajkot – 360 021",Rajkot,,India,XBRL_RegisteredOffice
+Kajaria Ceramics Limited,1,Registered Office,"SF-11, Second Floor, JMD Regent Plaza, Mehrauli Gurgaon Road, Village Sikanderpur Ghosi, Gurgaon, Haryana- 122001",Gurgaon,Haryana,India,XBRL_RegisteredOffice
+Kajaria Ceramics Limited,2,Corporate Office,"J-1/B-1 (Extn.), Mohan Co-operative Industrial Estate, Mathura Road, New Delhi – 110044",Delhi,Delhi,India,XBRL_CorporateOffice
+Kajaria Ceramics Limited,3,Plant,Gailpur (Tijara block) & Sikandrabad,,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Kalpataru Projects International Limited,1,Registered Office,"Plot No. 101, Part III, GIDC Estate, Sector 28, Gandhinagar – 382028, Gujarat, India",Gandhinagar,Gujarat,India,XBRL_RegisteredOffice
+Kalpataru Projects International Limited,2,Corporate Office,"7th Floor, Kalpataru Synergy, Opp. Grand Hyatt, Vakola, Santacruz (E), Mumbai – 400055,India",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Kalpataru Projects International Limited,3,Plant,"Uniara and Padampur, Rajasthan, Gandhinagar, Raipur",Gandhinagar,Rajasthan,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Kalyan Jewellers India Limited,1,Registered Office,"Corporate Office, Tc-32/204/2 Sitaram Mill Road/ Premji Road, Punkunnam Thrissur Kl 680 002, India",,Kerala,India,XBRL_RegisteredOffice
+Kansai Nerolac Paints Limited,1,Registered Office,"28th Floor, A-Wing, Marathon Futurex, N. M. Joshi 
+Marg, Lower Parel, Mumbai - 400 013, Maharashtra",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Kansai Nerolac Paints Limited,2,Plant,Goindwal Sahib (Punjab) and Bawal (Haryana),,Punjab,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+KARUR VYSYA BANK LIMITED,1,Registered Office,"No.20, Erode Road, Vadivel Nagar, 
+L.N.S., Karur - 639002, Tamilnadu",,,India,XBRL_RegisteredOffice
+KARUR VYSYA BANK LIMITED,2,Facility,the Hyderabad Divisional Office,Hyderabad,Telangana,India,XBRL_TextExtraction
+KARUR VYSYA BANK LIMITED,3,Facility,Chennai,Chennai,Tamil Nadu,India,XBRL_TextExtraction
+Kaynes Technology India Limited,1,Registered Office,"23-25, Belagola Food Industrial Estate, Metagalli P.O., Mysuru - 570016 Karnataka, INDIA",,Karnataka,India,XBRL_RegisteredOffice
+KEC International Limited,1,Registered Office,"RPG House, 463, Dr. Annie Besant Road, Worli, Mumbai - 400030, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+KEC International Limited,2,Plant,"Kingdom of Saudi Arabia (KSA), UAE, Oman , Rajasthan, Rajasthan",,Rajasthan,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+KEI INDUSTRIES LIMITED,1,Registered Office,"D-90, Okhla Industrial Area, Phase 1, New Delhi – 110020",Delhi,Delhi,India,XBRL_RegisteredOffice
+Keystone Realtors Limited,1,Registered Office,"702 Natraj, M. V. Road Junction, Western Express Highway, Andheri East, Mumbai 400069",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+KFin Technologies Limited,1,Registered Office,"301, The Centrium, 3rd Floor, 57, Lal Bahadur Shastri Road, Nav Pada, Kurla (West), Mumbai – 400070, Maharashtra",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+KFin Technologies Limited,2,Corporate Office,"Selenium, Tower B, Plot No- 31 & 32, Financial District, Nanakramguda, Serilingampally, Hyderabad, Rangareddi - 500032, Telangana, India",Hyderabad,Telangana,India,XBRL_CorporateOffice
+KIOCL Limited,1,Registered Office,"II Block, Koramangala, Bengaluru - 560034",Bengaluru,Karnataka,India,XBRL_RegisteredOffice
+Kirloskar Brothers Limited,1,Registered Office,"“Yamuna”, Survey No. 98 / (3 to 7), Plot No. 3, Baner, Pune – 411045, Maharashtra, India",Pune,Maharashtra,India,XBRL_RegisteredOffice
+Kirloskar Oil Engines Limited,1,Registered Office,"Laxmanrao Kirloskar Road, Khadki, Pune – 411003",Pune,Maharashtra,India,XBRL_RegisteredOffice
+Kirloskar Oil Engines Limited,2,Corporate Office,"One Avante, Karve Road, Kothrud, Pune - 411038",Pune,Maharashtra,India,XBRL_CorporateOffice
+KNR Constructions Limited,1,Registered Office,"Plot No. 113 & 114, KNR House, 3rd and 4th Floor, Kavuri Hills, Phase I, Hyderabad, Telangana-500033",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+KNR Constructions Limited,2,Corporate Office,"Plot No. 113 & 114, KNR House, 3rd and 4th Floor, Kavuri Hills, Phase I,Hyderabad, Telangana-500033",Hyderabad,Telangana,India,XBRL_CorporateOffice
+KOTAK MAHINDRA BANK LIMITED,1,Registered Office,"27BKC, C-27, G-Block, Bandra Kurla Complex, Bandra East, Mumbai 400051",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+KPIT Technologies Limited,1,Registered Office,"Plot No. 17, Rajiv Gandhi Infotech Park, MIDC-SEZ, Phase-III, Maan, Taluka - Mulshi, Hinjawadi, Pune-411057.",Pune,Maharashtra,India,XBRL_RegisteredOffice
+KPIT Technologies Limited,2,Plant,"In FY2024-25, there are three offices located in water stress areas in Bangalore",Bangalore,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+KPI GREEN ENERGY LIMITED,1,Registered Office,"KP House', Near KP Circle, Opp. Ishwar Farm Junction BRTS, Canal Road, Bhatar, Surat-395017. Gujarat, India",Surat,Gujarat,India,XBRL_RegisteredOffice
+KPR MILL LIMITED,1,Registered Office,"No.9, Gokul Buildings, 1st Floor, A.K.S. Nagar, Thadagam Road, Coimbatore - 641001. Tamil Nadu",Coimbatore,Tamil Nadu,India,XBRL_RegisteredOffice
+KPR MILL LIMITED,2,Corporate Office,"1st Floor, Srivari Shrimat, 1045, Avinashi Road, Coimbatore - 641018, Tamil Nadu.",Coimbatore,Tamil Nadu,India,XBRL_CorporateOffice
+Krishna Institute of Medical Sciences Limited,1,Registered Office,"D.NO.1-8-31/1, Minister Road, Secunderabad.
+Telangana, India - 500003",,Telangana,India,XBRL_RegisteredOffice
+KSB Limited,1,Registered Office,"Office No. 601, Runwal R-Square, L.B.S. Marg, Mulund (West), Mumbai Mumbai City -
+400080, Maharashtra, India.",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+KSB Limited,2,Corporate Office,"KSB Limited, Mumbai -Pune Road, Pimpri Pune- 411018, Maharashtra, India.",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+KSB Limited,3,Plant,"Vambori, Ahmednagar, Maharashtra Narasimmanaickenpalayam, Coimbatore, Tamilnadu",Coimbatore,Maharashtra,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Larsen  Toubro Limited,1,Registered Office,"L&T House, Ballard Estate, Mumbai - 400001, Maharashtra",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Larsen  Toubro Limited,2,Plant,"Water-stressed areas in Rajasthan, Uttar Pradesh, Gujarat, Haryana, Madhya Pradesh, Punjab,
+and National Capital Territory of Delhi.",Delhi,Gujarat,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Larsen  Toubro Limited,3,Facility,Hyderabad,Hyderabad,Telangana,India,XBRL_TextExtraction
+Latent View Analytics Limited,1,Registered Office,"5th Floor, Neville Tower, Unit 6,7 and 8, Ramanujan IT City, Rajiv Gandhi Salai, Taramani Chennai, Chennai, India 600113",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+LAURUS LABS LIMITED,1,Registered Office,"Laurus Enclave, Plot Office 01, E. Bonangi Village, Parawada Mandal, Anakapalli District – 531 021, Andhra Pradesh, India.",,Andhra Pradesh,India,XBRL_RegisteredOffice
+LAURUS LABS LIMITED,2,Corporate Office,"2nd Floor, Serene Chambers, Road No. 7, Banjara Hills, Hyderabad – 500 034, Telangana, India.",Hyderabad,Telangana,India,XBRL_CorporateOffice
+LAURUS LABS LIMITED,3,Plant,Hyderabad and Vizag,Hyderabad,Telangana,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Lemon Tree Hotels Limited,1,Registered Office,"Asset No. 6, Aerocity Hospitality District, New Delhi-110037",Delhi,Delhi,India,XBRL_RegisteredOffice
+Lemon Tree Hotels Limited,2,Plant,"Gurugram, Goa, Indore, Kaushambi/Ghaziabad, Aurangabad, Muhamma (Kerala), Ahmedabad, Chennai, Bengaluru, Jaipur, Delhi, Hyderabad, Chandigarh, Bandhavgarh, Dehradun, Pune, Mumbai, Kolkata, Udaipur, Thiruvananthapuram, Kochi, Ludhiana, Vishakhapatnam",Gurugram,Kerala,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+LIC Housing Finance Limited,1,Registered Office,"131, Maker Tower “F” Premises, 13th Floor, Cuffe Parade, Mumbai 400005",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Life Insurance Corporation of India,1,Registered Office,"Central Office- Yogakshema, J.B. Marg, Nariman Point, Mumbai- 400021",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Linde India Limited,1,Registered Office,"Oxygen House, P-43 Taratala Road, Kolkata – 700088",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+Lloyds Metals and Energy Limited,1,Registered Office,"Plot No A 1-2, MIDC Area, Ghugus, Chandrapur - 442505",,,India,XBRL_RegisteredOffice
+Lloyds Metals and Energy Limited,2,Corporate Office,"A-2, 2nd Floor, Madhu Estate, Pandurang Budhkar Marg, Lower Parel, Mumbai - 400013",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+LTIMindtree Limited,1,Registered Office,"L&T House, Ballard Estate, Mumbai - 400001, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+LTIMindtree Limited,2,Corporate Office,"Technology Tower 1, Gate No. 5, Saki Vihar Road, Powai, Mumbai 400 072",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+LT Finance Limited,1,Registered Office,"Brindavan, Plot No. 177, C.S.T. Road, Kalina, Santacruz (East), Mumbai- 400098, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+LT Technology Services Limited,1,Registered Office,"L&T House, N.M. Marg, Ballard Estate, Mumbai 400 001",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+LT Technology Services Limited,2,Corporate Office,"West Block-II, L&T Knowledge City (IT/ITES) SEZ, N.H. No. 8, Ajwa Waghodia Crossing, Vadodara - 390 019",Vadodara,Gujarat,India,XBRL_CorporateOffice
+LT Technology Services Limited,3,Plant,"Chennai, Bengaluru, and Hyderabad",Chennai,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Lupin Limited,1,Registered Office,"Kalpataru Inspire, 3rd Floor, Off Western Express Highway, Santacruz (East), Mumbai - 400 055. India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Lupin Limited,2,Plant,"Ankleshwar, Pithampur, Chhatrapati Sambhajinagar, Jammu and Nagpur",Ankleshwar,Gujarat,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+MACROTECH DEVELOPERS LIMITED,1,Registered Office,"412, Floor- 4, 17G Vardhaman Chamber Cawasji Patel Road, Horniman Circle, Fort Mumbai 400 001",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+MACROTECH DEVELOPERS LIMITED,2,Corporate Office,"One Lodha Place, Senapati Bapat Marg, Lower Parel, Mumbai 400 013",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Mahanagar Gas Limited,1,Registered Office,"MGL House, Block No. G-33, Bandra-Kurla Complex, Bandra (E), Mumbai – 400 051",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Mahanagar Gas Limited,2,Facility,Bangalore,Bangalore,Karnataka,India,XBRL_TextExtraction
+MAHARASHTRA SCOOTERS LIMITED,1,Registered Office,"C/o Bajaj Auto Ltd. Mumbai - Pune Road, Akurdi, Pune 411 035.",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+MAHARASHTRA SCOOTERS LIMITED,2,Corporate Office,"3rd Floor, Panchshil Tech Park, Viman Nagar, Pune – 411 014",Pune,Maharashtra,India,XBRL_CorporateOffice
+Maharashtra Seamless Limited,1,Registered Office,"PIPE NAGAR VILLAGE SUKELINH17 BKG ROAD ROHA, RAIGAD, Maharashtra, India, 402126",,Maharashtra,India,XBRL_RegisteredOffice
+Maharashtra Seamless Limited,2,Corporate Office,"Plot No. 30, Institutional Sector 44, Gurugram-122 003, Haryana",Gurugram,Haryana,India,XBRL_CorporateOffice
+Mahindra Holidays  Resorts India Limited,1,Registered Office,"Mahindra Towers, A-Wing, 1st Floor, Dr. G.M. Bhosale Marg, P. K. Kurne Chowk, Worli, Mumbai - 400018",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Mahindra Lifespace Developers Limited,1,Registered Office,"Mahindra Towers, 4th floor, Worli, Mumbai – 400018",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Mahindra Lifespace Developers Limited,2,Plant,"Mahindra World City Chennai and Mahindra World City Jaipur, Residential projects (ongoing) and leased offices in Chennai, Bengaluru (except Eden), Gurugram, Palghar, Pune",Chennai,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Mahindra  Mahindra Financial Services Limited,1,Registered Office,"Gateway Building, Apollo Bunder, Mumbai, 400001 India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Mahindra  Mahindra Financial Services Limited,2,Corporate Office,"Mahindra Towers, 3rd Floor, Dr G.M.Bhosale Marg, Worli, Mumbai, 400018 India",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Mahindra  Mahindra Limited,1,Registered Office,"Gateway Building, Apollo Bunder, Mumbai - 400001",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Mahindra  Mahindra Limited,2,Corporate Office,"Mahindra Towers, Dr. G. M. Bhosale Marg, Worli, Mumbai - 400018",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Manappuram Finance Limited,1,Registered Office,"W-4/638A, Manappuram House, Valapad - 680567, Thrissur, Kerala",,Kerala,India,XBRL_RegisteredOffice
+Manappuram Finance Limited,2,Corporate Office,"Corporate Office: W-4/638A, Manappuram House Valapad, Thrissur, Kerala - 680567  
+Landline: 0487 3050000, 3050108, 3050100  
+
+Corporate office Annexe: A-Wing, 3rd Floor, Unit No 301 To 315 Kanakia Wall Street, Andheri Kurla Road, Andheri East, Mumbai, Maharashtra -400093  
+Landline: 022 68194000",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+MANKIND PHARMA LIMITED,1,Registered Office,"208, Okhla Industrial Estate, Phase-III, New Delhi, 110020, India",Delhi,Delhi,India,XBRL_RegisteredOffice
+MANKIND PHARMA LIMITED,2,Corporate Office,"262, Okhla Industrial Estate, Phase-III, New Delhi, 110020, India",Delhi,Delhi,India,XBRL_CorporateOffice
+MANKIND PHARMA LIMITED,3,Plant,"Manesar, Delhi and Rajasthan",Manesar,Rajasthan,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Man Infraconstruction Limited,1,Registered Office,"12th Floor, Krushal Commercial Complex, G. M. Road, Chembur (West), Mumbai - 400089",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Marico Limited,1,Registered Office,"7th Floor, Grande Palladium, 175 CST Road, Kalina, Santacruz (East), Mumbai 400098",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Marico Limited,2,Plant,"1. Puducherry, India 2. Perundurai, Tamil Nadu, India 3. Sanand, Gujarat, India 4. Jalgaon, Maharashtra, India 5. Mumbai- Kalina, Maharashtra- Head office 6. Mumbai- Andheri, Maharashtra- R&D centre",Jalgaon,Maharashtra,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Maruti Suzuki India Limited,1,Registered Office,"1, Nelson Mandela Road, Vasant Kunj, New Delhi-110070",Delhi,Delhi,India,XBRL_RegisteredOffice
+Maruti Suzuki India Limited,2,Plant,Gurugram District (Gurugram and Manesar facilities),Gurugram,Haryana,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Maruti Suzuki India Limited,3,Facility,its Manesar facility with an output of,Manesar,,India,XBRL_TextExtraction
+Maruti Suzuki India Limited,4,Facility,Kharkhoda in Haryana,,Haryana,India,XBRL_TextExtraction
+Mastek Limited,1,Registered Office,"804 / 805 President House, Opposite C. N. Vidyalaya, Near Ambawadi Circle, Ahmedabad – 380006, Gujarat.",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+Mastek Limited,2,Corporate Office,"#106, SDF IV, Seepz, Andheri (East), Mumbai ‑ 400 096, India.",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Max Financial Services Limited,1,Registered Office,"Bhai Mohan Singh Nagar, Railmajra, Tehsil Balachaur, District Nawanshahr Punjab 144533",,Punjab,India,XBRL_RegisteredOffice
+Max Financial Services Limited,2,Corporate Office,"Max Financial Services Limited, L21, Max Towers, Plot No. C-001/A/1 Sector – 16B, Noida-201301, Uttar Pradesh",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+MAX HEALTHCARE INSTITUTE LIMITED,1,Registered Office,"401, 4th Floor, Man Excellenza, S. V. Road, Vile Parle (West), Mumbai, Maharashtra – 400056",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+MAX HEALTHCARE INSTITUTE LIMITED,2,Corporate Office,"2nd Floor, Capital Cyberscape, Sector-59, Gurugram, Haryana – 122102",Gurugram,Haryana,India,XBRL_CorporateOffice
+MAX HEALTHCARE INSTITUTE LIMITED,3,Plant,"Saket, Panchsheel Park, Karol Bagh, Gurgaon, Dwarka, Bathinda, South Delhi, Mayur Vihar (Delhi), Rajendra Nagar (Delhi), Patel Nagar (Delhi), Saharanpur, Gautam Budh Nagar, Lajpat Nagar, Meerut, Ludhiana, Amritsar, Lucknow and Bulandshahr",Gurgaon,Delhi,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Mazagon Dock Shipbuilders Limited,1,Registered Office,"Dockyard Road, Mumbai - 400 010",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+MedPlus Health Services Limited,1,Registered Office,"H. No: 11-6-56, Survey No: 257 & 258/1 Opp: IDPL 
+Railway Siding Road, Moosapet, Kukatpally Hyderabad 
+TG 500037 IN",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+Metropolis Healthcare Limited,1,Registered Office,"Metropolis Healthcare Limited, 4th Floor, East Wing, Plot-254 B, Nirlon House, Dr. Annie Besant Road, Worli, Mumbai - 400030, Maharashtra, India.",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Metropolis Healthcare Limited,2,Corporate Office,"Metropolis Healthcare Limited, 4th Floor, Commercial Building 1A, Kohinoor Mall, Vidyavihar (West), Mumbai - 400070, Maharashtra, India.",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Metro Brands Limited,1,Registered Office,"401, Zillion, 4th Floor, LBS Marg & CST Road Junction, Kurla (West), Mumbai – 400070",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Minda Corporation Limited,1,Registered Office,"A-15, Ashok Vihar, Phase-I, Delhi - 110052",Delhi,Delhi,India,XBRL_RegisteredOffice
+Minda Corporation Limited,2,Corporate Office,"D6-11, Sector 59, Noida 201301, Uttar Pradesh, India",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+Minda Corporation Limited,3,Plant,"MCL DCD, Greater Noida",Noida,Uttar Pradesh,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Minda Corporation Limited,4,Plant,MCL WHD Greater Noida,Noida,Uttar Pradesh,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress2
+Minda Corporation Limited,5,Plant,MCL WHD Pithampur,,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress3
+Minda Corporation Limited,6,Plant,MCL WHD Component Divison,,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress4
+Minda Corporation Limited,7,Plant,Starter Motor Alternator    Division (SMAD),,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress5
+Mishra Dhatu Nigam Limited,1,Registered Office,"PO Kanchanbagh, Hyderabad - 500058",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+MMTC LIMITED,1,Registered Office,"Core-1, SCOPE Complex, 7 Institutional Area, Lodhi Road, New Delhi - 110003",Delhi,Delhi,India,XBRL_RegisteredOffice
+MOIL Limited,1,Registered Office,"1-A, Katol Road, Nagpur, Maharashtra, 440013, India",Nagpur,Maharashtra,India,XBRL_RegisteredOffice
+Motherson Sumi Wiring India Limited,1,Registered Office,"Unit 705, C Wing, ONE BKC, G Block, Bandra Kurla Complex,
+Bandra East, Mumbai , 400051, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Motherson Sumi Wiring India Limited,2,Corporate Office,"Motherson Corporate Tower, Plot No. 1, 5th Floor, Sector 127,
+Noida - 201301, Uttar Pradesh, India",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+Motherson Sumi Wiring India Limited,3,Plant,"The water stress areas have been identified based on “Central ground water Board ministry of Jal Shakti Government of India. According to this report,
+our Noida locations are classified as semi critical and, Faridabad, Gurgaon, Pathredi, Pithampur locations has been classified as ‘Over-Exploited’, while
+Bangalore location is classified as ‘Critical’.",Noida,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Motilal Oswal Financial Services Limited,1,Registered Office,"Motilal Oswal Tower, Rahimtullah Sayani Opposite Parel ST Depot, Prabhadevi, Mumbai-400025, Mumbai, Maharashtra, India, 400025",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Mphasis Limited,1,Registered Office,"Bagmane World Technology Center, Marathahalli Outer Ring Road, Doddanakundi Village, Mahadevapura, Bengaluru- 560 048, India",Bengaluru,Karnataka,India,XBRL_RegisteredOffice
+MRF Limited,1,Registered Office,"114, Greams Road, Chennai, 600006",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+MUTHOOT FINANCE LIMITED,1,Registered Office,"NH BYPASS, PALARIVATTOM, KOCHI - 682028",Kochi,,India,XBRL_RegisteredOffice
+Narayana Hrudayalaya Ltd,1,Registered Office,"No.258/A, Bommasandra Industrial Area, Anekal Taluk Bangalore – 560099",Bangalore,Karnataka,India,XBRL_RegisteredOffice
+Narayana Hrudayalaya Ltd,2,Corporate Office,"No.261/A, 2nd floor, Bommasandra Industrial Area, Anekal Taluk Bangalore – 560099",Bangalore,Karnataka,India,XBRL_CorporateOffice
+Narayana Hrudayalaya Ltd,3,Plant,"There are 4 Water Stress Zones that include five hospitals. Bommasandra Industrial Area, Anekul Taluk (Karnataka), Bangalore-South (Karnataka), Ahmedabad City (Gujarat), Gurgaon (Haryana)",Bangalore,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+NATCO Pharma Limited,1,Registered Office,"NATCO House, Road No.2, Banjara hills, Hyderabad - 500034, Telangana, India.",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+NATCO Pharma Limited,2,Plant,Thiruvottiyur (Chennai) and  Ameerpet (Hyderabad),Chennai,Tamil Nadu,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+NAVA LIMITED,1,Registered Office,"Nava Bharat Chambers, 6-3-1109/1 Raj Bhavan Road, Hyderabad - 500082, Telangana. India.",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+NAVA LIMITED,2,Corporate Office,"Silicon House, 8-2-318/1, Road No.14, Banjara Hills, Hyderabad 500034, Telangana",Hyderabad,Telangana,India,XBRL_CorporateOffice
+Navin Fluorine International Limited,1,Registered Office,"Office No. 602, 6th Floor, Natraj by Rustomjee, Near Western Express Highway, 194, Sir Mathuradas Vasanji Road, Andheri (East), Mumbai 400069",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+NBCC India Limited,1,Registered Office,"NBCC Bhawan, Lodhi Road, New Delhi- 110003",Delhi,Delhi,India,XBRL_RegisteredOffice
+NCC LIMITED,1,Registered Office,"NCC House, Madhapur, Hyderabad – 500081, Telangana",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+NCC LIMITED,2,Facility,Bhimavaram,Bhimavaram,,India,XBRL_TextExtraction
+Nestle India Limited,1,Registered Office,"100 / 101, World Trade Centre, Barakhamba Lane, New Delhi – 110001, India",Delhi,Delhi,India,XBRL_RegisteredOffice
+Nestle India Limited,2,Corporate Office,"“Nestle House”, Jacaranda Marg, 'M' Block, DLF City, Phase - II, Gurugram - 122 002, Haryana, India",Gurugram,Haryana,India,XBRL_CorporateOffice
+Nestle India Limited,3,Plant,"Moga, Nanjangud, Sanand, Pantnagar",Pantnagar,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+NETWEB TECHNOLOGIES INDIA LIMITED,1,Registered Office,"Plot No. H-1, Block-H, Pocket No. 9, Faridabad Industrial Town, Sector-57, Faridabad, Haryana 121004",Faridabad,Haryana,India,XBRL_RegisteredOffice
+Neuland Laboratories Limited,1,Registered Office,"11th Floor (5th Level), Phoenix IVY Building, Plot No. 573A-III, Road No. 82, Jubilee Hills, Hyderabad, 500033, Telangana",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+Neuland Laboratories Limited,2,Plant,"Bonthapally, Pashamylaram and Gaddapotharam (Sangareddy District) and Jubilee Hills, Hyderabad",Hyderabad,Telangana,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Newgen Software Technologies Limited,1,Registered Office,"E-44/13 Okhla Phase II, New Delhi South Delhi DL 110020",Delhi,Delhi,India,XBRL_RegisteredOffice
+NHPC Limited,1,Registered Office,"NHPC Office Complex, Sector-33, Faridabad, Haryana-121003 (India)",Faridabad,Haryana,India,XBRL_RegisteredOffice
+NHPC Limited,2,Plant,"Dhauliganga, Chutak, Nimoo Bazgo, Kishanganga, Regional office Jammu, Wind power project-Jaisalmer",Jammu,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Nippon Life India Asset Management Limited,1,Registered Office,"4th Floor, Tower A, Peninsula Business Park, Ganapatrao Kadam Marg, Lower Parel (W), Mumbai – 400 013",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+NLC India Limited,1,Registered Office,"No. 135, EVR Periyar High Road, Kilpauk, Chennai- 600010, Tamil Nadu",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+NLC India Limited,2,Corporate Office,"Block - 1, Neyveli - 607 801, Cuddalore District, Tamil Nadu",,Tamil Nadu,India,XBRL_CorporateOffice
+NMDC Limited,1,Registered Office,"Khanij Bhavan, 10-3-311/A, Castle Hills, Masab Tank, Hyderabad - 500 028",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+NMDC Limited,2,Plant,Head Office (Hyderabad),Hyderabad,Telangana,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress2
+NMDC Steel Limited,1,Registered Office,"C/o NMDC Iron & Steel Plant, Nagarnar, Chhattisgarh, 
+India – 494 001",,Chhattisgarh,India,XBRL_RegisteredOffice
+NMDC Steel Limited,2,Corporate Office,"NMDC Ltd, 'Khanij Bhavan', 10-3-311/A, Castle Hills, 
+Masab Tank, Hyderabad - 500 028",Hyderabad,Telangana,India,XBRL_CorporateOffice
+NTPC LIMITED,1,Registered Office,"NTPC Bhawan, SCOPE Complex, 7, Institutional Area, Lodi Road, New Delhi-110 003",Delhi,Delhi,India,XBRL_RegisteredOffice
+NTPC LIMITED,2,Plant,"BARAUNI, BARH, KORBA, RAMAGUNDAM, Lara, Sipat, Kawas, RG CCCP Kayamkulam, Jhanor Gandhar, Khargone, Telangana, GADARWARA, MOUDA, Solapur, TANDA, NCPS- Dadri Coal & Gas, AURAIYA, FARIDABAD, KANTI, UNCHAHAR, ANTA",Faridabad,Telangana,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+NUVAMA WEALTH MANAGEMENT LIMITED,1,Registered Office,"801- 804, Wing A, Building No. 3, Inspire BKC, G Block,
+Bandra Kurla Complex, Bandra East, Mumbai – 400 051",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+NUVAMA WEALTH MANAGEMENT LIMITED,2,Facility,Mumbai for formal written grievances,Mumbai,Maharashtra,India,XBRL_TextExtraction
+Nuvoco Vistas Corporation Limited,1,Registered Office,"Equinox Business Park, Tower 3, East Wing, 4th floor, LBS Marg, Kurla (West), Mumbai - 400 070",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Oberoi Realty Limited,1,Registered Office,"Commerz, 3rd Floor, International Business Park, Oberoi Garden City, Off Western Express Highway, Goregaon (East), Mumbai 400063, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Oberoi Realty Limited,2,Plant,The Company does not have any operations in water stress areas.,,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Oil India Limited,1,Registered Office,"Duliajan, Assam",,Assam,India,XBRL_RegisteredOffice
+Oil India Limited,2,Corporate Office,"Plot No. 19, Sector- 16A, Noida- 201301",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+Olectra Greentech Limited,1,Registered Office,"S-22, 3rd Floor, Technocrat Industrial Estate, Balanagar,Hyderabad-500 037, Telangana, India",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+One 97 Communications Limited,1,Registered Office,"136, First Floor, Devika Tower, Nehru Place, New Delhi, India - 110019",Delhi,Delhi,India,XBRL_RegisteredOffice
+One 97 Communications Limited,2,Corporate Office,"One Skymark, Tower D, Plot No. H-10B, Sector-98, Noida, Uttar Pradesh, India - 201304",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+Oracle Financial Services Software Limited,1,Registered Office,"Oracle Park, off Western Express Highway, Goregaon (East), Mumbai 400063, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Page Industries Limited,1,Registered Office,"Cessna Business Park, Tower-1, 7th Floor, Umiya Business Bay, Varthur Hobli,
+Bengaluru, Karnataka - 560103",Bengaluru,Karnataka,India,XBRL_RegisteredOffice
+Page Industries Limited,2,Corporate Office,"Cessna Business Park, Tower-1, 3rd Floor, Umiya Business Bay, Varthur Hobli,
+Bengaluru - 560103",Bengaluru,Karnataka,India,XBRL_CorporateOffice
+Page Industries Limited,3,Plant,"Bengaluru cluster (Bommasandra,
+Bommanahalli, Gowribidnur) - Extremely High
+(>80%)
+- Mysuru Cluster (Industrial Suburban Area,
+K.R. Pet and Belawadi KIDB Industrial Area) –
+Medium
+- high (20 - 40%)
+- Hassan Cluster (KIDB Area, Tiptur) - High (40
+- 80%)
+- Tamil Nadu Cluster (Tirupur) - Medium -high
+(20 - 40%)",Bengaluru,Tamil Nadu,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+PATANJALI FOODS LIMITED,1,Registered Office,"616, Tulsiani Chambers Nariman Point, Mumbai City, Mumbai, Maharashtra, India, 400021",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+PATANJALI FOODS LIMITED,2,Corporate Office,"Office No. 601, Part B-2, Metro Tower, 6th Floor, Vijay Nagar, AB Road, Indore, Madhya Pradesh, India, 452010",Indore,Madhya Pradesh,India,XBRL_CorporateOffice
+PB FINTECH LIMITED,1,Registered Office,"Plot 119, Sector 44, Gurugram‐ 122001, Haryana",Gurugram,Haryana,India,XBRL_RegisteredOffice
+Persistent Systems Limited,1,Registered Office,"Bhageerath, 402 Senapati Bapat Road, Pune, Maharashtra 411016",Pune,Maharashtra,India,XBRL_RegisteredOffice
+Persistent Systems Limited,2,Plant,"During FY 2024-25, our offices located in following cities of India fall under water stress zones. These zones have been identified as per the Aqueduct report. Please refer to our water conservation efforts mentioned in the FY 2024-25 ESG Report.",,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Petronet LNG Limited,1,Registered Office,"1st Floor, World Trade Centre, Babar Road, Barakhamba Lane, New Delhi - 110001",Delhi,Delhi,India,XBRL_RegisteredOffice
+Petronet LNG Limited,2,Facility,Kochi was completed,Kochi,,India,XBRL_TextExtraction
+Pfizer Limited,1,Registered Office,"The Capital, 1802/1901, Plot No. C - 70,
+G Block, Bandra Kurla Complex,
+Bandra (East), Mumbai, 400051",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Pfizer Limited,2,Facility,Goa,,Goa,India,XBRL_TextExtraction
+Pidilite Industries Limited,1,Registered Office,"Regent Chambers 7th Floor 208 Nariman Point, Mumbai, Maharashtra, 400 021",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Pidilite Industries Limited,2,Corporate Office,"Ramkrishna Mandir Road, Off Mathuradas Vasanji Road, Andheri (E), Mumbai – 400 059",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Pidilite Industries Limited,3,Plant,"Alwar, Daman, Ludhiana, Perundurai",Daman,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Piramal Enterprises Limited,1,Registered Office,"Piramal Ananta, Agastya Corporate Park, Opposite Fire Brigade, Kamani Junction, LBS Marg, Kurla (West), Mumbai - 400 070",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Piramal Enterprises Limited,2,Corporate Office,"10th Floor, Piramal Tower Annexe, Peninsula Corporate Park, Ganpatrao Kadam Marg, Lower Parel - 400013",,,India,XBRL_CorporateOffice
+Piramal Enterprises Limited,3,Facility,Bangalore operates,Bangalore,Karnataka,India,XBRL_TextExtraction
+Piramal Pharma Limited,1,Registered Office,"Gr. Flr., Piramal Ananta, Agastya Corp. Park, Kamani Junction, LBS Marg, Kurla (West), Mumbai - 400070",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Piramal Pharma Limited,2,Plant,"Digwal, Sangareddy district, Telangana.",,Telangana,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+PI INDUSTRIES LIMITED,1,Registered Office,"PI Industries Ltd. Udaisagar Road, Udaipur 313001 Rajasthan, India",Udaipur,Rajasthan,India,XBRL_RegisteredOffice
+PI INDUSTRIES LIMITED,2,Corporate Office,"5th Floor, Vipul Square, B-Block, Sushant Lok, Phase -1, Gurugram- 122009, Haryana (India)
+Unit no. 3A, 1st Floor, Wing A, CTS no. 1483 D, IA Project Road, Next to JW Marriott Hotel, Sahar, Village Marol, Taluka Andheri (East), Mumbai 400099, Maharashtra, (India)",Gurugram,Maharashtra,India,XBRL_CorporateOffice
+PI INDUSTRIES LIMITED,3,Plant,"Udaipur, Gurgaon, Davangere",Udaipur,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+PI INDUSTRIES LIMITED,4,Facility,Gujarat,,Gujarat,India,XBRL_TextExtraction
+PI INDUSTRIES LIMITED,5,Facility,Jambusar and Udaipur,Udaipur,,India,XBRL_TextExtraction
+PNB Housing Finance Limited,1,Registered Office,"9th Floor, Antriksh Bhawan, 22 Kasturba Gandhi Marg, New Delhi-110001",Delhi,Delhi,India,XBRL_RegisteredOffice
+PNB Housing Finance Limited,2,Corporate Office,"RMZ Infinity Park, 1st Floor and 6th Floor, Plot No. 15, Udyog Vihar, Gurugram, Haryana 122008",Gurugram,Haryana,India,XBRL_CorporateOffice
+PNC Infratech Limited,1,Registered Office,"NBCC Plaza, Tower II, 4th Floor, Pushp Vihar,
+Sector 5, New Delhi - 110017",Delhi,Delhi,India,XBRL_RegisteredOffice
+PNC Infratech Limited,2,Corporate Office,"PNC Tower, 3/22-D, Civil Lines,
+Agra-Delhi Bypass Road, NH-2 Agra UP 282002 IN",Agra,Delhi,India,XBRL_CorporateOffice
+Polycab India Limited,1,Registered Office,"Unit No.4, Plot No.105, Halol Vadodara Road,Village Nurpura, Taluka Halol, Panchmahal,Gujarat – 389350",Vadodara,Gujarat,India,XBRL_RegisteredOffice
+Polycab India Limited,2,Corporate Office,"#29, “The Ruby”, 21st Floor,Senapati Bapat Marg, Tulsi Pipe Road,Dadar West, Mumbai – 400 028",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+POLY MEDICURE LIMITED,1,Registered Office,"232-B, 3rd Floor, Okhla Industrial Estate, Phase-III, New Delhi-110020, INDIA",Delhi,Delhi,India,XBRL_RegisteredOffice
+Poonawalla Fincorp Limited,1,Registered Office,"201 and 202, 2nd floor, AP81, Koregaon Park Annex, Mundhwa, Pune - 411036
+Maharashtra, India",Pune,Maharashtra,India,XBRL_RegisteredOffice
+Poonawalla Fincorp Limited,2,Corporate Office,"2401, 24th Floor, Altimus, Dr G.M. Bhosale Marg, Worli, Mumbai- 400018 Maharashtra, India",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Power Finance Corporation Limited,1,Registered Office,"Urjanidhi, 1, Barakhamba Lane, Connaught Place, New Delhi - 110 001",Delhi,Delhi,India,XBRL_RegisteredOffice
+Power Finance Corporation Limited,2,Corporate Office,"Urjanidhi'], 1, Barakhamba Lane, Connaught Place, New Delhi - 110 001",Delhi,Delhi,India,XBRL_CorporateOffice
+Power Grid Corporation of India Limited,1,Registered Office,"B-9, Qutab Institutional Area, Katwaria Sarai, New Delhi-110016",Delhi,Delhi,India,XBRL_RegisteredOffice
+Power Grid Corporation of India Limited,2,Corporate Office,"Saudamini, Plot No.2, Sector 29, Gurugram, Haryana-122001",Gurugram,Haryana,India,XBRL_CorporateOffice
+Power Mech Projects Limited,1,Registered Office,"Plot No.77, Jubilee Enclave, Opposite: Hitex,Madhapur, Hyderabad, Telangana-500081.",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+Praj Industries Limited,1,Registered Office,"“Praj Tower”, S. No. 274 & 275/2, Bhumkar Chowk- Hinjewadi Road, Hinjewadi, Pune – 411 057.",Pune,Maharashtra,India,XBRL_RegisteredOffice
+Prestige Estates Projects Limited,1,Registered Office,"Prestige Falcon Tower, No.19, Brunton Road, Bangalore - 560025",Bangalore,Karnataka,India,XBRL_RegisteredOffice
+Prism Johnson Limited,1,Registered Office,"305, Laxmi Niwas Apartment, Ameerpet, Hyderabad-500016",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+Prism Johnson Limited,2,Corporate Office,"Rahejas, Main Avenue, 2nd. Floor, V. P. Road,
+Santacruz (West), Mumbai - 400 054",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Procter  Gamble Health Limited,1,Registered Office,"P&G Plaza, Cardinal Gracias Road, Chakala, Andheri (East), Mumbai – 400099",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Procter  Gamble Health Limited,2,Facility,Goa is,,Goa,India,XBRL_TextExtraction
+PTC Industries Limited,1,Registered Office,"NH 25A, Sarai Shahjadi, Lucknow 227 101 Uttar Address Pradesh, India",Lucknow,,India,XBRL_RegisteredOffice
+PTC Industries Limited,2,Facility,Lucknow and Mehsana Plant in Ahmedabad,Lucknow,Gujarat,India,XBRL_TextExtraction
+PUNJAB NATIONAL BANK,1,Registered Office,"PUNJAB NATIONAL BANK, CORPORATE OFFICE, PLOT NO 4, SECTOR 10, DWARKA NEW DELHI 110075",Delhi,Punjab,India,XBRL_RegisteredOffice
+Punjab  Sind Bank,1,Registered Office,"Bank House, 21 Rajendra Place, New Delhi – 110008",Delhi,Delhi,India,XBRL_RegisteredOffice
+Punjab  Sind Bank,2,Corporate Office,"NBCC Office Complex, Block – 3, East Kidwai Nagar, New Delhi - 110023",Delhi,Delhi,India,XBRL_CorporateOffice
+PVR INOX LIMITED,1,Registered Office,"7th Floor, Lotus Grandeur Building, Veera Desai Road, Opposite Gundecha Symphony, Andheri (West), Mumbai – 400053",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+PVR INOX LIMITED,2,Corporate Office,"Block-A, 4th Floor, Building No. 9A, DLF Cyber City, Phase III, Gurgaon – 122002",Gurgaon,Haryana,India,XBRL_CorporateOffice
+Quess Corp Limited,1,Registered Office,"Quess Tower, Sky Walk Avenue, 32/4, Hosur Road, Roopena Agrahara, Bommanahalli, Bengaluru - 560068",Hosur,Karnataka,India,XBRL_RegisteredOffice
+Quess Corp Limited,2,Corporate Office,"Quess Tower, Sky Walk Avenue, 32/4, Hosur Road, Roopena Agrahara, Bommanahalli, Bengaluru - 560068, Karnataka, India",Hosur,Karnataka,India,XBRL_CorporateOffice
+Radico Khaitan Limited,1,Registered Office,"Rampur Distillery, Bareilly Road, Rampur, Uttar
+Pradesh - 244901",,Uttar Pradesh,India,XBRL_RegisteredOffice
+Radico Khaitan Limited,2,Corporate Office,"Plot No. J-I, Block B-I, Mohan Co-operative Industrial
+Area, Mathura Road, New Delhi-110044",Delhi,Delhi,India,XBRL_CorporateOffice
+Radico Khaitan Limited,3,Plant,"Reengus, Rajasthan",,Rajasthan,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Railtel Corporation of India Limited,1,Registered Office,"Plate-A, 6th Floor, Office Block, Tower-2, East Kidwai Nagar, New Delhi-110023 Tel.: +91 11 22900600 Fax: +91 11 22900699",Delhi,Delhi,India,XBRL_RegisteredOffice
+Rail Vikas Nigam Limited,1,Registered Office,"1st Floor, August Kranti Bhawan, Bhikaji Cama Place, R.K. Puram, New Delhi-110066",Delhi,Delhi,India,XBRL_RegisteredOffice
+RAJESH EXPORTS LIMITED,1,Registered Office,"4, Batavia Chambers, Kumara Krupa Road, Kumara Park East, Bangalore - 560001",Bangalore,Karnataka,India,XBRL_RegisteredOffice
+RAJESH EXPORTS LIMITED,2,Corporate Office,"1, Brunton Road, Off M. G. Road, Bangalore - 560025",Bangalore,Karnataka,India,XBRL_CorporateOffice
+Ramkrishna Forgings Limited,1,Registered Office,"23, Circus Avenue, 9th Floor, Kolkata – 700017",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+Ramkrishna Forgings Limited,2,Facility,Kolkata from,Kolkata,West Bengal,India,XBRL_TextExtraction
+RateGain Travel Technologies Limited,1,Registered Office,"M-140, Greater Kailash, Part-II, New Delhi - 110048",Delhi,Delhi,India,XBRL_RegisteredOffice
+RateGain Travel Technologies Limited,2,Corporate Office,"4th Floor, Tower A, Club 125, Plot No. 3,4,5, Sector – 125, Noida – 201301",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+Ratnamani Metals  Tubes Limited,1,Registered Office,"17, Rajmugat Society, Naranpura Cross Roads, Ahmedabad - 380013, Gujarat, India",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+Ratnamani Metals  Tubes Limited,2,Corporate Office,"""The First"", A&B Wing, 9th Floor, Behind Keshav Baug Party Plot, The First Avenue Road, Off 132 Feet Ring Road, Vastrapur, Ahmedabad - 380015, Gujarat, India",Ahmedabad,Gujarat,India,XBRL_CorporateOffice
+RATTANINDIA ENTERPRISES LIMITED,1,Registered Office,"H No. 51, Village Hauz Kahs, New Delhi-110017",Delhi,Delhi,India,XBRL_RegisteredOffice
+RATTANINDIA ENTERPRISES LIMITED,2,Corporate Office,"5th Floor, Tower- B, Worldmark 1, Aerocity, New Delhi-110037",Delhi,Delhi,India,XBRL_CorporateOffice
+Raymond Limited,1,Registered Office,"Plot No. 156/H No. 2, Village Zadgaon, Ratnagiri, Maharashtra - 415612 India",,Maharashtra,India,XBRL_RegisteredOffice
+Raymond Limited,2,Corporate Office,"New Hind House, Narottam Morarjee Marg, Ballard Estate, Mumbai – 400 001, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+RBL Bank Limited,1,Registered Office,"1st Lane, Shahupuri, Kolhapur 416 001, Maharashtra, India",Kolhapur,Maharashtra,India,XBRL_RegisteredOffice
+RBL Bank Limited,2,Corporate Office,"One World Center, Tower 2B, 6th Floor, 841 Senapati Bapat Marg, Lower Parel (W), Mumbai - 400 013,  Maharashtra, India",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+REC Limited,1,Registered Office,"Core 4, SCOPE Complex, 7, Lodhi Road, New Delhi-110003",Delhi,Delhi,India,XBRL_RegisteredOffice
+REC Limited,2,Corporate Office,"REC World Headquarters, Plot no. I-4, Sector 29, Gurugram-122001",Gurugram,Haryana,India,XBRL_CorporateOffice
+Redington Limited,1,Registered Office,"Block 3, Plathin,Redington Tower, Inner Ring Road, Saraswathy Nagar West, 4TH Street, Puzhuthivakkam,Chennai,Tamilnadu, India,600091",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+Redtape Limited,1,Registered Office,"Plot No. 08, Sector -90, Gautam Buddha Nagar- 201301, Noida, Uttar Pradesh",Noida,Uttar Pradesh,India,XBRL_RegisteredOffice
+Relaxo Footwears Limited,1,Registered Office,"Aggarwal City Square, Plot No.-10, Manglam Place, District Centre, Sector-3, Rohini, Delhi- 110085",Delhi,Delhi,India,XBRL_RegisteredOffice
+Reliance Industries Limited,1,Registered Office,"3rd Floor, Maker Chambers IV, 222, Nariman Point, Mumbai - 400 021.",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Reliance Industries Limited,2,Facility,Andhra Pradesh,,Andhra Pradesh,India,XBRL_TextExtraction
+Reliance Infrastructure Limited,1,Registered Office,"Reliance Centre, Ground Floor, 19, Walchand Hirachand Marg, Ballard Estate, Mumbai 400001.",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+RELIANCE POWER LIMITED,1,Registered Office,"Reliance Centre, Ground Floor, 19, Walchand Hirachand Marg, Ballard Estate, Mumbai, 400001",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Responsive Industries Limited,1,Registered Office,"Betegaon, Mahagaon Road, Boisar East Taluka Palghar, Dist.",,,India,XBRL_RegisteredOffice
+RHI Magnesita India Ltd,1,Registered Office,"Unit No. 705, 7th Floor, Lodha Supremus, Kanjurmarg Village Road, Kanjurmarg (East), Mumbai - 400042, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+RHI Magnesita India Ltd,2,Corporate Office,"19th & 20th Floor, DLF Square, M-Block, Phase-II, Jacaranda Marg, DLF City, Sector-25, Gurugram - 122002, Haryana, India",Gurugram,Haryana,India,XBRL_CorporateOffice
+RHI Magnesita India Ltd,3,Plant,"Bhiwadi, Dist. - Alwar, Rajasthan",,Rajasthan,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+RITES Limited,1,Registered Office,"SCOPE Minar, Laxmi Nagar, Delhi – 110092",Delhi,Delhi,India,XBRL_RegisteredOffice
+RITES Limited,2,Corporate Office,"Shikhar, Plot No. 01, Sector-29, Gurugram-122001, Haryana",Gurugram,Haryana,India,XBRL_CorporateOffice
+Route Mobile Limited,1,Registered Office,"SanRaj Corporate Park - 4th Dimension, 3rd Floor, Mind Space, Malad (West), Mumbai 400064,
+Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Route Mobile Limited,2,Corporate Office,"SanRaj Corporate Park - 4th Dimension, 3rd Floor, Mind Space, Malad (West), Mumbai 400064, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Route Mobile Limited,3,Plant,"During the reporting period, we did not have any facility/ plant operations in any water stressed areas ('WSA') in terms of Atal Bhujal Yojana ('ABY'). ABY is a groundwater management scheme (Central Sector Scheme, for sustainable /management of ground water resources with community participation) in India under Ministry of Jal Shakti, Govt. of India.",,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+R R Kabel Limited,1,Registered Office,"Ram Ratna House, Victoria Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400 013, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+R R Kabel Limited,2,Corporate Office,"Alembic Business Park (West), Ground Floor, Bhailal Amin Marg, Gorwa, Vadodara 390 003, Gujarat, India",Vadodara,Gujarat,India,XBRL_CorporateOffice
+Safari Industries India Limited,1,Registered Office,"302-303, A wing, The Qube, CTS No. 1498, A/2, M.V. Road, Marol, Andheri (East), Mumbai, Maharashtra – 400059",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED,1,Registered Office,"Unit 705, C Wing, ONE BKC, G Block, Bandra Kurla Complex, Bandra East, Mumbai City, Mumbai, Maharashtra, India, 400051",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED,2,Corporate Office,"MOTHERSON CORPORATE TOWER, PLOT NO.1, SECTOR 127, NOIDA, Uttar Pradesh, India, 201301",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED,3,Plant,Noida; Indore; Bangalore; Tapukara; Anathapur; Bechraji; Kandla; Karnataka; Dhorka; Manesar; Haryana; Jigani; Palani,Noida,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED,4,Plant,Bechraji; Pune; Ranjangaon; Mandal,Pune,Maharashtra,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress2
+Sandur Manganese  Iron Ores Limited,1,Registered Office,"‘SATYALAYA’, Door No. 266 (Old No. 80), Ward No. 1, Behind Taluka Office, Sandur - 583 119, Ballari District, Karnataka",,Karnataka,India,XBRL_RegisteredOffice
+Sandur Manganese  Iron Ores Limited,2,Corporate Office,"Sandur House, No 9, Bellary Road, Sadashiva Nagar, Bengaluru - 560 080, Karnataka.",Bengaluru,Karnataka,India,XBRL_CorporateOffice
+Sandur Manganese  Iron Ores Limited,3,Plant,Ballari and Vijayanagara districts of Karnataka,,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Sanofi India Limited,1,Registered Office,"Sanofi House, CTS No. 117-B, L&T Business Park,Saki Vihar Road, Powai, Mumbai – 400072",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+SAPPHIRE FOODS INDIA LIMITED,1,Registered Office,"702, Prism Tower, A Wing, Mindspace, Link Road, Goregaon (West), Mumbai, MH-400062, INDIA",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+SARDA ENERGY  MINERALS LIMITED,1,Registered Office,"73/A, Central Avenue, Nagpur (MH) 440018",Nagpur,Maharashtra,India,XBRL_RegisteredOffice
+SARDA ENERGY  MINERALS LIMITED,2,Corporate Office,"Sarda Energy & Minerals Limited
+Industrial Growth Centre, 
+Siltara, Raipur (Chhattisgarh) – 493111",Raipur,Chhattisgarh,India,XBRL_CorporateOffice
+SARDA ENERGY  MINERALS LIMITED,3,Facility,Raipur are ISO,Raipur,,India,XBRL_TextExtraction
+SARDA ENERGY  MINERALS LIMITED,4,Facility,Raipur has been assessed for Health,Raipur,,India,XBRL_TextExtraction
+SAREGAMA India Limited,1,Registered Office,"33, Jessore Road, Dum Dum, Kolkata - 700028, West Bengal, India",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+SAREGAMA India Limited,2,Corporate Office,"2nd Floor, Spencer Building, 30, Forjett Street, Grant Road (W), Mumbai – 400 036
+Phone: (022) 6688 6200",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+SAREGAMA India Limited,3,Plant,Chennai and Mumbai,Chennai,Maharashtra,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+SBFC Finance Limited,1,Registered Office,"Unit No 103 1st Floor C&B Square Sangam Complex Andheri Kurla Road Village Chakala
+Andheri East Mumbai 400059",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+SBI Cards and Payment Services Limited,1,Registered Office,"Unit 401 & 402, 4th Floor, Aggarwal Millennium Tower E-1,2,3, Netaji Subhash Place, Wazirpur, New Delhi 110 034, India",Delhi,Delhi,India,XBRL_RegisteredOffice
+SBI Cards and Payment Services Limited,2,Corporate Office,"2nd Floor, Tower-B, Infinity Towers, DLF Cyber City, Block 2
+Building 3, DLF Phase 2, Gurugram, Haryana 122 002, India",Gurugram,Haryana,India,XBRL_CorporateOffice
+SBI Life Insurance Company Limited,1,Registered Office,"Natraj, M. V. Road, Western Express Highway
+Junction, Andheri (East), Mumbai – 400 069",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Schaeffler India Limited,1,Registered Office,"15th Floor, ASTP (Amar Sadanand Tech Park), Baner, 
+Pune, Maharashtra, India, 411045",Pune,Maharashtra,India,XBRL_RegisteredOffice
+Schneider Electric Infrastructure Limited,1,Registered Office,Milestone 87 Vadodara Halol Highway Village Kotambi Post Office Jarod Vadodara Gujarat 391 510,Vadodara,Gujarat,India,XBRL_RegisteredOffice
+Schneider Electric Infrastructure Limited,2,Corporate Office,"9th Floor Tower C DLF Building No. 10 DLF Cyber City,Phase II Gurugram 122002 Haryana",Gurugram,Haryana,India,XBRL_CorporateOffice
+Schneider Electric Infrastructure Limited,3,Facility,Kolkata was having an effluent treatment plant to treat the process wastewater and an initiative has been taken to install the ZLDP,Kolkata,West Bengal,India,XBRL_TextExtraction
+Sheela Foam Limited,1,Registered Office,"1002 To 1006 The Avenue, International Airport Road, Opp Hotel Leela
+Sahar, Marol Naka, Mumbai, Maharashtra, India, 400059",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Sheela Foam Limited,2,Corporate Office,"14, Sector 135, Noida, U.P-201301",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+Sheela Foam Limited,3,Plant,"Greater Noida, Hyderabad and Erode",Noida,Telangana,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+SHIPPING CORPORATION OF INDIA LIMITED,1,Registered Office,"SHIPPING HOUSE, 245 MADAME CAMA ROAD MUMBAI MAHARASHTRA – 400021",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+SHIPPING CORPORATION OF INDIA LIMITED,2,Corporate Office,SAME AS ABOVE,,,India,XBRL_CorporateOffice
+Shoppers Stop Limited,1,Registered Office,"Umang Tower, 5th Floor, Mindspace, Off. Link Road, Malad (West), Mumbai - 400 064.",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Shoppers Stop Limited,2,Corporate Office,"Umang Tower, 5th Floor, Mindspace, Off. Link Road, 
+Malad (West), Mumbai - 400 064.",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Shree Renuka Sugars Limited,1,Registered Office,"2nd and 3rd Floor, Kanakashree Arcade, CTS No.10634, JNMC Road, Nehru Nagar, Belagavi –590010, Karnataka",,Karnataka,India,XBRL_RegisteredOffice
+Shree Renuka Sugars Limited,2,Corporate Office,"7th  Floor, Devchand House, Shiv Sagar Estate, Dr. Annie Besant Road, Worli, Mumbai, Maharashtra –400 018",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Shriram Finance Limited,1,Registered Office,"Sri Towers, Plot No. 14A, South Phase, Industrial Estate, Guindy, Chennai, Tamil Nadu- 600 032",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+Shriram Finance Limited,2,Corporate Office,"Wockhardt Towers, Level-3, West Wing, C-2, G Block, Bandra-Kurla Complex, Bandra (East), 
+Mumbai, Maharashtra - 400 051",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Shyam Metalics and Energy Limited,1,Registered Office,"“P-19, (Plate No.: D-403), Taratala Road, CPT Colony, Kolkata,
+West Bengal 700088”",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+Shyam Metalics and Energy Limited,2,Plant,"Jamuria, Mangalpur, Pakuria, Sambalpur, Kharagpur, Pithampur (Unit I & II)",,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Siemens Limited,1,Registered Office,"Birla Aurora, Level 21, Plot No.1080, Dr. Annie Besant Road, Worli, Mumbai - 400030",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Siemens Limited,2,Plant,Puducherry and Gurugram,Gurugram,Puducherry,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Siemens Limited,3,Facility,Goa,,Goa,India,XBRL_TextExtraction
+Signatureglobal India Limited,1,Registered Office,"13th Floor, Dr. Gopal Das Bhawan, 28 Barakhamba Road, Connaught Place, Delhi - 110001",Delhi,Delhi,India,XBRL_RegisteredOffice
+Signatureglobal India Limited,2,Corporate Office,"Unit No.101, Ground Floor, Tower-A, Signature Tower South City-1, Gurugram, Harayana-122001",Gurugram,Haryana,India,XBRL_CorporateOffice
+Signatureglobal India Limited,3,Plant,Gurugram and Ghaziabad,Gurugram,Haryana,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+SJVN Limited,1,Registered Office,"SJVN, Corporate Office Complex, Shanan Shimla - 171006, Himachal Pradesh",,Himachal Pradesh,India,XBRL_RegisteredOffice
+SKF INDIA LIMITED,1,Registered Office,"Chinchwad, Pune 411 033, Maharashtra",Pune,Maharashtra,India,XBRL_RegisteredOffice
+Sobha Limited,1,Registered Office,"Sobha, Sarjapur – Marathahalli Outer Ring  Road (ORR), Devarabisanahalli, Bellandur Post, Bangalore – 560 103",Bangalore,Karnataka,India,XBRL_RegisteredOffice
+Solar Industries India Limited,1,Registered Office,"“Solar” House,14, Kachimet, Amravati Road, Nagpur – 440023",Amravati,,India,XBRL_RegisteredOffice
+Sonata Software Limited,1,Registered Office,"Sonata Software Limited No. 208, T V Industrial Estate, 2nd Floor, S K Ahire Marg, Worli, Mumbai, Maharashtra 400 030, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Sonata Software Limited,2,Corporate Office,"Sonata Towers, Global village, RVCE Post Mysore Road, RV Niketan, Bangalore, Bangalore South, Karnataka, India, 560059",Mysore,Karnataka,India,XBRL_CorporateOffice
+Sona BLW Precision Forgings Limited,1,Registered Office,"Sona Enclave, Village Begumpur Khatola, Sector 35 Gurgaon,
+Haryana 122004.",Gurgaon,Haryana,India,XBRL_RegisteredOffice
+Sona BLW Precision Forgings Limited,2,Corporate Office,"Sona Enclave, Village Begumpur Khatola, Sector 35 Gurgaon,
+Haryana 122004",Gurgaon,Haryana,India,XBRL_CorporateOffice
+SRF LIMITED,1,Registered Office,"The Galleria, DLF Mayur Vihar, Unit No. 236 & 237,
+Second Floor, Mayur Place, Noida Link Road, Mayur Vihar
+Phase I Extn, Delhi - 110 091",Noida,Delhi,India,XBRL_RegisteredOffice
+SRF LIMITED,2,Corporate Office,"Block - C, Sector - 45, Gurugram, Haryana,
+India - 122 003",Gurugram,Haryana,India,XBRL_CorporateOffice
+Star Cement Limited,1,Registered Office,"Vill: Lumshnong, P.O. Khaliehriat, Dist. East Jaintia Hills, Meghalaya-793 210",,Meghalaya,India,XBRL_RegisteredOffice
+Star Cement Limited,2,Corporate Office,"Star Cement Limited, ‘Century House’, 2nd floor, P-15/1, Taratala Main Road, CPT Colony, Kolkata-700 088, West Bengal",Kolkata,West Bengal,India,XBRL_CorporateOffice
+Star Health and Allied Insurance Company Limited,1,Registered Office,"No.1, New Tank Street, Valluvarkottam High Road, Nungambakkam Chennai TN 600034 India",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+Star Health and Allied Insurance Company Limited,2,Corporate Office,"Acropolis "", No. 148, Dr Radha Krishnan Salai, Chennai, Tamil Nadu 600004, India",Chennai,Tamil Nadu,India,XBRL_CorporateOffice
+STATE BANK OF INDIA,1,Registered Office,"State Bank of India, State Bank Bhavan, Corporate
+Centre, Madame Cama Road, Nariman Point,
+Mumbai, Maharashtra - 400021, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Steel Authority of India Limited,1,Registered Office,"Ispat Bhawan, Lodhi Road, New Delhi – 110003",Delhi,Delhi,India,XBRL_RegisteredOffice
+Sterling and Wilson Renewable Energy Limited,1,Registered Office,"Universal Majestic, 9th Floor, P. L. Lokhande Marg, Chembur (W), Mumbai – 400 043",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Sterling and Wilson Renewable Energy Limited,2,Corporate Office,"Universal Majestic, 13th Floor, P. L. Lokhande Marg, Chembur (W), Mumbai – 400
+043",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Sterling and Wilson Renewable Energy Limited,3,Plant,"Bikaner, Barmer, Kutch",Bikaner,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+SUMITOMO CHEMICAL INDIA LIMITED,1,Registered Office,"Bldg. No.1,GF,Shant Manor Co-op Housing Society Limited Chakravarti Ashok ‘X’ Road, Kandivli (E) Mumbai - 400101",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+SUMITOMO CHEMICAL INDIA LIMITED,2,Corporate Office,"13&14, Aradhana Industrial Development Corporation Near Virwani Industrial Estate, Goregaon (East), Mumbai 400063",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+SUMITOMO CHEMICAL INDIA LIMITED,3,Plant,"Bhavnagar, Gajod, Tarapur, Vapi and Silvassa",Bhavnagar,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+SUNDARAM FINANCE LIMITED,1,Registered Office,"21 PATULLOS ROAD, CHENNAI, Chennai, CHENNAI, Tamil Nadu, India, 600002",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+SUNDARAM FINANCE LIMITED,2,Facility,Chennai and now with chapters in other locations as well,Chennai,Tamil Nadu,India,XBRL_TextExtraction
+Sundram Fasteners Limited,1,Registered Office,"No.98-A,VII Floor, Dr.Radhakrishnan Salai, Mylapore,Chennai 600 004",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+Sun Pharmaceutical Industries Limited,1,Registered Office,"SPARC, Tandalja, Vadodara - 390012, Gujarat",Vadodara,Gujarat,India,XBRL_RegisteredOffice
+Sun Pharmaceutical Industries Limited,2,Corporate Office,"Sun House, CTS No. 201 B/1, Western Express Highway, Goregaon (E), Mumbai 400063, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Sun Pharmaceutical Industries Limited,3,Plant,"FY 2024-25 Bengaluru, Dadra, Dewas, Gurugram, Vadodara.     
+FY 2023-24 Dadra, Mohali, Silvassa, Toansa, Gurugram",Bengaluru,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Sun Pharma Advanced Research Company Limited,1,Registered Office,"Plot No. 5&6/1, Savli G.I.D.C. Estate, Savli – Vadodara Highway, Manjusar - 391775, Vadodara, Gujarat, India",Vadodara,Gujarat,India,XBRL_RegisteredOffice
+Sun Pharma Advanced Research Company Limited,2,Corporate Office,"17/B, Mahal Industrial Estate, Off Mahakali Caves Road, Andheri (East), Mumbai - 400 093, Maharashtra",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Sun TV Network Limited,1,Registered Office,"Murasoli Maran Towers, 73, MRC Nagar Main Road, MRC Nagar, Chennai, Tamil Nadu 600028 India",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+Supreme Industries Limited,1,Registered Office,"612, Raheja Chambers, Nariman Point, Mumbai-400021
+Tele: 022-62570000, 62570025
+Email: investor@supreme.co.in",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Supreme Industries Limited,2,Corporate Office,"1161 & 1162 Solitaire Corporate Park,
+167, Guru Hargovindji Marg, Andheri Ghatkopar Link Road, Andheri (E), Mumbai 400093
+Tele: 022-4043 0000 Fax: 022-4043 0099
+Website: http://www.supreme.co.in
+Email: supreme@supreme.co.in",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+SUPREME PETROCHEM LIMITED,1,Registered Office,"BUILDING NO. 11, 5TH FLOOR, 167, GURU HARGOVINJI MARG, CHAKALA, ANDHERI EAST, MUMBAI 400093",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+SUZLON ENERGY LIMITED,1,Registered Office,"“Suzlon”, 5, Shrimali Society, Near Shri Krishna Complex, Navrangpura, Ahmedabad-380009",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+SUZLON ENERGY LIMITED,2,Corporate Office,"Suzlon Energy Ltd, One Earth, Hadapsar, Pune - 411028, Maharashtra, India",Pune,Maharashtra,India,XBRL_CorporateOffice
+SUZLON ENERGY LIMITED,3,Plant,Manufacturing sites in Bhuj & Jaisalmer and Maintenance Operations in Kutch & Rajasthan,,Rajasthan,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Syngene International Limited,1,Registered Office,"Syngene International Limited 
+Biocon SEZ, Biocon Park, Plot No. 2 & 3, 
+Bommasandra Industrial Area IV Phase, 
+Jigani Link Rd, Bommasandra Bengaluru- 560099, Karnataka, India",Bengaluru,Karnataka,India,XBRL_RegisteredOffice
+Syngene International Limited,2,Corporate Office,"Syngene International Limited
+‘The Hub', Tower 8A, 360 Degree Business Park, 
+Doddathoguru, Electronic City, Phase 1, 
+Bengaluru, Karnataka 560100",Bengaluru,Karnataka,India,XBRL_CorporateOffice
+Syrma SGS Technology Limited,1,Registered Office,"Unit No. 601, 6th Floor, Floral Deck Plaza, MIDC Andheri (East), Mumbai, Maharashtra, India - 400093",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Syrma SGS Technology Limited,2,Corporate Office,"Plot No B 27, Phase II, Zone B, MEPZ-SEZ, Tambaram, Chennai, Tamil Nadu, India - 600045",Chennai,Tamil Nadu,India,XBRL_CorporateOffice
+Syrma SGS Technology Limited,3,Plant,"Chennai, Gurugram,
+Bengaluru, Baddi,
+Bawal, Bargur",Chennai,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Tamilnad Mercantile Bank Limited,1,Registered Office,"57 V.E. Road, Tuticorin- 628002",,,India,XBRL_RegisteredOffice
+Tanla Platforms Limited,1,Registered Office,"Tanla Technology Centre, Hitech City Road, Madhapur, Hyderabad, Telangana, India, 500081",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+TATA CHEMICALS LIMITED,1,Registered Office,"BOMBAY HOUSE 24 HOMI MODI ST FORT, MUMBAI, Maharashtra, India, 400001",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+TATA CHEMICALS LIMITED,2,Plant,"Mithapur, Ankleshwar & Dahej in Gujarat, Akola in Maharashtra, Cuddalore in Tamil Nadu, Mambattu and GP Palli in Andhra Pradesh, Kokkonda in Telangana
+(Source: World Resources Institute)",Ankleshwar,Maharashtra,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+TATA COMMUNICATIONS LIMITED,1,Registered Office,"VSB, Mahatma Gandhi Road, Fort, Mumbai - 400001",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+TATA COMMUNICATIONS LIMITED,2,Corporate Office,"Tata Communications Limited, Tower C, Plot No. C-21 & C-36, G Block, Bandra Kurla Complex, Mumbai – 400 098",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Tata Consultancy Services Limited,1,Registered Office,"9th Floor, Nirmal Building, Nariman Point, Mumbai 400 021, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Tata Consultancy Services Limited,2,Corporate Office,"TCS House, Raveline Street, Fort, Mumbai 400 001, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Tata Consultancy Services Limited,3,Plant,"In FY 2025, there are 23 stress zones* identified as per the classification by the Central Ground Water Board for India locations and the World Resources Institute (WRI Aqueduct Tool for non- India geographies, 49 TCS offices are located under water stressed zones. List of the 23 stress zones is as below: Ambattur (1 TCS location) Vadodara (1 TCS location) Bengaluru (North) (1 TCS location) Velachery (1 TCS Location) Bisrakh (4 TCS locations) Japan (2 TCS locations) Gurugram (4 TCS locations) US (2 TCS locations) Karol Bagh (1 TCS location) China (1 TCS Location) Serilingampally (5 TCS locations) Philippines (3 TCS locations) Varanasi (1 TCS location) UK (1 TCS location) Anekal (1 TCS location) Chile (2 TCS locations) Bengaluru (East) (8 TCS locations) Mexico (4 TCS locations) Gandhinagar (2 TCS locations) Uruguay (1 TCS location) Indore (1 TCS location) Saudi Arabia (1 TCS Location) Lucknow (1 TCS location)",Vadodara,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Tata Consumer Products Limited,1,Registered Office,"1, Bishop Lefroy Road, Kolkata - 700020",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+Tata Consumer Products Limited,2,Corporate Office,"11/13, Botawala Building,1st Floor, Office # 2-6 
+Horniman Circle, Fort, Mumbai- 400 001",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Tata Elxsi Limited,1,Registered Office,"ITPB Road, Whitefield, Bengaluru – 560 048, India",Bengaluru,Karnataka,India,XBRL_RegisteredOffice
+Tata Investment Corporation Limited,1,Registered Office,"Elphinstone Building, 10 Veer Nariman Road, Mumbai - 400001",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Tata Motors Limited,1,Registered Office,"Bombay House, 24, Homi Mody Street, Mumbai 400001, Maharashtra, India.",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Tata Steel Limited,1,Registered Office,"Bombay House, 24, Homi Mody Street, Fort, Mumbai – 400001",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Tata Steel Limited,2,Plant,"Tata Steel’s facilities at Jamshedpur, Kalinganagar, Meramandali, Gamharia,
+West Bokaro, Jharia, Noamundi, Katamati, Joda, Thailand, Canada",Jamshedpur,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Tata Steel Limited,3,Facility,Punjab,,Punjab,India,XBRL_TextExtraction
+Tata Technologies Limited,1,Registered Office,"Plot No 25, Rajiv Gandhi Infotech Park, Hinjawadi, Pune, 411057",Pune,Maharashtra,India,XBRL_RegisteredOffice
+Tata Technologies Limited,2,Plant,"Bangalore, Thane, Chennai",Bangalore,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Tata Teleservices Maharashtra Limited,1,Registered Office,"D-26, TTC Industrial Area, MIDC Sanpada P.O., Turbhe, Navi 
+Mumbai - 400 703",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Tata Teleservices Maharashtra Limited,2,Corporate Office,Same as above,,,India,XBRL_CorporateOffice
+TBO Tek Limited,1,Registered Office,"E-78 South Extension Part- I, New Delhi-110049",Delhi,Delhi,India,XBRL_RegisteredOffice
+TBO Tek Limited,2,Corporate Office,"Plot No. 728, Udyog Vihar Phase- V Gurgaon - 122016",Gurgaon,Haryana,India,XBRL_CorporateOffice
+Techno Electric  Engineering Company Limited,1,Registered Office,"C-218, Ground Floor (GR-2), Sector 63, Noida – Gautam Buddha Nagar, 201307, Uttar Pradesh",Noida,Uttar Pradesh,India,XBRL_RegisteredOffice
+Techno Electric  Engineering Company Limited,2,Corporate Office,"1B, Park Plaza, South Block, 71, Park Street, Kolkata - 700016",Kolkata,West Bengal,India,XBRL_CorporateOffice
+Tech Mahindra Limited,1,Registered Office,"Gateway Building, Apollo Bunder, Mumbai – 400 001. Tel: +91 22-6897 5500",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Tech Mahindra Limited,2,Corporate Office,"Plot No 01, Rajiv Gandhi Infotech Park, Phase III, Hinjewadi, MIDC, SEZ, Pune Maharashtra, 411057, Tel: +91 20-4225 0000",Pune,Maharashtra,India,XBRL_CorporateOffice
+Tech Mahindra Limited,3,Plant,"Baseline Water Stress (BWS) areas as per Aqueduct Water risk tool (by
+WRI) are the Company owned and leased facilities across Noida, Nagpur, Pune, Bengaluru,
+Gandhinagar, Chandigarh, Chennai, Hyderabad, Mexico, Shanghai, and Dalian.",Noida,Chandigarh,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+TEGA INDUSTRIES LIMITED,1,Registered Office,"Godrej Waterside, Tower-II, Office No.807, 8th Floor, Block DP - 5, Salt Lake Sector V,  Bidhannagar, Kolkata - 700091, West Bengal, India",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+Tejas Networks Limited,1,Registered Office,"J P Software Park, Plot No 25, Sy. No 13, 14, 17, 18 Konnapana Agrahara Village, Begur Hobli, Bengaluru - 560100, Karnataka.",Bengaluru,Karnataka,India,XBRL_RegisteredOffice
+Tejas Networks Limited,2,Plant,"Electronic City Phase 1 and Phase 2, Bengaluru,
+Karnataka, India",Bengaluru,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Thermax Limited,1,Registered Office,"D-13, MIDC, Industrial Area, R. D. Aga Road, Chinchwad, Pune 411019",Pune,Maharashtra,India,XBRL_RegisteredOffice
+Thermax Limited,2,Corporate Office,"Thermax House 14, Mumbai-Pune Road, Wakdewadi, Pune 411003, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Thermax Limited,3,Plant,"Ahmedabad, Bengaluru, Bhubaneshwar, Chandigarh, Chennai, Kolkata, Lucknow and Delhi",Ahmedabad,Delhi,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+THE NEW INDIA ASSURANCE COMPANY LIMITED,1,Registered Office,"NEW INDIA ASSURANCE BLDG87 M G ROAD FORT, MUMBAI, Maharashtra, India, 400001",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+THE PHOENIX MILLS LIMITED,1,Registered Office,"462 Senapati Bapat Marg, Lower Parel, Mumbai - 400013,
+Maharashtra",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+THE PHOENIX MILLS LIMITED,2,Corporate Office,"Shree Laxmi Woolen Mills Estate, 2nd floor, R.R. Hosiery, Off Dr. E Moses Road, Mahalaxmi, Mumbai- 400011, Maharashtra
+Off Dr. E Moses Road, Mahalaxmi, Mumbai - 400011,
+Maharashtra",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+The Ramco Cements Limited,1,Registered Office,"“Ramamandiram”, Rajapalayam – 626 117",,,India,XBRL_RegisteredOffice
+The Ramco Cements Limited,2,Corporate Office,"“Auras Corporate Centre”, 5th floor, No:98-A, Dr. Radhakrishnan Road, Mylapore, Chennai - 600 004",Chennai,Tamil Nadu,India,XBRL_CorporateOffice
+The Ramco Cements Limited,3,Plant,"Salem(TN), Mathodu(KA)",Salem,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Thomas Cook  India  Limited,1,Registered Office,"11th Floor, Marathon FutureX, N.M. Joshi Marg, Lower Parel, Mumbai 400 013",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Timken India Limited,1,Registered Office,"39-42 Electronic City, Phse II Hosur Road, Bangalore, Karnataka, India, 560100",Hosur,Karnataka,India,XBRL_RegisteredOffice
+TITAGARH RAIL SYSTEMS LIMITED,1,Registered Office,"Poddar Point, 10th floor, 113 Park Street, Kolkata 700016",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+TITAGARH RAIL SYSTEMS LIMITED,2,Corporate Office,"Titagarh Towers, 756 Anandpur, E.M Bypass, Kolkata 700107",Kolkata,West Bengal,India,XBRL_CorporateOffice
+TITAGARH RAIL SYSTEMS LIMITED,3,Plant,"Uttarpara, Titagarh, bharatpur",Bharatpur,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Titan Company Limited,1,Registered Office,"No. 3, SIPCOT Industrial Complex, Hosur, Tamil Nadu - 635126",Hosur,Tamil Nadu,India,XBRL_RegisteredOffice
+Titan Company Limited,2,Corporate Office,"`INTEGRITY' #193, Veerasandra, Electronics City P.O., Off Hosur Main Road, Bengaluru-560100 Karnataka, India",Hosur,Karnataka,India,XBRL_CorporateOffice
+Titan Company Limited,3,Plant,"Hosur (Tamil Nadu), Chikkaballapur, Corporate Office in Electronics City, Bengaluru (Karnataka), Noida, Pantnagar and Roorkee (Uttarakhand)",Hosur,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Titan Company Limited,4,Facility,"Chikkaballapur and EyeCare lens labs at Noida and Kolkata
+ISO",Chikkaballapur,West Bengal,India,XBRL_TextExtraction
+Titan Company Limited,5,Facility,"Chikkaballapur and EyeCare
+lens labs at Noida and Kolkata
+ISO",Chikkaballapur,West Bengal,India,XBRL_TextExtraction
+Titan Company Limited,6,Facility,Hosur in mid of,Hosur,Tamil Nadu,India,XBRL_TextExtraction
+Torrent Pharmaceuticals Limited,1,Registered Office,"Torrent House, Off Ashram Road, Ahmedabad – 380 009",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+Torrent Pharmaceuticals Limited,2,Plant,Pithampur manufacturing facility and R&D Centre,,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Torrent Power Limited,1,Registered Office,"“Samanvay’’, 600, Tapovan, Ambawadi, Ahmedabad, Gujarat,
+India, 380015",Ahmedabad,Gujarat,India,XBRL_RegisteredOffice
+TRIDENT LIMITED,1,Registered Office,"Trident Group, Sanghera, Barnala, Punjab, India, 148101",,Punjab,India,XBRL_RegisteredOffice
+TRIDENT LIMITED,2,Corporate Office,Not Applicable,,,India,XBRL_CorporateOffice
+TRIDENT LIMITED,3,Facility,Punjab location and use the same for landscaping purposes,,Punjab,India,XBRL_TextExtraction
+Triveni Engineering  Industries Limited,1,Registered Office,"A-44, Hosiery Complex, Phase-II Extension, Noida-201 305, Uttar Pradesh",Noida,Uttar Pradesh,India,XBRL_RegisteredOffice
+Triveni Engineering  Industries Limited,2,Corporate Office,"‘Express Trade Towers’, 8th Floor 15-16, Sector-16A, Noida 201 301 (U.P.)",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+Triveni Turbine Limited,1,Registered Office,"A-44, HOSIERY COMPLEX PHASE-II EXTENSION, NOIDA, Uttar Pradesh, India, 201305",Noida,Uttar Pradesh,India,XBRL_RegisteredOffice
+Triveni Turbine Limited,2,Corporate Office,"8th Floor, Express Trade Towers, Plot No.15-16, Sector 16A, Noida- 201 301, Uttar Pradesh",Noida,Uttar Pradesh,India,XBRL_CorporateOffice
+Triveni Turbine Limited,3,Plant,"Sompura, Peenya, Hyderabad, Noida, Ahmedabad",Hyderabad,Telangana,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+TTK PRESTIGE LIMITED,1,Registered Office,"Plot No. 38, SIPCOT Industrial Complex, HOSUR – 635 126, Tamil Nadu",Hosur,Tamil Nadu,India,XBRL_RegisteredOffice
+TTK PRESTIGE LIMITED,2,Corporate Office,"Nagarjuna Castle No. 1/1 & 1/2, Wood Street, Richmond Town, Bengaluru, KA 560 025 IN",Bengaluru,Karnataka,India,XBRL_CorporateOffice
+Tube Investments of India Limited,1,Registered Office,"Chola Crest 4th Floor, No C54-55 & Super B-4, Thiru Vi Ka Industrial Estate, Guindy, Chennai 600 032",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+TVS Holdings Limited,1,Registered Office,"""Chaitanya"", No.12, Khader Nawaz Khan Road, Nungambakkam, Chennai - 600 006",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+TVS Motor Company Limited,1,Registered Office,"""Chaitanya"", No.12, Khader Nawaz Khan Road, Nungambakkam, Chennai - 600 006",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+TVS Motor Company Limited,2,Facility,Tamil Nadu is,,Tamil Nadu,India,XBRL_TextExtraction
+TVS Supply Chain Solutions Limited,1,Registered Office,"No. 10, Jawahar Road, Chokkikulam, Madurai –625 002, Tamil Nadu, India",Madurai,Tamil Nadu,India,XBRL_RegisteredOffice
+TVS Supply Chain Solutions Limited,2,Corporate Office,"Tamarai Tech Park South Block 3rd FLR, 16 SP Developed Plot, Jawaharlal Nehru Road, Guindy Industrial Estate, Chennai - 600032, Tamil Nadu, India",Chennai,Tamil Nadu,India,XBRL_CorporateOffice
+UCO BANK,1,Registered Office,10 BTM SARANI KOLKATA 700001,Kolkata,West Bengal,India,XBRL_RegisteredOffice
+UCO BANK,2,Corporate Office,2 INDIA EXCHANGE PLACE 3RD FLOOR KOLKATA 700001,Kolkata,West Bengal,India,XBRL_CorporateOffice
+Ujjivan Small Finance Bank Limited,1,Registered Office,"Grape Garden, No. 27, 3rd “A” Cross, 18th Main, 6th Block, 
+Koramangala, Bengaluru-560095, Karnataka",Bengaluru,Karnataka,India,XBRL_RegisteredOffice
+UltraTech Cement Limited,1,Registered Office,"B Wing, Ahura Centre, 2nd Floor, Mahakali Caves Road, Andheri (East), Mumbai 400 093",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+UltraTech Cement Limited,2,Plant,"Shambhupura (Rajasthan), Tadipatri (Andhra Pradesh), Kovaya (Gujarat), Nathdwara
+(Rajasthan), Neem Ka Thana (Rajasthan) and Kharia Khangar (Rajasthan).",,Gujarat,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+UNION BANK OF INDIA,1,Registered Office,"239, Vidhan Bhavan Marg, Nariman Point, Mumbai – 400 021",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+UNION BANK OF INDIA,2,Facility,Uttar Pradesh Parents Association for the Welfare of Mentally Handicapped Citizen,,Uttar Pradesh,India,XBRL_TextExtraction
+UNITED BREWERIES LIMITED,1,Registered Office,"UB Tower, UB City, # 24 Vittal Mallya Road, Bengaluru - 560 001, Karnataka, INDIA",Bengaluru,Karnataka,India,XBRL_RegisteredOffice
+United Spirits Limited,1,Registered Office,"UB Tower,#24, Vittal Mallya Road,Bengaluru-560001",Bengaluru,Karnataka,India,XBRL_RegisteredOffice
+United Spirits Limited,2,Plant,"Plant site
+a. Alwar (Rajasthan)
+ b. Kumbalgodu (Bangalore- East, Karnataka)
+c. Udaipur (Rajasthan) (Non-operating Unit)
+Offices
+ d. Bangalore HO (Karnataka)
+ e. Bangalore Technical Centre (Karnataka)
+ f. Gurgaon Office (Haryana)",Bangalore,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Uno Minda Limited,1,Registered Office,"B-64/1, Wazirpur Industrial Area, Delhi - 110052",Delhi,Delhi,India,XBRL_RegisteredOffice
+Uno Minda Limited,2,Corporate Office,"Village Nawada Fatehpur, P.O. Sikanderpur Badda, Manesar, District. Gurugram-122004, Haryana",Manesar,Haryana,India,XBRL_CorporateOffice
+Uno Minda Limited,3,Plant,"1. UML-Switch Division, Manesar
+2. UML-Switch Division, Pune
+3. UMEV Farrukhnagar
+4. UML-Controller Division, Pune
+5. UML-Lighting Division, Chennai
+6. UML-Lighting Division, Manesar
+7. UML-Acoustic Division (DTA), Manesar
+8. UML-Fuel Cap Division, Manesar
+9. UML Seating, Chennai
+10. UML-Alloy Wheel (2W) Division, Gujarat
+11. Kosei Minda Aluminium Company Pvt Ltd, Chennai
+12. UML - Aftermarket",Manesar,Gujarat,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+UPL LIMITED,1,Registered Office,"3-11, G.I.D.C., Vapi, Valsad-396195, Gujarat",Vapi,Gujarat,India,XBRL_RegisteredOffice
+UPL LIMITED,2,Corporate Office,"UPL Limited, Uniphos House, C.D. Marg, 11th Road, Madhu Park, Khar (West), Mumbai – 400052, India",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+UPL LIMITED,3,Plant,"Ankleshwar, Vapi, Tarapur, Dahej, Jammu, Halol, kalol, Jhagadia",Ankleshwar,Gujarat,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Usha Martin Limited,1,Registered Office,"2A Shakespeare Sarani, Kolkata – 700071",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+Usha Martin Limited,2,Corporate Office,"Usha Martin Limited, 2A Shakespeare Sarani, Kolkata – 700071",Kolkata,West Bengal,India,XBRL_CorporateOffice
+Usha Martin Limited,3,Facility,Ranchi,Ranchi,,India,XBRL_TextExtraction
+UTI Asset Management Company Limited,1,Registered Office,UTI Tower ‘Gn’ Block Bandra-Kurla Complex Bandra East Mumbai – 400051,Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+UTI Asset Management Company Limited,2,Facility,Mumbai is equipped with,Mumbai,Maharashtra,India,XBRL_TextExtraction
+V-GUARD INDUSTRIES LIMITED,1,Registered Office,"42/962, Vennala High School Road, Vennala, Ernakulam, Kerala-682028",,Kerala,India,XBRL_RegisteredOffice
+VALOR ESTATE LIMITED,1,Registered Office,"7TH FLOOR, RESHAM BHAVAN, VEER NARIMAN ROAD, CHURCHGATE, MUMBAI - 400020",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+VALOR ESTATE LIMITED,2,Corporate Office,SAME AS ABOVE,,,India,XBRL_CorporateOffice
+Varroc Engineering Limited,1,Registered Office,"Plot No. L-4, MIDC, Waluj, Aurangabad (M.S.) - 431136",Aurangabad,,India,XBRL_RegisteredOffice
+Varroc Engineering Limited,2,Facility,Pune has obtained Tisax certification,Pune,Maharashtra,India,XBRL_TextExtraction
+Varun Beverages Limited,1,Registered Office,"F- 2/7, Okhla Industrial Area, Phase- I New Delhi - 110 020",Delhi,Delhi,India,XBRL_RegisteredOffice
+Varun Beverages Limited,2,Corporate Office,"Plot No. 31, Sector 44, Institutional Area, Gurugram - 122 002, Haryana",Gurugram,Haryana,India,XBRL_CorporateOffice
+Varun Beverages Limited,3,Plant,all plants in water stressed area,,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Vedanta Limited,1,Registered Office,"1st Floor, ‘C’ Wing, Unit 103, Corporate Avenue, Atul Projects, Chakala, Andheri (East), Mumbai, Maharashtra – 400 093, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Vedanta Limited,2,Corporate Office,"Core-6, 3rd Floor, Scope Complex 7, Lodhi Road, New Delhi - 110 003",Delhi,Delhi,India,XBRL_CorporateOffice
+Vedanta Limited,3,Plant,"Cairn Oil & Gas, RJ Asset; IOK, Narrain mines;Silvassa, Chinchpada;HZL Mines",Silvassa,Rajasthan,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Vedant Fashions Limited,1,Registered Office,"A501-A502, SDF-1, 4th Floor, Paridhan Garment Park, 19 Canal South Road, Kolkata, 700015, West Bengal",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+Vesuvius India Limited,1,Registered Office,"P-104,Taratala Road, Kolkata 700088, India",Kolkata,West Bengal,India,XBRL_RegisteredOffice
+Vinati Organics Limited,1,Registered Office,"B-12 & B-13/1, MIDC Industrial Area, Raigad, Mahad, Maharashtra, 402 309",,Maharashtra,India,XBRL_RegisteredOffice
+Vinati Organics Limited,2,Corporate Office,"Parinee Crescenzo, 1102, 11th Floor, Plot No. C38 & C39, G Block, Behind MCA, Bandra-Kurla Complex, Bandra(E), Mumbai -400 051",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+VIP INDUSTRIES LIMITED,1,Registered Office,"DGP House, 5th Floor, 88-C, Old Prabhadevi Road,
+Mumbai - 400025",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Vodafone Idea Limited,1,Registered Office,"Suman Tower, Plot No. 18, Sector 11, Gandhinagar - 382 011, Gujarat",Gandhinagar,Gujarat,India,XBRL_RegisteredOffice
+Vodafone Idea Limited,2,Corporate Office,"Birla Centurion, 10th Floor, Century Mills Compound, Pandurang Budhkar Marg, Worli, Mumbai - 400030 (Maharashtra)",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Voltamp Transformers Limited,1,Registered Office,"Makarpura, Vadodara – 390014",Vadodara,Gujarat,India,XBRL_RegisteredOffice
+Voltas Limited,1,Registered Office,"Voltas House ‘A’, Dr. Babasaheb Ambedkar Road, Chinchpokli, Mumbai 400 033",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Waaree Renewable Technologies Limited,1,Registered Office,"504, Western Edge - I, Off. Western Express Highway, Borivali (E), Mumbai, Maharashtra, 400066",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Welspun Corp Limited,1,Registered Office,"Welspun City, Village Versamedi, Taluka Anjar, Dist. Kutch, Gujarat- 370110",,Gujarat,India,XBRL_RegisteredOffice
+Welspun Corp Limited,2,Corporate Office,"Welspun House, 5th Floor, Kamala Mills Compound, Senapati Bapat Marg, Lower Parel, Mumbai- 400 013
+Marg, Lower Parel, Mumbai - 400 013",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Welspun Living Limited,1,Registered Office,"Welspun City, Village Versamedi, Taluka Anjar, District Kutch, Gujarat -370110, India",,Gujarat,India,XBRL_RegisteredOffice
+Welspun Living Limited,2,Corporate Office,"Welspun House, 6th Floor, Kamala Mills Compound, Senapati Bapat Marg, Lower Parel (W), Mumbai 400013, India",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Welspun Living Limited,3,Facility,Hyderabad has established as ZLD plant,Hyderabad,Telangana,India,XBRL_TextExtraction
+Welspun Living Limited,4,Facility,Vapi,Vapi,Gujarat,India,XBRL_TextExtraction
+Westlife Foodworld Limited,1,Registered Office,"Tower 3, 10th Floor, 1001, One International Center, Senapati Bapat Marg, Prabhadevi, Mumbai 400013",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Whirlpool of India Limited,1,Registered Office,"A-4, MIDC, Ranjangaon, Taluka - Shirur, Pune, Maharashtra - 412220",Pune,Maharashtra,India,XBRL_RegisteredOffice
+Whirlpool of India Limited,2,Corporate Office,"Plot No. 40, Sector 44, Gurugram, Haryana - 122002",Gurugram,Haryana,India,XBRL_CorporateOffice
+Wipro Limited,1,Registered Office,"Doddakannelli, Sarjapur Road, Bengaluru-560035, Karnataka, India",Bengaluru,Karnataka,India,XBRL_RegisteredOffice
+Wipro Limited,2,Plant,"All offices except Mysore, Cochin, Vizag, and Bhubaneswar",Mysore,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Wockhardt Limited,1,Registered Office,"D-4, M.I.D.C. Chikalthana, Chhatrapati Sambhajinagar,Maharashtra, India, 431006",,Maharashtra,India,XBRL_RegisteredOffice
+Wockhardt Limited,2,Corporate Office,"Wockhardt Towers, Bandra Kurla Complex, Bandra (East),Mumbai, Maharashtra, 400 051",Mumbai,Maharashtra,India,XBRL_CorporateOffice
+Wockhardt Limited,3,Plant,"Wockhardt Ltd,Biotech Park, H-14/2,MIDC,Waluj,
+Chhatrapati Sambhajinagar",,,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+YES Bank Limited,1,Registered Office,"YES BANK House, Off Western Express Highway, Santacruz East, Mumbai 400055, Maharashtra, India",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+Zee Entertainment Enterprises Limited,1,Registered Office,"18th floor, A-wing, Marathon Futurex, N M Joshi Marg, Lower Parel,
+Mumbai - 400013.",Mumbai,Maharashtra,India,XBRL_RegisteredOffice
+ZENSAR TECHNOLOGIES LIMITED,1,Registered Office,"Zensar Knowledge Park, Kharadi, Plot No. 4, MIDC, Off Nagar Road, Pune, 411014, Maharashtra, India",Pune,Maharashtra,India,XBRL_RegisteredOffice
+ZENSAR TECHNOLOGIES LIMITED,2,Plant,"Bangalore – India, Cape Town – South Africa",Bangalore,Karnataka,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Zen Technologies Limited,1,Registered Office,"B-42 Industrial Estate, Sanathnagar, Hyderabad - 500018, Telangana, India",Hyderabad,Telangana,India,XBRL_RegisteredOffice
+ZF Commercial Vehicle Control Systems India Limited,1,Registered Office,"Plot No.3, (SP) III Main Road, Ambattur Industrial Estate, Chennai - 600 058.",Chennai,Tamil Nadu,India,XBRL_RegisteredOffice
+ZF Commercial Vehicle Control Systems India Limited,2,Plant,Chennai - Ambattur,Chennai,Tamil Nadu,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Zydus Lifesciences Limited,1,Registered Office,"“Zydus Corporate Park”, Scheme No. 63, Survey No. 536, 
+Near Vaishnodevi Circle, Khoraj (Gandhinagar),
+ Sarkhej-Gandhinagar Highway, Ahmedabad-382481",Gandhinagar,Gujarat,India,XBRL_RegisteredOffice
+Zydus Lifesciences Limited,2,Plant,"Vadodara (Padra), Ahmedabad -Corporate Office",Vadodara,Gujarat,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1
+Zydus Wellness Limited,1,Registered Office,"Zydus Corporate Park, Scheme No. 63, Survey No. 536, Khoraj (Gandhinagar), Nr. Vaishnodevi Circle, Sarkhej–Gandhinagar Highway, Ahmedabad – 382481",Gandhinagar,Gujarat,India,XBRL_RegisteredOffice
+Zydus Wellness Limited,2,Plant,"Aligarh, Ahmedabad and Sikkim",Ahmedabad,Sikkim,India,XBRL_Context_D_FacilityOrPlantLocatedInAreasOfWaterStress1

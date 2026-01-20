@@ -7,6 +7,8 @@
   "nii_score": 2.5,
   "nii_rank": 392,
   "nii_sector_rank": 11,
+  "nii_sector_total": 13,
+  "nii_total_companies": 525,
   "nii_rating": "Poor",
   "nii_percentile": 25,
   "taesc_cr": 3078.91,
@@ -15,27 +17,58 @@
   "breakdown": {
     "climate": {
       "value_cr": 2306.83,
-      "pct": 74.9
+      "pct": 74.9,
+      "sub_components": {
+        "scope1_cost_cr": 2.91,
+        "scope2_cost_cr": 12.11,
+        "scope2_net_cr": 0.0,
+        "scope3_cost_cr": 2303.93,
+        "re_credit_cr": 248.55
+      }
     },
     "water": {
       "value_cr": 6.53,
-      "pct": 0.2
+      "pct": 0.2,
+      "sub_components": {
+        "consumption_cost_cr": 7.33,
+        "recycling_credit_cr": 0.81
+      }
     },
     "land": {
       "value_cr": 5.8,
-      "pct": 0.2
+      "pct": 0.2,
+      "sub_components": {
+        "footprint_cost_cr": 4.0,
+        "degradation_cost_cr": 1.8,
+        "restoration_credit_cr": 0.0
+      }
     },
     "biodiversity": {
       "value_cr": 748.83,
-      "pct": 24.3
+      "pct": 24.3,
+      "sub_components": {
+        "direct_msa_cost_cr": 744.78,
+        "scope3_bio_cost_cr": 4.06
+      }
     },
     "pollution": {
       "value_cr": 6.64,
-      "pct": 0.2
+      "pct": 0.2,
+      "sub_components": {
+        "waste_cost_cr": 9.7,
+        "overburden_cost_cr": 0.0,
+        "plastic_cost_cr": 0.67,
+        "ewaste_cost_cr": 0.68,
+        "hap_cost_cr": 0.0,
+        "recycling_credit_cr": 4.41
+      }
     },
     "energy_depletion": {
       "value_cr": 4.28,
-      "pct": 0.1
+      "pct": 0.1,
+      "sub_components": {
+        "non_renewable_cost_cr": 4.28
+      }
     }
   },
   "raw_data": {
@@ -57,6 +90,12 @@
     "sector_best_score": 7.5,
     "sector_median_taesc": 994.84,
     "sector_best_taesc": 31.34
+  },
+  "restoration_estimate": {
+    "acres_needed": 171050,
+    "hectares_equiv": 69223,
+    "theta_per_acre_lakh": 1.8,
+    "methodology": "Based on incremental ecosystem service value of Rs 1.8 lakh per acre per year from restoration"
   },
   "data_quality": {
     "tier": "Tier 3",

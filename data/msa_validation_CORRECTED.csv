@@ -1,0 +1,9 @@
+Sector,Expected,Actual_Median,Companies,Deviation_%,Status
+Cement,0.005000 - 0.015000,0.060031,7,+500.3%,REVIEW
+Steel & Iron,0.008000 - 0.025000,0.021794,5,+45.3%,PASS
+Oil & Gas,0.010000 - 0.030000,0.034183,7,+70.9%,PASS*
+Power Generation,0.010000 - 0.030000,0.195881,18,+879.4%,REVIEW
+Chemicals & Fertilizers,0.006000 - 0.018000,0.123663,300,+930.5%,REVIEW
+Pharmaceuticals,0.002000 - 0.008000,0.037297,11,+645.9%,REVIEW
+Financial Services,0.000100 - 0.000500,0.000206,26,-31.3%,PASS
+Information Technology,0.000500 - 0.001500,0.021692,22,+2069.2%,REVIEW

@@ -1,0 +1,6 @@
+Comparison,Expected_Ratio,Actual_Ratio,Deviation_%,Status,Description
+Steel & Iron / Cement,1.8x,18.4x,+920.9%,FAIL,Steel is 1.8x more impactful than Cement
+Oil & Gas / Cement,2.0x,4.6x,+130.3%,FAIL,Oil & Gas is 2x more impactful than Cement
+Power Generation / Cement,2.5x,9.8x,+290.1%,FAIL,Power is 2.5x more impactful than Cement
+Cement / Financial Services,50.0x,17.1x,-65.8%,FAIL,Cement is >>50x more impactful than Banking
+Cement / Information Technology,10.0x,0.6x,-93.7%,FAIL,Cement is >>10x more impactful than IT

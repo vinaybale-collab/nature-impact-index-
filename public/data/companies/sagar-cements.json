@@ -7,6 +7,8 @@
   "nii_score": 0.8,
   "nii_rank": 481,
   "nii_sector_rank": 9,
+  "nii_sector_total": 19,
+  "nii_total_companies": 525,
   "nii_rating": "Critical",
   "nii_percentile": 8,
   "taesc_cr": 1915.36,
@@ -15,27 +17,58 @@
   "breakdown": {
     "climate": {
       "value_cr": 1270.11,
-      "pct": 66.3
+      "pct": 66.3,
+      "sub_components": {
+        "scope1_cost_cr": 1234.2,
+        "scope2_cost_cr": 105.83,
+        "scope2_net_cr": 0.0,
+        "scope3_cost_cr": 35.91,
+        "re_credit_cr": 337.79
+      }
     },
     "water": {
       "value_cr": 39.47,
-      "pct": 2.1
+      "pct": 2.1,
+      "sub_components": {
+        "consumption_cost_cr": 42.1,
+        "recycling_credit_cr": 2.63
+      }
     },
     "land": {
       "value_cr": 143.69,
-      "pct": 7.5
+      "pct": 7.5,
+      "sub_components": {
+        "footprint_cost_cr": 87.92,
+        "degradation_cost_cr": 59.45,
+        "restoration_credit_cr": 3.68
+      }
     },
     "biodiversity": {
       "value_cr": 121.33,
-      "pct": 6.3
+      "pct": 6.3,
+      "sub_components": {
+        "direct_msa_cost_cr": 117.22,
+        "scope3_bio_cost_cr": 4.12
+      }
     },
     "pollution": {
       "value_cr": 19.55,
-      "pct": 1.0
+      "pct": 1.0,
+      "sub_components": {
+        "waste_cost_cr": 9.04,
+        "overburden_cost_cr": 0.0,
+        "plastic_cost_cr": 14.8,
+        "ewaste_cost_cr": 0.02,
+        "hap_cost_cr": 0.12,
+        "recycling_credit_cr": 4.43
+      }
     },
     "energy_depletion": {
       "value_cr": 321.21,
-      "pct": 16.8
+      "pct": 16.8,
+      "sub_components": {
+        "non_renewable_cost_cr": 321.21
+      }
     }
   },
   "raw_data": {
@@ -57,6 +90,12 @@
     "sector_best_score": 5.1,
     "sector_median_taesc": 4419.77,
     "sector_best_taesc": 197.59
+  },
+  "restoration_estimate": {
+    "acres_needed": 106409,
+    "hectares_equiv": 43063,
+    "theta_per_acre_lakh": 1.8,
+    "methodology": "Based on incremental ecosystem service value of Rs 1.8 lakh per acre per year from restoration"
   },
   "data_quality": {
     "tier": "Tier 3",

@@ -1,0 +1,6 @@
+Metric,T1_Has_Value,T1_Zero,T1_NaN,T2_Has_Value,T2_Zero,T2_NaN,Calculated
+Scope 1 GHG,503,11,9,503,11,9,0
+Scope 2 GHG,507,6,10,507,6,10,0
+Scope 3 GHG,461,48,14,523,0,0,62
+Water Consumption,506,8,9,506,8,9,0
+Waste Generated,505,9,9,505,9,9,0

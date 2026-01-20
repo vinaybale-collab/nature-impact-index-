@@ -1,0 +1,11 @@
+Company_Name,Sector,NaN_Count,NaN_Metrics
+JSW Energy,Power Generation,4,"Scope1, Scope2, Water, Waste"
+Prism Johnson (Cement),Cement Manufacturing,4,"Scope1, Scope2, Water, Waste"
+"GMR Airports (Delhi, Hyderabad)",Transportation & Logistics,4,"Scope1, Scope2, Water, Waste"
+"Adani Airports (Mumbai, Ahmedabad, 6 others)",Transportation & Logistics,4,"Scope1, Scope2, Water, Waste"
+Punjab & Sind Bank,Financial Services,4,"Scope1, Scope2, Water, Waste"
+West Coast Paper Mills,Chemicals & Fertilizers,4,"Scope1, Scope2, Water, Waste"
+L&T Finance Limited,Financial Services,4,"Scope1, Scope2, Water, Waste"
+GAIL (India) Limited,Oil & Gas,4,"Scope1, Scope2, Water, Waste"
+Tata Power,Power Generation,3,"Scope2, Water, Waste"
+Aptus Value Housing Finance India Limited,Financial Services,2,"Scope1, Scope2"

@@ -7,6 +7,8 @@
   "nii_score": 1.6,
   "nii_rank": 439,
   "nii_sector_rank": 9,
+  "nii_sector_total": 16,
+  "nii_total_companies": 525,
   "nii_rating": "Critical",
   "nii_percentile": 16,
   "taesc_cr": 167247.3,
@@ -15,27 +17,58 @@
   "breakdown": {
     "climate": {
       "value_cr": 93517.97,
-      "pct": 55.9
+      "pct": 55.9,
+      "sub_components": {
+        "scope1_cost_cr": 30990.4,
+        "scope2_cost_cr": 1249.58,
+        "scope2_net_cr": 0.0,
+        "scope3_cost_cr": 62527.57,
+        "re_credit_cr": 3365.02
+      }
     },
     "water": {
       "value_cr": 4740.73,
-      "pct": 2.8
+      "pct": 2.8,
+      "sub_components": {
+        "consumption_cost_cr": 5867.24,
+        "recycling_credit_cr": 1126.51
+      }
     },
     "land": {
       "value_cr": 1466.61,
-      "pct": 0.9
+      "pct": 0.9,
+      "sub_components": {
+        "footprint_cost_cr": 726.18,
+        "degradation_cost_cr": 754.11,
+        "restoration_credit_cr": 13.68
+      }
     },
     "biodiversity": {
       "value_cr": 44303.31,
-      "pct": 26.5
+      "pct": 26.5,
+      "sub_components": {
+        "direct_msa_cost_cr": 39868.23,
+        "scope3_bio_cost_cr": 4435.07
+      }
     },
     "pollution": {
       "value_cr": 1286.96,
-      "pct": 0.8
+      "pct": 0.8,
+      "sub_components": {
+        "waste_cost_cr": 1520.25,
+        "overburden_cost_cr": 0.0,
+        "plastic_cost_cr": 478.32,
+        "ewaste_cost_cr": 27.68,
+        "hap_cost_cr": 14.77,
+        "recycling_credit_cr": 754.04
+      }
     },
     "energy_depletion": {
       "value_cr": 21931.73,
-      "pct": 13.1
+      "pct": 13.1,
+      "sub_components": {
+        "non_renewable_cost_cr": 21931.73
+      }
     }
   },
   "raw_data": {
@@ -57,6 +90,12 @@
     "sector_best_score": 5.5,
     "sector_median_taesc": 8041.4,
     "sector_best_taesc": 270.42
+  },
+  "restoration_estimate": {
+    "acres_needed": 9291516,
+    "hectares_equiv": 3760225,
+    "theta_per_acre_lakh": 1.8,
+    "methodology": "Based on incremental ecosystem service value of Rs 1.8 lakh per acre per year from restoration"
   },
   "data_quality": {
     "tier": "Tier 2",

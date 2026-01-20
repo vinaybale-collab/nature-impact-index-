@@ -1,0 +1,18 @@
+Dimension,Indicator,Tier1_Pct,Tier2_Pct,Tier3_Pct,Coverage_Pct,Tier1_Count,Tier2_Count,Tier3_Count,Missing
+Climate & Atmosphere,Scope 1 GHG,96.2%,0.0%,1.7%,97.9%,503,0,9,11
+Climate & Atmosphere,Scope 2 GHG,96.9%,0.0%,1.9%,98.9%,507,0,10,6
+Climate & Atmosphere,Scope 3 GHG,88.1%,11.9%,0.0%,100.0%,461,62,0,0
+Climate & Atmosphere,Energy Consumption,43.6%,0.0%,0.0%,43.6%,228,0,0,295
+Climate & Atmosphere,Renewable Energy %,81.6%,0.0%,0.0%,81.6%,427,0,0,96
+Freshwater,Water Consumption,96.7%,0.0%,1.7%,98.5%,506,0,9,8
+Biodiversity & Ecosystems,MSA Loss (GLOBIO),100.0%,0.0%,0.0%,100.0%,523,0,0,0
+Biodiversity & Ecosystems,Scope 3 Biodiversity (EXIOBASE),100.0%,0.0%,0.0%,100.0%,523,0,0,0
+Biodiversity & Ecosystems,Direct MSA Intensity,100.0%,0.0%,0.0%,100.0%,523,0,0,0
+Biodiversity & Ecosystems,Scope 3 MSA Intensity,100.0%,0.0%,0.0%,100.0%,523,0,0,0
+Pollution & Waste,Air Emissions,22.9%,0.0%,0.0%,22.9%,120,0,0,403
+Pollution & Waste,Waste Generated,96.6%,0.0%,1.7%,98.3%,505,0,9,9
+Land Use & Soil,Land Footprint,98.5%,0.0%,0.0%,98.5%,515,0,0,8
+Land Use & Soil,Land Degraded,98.5%,0.0%,0.0%,98.5%,515,0,0,8
+Land Use & Soil,Land Restored,23.5%,0.0%,0.0%,23.5%,123,0,0,400
+Land Use & Soil,Land Owned,78.8%,0.0%,0.0%,78.8%,412,0,0,111
+Land Use & Soil,Land Leased,91.8%,0.0%,0.0%,91.8%,480,0,0,43

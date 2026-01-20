@@ -328,7 +328,7 @@ def parse_waste_notes(row):
 # DIMENSION CALCULATIONS
 # =============================================================================
 
-def calculate_nc_climate(row):
+def calculate_nc_climate(row, return_breakdown=False):
     """
     Calculate Climate Natural Capital (Rs Cr)
 
@@ -362,10 +362,19 @@ def calculate_nc_climate(row):
     total_rs = scope1_damage + scope2_net + scope3_damage
     total_cr = total_rs / 1e7
 
+    if return_breakdown:
+        return {
+            'total_cr': max(total_cr, 0),
+            'scope1_cost_cr': scope1_damage / 1e7,
+            'scope2_cost_cr': scope2_damage / 1e7,
+            'scope2_net_cr': scope2_net / 1e7,
+            'scope3_cost_cr': scope3_damage / 1e7,
+            're_credit_cr': re_credit / 1e7,
+        }
     return max(total_cr, 0)
 
 
-def calculate_nc_water(row):
+def calculate_nc_water(row, return_breakdown=False):
     """
     Calculate Water Natural Capital (Rs Cr)
 
@@ -394,10 +403,17 @@ def calculate_nc_water(row):
     total_rs = consumption_damage - recycling_credit
     total_cr = total_rs / 1e7
 
+    if return_breakdown:
+        return {
+            'total_cr': max(total_cr, 0),
+            'consumption_cost_cr': consumption_damage / 1e7,
+            'recycling_credit_cr': recycling_credit / 1e7,
+            'stress_multiplier': 1 + (stress * COEFFICIENTS['WATER_STRESS_MULTIPLIER']),
+        }
     return max(total_cr, 0)
 
 
-def calculate_nc_land(row):
+def calculate_nc_land(row, return_breakdown=False):
     """
     Calculate Land Natural Capital (Rs Cr)
 
@@ -426,10 +442,18 @@ def calculate_nc_land(row):
     total_rs = footprint_damage + degradation_damage - restoration_credit
     total_cr = total_rs / 1e7
 
+    if return_breakdown:
+        return {
+            'total_cr': max(total_cr, 0),
+            'footprint_cost_cr': footprint_damage / 1e7,
+            'degradation_cost_cr': degradation_damage / 1e7,
+            'restoration_credit_cr': restoration_credit / 1e7,
+            'sector_multiplier': land_mult,
+        }
     return max(total_cr, 0)
 
 
-def calculate_nc_biodiversity(row):
+def calculate_nc_biodiversity(row, return_breakdown=False):
     """
     Calculate Biodiversity Natural Capital (Rs Cr)
 
@@ -464,10 +488,18 @@ def calculate_nc_biodiversity(row):
     # Total
     total_cr = direct_damage_cr + scope3_damage_cr
 
+    if return_breakdown:
+        return {
+            'total_cr': max(total_cr, 0),
+            'direct_msa_cost_cr': direct_damage_cr,
+            'scope3_bio_cost_cr': scope3_damage_cr,
+            'pa_multiplier': pa_mult,
+            'msa_factor_used': msa_loss,
+        }
     return max(total_cr, 0)
 
 
-def calculate_nc_pollution(row):
+def calculate_nc_pollution(row, return_breakdown=False):
     """
     Calculate Pollution Natural Capital (Rs Cr)
 
@@ -515,10 +547,20 @@ def calculate_nc_pollution(row):
     # Convert to Crores
     total_cr = total_rs / 1e7
 
+    if return_breakdown:
+        return {
+            'total_cr': max(total_cr, 0),
+            'operational_waste_cost_cr': operational_cost / 1e7,
+            'overburden_cost_cr': overburden_cost / 1e7,
+            'plastic_cost_cr': (internal_plastic_cost + epr_plastic_cost) / 1e7,
+            'ewaste_cost_cr': ewaste_cost / 1e7,
+            'hap_cost_cr': hap_cost / 1e7,
+            'recycling_credit_cr': recycling_credit / 1e7,
+        }
     return max(total_cr, 0)
 
 
-def calculate_nc_energy_depletion(row):
+def calculate_nc_energy_depletion(row, return_breakdown=False):
     """
     Calculate Energy Resource Depletion Natural Capital (Rs Cr)
 
@@ -554,6 +596,12 @@ def calculate_nc_energy_depletion(row):
     # Convert to Crores
     total_cr = depletion_cost_rs / 1e7
 
+    if return_breakdown:
+        return {
+            'total_cr': max(total_cr, 0),
+            'non_renewable_cost_cr': depletion_cost_rs / 1e7,
+            'non_renewable_gj': non_renewable_gj,
+        }
     return max(total_cr, 0)
 
 
@@ -562,24 +610,56 @@ def calculate_nc_energy_depletion(row):
 # =============================================================================
 
 def calculate_all_nc(df):
-    """Calculate all Natural Capital columns (6 dimensions in v3.0)"""
-    print("[INFO] Calculating NC_Climate_Cr...")
-    df['NC_Climate_Cr'] = df.apply(calculate_nc_climate, axis=1)
+    """Calculate all Natural Capital columns (6 dimensions in v3.0) with sub-component breakdown"""
 
-    print("[INFO] Calculating NC_Water_Cr...")
-    df['NC_Water_Cr'] = df.apply(calculate_nc_water, axis=1)
+    # CLIMATE - with sub-components
+    print("[INFO] Calculating NC_Climate_Cr with sub-components...")
+    climate_breakdown = df.apply(lambda row: calculate_nc_climate(row, return_breakdown=True), axis=1)
+    df['NC_Climate_Cr'] = climate_breakdown.apply(lambda x: x['total_cr'])
+    df['NC_Climate_Scope1_Cr'] = climate_breakdown.apply(lambda x: x['scope1_cost_cr'])
+    df['NC_Climate_Scope2_Cr'] = climate_breakdown.apply(lambda x: x['scope2_cost_cr'])
+    df['NC_Climate_Scope2_Net_Cr'] = climate_breakdown.apply(lambda x: x['scope2_net_cr'])
+    df['NC_Climate_Scope3_Cr'] = climate_breakdown.apply(lambda x: x['scope3_cost_cr'])
+    df['NC_Climate_RE_Credit_Cr'] = climate_breakdown.apply(lambda x: x['re_credit_cr'])
 
-    print("[INFO] Calculating NC_Land_Cr...")
-    df['NC_Land_Cr'] = df.apply(calculate_nc_land, axis=1)
+    # WATER - with sub-components
+    print("[INFO] Calculating NC_Water_Cr with sub-components...")
+    water_breakdown = df.apply(lambda row: calculate_nc_water(row, return_breakdown=True), axis=1)
+    df['NC_Water_Cr'] = water_breakdown.apply(lambda x: x['total_cr'])
+    df['NC_Water_Consumption_Cr'] = water_breakdown.apply(lambda x: x['consumption_cost_cr'])
+    df['NC_Water_Recycling_Credit_Cr'] = water_breakdown.apply(lambda x: x['recycling_credit_cr'])
 
-    print("[INFO] Calculating NC_Biodiversity_Cr...")
-    df['NC_Biodiversity_Cr'] = df.apply(calculate_nc_biodiversity, axis=1)
+    # LAND - with sub-components
+    print("[INFO] Calculating NC_Land_Cr with sub-components...")
+    land_breakdown = df.apply(lambda row: calculate_nc_land(row, return_breakdown=True), axis=1)
+    df['NC_Land_Cr'] = land_breakdown.apply(lambda x: x['total_cr'])
+    df['NC_Land_Footprint_Cr'] = land_breakdown.apply(lambda x: x['footprint_cost_cr'])
+    df['NC_Land_Degradation_Cr'] = land_breakdown.apply(lambda x: x['degradation_cost_cr'])
+    df['NC_Land_Restoration_Credit_Cr'] = land_breakdown.apply(lambda x: x['restoration_credit_cr'])
 
-    print("[INFO] Calculating NC_Pollution_Cr...")
-    df['NC_Pollution_Cr'] = df.apply(calculate_nc_pollution, axis=1)
+    # BIODIVERSITY - with sub-components
+    print("[INFO] Calculating NC_Biodiversity_Cr with sub-components...")
+    bio_breakdown = df.apply(lambda row: calculate_nc_biodiversity(row, return_breakdown=True), axis=1)
+    df['NC_Biodiversity_Cr'] = bio_breakdown.apply(lambda x: x['total_cr'])
+    df['NC_Biodiversity_Direct_Cr'] = bio_breakdown.apply(lambda x: x['direct_msa_cost_cr'])
+    df['NC_Biodiversity_Scope3_Cr'] = bio_breakdown.apply(lambda x: x['scope3_bio_cost_cr'])
 
-    print("[INFO] Calculating NC_Energy_Depletion_Cr...")
-    df['NC_Energy_Depletion_Cr'] = df.apply(calculate_nc_energy_depletion, axis=1)
+    # POLLUTION - with sub-components
+    print("[INFO] Calculating NC_Pollution_Cr with sub-components...")
+    pollution_breakdown = df.apply(lambda row: calculate_nc_pollution(row, return_breakdown=True), axis=1)
+    df['NC_Pollution_Cr'] = pollution_breakdown.apply(lambda x: x['total_cr'])
+    df['NC_Pollution_Waste_Cr'] = pollution_breakdown.apply(lambda x: x['operational_waste_cost_cr'])
+    df['NC_Pollution_Overburden_Cr'] = pollution_breakdown.apply(lambda x: x['overburden_cost_cr'])
+    df['NC_Pollution_Plastic_Cr'] = pollution_breakdown.apply(lambda x: x['plastic_cost_cr'])
+    df['NC_Pollution_Ewaste_Cr'] = pollution_breakdown.apply(lambda x: x['ewaste_cost_cr'])
+    df['NC_Pollution_HAP_Cr'] = pollution_breakdown.apply(lambda x: x['hap_cost_cr'])
+    df['NC_Pollution_Recycling_Credit_Cr'] = pollution_breakdown.apply(lambda x: x['recycling_credit_cr'])
+
+    # ENERGY DEPLETION - with sub-components
+    print("[INFO] Calculating NC_Energy_Depletion_Cr with sub-components...")
+    energy_breakdown = df.apply(lambda row: calculate_nc_energy_depletion(row, return_breakdown=True), axis=1)
+    df['NC_Energy_Depletion_Cr'] = energy_breakdown.apply(lambda x: x['total_cr'])
+    df['NC_Energy_NonRenewable_Cr'] = energy_breakdown.apply(lambda x: x['non_renewable_cost_cr'])
 
     # Aggregate: TAESC (Total Annualized Ecosystem Services Cost) - Now 6 dimensions
     print("[INFO] Calculating TAESC_Cr...")
@@ -747,7 +827,7 @@ def run_validation(df):
 # JSON GENERATION
 # =============================================================================
 
-def generate_company_json(row, sector_stats):
+def generate_company_json(row, sector_stats, total_companies):
     """Generate JSON data for a single company"""
     company_name = row['Company_Name']
     sector = row['Sector']
@@ -765,6 +845,8 @@ def generate_company_json(row, sector_stats):
         'nii_score': round(row['NII_Score'], 1),
         'nii_rank': int(row['NII_Rank']),
         'nii_sector_rank': int(row['NII_Sector_Rank']),
+        'nii_sector_total': int(sector_stat.get('company_count', 0)),
+        'nii_total_companies': total_companies,
         'nii_rating': row['NII_Rating'],
         'nii_percentile': int(row['NII_Percentile']),
 
@@ -775,27 +857,58 @@ def generate_company_json(row, sector_stats):
         'breakdown': {
             'climate': {
                 'value_cr': round(row['NC_Climate_Cr'], 2),
-                'pct': round(row['NC_Climate_Cr'] / taesc * 100, 1)
+                'pct': round(row['NC_Climate_Cr'] / taesc * 100, 1),
+                'sub_components': {
+                    'scope1_cost_cr': round(safe_value(row['NC_Climate_Scope1_Cr']), 2),
+                    'scope2_cost_cr': round(safe_value(row['NC_Climate_Scope2_Cr']), 2),
+                    'scope2_net_cr': round(safe_value(row['NC_Climate_Scope2_Net_Cr']), 2),
+                    'scope3_cost_cr': round(safe_value(row['NC_Climate_Scope3_Cr']), 2),
+                    're_credit_cr': round(safe_value(row['NC_Climate_RE_Credit_Cr']), 2),
+                }
             },
             'water': {
                 'value_cr': round(row['NC_Water_Cr'], 2),
-                'pct': round(row['NC_Water_Cr'] / taesc * 100, 1)
+                'pct': round(row['NC_Water_Cr'] / taesc * 100, 1),
+                'sub_components': {
+                    'consumption_cost_cr': round(safe_value(row['NC_Water_Consumption_Cr']), 2),
+                    'recycling_credit_cr': round(safe_value(row['NC_Water_Recycling_Credit_Cr']), 2),
+                }
             },
             'land': {
                 'value_cr': round(row['NC_Land_Cr'], 2),
-                'pct': round(row['NC_Land_Cr'] / taesc * 100, 1)
+                'pct': round(row['NC_Land_Cr'] / taesc * 100, 1),
+                'sub_components': {
+                    'footprint_cost_cr': round(safe_value(row['NC_Land_Footprint_Cr']), 2),
+                    'degradation_cost_cr': round(safe_value(row['NC_Land_Degradation_Cr']), 2),
+                    'restoration_credit_cr': round(safe_value(row['NC_Land_Restoration_Credit_Cr']), 2),
+                }
             },
             'biodiversity': {
                 'value_cr': round(row['NC_Biodiversity_Cr'], 2),
-                'pct': round(row['NC_Biodiversity_Cr'] / taesc * 100, 1)
+                'pct': round(row['NC_Biodiversity_Cr'] / taesc * 100, 1),
+                'sub_components': {
+                    'direct_msa_cost_cr': round(safe_value(row['NC_Biodiversity_Direct_Cr']), 2),
+                    'scope3_bio_cost_cr': round(safe_value(row['NC_Biodiversity_Scope3_Cr']), 2),
+                }
             },
             'pollution': {
                 'value_cr': round(row['NC_Pollution_Cr'], 2),
-                'pct': round(row['NC_Pollution_Cr'] / taesc * 100, 1)
+                'pct': round(row['NC_Pollution_Cr'] / taesc * 100, 1),
+                'sub_components': {
+                    'waste_cost_cr': round(safe_value(row['NC_Pollution_Waste_Cr']), 2),
+                    'overburden_cost_cr': round(safe_value(row['NC_Pollution_Overburden_Cr']), 2),
+                    'plastic_cost_cr': round(safe_value(row['NC_Pollution_Plastic_Cr']), 2),
+                    'ewaste_cost_cr': round(safe_value(row['NC_Pollution_Ewaste_Cr']), 2),
+                    'hap_cost_cr': round(safe_value(row['NC_Pollution_HAP_Cr']), 2),
+                    'recycling_credit_cr': round(safe_value(row['NC_Pollution_Recycling_Credit_Cr']), 2),
+                }
             },
             'energy_depletion': {
                 'value_cr': round(row['NC_Energy_Depletion_Cr'], 2),
-                'pct': round(row['NC_Energy_Depletion_Cr'] / taesc * 100, 1)
+                'pct': round(row['NC_Energy_Depletion_Cr'] / taesc * 100, 1),
+                'sub_components': {
+                    'non_renewable_cost_cr': round(safe_value(row['NC_Energy_NonRenewable_Cr']), 2),
+                }
             }
         },
 
@@ -821,9 +934,17 @@ def generate_company_json(row, sector_stats):
             'sector_best_taesc': round(sector_stat.get('best_taesc', 0), 2),
         },
 
+        'restoration_estimate': {
+            # Based on Rs 1.8 lakh per acre per year from restoration
+            'acres_needed': int(row['TAESC_Cr'] * 100 / 1.8),  # TAESC_Cr in Cr, 1.8 lakh/acre
+            'hectares_equiv': int(row['TAESC_Cr'] * 100 / 1.8 / 2.471),  # acres to hectares
+            'theta_per_acre_lakh': 1.8,
+            'methodology': 'Based on incremental ecosystem service value of Rs 1.8 lakh per acre per year from restoration',
+        },
+
         'data_quality': {
-            'tier': row['Data_Tier'] if pd.notna(row['Data_Tier']) else 'Unknown',
-            'confidence': row['Confidence'] if pd.notna(row['Confidence']) else 'Medium',
+            'tier': row['Data_Tier'] if 'Data_Tier' in row and pd.notna(row['Data_Tier']) else 'Tier 2',
+            'confidence': row['Confidence'] if 'Confidence' in row and pd.notna(row['Confidence']) else '75%',
         }
     }
 
@@ -840,6 +961,7 @@ def generate_all_json(df):
     for sector in df['Sector'].unique():
         sector_data = df[df['Sector'] == sector]
         sector_stats[sector] = {
+            'company_count': len(sector_data),
             'median_score': sector_data['NII_Score'].median(),
             'best_score': sector_data['NII_Score'].max(),
             'median_taesc': sector_data['TAESC_Cr'].median(),
@@ -849,7 +971,7 @@ def generate_all_json(df):
     # Per-company JSON
     print(f"[INFO] Generating {len(df)} company JSON files...")
     for _, row in df.iterrows():
-        company_data = generate_company_json(row, sector_stats)
+        company_data = generate_company_json(row, sector_stats, len(df))
         slug = company_data['slug']
         with open(f"{OUTPUT_DIR}/companies/{slug}.json", 'w', encoding='utf-8') as f:
             json.dump(company_data, f, indent=2, ensure_ascii=False)

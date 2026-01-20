@@ -1,0 +1,181 @@
+Company_Name,Data_Points,Confidence,Extraction_Methods
+Adani Energy Solutions Limited,27,HIGH,PDF_Extraction
+ALEMBIC PHARMACEUTICALS LIMITED,18,HIGH,PDF_Extraction
+JSW Steel Limited,16,HIGH,PDF_Extraction
+Jindal Stainless Limited,16,HIGH,PDF_Extraction
+Oberoi Realty Limited,16,HIGH,PDF_Extraction
+Piramal Pharma Limited,16,HIGH,PDF_Extraction
+Star Cement Limited,15,HIGH,PDF_Extraction
+Larsen & Toubro Limited,15,HIGH,"web_search, Manual Search"
+RBL Bank Limited,15,HIGH,PDF_Extraction
+Dalmia Bharat Limited,14,HIGH,PDF_Extraction
+POLY MEDICURE LIMITED,14,HIGH,PDF_Extraction
+Emami Paper Mills Limited,14,HIGH,web_search
+Tech Mahindra Limited,14,HIGH,PDF_Extraction
+hindalco-TNFD-2024-report,14,HIGH,PDF_Extraction
+Tata,13,HIGH,PDF_Extraction
+JSL-TNFD-Report-FY-2024-25,13,HIGH,PDF_Extraction
+Coforge Limited,13,HIGH,PDF_Extraction
+Tejas Networks Limited,13,HIGH,PDF_Extraction
+UNITED BREWERIES LIMITED,13,HIGH,PDF_Extraction
+Trident Limited,12,HIGH,web_search
+Tech,12,HIGH,PDF_Extraction
+Ramkrishna Forgings Limited,12,HIGH,PDF_Extraction
+Tata Elxsi Limited,12,HIGH,PDF_Extraction
+Piramal Enterprises Limited,12,HIGH,PDF_Extraction
+Bharat Heavy Electricals Limited (BHEL),11,HIGH,web_search
+Welspun Corp Limited,11,HIGH,PDF_Extraction
+Seshasayee Paper and Boards Limited,11,HIGH,web_search
+CESC Limited,11,HIGH,PDF_Extraction
+Hindustan,11,HIGH,PDF_Extraction
+Mahindra Holidays & Resorts India Limited,10,HIGH,web_search
+Bangalore International Airport Ltd (BIAL),10,HIGH,web_search
+Tata Motors Limited,9,HIGH,PDF_Extraction
+L&T Finance Limited,9,HIGH,"web_search, PDF_Extraction"
+itc-nature-report,8,HIGH,PDF_Extraction
+ARVIND LIMITED,8,0.7,"PDF Keyword, PDF_Extraction"
+Himadri Speciality Chemical Limited,8,HIGH,web_search
+"Adani Airports (Mumbai, Ahmedabad, 6 others)",8,HIGH,web_search
+Vedanta,8,HIGH,PDF_Extraction
+MANKIND PHARMA LIMITED,8,HIGH,PDF_Extraction
+LTIMindtree Limited,7,HIGH,web_search
+IDFC FIRST Bank Limited,7,HIGH,PDF_Extraction
+Haldiram Snacks Food Private Limited,7,HIGH,web_search
+GVK Mumbai Airport,7,0.9,"web_search, Manual Search"
+JK Paper,7,HIGH,web_search
+West Coast Paper Mills Limited,7,HIGH,web_search
+JSW Energy,7,HIGH,web_search
+Vardhman Textiles,7,HIGH,web_search
+Electrosteel Castings,7,HIGH,web_search
+Latent View Analytics Limited,7,HIGH,PDF_Extraction
+Bikaji Foods,7,HIGH,web_search
+West Coast Paper Mills,7,HIGH,web_search
+RITES Limited,6,HIGH,PDF_Extraction
+CCL Products (India) Limited,6,HIGH,web_search
+JK Tyre & Industries Limited,6,HIGH,web_search
+Sagar Cements,6,HIGH,PDF_Extraction
+Sanofi India Limited,6,HIGH,web_search
+IndiGo (InterGlobe Aviation),6,HIGH,web_search
+Mangalam Cement,6,HIGH,web_search
+LT Technology Services Limited,6,HIGH,web_search
+TATA COMMUNICATIONS LIMITED,6,HIGH,PDF_Extraction
+Minda Corporation Limited,6,HIGH,web_search
+Welspun Living Limited (formerly Welspun India),6,HIGH,web_search
+Varun Beverages (PepsiCo franchise),6,HIGH,web_search
+Andhra Paper Limited (formerly Andhra Pradesh Paper Mills),6,HIGH,web_search
+Cochin International Airport (CIAL),6,HIGH,web_search
+Cochin Shipyard Limited,6,MEDIUM,PDF_Extraction
+DIVI'S LABORATORIES LIMITED,6,HIGH,web_search
+"GMR Airports (Delhi, Hyderabad)",6,HIGH,web_search
+Usha Martin Limited,6,HIGH,"web_search, PDF_Extraction"
+Welspun Living Limited,5,HIGH,web_search
+KPR Mill Limited,5,HIGH,web_search
+Prism Johnson (Cement),5,HIGH,web_search
+Kalyani Steels,5,HIGH,web_search
+COAL INDIA LIMITED,5,MEDIUM,PDF_Extraction
+Nestle India Limited,5,HIGH,web_search
+Jindal Saw Limited,5,HIGH,web_search
+Nestle India,5,HIGH,web_search
+Narayana Hrudayalaya Ltd.,5,HIGH,web_search
+Mother Dairy,5,HIGH,web_search
+K.P.R. MILL LIMITED,5,HIGH,web_search
+ITC Limited (Paperboards Division),5,HIGH,web_search
+Heritage Foods,5,HIGH,web_search
+Schaeffler India Limited,5,HIGH,web_search
+Sunflag Iron and Steel,5,HIGH,web_search
+Siemens Limited,5,MEDIUM,PDF_Extraction
+Tata Power,5,HIGH,web_search
+SARDA ENERGY & MINERALS LIMITED,5,HIGH,web_search
+GAIL (India) Limited,5,0.95,Manual Search
+Essar Steel India (AM/NS India),5,HIGH,web_search
+Vedanta-Aluminium-TNFD-2025,5,MEDIUM,PDF_Extraction
+Rashtriya Ispat Nigam Limited (RINL) - Vizag Steel,4,HIGH,web_search
+Ratnamani Metals & Tubes Limited,4,HIGH,web_search
+Birla Corporation,4,MEDIUM,PDF_Extraction
+Punjab & Sind Bank,4,0.9,"web_search, Manual Search"
+Sanghi Industries,4,HIGH,web_search
+Techno Electric & Engineering Company Limited,4,HIGH,web_search
+Akasa Air,4,HIGH,web_search
+Prism Johnson Limited,4,MEDIUM,PDF_Extraction
+Mrs. Bectors Food Specialities,4,HIGH,web_search
+R R Kabel Limited,4,MEDIUM,PDF_Extraction
+Mukand Limited,4,HIGH,web_search
+Garden Reach Shipbuilders & Engineers Limited,4,MEDIUM,web_search
+Damodar Valley Corporation (DVC),4,HIGH,web_search
+Hindustan Coca-Cola Beverages (Coca-Cola India),4,HIGH,web_search
+Birla Corporation Limited,4,MEDIUM,PDF_Extraction
+Britannia Industries,4,HIGH,web_search
+Castrol India Limited,4,HIGH,web_search
+KIOCL (Kudremukh Iron Ore Company),4,HIGH,web_search
+APL Apollo Tubes,4,MEDIUM,web_search
+HFCL Limited,4,MEDIUM,PDF_Extraction
+Inox Wind Limited,4,MEDIUM,PDF_Extraction
+Mahindra & Mahindra Limited,4,HIGH,web_search
+IndiaMART InterMESH Limited,4,0.95,Manual Search
+Ion Exchange (India) Limited,3,MEDIUM,web_search
+JK Lakshmi Cement,3,HIGH,web_search
+Electrosteel Steels (ESL Steel Limited),3,MEDIUM,web_search
+Archean Chemical Industries Limited,3,MEDIUM,web_search
+Sobha Limited,3,MEDIUM,PDF_Extraction
+Procter & Gamble Health Limited,3,HIGH,web_search
+Air India,3,MEDIUM,web_search
+Vistara (TATA SIA Airlines),3,MEDIUM,web_search
+Bhushan Steel (Tata Steel BSL),3,HIGH,web_search
+Dr. Reddy's Laboratories Limited,3,HIGH,web_search
+Dixon Technologies (India) Limited,3,MEDIUM,web_search
+Angel One Limited,3,MEDIUM,web_search
+Hatsun Agro Products,3,HIGH,web_search
+Amul (GCMMF),3,MEDIUM,web_search
+Amara Raja Energy & Mobility Limited,3,HIGH,web_search
+UCO BANK,3,HIGH,web_search
+Century Pulp and Paper (Century Textiles),2,MEDIUM,web_search
+Usha Martin,2,MEDIUM,PDF_Extraction
+Siyaram Silk Mills,2,HIGH,web_search
+SpiceJet,2,MEDIUM,web_search
+TNFD-Report-FY-2023-24-LTIMindtree,2,MEDIUM,PDF_Extraction
+Gujarat State Electricity Corporation,2,MEDIUM,web_search
+Atul Limited,2,MEDIUM,PDF_Extraction
+Raymond Limited,2,HIGH,web_search
+Indus Towers Limited,2,MEDIUM,PDF_Extraction
+Bajaj Holdings & Investment Limited,2,HIGH,web_search
+Monnet Ispat (JSW Ispat Special Products Limited),2,MEDIUM,web_search
+Century Plyboards (India) Limited,2,HIGH,web_search
+Nuvoco Vistas Corp (Nirma Cement),2,MEDIUM,web_search
+Data Patterns (India) Limited,2,MEDIUM,web_search
+Pfizer Limited,2,MEDIUM,PDF_Extraction
+Kesoram Industries (Cement Division),2,MEDIUM,web_search
+S Kumars Nationwide,2,LOW,web_search
+Safari Industries (India) Limited,2,HIGH,web_search
+Airports Authority of India (AAI),2,MEDIUM,web_search
+Visa Steel,1,MEDIUM,PDF_Extraction
+Vedant Fashions Limited,1,MEDIUM,PDF_Extraction
+Uttam Galva Steels,1,MEDIUM,web_search
+Engineers India Limited,1,MEDIUM,PDF_Extraction
+Eureka Forbes Limited,1,MEDIUM,PDF_Extraction
+Cement Corporation of India,1,MEDIUM,web_search
+Wockhardt Limited,1,MEDIUM,PDF_Extraction
+Air Asia India,1,LOW,web_search
+Zydus Lifesciences Limited,1,MEDIUM,PDF_Extraction
+Metro Brands Limited,1,MEDIUM,PDF_Extraction
+Torrent Power,1,MEDIUM,web_search
+Go First (GoAir),1,LOW,web_search
+MUTHOOT FINANCE LIMITED,1,MEDIUM,PDF_Extraction
+Chalet Hotels Limited,1,MEDIUM,PDF_Extraction
+NBCC (India) Limited,1,MEDIUM,web_search
+MOIL (Manganese Ore India),1,HIGH,web_search
+Bombay Dyeing,1,MEDIUM,web_search
+Kwality,1,LOW,web_search
+Odisha Mining Corporation,1,0.7,Manual Search
+PB FINTECH LIMITED,1,MEDIUM,PDF_Extraction
+Kajaria Ceramics Limited,1,MEDIUM,PDF_Extraction
+JYOTHY LABS LIMITED,1,MEDIUM,PDF_Extraction
+Axis Bank Limited,1,MEDIUM,PDF_Extraction
+Burnpur Cement,1,LOW,web_search
+Authum Investment & Infrastructure Limited,1,MEDIUM,web_search
+JINDAL STEEL & POWER LIMITED,1,MEDIUM,web_search
+Route Mobile Limited,1,MEDIUM,PDF_Extraction
+Infibeam Avenues Limited,1,MEDIUM,PDF_Extraction
+Shreyans Industries (Paper),1,MEDIUM,web_search
+Hindustan Paper Corporation,1,LOW,web_search
+Tayo Rolls,1,LOW,web_search
+IIFL Finance Limited,1,MEDIUM,PDF_Extraction

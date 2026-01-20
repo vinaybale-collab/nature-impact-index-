@@ -1,0 +1,146 @@
+Company_Name,Indicator,Value,Previous_Value,Source_Task,Source_Document,Source_Page,Confidence,Extraction_Date,Integration_Date,Tier,Validation_Status,Notes
+Aditya Birla Sun Life AMC Limited,Scope2_GHG_tCO2e,509.81,0.0,G6.1,BRSR FY2023-24,Page 51,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 509.81
+Aegis Logistics Limited,Scope1_GHG_tCO2e,17458.0,,G6.1,BRSR FY2023-24,Page 70,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+CE INFO SYSTEMS LIMITED,Scope1_GHG_tCO2e,0.0,,G6.1,BRSR FY2023-24,Page 83,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Easy Trip Planners Limited,Scope1_GHG_tCO2e,0.0,0.0,G6.1,BRSR FY2023-24,Page 137,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+Hitachi Energy India Limited,Scope2_GHG_tCO2e,0.0,0.0,G6.1,BRSR FY2023-24,Page 65,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+Jio Financial Services Limited,Scope1_GHG_tCO2e,0.0,0.0,G6.1,BRSR FY2023-24,Page 6,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+MAHARASHTRA SCOOTERS LIMITED,Scope1_GHG_tCO2e,0.0,,G6.1,BRSR FY2023-24,Page 60,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Mahindra Holidays  Resorts India Limited,Scope3_GHG_tCO2e,47845.0,,G6.1,BRSR FY2023-24,Page 74,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+NUVAMA WEALTH MANAGEMENT LIMITED,Scope1_GHG_tCO2e,0.0,0.0,G6.1,BRSR FY2023-24,Page 154,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+RELIANCE POWER LIMITED,Scope2_GHG_tCO2e,0.0,0.0,G6.1,BRSR FY2023-24,Page 92,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+Route Mobile Limited,Scope1_GHG_tCO2e,0.0,0.0,G6.1,BRSR FY2023-24,Page 3,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+SBFC Finance Limited,Scope1_GHG_tCO2e,0.0,0.0,G6.1,BRSR FY2023-24,Page 12,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+Tata Investment Corporation Limited,Scope1_GHG_tCO2e,0.0,0.0,G6.1,BRSR FY2023-24,Page 49,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+Bangalore International Airport Ltd (BIAL),Scope2_GHG_tCO2e,0.0,,G6.1,BRSR FY2023-24,Page 64,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Cochin International Airport (CIAL),Scope2_GHG_tCO2e,0.0,,G6.1,BRSR FY2023-24,Page 28,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+IndiaMART InterMESH Limited,Scope1_GHG_tCO2e,0.0,,G6.1,BRSR FY2023-24,Page 83,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Vedanta,Scope1_GHG_tCO2e,61288838.0,,G6.1,BRSR FY2023-24,Page 26,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Vedanta,Scope2_GHG_tCO2e,4561384.17,,G6.1,BRSR FY2023-24,Page 26,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Vedanta,Scope3_GHG_tCO2e,34581609.0,,G6.1,BRSR FY2023-24,Page 38,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Anand Rathi Wealth Limited,Waste_Generated_MT,0.01,0.0,G6.2,BRSR FY2023-24,28,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.01
+Aptus Value Housing Finance India Limited,Water_Consumption_KL,0.0,0.0,G6.2,BRSR FY2023-24,123,MEDIUM,2026-01-17,2026-01-17,Tier 2,PASSED,Delta merge: 0.0 → 0.0
+Aptus Value Housing Finance India Limited,Waste_Generated_MT,0.0,0.0,G6.2,BRSR FY2023-24,123,MEDIUM,2026-01-17,2026-01-17,Tier 2,PASSED,Delta merge: 0.0 → 0.0
+Bajaj Finance Limited,Water_Consumption_KL,101894.13,0.0,G6.2,BRSR FY2023-24,143,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 101894.13
+Bajaj Finserv Limited,Water_Consumption_KL,870931.0,0.0,G6.2,BRSR FY2023-24,148,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 870931.0
+Bajaj Holdings  Investment Limited,Water_Consumption_KL,0.0,0.0,G6.2,BRSR FY2023-24,70,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+Bajaj Holdings  Investment Limited,Waste_Generated_MT,0.0032,0.0,G6.2,BRSR FY2023-24,70,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0032
+Bandhan Bank Limited,Waste_Generated_MT,21.61,0.0,G6.2,BRSR FY2023-24,126,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 21.61
+Cello World Limited,Waste_Generated_MT,1324.97,0.0,G6.2,BRSR FY2023-24,120,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 1324.97
+Cholamandalam Investment and Finance Company Limited,Water_Consumption_KL,536904.0,0.0,G6.2,BRSR FY2023-24,115,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 536904.0
+CreditAccess Grameen Limited,Water_Consumption_KL,4773.0,0.0,G6.2,BRSR FY2023-24,108,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 4773.0
+Five-Star Business Finance Limited,Water_Consumption_KL,15221.0,0.0,G6.2,BRSR FY2023-24,91,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 15221.0
+Five-Star Business Finance Limited,Waste_Generated_MT,3.2,0.0,G6.2,BRSR FY2023-24,91,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 3.2
+Home First Finance Company India Limited,Waste_Generated_MT,1.5,0.0,G6.2,BRSR FY2023-24,298,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 1.5
+LIC Housing Finance Limited,Waste_Generated_MT,83.13,0.0,G6.2,BRSR FY2023-24,160,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 83.13
+RBL Bank Limited,Waste_Generated_MT,15.54,0.0,G6.2,BRSR FY2023-24,122,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 15.54
+Ujjivan Small Finance Bank Limited,Water_Consumption_KL,1005.91,0.0,G6.2,BRSR FY2023-24,48,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 1005.91
+Vedanta,Water_Consumption_KL,238000000.0,,G6.2,BRSR FY2023-24,123,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Vedanta,Waste_Generated_MT,21887396.0,,G6.2,BRSR FY2023-24,297,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Vedanta,Water_Recycling_Pct,30.23,,G6.2,BRSR FY2023-24,8,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+360 ONE WAM LIMITED,Land_Owned_ha,0.0,0.0,G6.3,BRSR FY2023-24,Page 82,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+Aavas Financiers Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 94,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Aditya Birla Capital Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 112,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Aditya Birla Fashion and Retail Limited,Land_Owned_ha,12.5,,G6.3,BRSR FY2023-24,Page 278,MEDIUM,2026-01-17,2026-01-17,Tier 2,PASSED,New addition
+Aditya Birla Sun Life AMC Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 65,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Anand Rathi Wealth Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 48,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Aptus Value Housing Finance India Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 72,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Axis Bank Limited,Land_Leased_ha,124.0,0.0,G6.3,BRSR FY2023-24,Page 145,MEDIUM,2026-01-17,2026-01-17,Tier 2,PASSED,Delta merge: 0.0 → 124.0
+BANK OF INDIA,Land_Leased_ha,240.0,0.0,G6.3,BRSR FY2023-24,Page 189,MEDIUM,2026-01-17,2026-01-17,Tier 2,PASSED,Delta merge: 0.0 → 240.0
+BANK OF MAHARASHTRA,Land_Leased_ha,85.0,0.0,G6.3,BRSR FY2023-24,Page 102,MEDIUM,2026-01-17,2026-01-17,Tier 2,PASSED,Delta merge: 0.0 → 85.0
+BLS International Services Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 55,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Bajaj Auto Limited,Land_Leased_ha,0.0,0.0,G6.3,BRSR FY2023-24,Page 128,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+Bajaj Finance Limited,Land_Owned_ha,0.0,0.0,G6.3,BRSR FY2023-24,Page 162,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+Bajaj Finance Limited,Land_Leased_ha,0.0,0.0,G6.3,BRSR FY2023-24,Page 162,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+Bajaj Finserv Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 140,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Bajaj Finserv Limited,Land_Leased_ha,18.0,,G6.3,BRSR FY2023-24,Page 140,MEDIUM,2026-01-17,2026-01-17,Tier 2,PASSED,New addition
+Bajaj Holdings  Investment Limited,Land_Leased_ha,0.0,,G6.3,BRSR FY2023-24,Page 58,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Bandhan Bank Limited,Land_Owned_ha,0.0,0.0,G6.3,BRSR FY2023-24,Page 210,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+Birlasoft Limited,Land_Owned_ha,0.0,0.0,G6.3,BRSR FY2023-24,Page 88,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+CE INFO SYSTEMS LIMITED,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 42,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+CITY UNION BANK LIMITED,Land_Leased_ha,0.0,,G6.3,BRSR FY2023-24,Page 95,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Can Fin Homes Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 66,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Can Fin Homes Limited,Land_Leased_ha,0.0,,G6.3,BRSR FY2023-24,Page 66,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Canara Bank,Land_Leased_ha,0.0,0.0,G6.3,BRSR FY2023-24,Page 230,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+Capri Global Capital Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 54,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Cholamandalam Financial Holdings Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 45,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Cholamandalam Financial Holdings Limited,Land_Leased_ha,0.0,,G6.3,BRSR FY2023-24,Page 45,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Cholamandalam Investment and Finance Company Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 142,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Computer Age Management Services Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 78,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+CreditAccess Grameen Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 89,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Delhivery Limited,Land_Owned_ha,0.0,0.0,G6.3,BRSR FY2023-24,Page 104,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+Devyani International Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 76,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Easy Trip Planners Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 52,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Equitas Small Finance Bank Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 130,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Firstsource Solutions Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 92,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Five-Star Business Finance Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 68,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+General Insurance Corporation of India,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 110,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Go Digit General Insurance Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 48,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Godrej Properties Limited,Land_Leased_ha,0.0,,G6.3,BRSR FY2023-24,Page 156,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+HDFC Asset Management Company Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 88,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+HDFC Bank Limited,Land_Leased_ha,0.0,0.0,G6.3,BRSR FY2023-24,Page 245,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+HDFC Life Insurance Company Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 192,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+HONEYWELL AUTOMATION INDIA LIMITED,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 82,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Happiest Minds Technologies Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 74,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Home First Finance Company India Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 62,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Honasa Consumer Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 104,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+ICICI Bank Limited,Land_Leased_ha,0.0,0.0,G6.3,BRSR FY2023-24,Page 212,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+ICICI Lombard General Insurance Company Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 115,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+ICICI Prudential Life Insurance Company Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 122,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+IDBI Bank Limited,Land_Leased_ha,0.0,0.0,G6.3,BRSR FY2023-24,Page 134,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+IDFC FIRST Bank Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 188,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+IFCI Limited,Land_Leased_ha,0.0,0.0,G6.3,BRSR FY2023-24,Page 55,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+IIFL Finance Limited,Land_Owned_ha,0.0,0.0,G6.3,BRSR FY2023-24,Page 112,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+INDIAN OVERSEAS BANK,Land_Leased_ha,0.0,0.0,G6.3,BRSR FY2023-24,Page 148,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+REC Limited,Land_Owned_ha,0.0,0.0,G6.3,BRSR FY2023-24,Page 55,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+REC Limited,Land_Leased_ha,0.0,0.0,G6.3,BRSR FY2023-24,Page 55,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+INDIAN RAILWAY FINANCE CORPORATION LIMITED,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 42,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+INDIAN RAILWAY FINANCE CORPORATION LIMITED,Land_Leased_ha,0.5,,G6.3,BRSR FY2023-24,Page 42,MEDIUM,2026-01-17,2026-01-17,Tier 2,PASSED,New addition
+Indegene Limited,Land_Owned_ha,0.0,0.0,G6.3,BRSR FY2023-24,Page 68,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+Indian Energy Exchange Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 35,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Indian Renewable Energy Development Agency Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 58,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Indus Towers Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 112,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+IndusInd Bank Limited,Land_Leased_ha,185.0,0.0,G6.3,BRSR FY2023-24,Page 195,MEDIUM,2026-01-17,2026-01-17,Tier 2,PASSED,Delta merge: 0.0 → 185.0
+Infibeam Avenues Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 44,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Infosys Limited,Land_Leased_ha,125.0,,G6.3,BRSR FY2023-24,Page 108,MEDIUM,2026-01-17,2026-01-17,Tier 2,PASSED,New addition
+InterGlobe Aviation Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 95,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Ircon International Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 62,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+JM Financial Limited,Land_Owned_ha,0.0,0.0,G6.3,BRSR FY2023-24,Page 72,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+Jio Financial Services Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 51,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Jubilant FoodWorks Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 118,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Jupiter Life Line Hospitals Limited,Land_Leased_ha,0.0,,G6.3,BRSR FY2023-24,Page 55,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Just Dial Limited,Land_Owned_ha,0.0,0.0,G6.3,BRSR FY2023-24,Page 62,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+KARUR VYSYA BANK LIMITED,Land_Leased_ha,65.0,,G6.3,BRSR FY2023-24,Page 110,MEDIUM,2026-01-17,2026-01-17,Tier 2,PASSED,New addition
+KFin Technologies Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 78,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+KNR Constructions Limited,Land_Owned_ha,12.0,,G6.3,BRSR FY2023-24,Page 84,MEDIUM,2026-01-17,2026-01-17,Tier 2,PASSED,New addition
+KOTAK MAHINDRA BANK LIMITED,Land_Leased_ha,320.0,,G6.3,BRSR FY2023-24,Page 205,MEDIUM,2026-01-17,2026-01-17,Tier 2,PASSED,New addition
+Keystone Realtors Limited,Land_Leased_ha,25.0,,G6.3,BRSR FY2023-24,Page 92,MEDIUM,2026-01-17,2026-01-17,Tier 2,PASSED,New addition
+LIC Housing Finance Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 82,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Latent View Analytics Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 48,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Life Insurance Corporation of India,Land_Leased_ha,1150.0,,G6.3,BRSR FY2023-24,Page 280,MEDIUM,2026-01-17,2026-01-17,Tier 2,PASSED,New addition
+Power Finance Corporation Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 62,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Railtel Corporation of India Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 88,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Tata Investment Corporation Limited,Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 38,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Bangalore International Airport Ltd (BIAL),Land_Owned_ha,0.0,,G6.3,BRSR FY2023-24,Page 52,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+ADANI POWER LIMITED,Renewable_Energy_Pct,0.0,,G6.4,BRSR FY2023-24,BRSR P56,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Aavas Financiers Limited,Renewable_Energy_Pct,0.0,0.0,G6.4,BRSR FY2023-24,BRSR P22,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+Anand Rathi Wealth Limited,Renewable_Energy_Pct,0.0,,G6.4,BRSR FY2023-24,BRSR P25,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Anant Raj Limited,Renewable_Energy_Pct,0.0,,G6.4,BRSR FY2023-24,BRSR P121,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Bajaj Finance Limited,Renewable_Energy_Pct,1.1,0.0,G6.4,BRSR FY2023-24,BRSR P29,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 1.1
+Cello World Limited,Renewable_Energy_Pct,0.0,,G6.4,BRSR FY2023-24,BRSR P30,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+G R Infraprojects Limited,Renewable_Energy_Pct,0.08,,G6.4,BRSR FY2023-24,BRSR P114,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+HDFC Bank Limited,Renewable_Energy_Pct,1.85,0.0,G6.4,BRSR FY2023-24,IR P407,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 1.85
+INDIAN OVERSEAS BANK,Renewable_Energy_Pct,0.0,,G6.4,BRSR FY2023-24,BRSR P38,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Ircon International Limited,Renewable_Energy_Pct,0.4,,G6.4,BRSR FY2023-24,BRSR P127,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+KNR Constructions Limited,Renewable_Energy_Pct,0.0,0.0,G6.4,BRSR FY2023-24,BRSR P33,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+Infibeam Avenues Limited,Renewable_Energy_Pct,0.0,,G6.4,BRSR FY2023-24,BRSR P131,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Jupiter Wagons Limited,Renewable_Energy_Pct,0.0,,G6.4,BRSR FY2023-24,SR P22,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Metro Brands Limited,Renewable_Energy_Pct,1.2,,G6.4,BRSR FY2023-24,BRSR P78,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+NAVA LIMITED,Renewable_Energy_Pct,4.8,,G6.4,BRSR FY2023-24,BRSR P77,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+NMDC Steel Limited,Renewable_Energy_Pct,0.0,,G6.4,BRSR FY2023-24,BRSR P42,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+PB FINTECH LIMITED,Renewable_Energy_Pct,0.0,,G6.4,BRSR FY2023-24,BRSR P88,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+PNC Infratech Limited,Renewable_Energy_Pct,0.0,0.0,G6.4,BRSR FY2023-24,BRSR P145,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,Delta merge: 0.0 → 0.0
+RELIANCE POWER LIMITED,Renewable_Energy_Pct,0.01,,G6.4,BRSR FY2023-24,BRSR P42,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Zee Entertainment Enterprises Limited,Renewable_Energy_Pct,2.1,,G6.4,BRSR FY2023-24,BRSR P108,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+Vedant Fashions Limited,Renewable_Energy_Pct,0.0,,G6.4,BRSR FY2023-24,BRSR P28,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition
+eClerx Services Limited,Renewable_Energy_Pct,12.8,,G6.4,BRSR FY2023-24,BRSR P101,HIGH,2026-01-17,2026-01-17,Tier 1,PASSED,New addition

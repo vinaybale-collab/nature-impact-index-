@@ -1,0 +1,27 @@
+Company_Name,Indicator_ID,Value,Unit,Source_URL,Data_Year,Confidence,Data_Tier,Extraction_Method
+GAIL (India) Limited,ghg_scope1,3656157,tCO2e,https://gailonline.com/SustainabilityReport/GAIL_SR_2022-23.pdf,2022-23,0.95,Tier 1,Manual Search
+GAIL (India) Limited,ghg_scope2,319380,tCO2e,https://gailonline.com/SustainabilityReport/GAIL_SR_2022-23.pdf,2022-23,0.95,Tier 1,Manual Search
+GAIL (India) Limited,water_withdrawal,17590000,KL,https://gailonline.com/SustainabilityReport/GAIL_SR_2022-23.pdf,2022-23,0.95,Tier 1,Manual Search
+GAIL (India) Limited,waste_recycled,32,tonnes,https://gailonline.com/SustainabilityReport/GAIL_SR_2022-23.pdf,2022-23,0.9,Tier 1,Manual Search
+GAIL (India) Limited,energy_consumption,50065334,GJ,https://gailonline.com/SustainabilityReport/GAIL_SR_2022-23.pdf,2022-23,0.95,Tier 1,Manual Search
+NMDC Limited,ghg_scope1,62562.14,tCO2e,https://nmdc.co.in/Sustainability/SR2022-23.pdf,2022-23,0.95,Tier 1,Manual Search
+MOIL Limited,ghg_scope1,616.65,tCO2e,https://moil.nic.in/annual-report/AR2022-23.pdf,2022-23,0.95,Tier 1,Manual Search
+MOIL Limited,ghg_scope2,56767.72,tCO2e,https://moil.nic.in/annual-report/AR2022-23.pdf,2022-23,0.95,Tier 1,Manual Search
+MOIL Limited,waste_generated,3671.364,tonnes,https://moil.nic.in/annual-report/AR2022-23.pdf,2022-23,0.95,Tier 1,Manual Search
+Odisha Mining Corporation,ghg_scope1,12500,tCO2e,https://omcltd.in/Sustainability,2022-23,0.7,Tier 2,Manual Search
+Hindustan Copper Limited,ghg_scope1,45000,tCO2e,https://hindustancopper.com/AnnualReport,2022-23,0.7,Tier 1,Manual Search
+KIOCL Limited,ghg_scope1,18000,tCO2e,https://kioclltd.in/Sustainability,2022-23,0.7,Tier 1,Manual Search
+NHPC Limited,ghg_scope1,4685,tCO2e,https://nhpcindia.com/Sustainability,2022-23,0.95,Tier 1,Manual Search
+SJVN Limited,ghg_scope1,144.88,tCO2e,https://sjvn.nic.in/Sustainability,2022-23,0.95,Tier 1,Manual Search
+Bharat Dynamics Limited,ghg_scope1,0,tCO2e,https://bdl-india.in/Sustainability,2022-23,0.95,Tier 1,Manual Search
+Bharat Dynamics Limited,water_withdrawal,642395,KL,https://bdl-india.in/Sustainability,2022-23,0.95,Tier 1,Manual Search
+Mazagon Dock Shipbuilders Limited,waste_generated,21621,tonnes,https://mazagondock.in/Sustainability,2022-23,0.85,Tier 2,Manual Search
+Cochin Shipyard Limited,ghg_scope1,546.96,tCO2e,https://cochinshipyard.in/Sustainability,2022-23,0.95,Tier 1,Manual Search
+Coal India Limited,ghg_scope1,1192393,tCO2e,https://coalindia.in/Sustainability,2021-22,0.95,Tier 1,Manual Search
+Coal India Limited,ghg_scope2,3764291,tCO2e,https://coalindia.in/Sustainability,2021-22,0.95,Tier 1,Manual Search
+Triveni Turbine Limited,ghg_scope1,3374.68,tCO2e,https://triveniturbines.com/BRSR2023,2022-23,0.95,Tier 1,Manual Search
+Triveni Turbine Limited,water_withdrawal,70123,KL,https://triveniturbines.com/BRSR2023,2022-23,0.95,Tier 1,Manual Search
+Triveni Turbine Limited,waste_generated,510.8,tonnes,https://triveniturbines.com/BRSR2023,2022-23,0.95,Tier 1,Manual Search
+Sagar Cements Limited,water_withdrawal,448291,KL,https://sagarcements.in/IntegratedReport2023,2022-23,0.95,Tier 1,Manual Search
+Sagar Cements Limited,waste_recycled_pct,100,%,https://sagarcements.in/IntegratedReport2023,2022-23,0.9,Tier 1,Manual Search
+Sagar Cements Limited,energy_consumption,99484,MWh,https://sagarcements.in/IntegratedReport2023,2022-23,0.9,Tier 1,Manual Search

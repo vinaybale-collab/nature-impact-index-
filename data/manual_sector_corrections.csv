@@ -1,0 +1,20 @@
+Company_Name,Corrected_Sector,Rationale
+Tata Consultancy Services Limited,Information Technology,IT services company
+TCS,Information Technology,IT services company
+Maruti Suzuki India Limited,Chemicals & Fertilizers,Automobile manufacturing (keep as is)
+Bajaj Finserv Limited,Financial Services,Financial services holding company
+Mahindra  Mahindra Limited,Chemicals & Fertilizers,Automobile/tractor manufacturing (keep as is)
+Larsen & Toubro Limited,Chemicals & Fertilizers,Engineering/construction conglomerate (keep as is)
+Adani Ports and Special Economic Zone Limited,Chemicals & Fertilizers,Port logistics/infrastructure
+Reliance Infrastructure Limited,Power Generation,Power generation + infrastructure
+ITC Limited,Chemicals & Fertilizers,FMCG/tobacco conglomerate (NOT pharma)
+ITC Limited (Paperboards Division),Chemicals & Fertilizers,Paper/packaging manufacturing
+PATANJALI FOODS LIMITED,Pharmaceuticals,Food/FMCG (keep as is - consumables)
+Wipro Limited,Information Technology,IT services
+Infosys Limited,Information Technology,IT services (already correct)
+IndiGo (InterGlobe Aviation),Information Technology,Airline (duplicate - remove)
+InterGlobe Aviation Limited,Information Technology,Airline (keep this one)
+BAJAJ ELECTRICALS LIMITED,Chemicals & Fertilizers,Electrical equipment/appliances manufacturing (acceptable)
+Bharat Heavy Electricals Limited (BHEL),Chemicals & Fertilizers,Heavy machinery/equipment manufacturing (acceptable)
+GAIL (India) Limited,Oil & Gas,Natural gas transmission/distribution
+Nestle India,Pharmaceuticals,Food/FMCG consumables (keep as is)

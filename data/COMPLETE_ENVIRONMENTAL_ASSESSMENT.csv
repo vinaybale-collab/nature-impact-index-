@@ -1,0 +1,6 @@
+Metric,Has_Value,Pct_Has_Value,Reported_Zero,Valid_Zero,Questionable_Zero,Missing_NaN,Pct_Missing
+Scope 1 GHG Emissions,503,96.2%,11,7,4,9,1.7%
+Scope 2 GHG Emissions,507,96.9%,6,3,3,10,1.9%
+Scope 3 GHG Emissions,523,100.0%,0,0,0,0,0.0%
+Water Consumption,506,96.7%,8,8,0,9,1.7%
+Waste Generated,505,96.6%,9,8,1,9,1.7%

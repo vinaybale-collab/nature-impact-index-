@@ -1,0 +1,282 @@
+/* Google Fonts - Special Gothic Expanded One for bold headers */
+@import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Expanded+One&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom CSS Variables - LIGHT THEME */
+:root {
+  /* Backgrounds - Light theme */
+  --bg-primary: #FFFFFF;
+  --bg-secondary: #F9FAFB;
+  --bg-tertiary: #F3F4F6;
+  --bg-elevated: #E5E7EB;
+
+  /* Accents */
+  --accent-primary: #059669;
+  --accent-primary-light: #10B981;
+  --accent-primary-dark: #047857;
+  --accent-secondary: #2563EB;
+
+  /* Score/Impact colors - for NIR ranges */
+  --score-excellent: #059669;   /* <5% NIR - Emerald 600 */
+  --score-good: #16A34A;        /* <20% NIR - Green 600 */
+  --score-average: #CA8A04;     /* 20-50% NIR - Yellow 600 */
+  --score-poor: #EA580C;        /* 50-100% NIR - Orange 600 */
+  --score-critical: #DC2626;    /* >100% NIR - Red 600 */
+
+  /* Dimension colors */
+  --dim-climate: #EA580C;
+  --dim-water: #2563EB;
+  --dim-land: #65A30D;
+  --dim-biodiversity: #059669;
+  --dim-pollution: #7C3AED;
+  --dim-energy: #CA8A04;
+
+  /* Text - Light theme (inverted) */
+  --text-primary: #111827;
+  --text-secondary: #374151;
+  --text-tertiary: #6B7280;
+  --text-muted: #9CA3AF;
+
+  /* Borders */
+  --border-light: #E5E7EB;
+  --border-medium: #D1D5DB;
+}
+
+/* Base styles */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+/* Slightly larger base text on desktop */
+@media (min-width: 1024px) {
+  body {
+    font-size: 17px;
+  }
+}
+
+/* Selection - Light theme */
+::selection {
+  background-color: rgba(5, 150, 105, 0.2);
+  color: var(--text-primary);
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-secondary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--bg-tertiary);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--bg-elevated);
+}
+
+/* Focus styles */
+:focus-visible {
+  outline: 2px solid var(--accent-primary);
+  outline-offset: 2px;
+}
+
+/* Utility classes - Light theme */
+@layer utilities {
+  .text-gradient {
+    background: linear-gradient(135deg, var(--accent-primary) 0%, var(--accent-secondary) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .bg-gradient-hero {
+    background: linear-gradient(180deg, #FFFFFF 0%, #F9FAFB 100%);
+  }
+
+  .bg-gradient-card {
+    background: linear-gradient(180deg, #FFFFFF 0%, #F9FAFB 100%);
+  }
+
+  .bg-glow {
+    background: radial-gradient(circle at 50% 0%, rgba(5, 150, 105, 0.08) 0%, transparent 60%);
+  }
+
+  .border-gradient {
+    border: 1px solid var(--border-light);
+  }
+
+  /* Impact color classes */
+  .impact-excellent { color: var(--score-excellent); }
+  .impact-good { color: var(--score-good); }
+  .impact-moderate { color: var(--score-average); }
+  .impact-high { color: var(--score-poor); }
+  .impact-critical { color: var(--score-critical); }
+
+  /* Background variants for impact */
+  .bg-impact-excellent { background-color: rgba(5, 150, 105, 0.1); }
+  .bg-impact-good { background-color: rgba(22, 163, 74, 0.1); }
+  .bg-impact-moderate { background-color: rgba(202, 138, 4, 0.1); }
+  .bg-impact-high { background-color: rgba(234, 88, 12, 0.1); }
+  .bg-impact-critical { background-color: rgba(220, 38, 38, 0.1); }
+}
+
+/* Animation utilities */
+@layer utilities {
+  .animate-fade-in {
+    animation: fadeIn 0.4s ease-out;
+  }
+
+  .animate-slide-up {
+    animation: slideUp 0.4s ease-out;
+  }
+
+  .animate-scale-in {
+    animation: scaleIn 0.3s ease-out;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Number display - monospace for data */
+.font-data {
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Card styles - Light theme */
+.card {
+  @apply bg-white rounded-xl border border-gray-200 transition-all duration-200 shadow-sm;
+}
+
+.card:hover {
+  @apply border-gray-300 shadow-md;
+}
+
+/* Button base - Light theme */
+.btn {
+  @apply px-4 py-2 rounded-lg font-medium transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-accent-primary focus-visible:ring-offset-2 focus-visible:ring-offset-white;
+}
+
+.btn-primary {
+  @apply bg-accent-primary text-white hover:bg-accent-primary-dark active:scale-[0.98];
+}
+
+.btn-secondary {
+  @apply bg-gray-100 text-gray-900 border border-gray-200 hover:bg-gray-200 active:scale-[0.98];
+}
+
+.btn-ghost {
+  @apply bg-transparent text-gray-600 hover:text-gray-900 hover:bg-gray-100 active:scale-[0.98];
+}
+
+/* Table styles */
+.table-row {
+  @apply border-b border-bg-tertiary/50 transition-colors duration-150;
+}
+
+.table-row:hover {
+  @apply bg-bg-tertiary/50;
+}
+
+/* Badge styles */
+.badge {
+  @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium border;
+}
+
+/* Hero number styling */
+.hero-number {
+  font-size: clamp(4rem, 15vw, 12rem);
+  font-weight: 700;
+  line-height: 1;
+  color: var(--text-primary);
+}
+
+.hero-number-accent {
+  color: var(--score-critical);
+}
+
+/* Section divider */
+.section-divider {
+  @apply border-t border-gray-200 my-16;
+}
+
+/* Scroll-triggered animations */
+.animate-on-scroll {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.animate-on-scroll.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Impact bars */
+.impact-bar {
+  @apply h-3 rounded-full transition-all duration-700 ease-out;
+}
+
+.impact-bar-track {
+  @apply h-3 rounded-full bg-gray-100;
+}
+
+/* Persona cards */
+.persona-card {
+  @apply bg-white rounded-2xl border border-gray-200 p-8 text-center transition-all duration-300;
+}
+
+.persona-card:hover {
+  @apply shadow-lg border-gray-300 -translate-y-1;
+}
+
+/* Sticky header shadow on scroll */
+.header-scrolled {
+  @apply shadow-sm border-b border-gray-100;
+}

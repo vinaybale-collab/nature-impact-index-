@@ -1,0 +1,26 @@
+Indicator,Dimension,BRSR_Coverage_%,Non_BRSR_Coverage_%,Data_Source,Data_Quality_Tier,Reliability,Update_Frequency,Imputation_Method
+GHG Scope 1 Emissions,Climate,95,0,XBRL/BRSR Reports,Tier 1,High,Annual,None (reported data)
+GHG Scope 2 Emissions,Climate,95,0,XBRL/BRSR Reports,Tier 1,High,Annual,None (reported data)
+GHG Scope 3 Emissions,Climate,75,0,XBRL/BRSR Reports,Tier 1,Medium-High,Annual,None (reported data)
+Energy Consumption,Climate,90,0,XBRL/BRSR Reports,Tier 1,High,Annual,None (reported data)
+Renewable Energy %,Climate,85,100,BRSR + Sector Benchmarks,Tier 1 (BRSR) / Tier 3 (Non-BRSR),High (BRSR) / Medium (Non-BRSR),Annual,Sector median for non-BRSR
+Water Withdrawal,Water,90,0,XBRL/BRSR Reports,Tier 1,High,Annual,None (reported data)
+Water Discharge,Water,85,0,XBRL/BRSR Reports,Tier 1,High,Annual,None (reported data)
+Water Consumption,Water,90,0,XBRL/BRSR Reports,Tier 1,High,Annual,None (reported data)
+Water Stress Index,Water,40,60,GIS (WRI Aqueduct) + Facility Coordinates,Tier 2,High,Static (model-based),Facility-level GIS analysis
+Water Recycling %,Water,55,0,XBRL/BRSR Reports,Tier 1,Medium-High,Annual,None (reported data)
+Land Footprint,Land,25,30,GIS (Satellite imagery) + Facility Coordinates,Tier 2,Medium,Static (periodic satellite updates),Facility boundary extraction
+Land Use Change,Land,15,0,BRSR Reports,Tier 1,Medium,Annual,None (reported data)
+Deforestation Risk,Land,10,0,BRSR Reports,Tier 1,Low-Medium,Annual,None (reported data)
+Green Cover on Site,Land,35,0,BRSR Reports,Tier 1,Medium,Annual,None (reported data)
+Brownfield vs Greenfield,Land,20,0,BRSR Reports,Tier 1,Medium,Annual,None (reported data)
+Scope 3 Biodiversity Impact (EXIOBASE),Biodiversity,100,100,EXIOBASE 3.8.2 MRIO + Revenue Data,Tier 3,High,Static (EXIOBASE v3.8.2),Revenue-based sector allocation
+MSA Land Use (GLOBIO),Biodiversity,88,88,GIS (GLOBIO 4) + Facility Coordinates,Tier 2,High,Static (GLOBIO model),Facility-level GIS analysis
+MSA Infrastructure (GLOBIO),Biodiversity,0,0,GIS (GLOBIO 4) + Facility Coordinates,Tier 2,High,Static (GLOBIO model),Pending Gemini Task 2
+MSA Nitrogen Deposition (GLOBIO),Biodiversity,0,0,GIS (GLOBIO 4) + Facility Coordinates,Tier 2,High,Static (GLOBIO model),Pending Gemini Task 2
+Protected Area Proximity,Biodiversity,88,88,GIS (WDPA) + Facility Coordinates,Tier 2,High,Annual (WDPA updates),Facility-level GIS analysis
+Air Emissions (NOx/SOx/PM),Pollution,80,0,XBRL/BRSR Reports,Tier 1,High,Annual,None (reported data)
+Hazardous Waste Generated,Pollution,85,0,XBRL/BRSR Reports,Tier 1,High,Annual,None (reported data)
+Hazardous Waste Recycled %,Pollution,75,0,XBRL/BRSR Reports,Tier 1,Medium-High,Annual,None (reported data)
+Plastic Waste (EPR),Pollution,60,0,BRSR + EPR Portal Data,Tier 1,Medium,Annual,None (reported data)
+E-Waste (EPR),Pollution,45,0,BRSR + EPR Portal Data,Tier 1,Medium,Annual,None (reported data)

@@ -1,0 +1,21 @@
+nse_sector,exiobase_sector_name,mapping_confidence,notes
+Cement,Construction,High,Cement production falls under construction materials
+Steel & Iron,Construction,High,Steel production for construction
+Chemicals,Chemicals nec,High,Chemical manufacturing
+Pharmaceuticals,Chemicals nec,Medium,Pharmaceutical chemicals
+FMCG / Consumer Goods,Food products nec,High,Food and consumer products
+Textiles,Textiles,High,Textile manufacturing
+Automobile,Construction,Medium,Manufacturing and materials
+Power,Production of electricity by coal,High,Power generation
+Oil & Gas,Mining of coal and lignite; extraction of peat,High,Fossil fuel extraction
+IT Services,Computer and related activities,High,IT and software services
+Financial Services,Financial intermediation except insurance and pension funding,High,Banking and financial services
+Mining,Mining of coal and lignite; extraction of peat,High,Mining operations
+Agriculture,Products of agriculture hunting and related services,High,Agricultural products
+Food & Beverages,Food products nec,High,Food processing
+Retail,Other business activities,Medium,Retail services
+Hotels & Tourism,Other business activities,Medium,Hospitality services
+Real Estate,Other business activities,Medium,Real estate services
+Healthcare,Other business activities,Medium,Healthcare services
+Media & Entertainment,Other business activities,Medium,Media services
+Telecommunications,Other business activities,Medium,Telecom services

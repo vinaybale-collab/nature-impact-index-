@@ -7,6 +7,8 @@
   "nii_score": 1.0,
   "nii_rank": 470,
   "nii_sector_rank": 5,
+  "nii_sector_total": 5,
+  "nii_total_companies": 525,
   "nii_rating": "Critical",
   "nii_percentile": 10,
   "taesc_cr": 4073.5,
@@ -15,27 +17,58 @@
   "breakdown": {
     "climate": {
       "value_cr": 3791.57,
-      "pct": 93.1
+      "pct": 93.1,
+      "sub_components": {
+        "scope1_cost_cr": 1.88,
+        "scope2_cost_cr": 16.57,
+        "scope2_net_cr": 13.81,
+        "scope3_cost_cr": 3775.88,
+        "re_credit_cr": 2.76
+      }
     },
     "water": {
       "value_cr": 7.84,
-      "pct": 0.2
+      "pct": 0.2,
+      "sub_components": {
+        "consumption_cost_cr": 8.43,
+        "recycling_credit_cr": 0.59
+      }
     },
     "land": {
       "value_cr": 16.16,
-      "pct": 0.4
+      "pct": 0.4,
+      "sub_components": {
+        "footprint_cost_cr": 7.88,
+        "degradation_cost_cr": 8.28,
+        "restoration_credit_cr": 0.0
+      }
     },
     "biodiversity": {
       "value_cr": 119.18,
-      "pct": 2.9
+      "pct": 2.9,
+      "sub_components": {
+        "direct_msa_cost_cr": 99.8,
+        "scope3_bio_cost_cr": 19.39
+      }
     },
     "pollution": {
       "value_cr": 134.89,
-      "pct": 3.3
+      "pct": 3.3,
+      "sub_components": {
+        "waste_cost_cr": 29.54,
+        "overburden_cost_cr": 0.0,
+        "plastic_cost_cr": 116.64,
+        "ewaste_cost_cr": 1.69,
+        "hap_cost_cr": 0.02,
+        "recycling_credit_cr": 13.0
+      }
     },
     "energy_depletion": {
       "value_cr": 3.85,
-      "pct": 0.1
+      "pct": 0.1,
+      "sub_components": {
+        "non_renewable_cost_cr": 3.85
+      }
     }
   },
   "raw_data": {
@@ -57,6 +90,12 @@
     "sector_best_score": 7.9,
     "sector_median_taesc": 324.52,
     "sector_best_taesc": 127.05
+  },
+  "restoration_estimate": {
+    "acres_needed": 226305,
+    "hectares_equiv": 91584,
+    "theta_per_acre_lakh": 1.8,
+    "methodology": "Based on incremental ecosystem service value of Rs 1.8 lakh per acre per year from restoration"
   },
   "data_quality": {
     "tier": "Tier 2",

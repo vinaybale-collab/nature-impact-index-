@@ -1,0 +1,20 @@
+Sector,Exiobase_Sector,Factor_Used
+Automobile,Construction,0.1
+Cement,Construction,0.1
+Chemicals,Chemicals nec,0.15
+FMCG / Consumer Goods,Food products nec,0.5
+Financial Services,"Financial intermediation, except insurance and pension funding",0.005
+Healthcare,Other business activities,0.05
+Hotels & Tourism,Other business activities,0.05
+IT Services,Computer and related activities,0.01
+Media & Entertainment,Other business activities,0.05
+Mining,Mining of coal and lignite; extraction of peat,0.4
+Oil & Gas,Mining of coal and lignite; extraction of peat,0.4
+Other Business Services,Other business activities,0.05
+Pharmaceuticals,Chemicals nec,0.15
+Power,Production of electricity by coal,0.12
+Real Estate,Construction,0.1
+Retail,Other business activities,0.05
+Steel & Iron,Construction,0.1
+Telecommunications,Computer and related activities,0.01
+Textiles,Textiles,0.3

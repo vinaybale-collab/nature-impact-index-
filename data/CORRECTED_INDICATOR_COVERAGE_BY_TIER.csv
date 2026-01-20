@@ -1,0 +1,26 @@
+Indicator_ID,Indicator,Dimension,BRSR_Tier1_%,BRSR_Tier2_%,BRSR_Tier3_%,NonBRSR_Tier1_%,NonBRSR_Tier2_%,NonBRSR_Tier3_%,Overall_Coverage_%,Primary_Source
+1.1,GHG Scope 1 Emissions,Climate,96.6,0.0,3.4,0,0.0,100,100.0,XBRL/BRSR (Tier 1) + Sector Median (Tier 3)
+1.2,GHG Scope 2 Emissions,Climate,96.6,0.0,3.4,0,0.0,100,100.0,XBRL/BRSR (Tier 1) + Sector Median (Tier 3)
+1.3,GHG Scope 3 (Supply Chain),Climate,55.6,44.4,0.0,0,100.0,0,100.0,EXIOBASE 3.8.2 (Tier 2) + Self-Reported (Tier 1 for some BRSR)
+1.4,Energy Consumption,Climate,99.2,0.0,0.8,0,0.0,100,100.0,XBRL/BRSR (Tier 1) + Sector Median (Tier 3)
+1.5,Renewable Energy %,Climate,99.2,0.0,0.8,0,0.0,100,100.0,XBRL/BRSR (Tier 1) + Sector Median (Tier 3)
+2.1,Water Withdrawal,Water,100.0,0.0,0.0,0,0.0,100,100.0,XBRL/BRSR (Tier 1) + Sector Median (Tier 3)
+2.2,Water Stress Index (GIS),Water,0.0,93.3,0.0,0,93.3,0,93.3,WRI Aqueduct GIS (Tier 2)
+2.3,Water Recycling %,Water,100.0,0.0,0.0,0,0.0,100,100.0,XBRL/BRSR (Tier 1) + Sector Median (Tier 3)
+2.4,Water Intensity,Water,100.0,0.0,0.0,0,0.0,100,100.0,XBRL/BRSR (Tier 1) + Sector Median (Tier 3)
+2.5,Water Discharge,Water,100.0,0.0,0.0,0,0.0,100,100.0,XBRL/BRSR (Tier 1) + Sector Median (Tier 3)
+4.1,Biodiversity Impact - MSA Loss (GLOBIO),Biodiversity,0.0,93.3,0.0,0,93.3,0,93.3,GLOBIO 4 GIS (Tier 2) - Land Use + Infrastructure + Nitrogen
+4.2,Scope 3 Biodiversity Impact (EXIOBASE),Biodiversity,0.0,100.0,0.0,0,100.0,0,100.0,EXIOBASE 3.8.2 MRIO (Tier 2) - ALL 628 companies
+4.3,Protected Area Proximity (GIS),Biodiversity,0.0,93.3,0.0,0,93.3,0,93.3,WDPA Protected Areas GIS (Tier 2)
+4.4,Threatened Species Impact,Biodiversity,30.0,0.0,70.0,0,0.0,100,100.0,BRSR PDF (Tier 1) + Sector Median (Tier 3)
+4.5,Biodiversity Conservation Actions,Biodiversity,40.0,0.0,60.0,0,0.0,100,100.0,BRSR PDF (Tier 1) + Sector Median (Tier 3)
+5.1,Hazardous Air Emissions (NOx/SOx/PM),Pollution,74.4,0.0,25.6,0,0.0,100,100.0,XBRL/BRSR (Tier 1) + Sector Median (Tier 3)
+5.2,Total Waste Generated,Pollution,100.0,0.0,0.0,0,0.0,100,100.0,XBRL/BRSR (Tier 1) + Sector Median (Tier 3)
+5.3,Waste Recycled %,Pollution,100.0,0.0,0.0,0,0.0,100,100.0,XBRL/BRSR (Tier 1) + Sector Median (Tier 3)
+5.4,Plastic Waste (EPR),Pollution,100.0,0.0,0.0,0,0.0,100,100.0,XBRL/BRSR (Tier 1) + Sector Median (Tier 3)
+5.5,E-Waste,Pollution,100.0,0.0,0.0,0,0.0,100,100.0,XBRL/BRSR (Tier 1) + Sector Median (Tier 3)
+3.1,Land Footprint,Land,25.0,0.0,75.0,0,0.0,100,100.0,BRSR (Tier 1) + Capacity estimation (Tier 3)
+3.2,Land Degraded,Land,5.0,0.0,95.0,0,0.0,100,100.0,BRSR PDF (Tier 1) + Sector Median (Tier 3)
+3.3,Land Restored,Land,8.0,0.0,92.0,0,0.0,100,100.0,BRSR PDF (Tier 1) + Sector Median (Tier 3)
+3.4,Forests/Ecosystems Managed,Land,12.0,0.0,88.0,0,0.0,100,100.0,BRSR PDF (Tier 1) + Sector Median (Tier 3)
+3.5,Land Intensity,Land,0.0,100.0,0.0,0,100.0,0,100.0,Calculated (Tier 2) from Land Footprint / Revenue

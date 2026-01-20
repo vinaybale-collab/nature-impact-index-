@@ -1,0 +1,64 @@
+Facility_ID,Company_Name,Facility_Type,Original_City,Original_State,Corrected_City,Corrected_State,Confidence,Source_URL,Notes
+ITC_Plant_1,ITC Limited,Plant,Saharanpur,Karnataka,Kolar,Karnataka,High,https://en.wikipedia.org/wiki/ITC_Limited,Noodles factory
+ITC_Plant_2,ITC Limited,Plant,Saharanpur,Karnataka,Kapurthala,Punjab,High,https://en.wikipedia.org/wiki/ITC_Limited,Food products facility
+ITC_Plant_3,ITC Limited,Plant,Saharanpur,Karnataka,Saharanpur,Uttar Pradesh,High,https://en.wikipedia.org/wiki/ITC_Limited,Cigarette manufacturing
+ITC_Plant_4,ITC Limited,Plant,Saharanpur,Karnataka,Ranjangaon,Maharashtra,High,https://en.wikipedia.org/wiki/ITC_Limited,MIDC Industrial Area
+ITC_Plant_5,ITC Limited,Plant,Saharanpur,Karnataka,Kothagudem,Telangana,High,https://en.wikipedia.org/wiki/ITC_Limited,Paperboards Sarapaka
+ITC_Plant_6,ITC Limited,Plant,Saharanpur,Karnataka,Coimbatore,Tamil Nadu,High,https://en.wikipedia.org/wiki/ITC_Limited,Paper/paperboard Kovai
+MSWIL_Plant_1,Motherson Sumi Wiring India Limited,Plant,Noida,Karnataka,Noida,Uttar Pradesh,High,https://www.mswil.motherson.com/contact/address-directory,Sector 1 headquarters
+MSWIL_Plant_2,Motherson Sumi Wiring India Limited,Plant,Noida,Karnataka,Faridabad,Haryana,High,https://www.mswil.motherson.com/contact/address-directory,Sarai Khwaja Sector 36
+MSWIL_Plant_3,Motherson Sumi Wiring India Limited,Plant,Noida,Karnataka,Gurugram,Haryana,High,https://www.mswil.motherson.com/contact/address-directory,Sector 18 Industrial
+MSWIL_Plant_4,Motherson Sumi Wiring India Limited,Plant,Noida,Karnataka,Pithampur,Madhya Pradesh,High,https://www.mswil.motherson.com/contact/address-directory,Sector 5 Dhar
+MSWIL_Plant_5,Motherson Sumi Wiring India Limited,Plant,Noida,Karnataka,Bangalore,Karnataka,High,https://www.mswil.motherson.com/contact/address-directory,26 facilities mentioned
+Sheela_Plant_1,Sheela Foam Limited,Plant,Noida,Telangana,Greater Noida,Uttar Pradesh,High,https://www.sheelafoamb2bproducts.com/branch-and-factory-addresses.htm,Ecotech II Udyog Vihar
+Sheela_Plant_2,Sheela Foam Limited,Plant,Noida,Telangana,Hyderabad,Telangana,High,https://www.sheelafoamb2bproducts.com/branch-and-factory-addresses.htm,Survey No 852 Medchal
+Sheela_Plant_3,Sheela Foam Limited,Plant,Noida,Telangana,Erode,Tamil Nadu,High,https://www.sheelafoamb2bproducts.com/branch-and-factory-addresses.htm,Plot MM3 SIPCOT Perundurai
+PTC_Plant_1,PTC Industries Limited,Facility,Lucknow,Gujarat,Lucknow,Uttar Pradesh,High,https://www.indiamart.com/ptc-industries-ltd-lucknow/aboutus.html,NH-25A Sarai Sahjadi
+PTC_Plant_2,PTC Industries Limited,Facility,Lucknow,Gujarat,Mehsana,Gujarat,High,https://www.tradeindia.com/ptc-industries-ltd-6667133/,Village Rajpur Kadi
+Siemens_Plant_1,Siemens Limited,Plant,Gurugram,Puducherry,Puducherry,Puducherry,High,https://www.tradeindia.com/siemens-ltd-5542517/,Villianur Commune factory
+Siemens_Office_1,Siemens Limited,Plant,Gurugram,Puducherry,Gurugram,Haryana,High,https://www.siemens.com/in/en/company/about/business-locations.html,Tower A B JIL Sector 18
+Titan_Plant_1,Titan Company Limited,Facility,Chikkaballapur,West Bengal,Chikkaballapur,Karnataka,High,https://www.titancompany.in/contact-us,No 27 KIADB Industrial Area
+Titan_Lab_1,Titan Company Limited,Facility,Chikkaballapur,West Bengal,Noida,Uttar Pradesh,High,https://www.titancompany.in/contact-us,EyeCare lens lab
+Titan_Lab_2,Titan Company Limited,Facility,Chikkaballapur,West Bengal,Kolkata,West Bengal,High,https://www.titancompany.in/contact-us,EyeCare lens lab Madhyamgram
+Vedanta_Plant_1,Vedanta Limited,Plant,Silvassa,Rajasthan,Silvassa,Dadra and Nagar Haveli,High,https://www.vedantalimited.com/,Sterlite Copper Refinery
+Vedanta_Plant_2,Vedanta Limited,Plant,Silvassa,Rajasthan,Rampura Agucha,Rajasthan,High,https://en.wikipedia.org/wiki/Hindustan_Zinc,HZL world's 3rd largest open-pit mine
+Vedanta_Plant_3,Vedanta Limited,Plant,Silvassa,Rajasthan,Chanderiya,Rajasthan,High,https://en.wikipedia.org/wiki/Hindustan_Zinc,HZL smelter Chittorgarh
+Vedanta_Plant_4,Vedanta Limited,Plant,Silvassa,Rajasthan,Mangala,Rajasthan,High,https://www.vedantalimited.com/,Cairn Oil & Gas field
+Zydus_Plant_1,Zydus Wellness Limited,Plant,Ahmedabad,Sikkim,Aligarh,Uttar Pradesh,Medium,Web search,Inferred from address
+Zydus_Plant_2,Zydus Wellness Limited,Plant,Ahmedabad,Sikkim,Ahmedabad,Gujarat,High,Company website,Manufacturing facility
+Zydus_Plant_3,Zydus Wellness Limited,Plant,Ahmedabad,Sikkim,Sikkim,Sikkim,Medium,Address hint,Location mentioned in address
+GODREJ_Plant_1,GODREJ AGROVET LIMITED,Plant,Coimbatore,Maharashtra,Erode,Tamil Nadu,High,Address parsing,First city in address
+HFCL_Plant_1,HFCL Limited,Plant,Manesar,Karnataka,Manesar,Haryana,High,Address parsing,HFCL Telecom Plant
+HPCL_Plant_1,Hindustan Petroleum Corporation Limited,Plant,Kurnool,Goa,Bhuj,Gujarat,High,Address parsing,Aviation Service Facility
+KSB_Plant_1,KSB Limited,Plant,Coimbatore,Maharashtra,Ahmednagar,Maharashtra,High,Address parsing,Vambori facility
+Lemon_Tree_1,Lemon Tree Hotels Limited,Plant,Gurugram,Kerala,Gurugram,Haryana,High,Address parsing,Hotel location
+Lemon_Tree_2,Lemon Tree Hotels Limited,Plant,Gurugram,Kerala,Muhamma,Kerala,High,Address parsing,Kerala hotel
+MANKIND_Plant_1,MANKIND PHARMA LIMITED,Plant,Manesar,Rajasthan,Manesar,Haryana,High,Address parsing,Manufacturing plant
+NTPC_Plant_1,NTPC LIMITED,Plant,Faridabad,Telangana,Barauni,Bihar,High,Address parsing,Power plant
+NTPC_Plant_2,NTPC LIMITED,Plant,Faridabad,Telangana,Ramagundam,Telangana,High,Address parsing,Power plant
+NTPC_Plant_3,NTPC LIMITED,Plant,Faridabad,Telangana,Faridabad,Haryana,High,Address parsing,NCPS facility
+PTC_Ind_Plant_1,PTC Industries Limited,Facility,Lucknow,Gujarat,Lucknow,Uttar Pradesh,High,Address parsing,Plant location
+SMIL_Plant_1,SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED,Plant,Noida,Karnataka,Noida,Uttar Pradesh,High,Address parsing,Multiple locations
+SMIL_Plant_2,SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED,Plant,Noida,Karnataka,Indore,Madhya Pradesh,High,Address parsing,Plant location
+SMIL_Plant_3,SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED,Plant,Noida,Karnataka,Bangalore,Karnataka,High,Address parsing,Plant location
+SMIL_Plant_4,SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED,Plant,Noida,Karnataka,Kandla,Gujarat,High,Address parsing,Port facility
+Sheela_Foam_1,Sheela Foam Limited,Plant,Noida,Telangana,Greater Noida,Uttar Pradesh,High,Address parsing,Manufacturing
+Sheela_Foam_2,Sheela Foam Limited,Plant,Noida,Telangana,Hyderabad,Telangana,High,Address parsing,Manufacturing
+Siemens_Plant_2,Siemens Limited,Plant,Gurugram,Puducherry,Puducherry,Puducherry,High,Address parsing,Factory Villianur
+Siemens_Office_2,Siemens Limited,Plant,Gurugram,Puducherry,Gurugram,Haryana,High,Address parsing,Office location
+TCS_Office_1,Tata Consultancy Services Limited,Plant,Vadodara,Karnataka,Vadodara,Gujarat,High,Address parsing,Ambattur stress zone
+TCS_Office_2,Tata Consultancy Services Limited,Plant,Vadodara,Karnataka,Bangalore,Karnataka,High,Address parsing,North location
+Tech_Mah_1,Tech Mahindra Limited,Plant,Noida,Chandigarh,Noida,Uttar Pradesh,High,Address parsing,Baseline water stress
+Tech_Mah_2,Tech Mahindra Limited,Plant,Noida,Chandigarh,Gandhinagar,Gujarat,High,Address parsing,Facility location
+Tech_Mah_3,Tech Mahindra Limited,Plant,Noida,Chandigarh,Chandigarh,Chandigarh,High,Address parsing,Facility location
+Thermax_Plant_1,Thermax Limited,Plant,Ahmedabad,Delhi,Ahmedabad,Gujarat,High,Address parsing,Factory location
+Thermax_Plant_2,Thermax Limited,Plant,Ahmedabad,Delhi,Bhubaneswar,Odisha,High,Address parsing,Factory location
+Titan_Facility_1,Titan Company Limited,Facility,Chikkaballapur,West Bengal,Chikkaballapur,Karnataka,High,Address parsing,Manufacturing unit
+Titan_Lab_3,Titan Company Limited,Facility,Chikkaballapur,West Bengal,Noida,Uttar Pradesh,High,Address parsing,EyeCare lens lab
+Titan_Lab_4,Titan Company Limited,Facility,Chikkaballapur,West Bengal,Kolkata,West Bengal,High,Address parsing,EyeCare lens lab
+Uno_Minda_1,Uno Minda Limited,Plant,Manesar,Gujarat,Manesar,Haryana,High,Address parsing,Switch Division
+Uno_Minda_2,Uno Minda Limited,Plant,Manesar,Gujarat,Pune,Maharashtra,High,Address parsing,Controller Division
+Uno_Minda_3,Uno Minda Limited,Plant,Manesar,Gujarat,Chennai,Tamil Nadu,High,Address parsing,Lighting Division
+Uno_Minda_4,Uno Minda Limited,Plant,Manesar,Gujarat,Gujarat,Gujarat,Medium,Address parsing,Alloy Wheel 2W Division
+Vedanta_Facility_1,Vedanta Limited,Plant,Silvassa,Rajasthan,Silvassa,Dadra and Nagar Haveli,High,Address parsing,Chinchpada plant
+Vedanta_Facility_2,Vedanta Limited,Plant,Silvassa,Rajasthan,Narrain,Rajasthan,High,Address parsing,IOK mines

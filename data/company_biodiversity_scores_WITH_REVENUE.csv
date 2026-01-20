@@ -1,0 +1,477 @@
+Company_Name,Sector,City,State,Base_MSA_Loss,Sector_EIF,Weighted_MSA_Loss,Data_Tier,Confidence,Revenue_Cr,MSA_Intensity
+360 ONE WAM LIMITED,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,32954457104.55764,2.0027639900301112e-08
+3M INDIA LIMITED,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,44455087999.39179,1.6735992064849335e-08
+ACC Limited,Cement,Bangalore,Karnataka,0.48,1.0,0.48,Tier 2,75%,205940012416.57614,2.3307758136337993e-09
+ADANI POWER LIMITED,Power Generation,Chennai,Tamil Nadu,0.52,2.5,1.3,Tier 2,75%,589058300600.2567,2.206912284701338e-09
+AIA ENGINEERING LIMITED,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,348644.76000168,0.0019963013354815547
+ALEMBIC PHARMACEUTICALS LIMITED,Pharmaceuticals,Hyderabad,Telangana,0.45,0.5,0.225,Tier 2,75%,60326313010.35322,3.7297157537439e-09
+ALKYL AMINES CHEMICALS LIMITED,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,15718203602.0451,3.2064732889350307e-08
+ALOK INDUSTRIES LIMITED,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,3629.3100000017052,0.16862709440629553
+APAR Industries Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,185812115613.27493,3.551975057286565e-09
+APL Apollo Tubes Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,206896433521.61795,3.5960020544397726e-09
+ARVIND LIMITED,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,76295807644.88286,7.549562915448502e-09
+AU Small Finance Bank Limited,Financial Services,Chennai,Tamil Nadu,0.52,0.01,0.0052,Tier 2,75%,185899078914.6129,2.7972166566723343e-11
+AUROBINDO PHARMA LIMITED,Pharmaceuticals,Kolkata,West Bengal,0.58,0.5,0.29,Tier 2,75%,317237664543.013,9.141411390029952e-10
+Aarti Industries Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,80460158334.4791,6.7113961888463895e-09
+Aavas Financiers Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,23582769864.42423,2.1371535358122154e-08
+Adani Energy Solutions Limited,Power Generation,Ahmedabad,Gujarat,0.51,2.5,1.275,Tier 2,75%,244465452825.27054,5.215460856595122e-09
+Adani Enterprises Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,413081113874.90137,1.597749153450468e-09
+Adani Ports and Special Economic Zone Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,305619354838.70966,2.4344007937345635e-09
+Adani Total Gas Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,54116744129.59512,1.0643655845603609e-08
+Aditya Birla Capital Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,405855514705.8824,1.5374929682850406e-09
+Aditya Birla Fashion and Retail Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,14972.999999271226,0.046483670609355245
+Aditya Birla Sun Life AMC Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,16591299165.67342,3.254717997715534e-08
+Aegis Logistics Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,29767790765.536674,1.6931051550641118e-08
+Aether Industries Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,8328.340012372964,0.0734840315225825
+Ajanta Pharma Limited,Pharmaceuticals,Mumbai,Maharashtra,0.55,0.5,0.275,Tier 2,75%,46480911934.38521,5.9164071563011465e-09
+Akzo Nobel India Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,40912610032.8773,1.8185102329138203e-08
+Alkem Laboratories Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,105511828984.81458,5.459103548313041e-09
+Amara Raja Energy  Mobility Limited,Power Generation,Chennai,Tamil Nadu,0.52,2.5,1.3,Tier 2,75%,12404.889999999374,0.10479738232262162
+Amber Enterprises India Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,99729047895.63042,6.978909502158146e-09
+Ambuja Cements Limited,Cement,Hyderabad,Telangana,0.45,1.0,0.45,Tier 2,75%,188570007218.2446,2.3863816236650247e-09
+Anand Rathi Wealth Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,9051129317.980513,5.5683659164915394e-08
+Anant Raj Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,12285971345.63935,4.981291122880704e-08
+Anupam Rasayan India Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,14369742026.988518,4.5929843330549824e-08
+Apollo Tyres Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,178705838865.33118,4.163266319242441e-09
+Aptus Value Housing Finance India Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,17500013883.052864,3.291425960283394e-08
+Asahi India Glass Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,43116100731.34601,1.4472551771045085e-08
+Ashok Leyland Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,387524362023.6856,1.7960161171943564e-09
+Asian Paints Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,295526759253.8788,1.8272456997239332e-09
+Aster DM Healthcare Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,41384567768.32813,1.2178452673987195e-08
+AstraZeneca Pharma India Limited,Pharmaceuticals,Ahmedabad,Gujarat,0.51,0.5,0.255,Tier 2,75%,17162616962.347483,1.4857873980374694e-08
+Astral Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,52960103510.351036,1.2462211292147553e-08
+Atul Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,50746812291.479195,1.4661019409980234e-08
+Authum Investment  Infrastructure Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,,
+Avenue Supermarts Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,57789.81000007717,0.010797751368263138
+Axis Bank Limited,Financial Services,Kolkata,West Bengal,0.58,0.01,0.0058,Tier 2,75%,144612489269.6344,4.0107185965008336e-11
+BAJAJ ELECTRICALS LIMITED,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,48282987302.676735,1.1184063583614745e-08
+BANK OF INDIA,Financial Services,Pune,Maharashtra,0.42,0.01,0.0042,Tier 2,75%,798157766778.279,5.262117559731423e-12
+BANK OF MAHARASHTRA,Financial Services,Ahmedabad,Gujarat,0.51,0.01,0.0051,Tier 2,75%,284006628819.50244,1.795732733844482e-11
+BASF India Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,151623751271.3301,4.352880036709635e-09
+BATA INDIA LIMITED,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,34881348036.885635,2.132945089201397e-08
+BEML Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,38392299959.09212,1.5003008431736083e-08
+BHARAT ELECTRONICS LIMITED,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,23658.00999990466,0.026375844798548764
+BHARAT HEAVY ELECTRICALS LIMITED,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,283394464158.2102,2.4559407046548554e-09
+BLS International Services Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,1384905799.2346187,3.899182170357263e-07
+Bajaj Auto Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,500103104169.46173,1.0077921848475825e-09
+Bajaj Finance Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,697342906774.7539,8.776170146055271e-10
+Bajaj Finserv Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,1338443453587.353,4.931101110256395e-10
+Bajaj Holdings  Investment Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,16002548647.05497,4.649259417417375e-08
+Balkrishna Industries Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,1041287.9999989202,0.0005531610851182355
+Balrampur Chini Mills Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,54153785508.767426,1.1522740176658106e-08
+Bandhan Bank Limited,Financial Services,Kolkata,West Bengal,0.58,0.01,0.0058,Tier 2,75%,249121131066.1062,2.328184676739014e-11
+Bharat Dynamics Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,33450893172.350487,1.6143066710288857e-08
+Bharat Forge Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,88437412902.69695,5.698945541911372e-09
+Bharti Airtel Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,1089423791821.5613,5.617648564262681e-10
+Bharti Hexacom Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,85478859390.36382,7.721207380481297e-09
+Bikaji Foods International Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,253686.25999950242,0.0029327563897290267
+Biocon Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,24848.999999971293,0.02318000724377904
+Birla Corporation Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,92144970856.62085,6.7719376781935795e-09
+Birlasoft Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,26578495982.666786,2.6186583336163853e-08
+Blue Dart Express Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,57201832191.007866,9.440257056746656e-09
+Blue Star Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,113255169540.94809,4.45012799012036e-09
+Bosch limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,181725000000.0,3.3677259595542714e-09
+Brigade Enterprises Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,50742077109.48834,1.30069567033271e-08
+Britannia Industries Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,172958660372.99524,4.301605935172726e-09
+CCL Products India Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,17179971000.960392,3.352741398502946e-08
+CE INFO SYSTEMS LIMITED,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,38386.9999989087,0.016255503165596156
+CEAT Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,131716692857.23717,5.284068290071392e-09
+CERA Sanitaryware Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,191525.1200036199,0.0028194734977312315
+CESC Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,95839994064.98822,5.2587649333350566e-09
+CG Power and Industrial Solutions Limited,Power Generation,Ahmedabad,Gujarat,0.51,2.5,1.275,Tier 2,75%,93287619586.2199,1.3667408447715803e-08
+CHENNAI PETROLEUM CORPORATION LIMITED,Oil & Gas,Mumbai,Maharashtra,0.55,2.0,1.1,Tier 2,75%,71049.90999897323,0.015482074502499674
+CITY UNION BANK LIMITED,Financial Services,Delhi,Delhi,0.62,0.01,0.0062,Tier 2,75%,67322320426.48708,9.209427067758483e-11
+COAL INDIA LIMITED,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,143368939892.28613,4.017606605954902e-09
+COROMANDEL INTERNATIONAL LIMITED,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,240639634354.9885,2.593089046501306e-09
+Campus Activewear Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,15929382991.83485,4.3692841107327166e-08
+Can Fin Homes Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,39866666666.66667,1.354515050167224e-08
+Canara Bank,Financial Services,Pune,Maharashtra,0.42,0.01,0.0042,Tier 2,75%,1422142372655.9385,2.953290810227559e-12
+Caplin Point Laboratories Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,19212272050.166176,3.185463949302688e-08
+Capri Global Capital Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,24101510824.504833,2.7384175407334023e-08
+Carborundum Universal Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,27862745098.039215,2.670232230823364e-08
+Cello World Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,11127343750.0,5.176437548269325e-08
+Central Bank of India,Financial Services,Chennai,Tamil Nadu,0.52,0.01,0.0052,Tier 2,75%,,
+Century Plyboards India Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,406790.9700000613,0.0017109524333834033
+Chalet Hotels Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,17178.249999960317,0.031435099617321174
+Chemplast Sanmar Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,24087398055.336025,2.0923804175202313e-08
+Cholamandalam Financial Holdings Limited,Financial Services,Ahmedabad,Gujarat,0.51,0.01,0.0051,Tier 2,75%,334568965517.2414,1.5243493944859573e-11
+Cholamandalam Investment and Finance Company Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,260518507807.9815,2.5334092596847725e-09
+Cipla Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,275476097940.1477,2.7007787810383745e-09
+Clean Science and Technology Limited,Information Technology,Bangalore,Karnataka,0.48,0.1,0.048,Tier 2,75%,9223146191.187452,5.204297861597719e-09
+Cochin Shipyard Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,45278508144.46703,1.3781372787483324e-08
+Coforge Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,55567271862.36422,1.2525358483028237e-08
+Computer Age Management Services Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,14224932963.476652,3.7961514573494414e-08
+Concord Biotech Limited,Information Technology,Pune,Maharashtra,0.42,0.1,0.042,Tier 2,75%,12000874441.278046,3.499744973211066e-09
+Container Corporation of India Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,88633607117.14871,6.904830119247071e-09
+Craftsman Automation Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,384794.3599919816,0.0017152018548654228
+CreditAccess Grameen Limited,Cement,Delhi,Delhi,0.62,1.0,0.62,Tier 2,75%,57559250417.760796,1.0771509279569934e-08
+Crompton Greaves Consumer Electricals Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,70289386368.1791,8.194693818820455e-09
+Cummins India Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,101661519769.14899,6.138015656434875e-09
+Cyient Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,24136194217.789867,2.8836360601001666e-08
+Cyient Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,24136194217.789867,2.8836360601001666e-08
+Cyient Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,24136194217.789867,2.2373038397328882e-08
+Cyient Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,24136194217.789867,2.2373038397328882e-08
+DCM Shriram Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,123688064437.3932,4.074766650222003e-09
+DIVIS LABORATORIES LIMITED,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,91980836889.26622,6.653559814168399e-09
+DLF Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,79936854419.41074,8.256517032020402e-09
+DOMS Industries Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,170910.0000021139,0.0043531683341571465
+Dabur India Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,90707302655.5111,6.350095120649075e-09
+Dalmia Bharat Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,139789569990.85086,4.463852346357746e-09
+Data Patterns India Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,7083478260.869564,9.825681315983305e-08
+Deepak Nitrite Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,25264722896.150352,2.1373675944107865e-08
+Delhivery Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,89319041357.87712,5.642693790012915e-09
+Devyani International Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,33493.329999967376,0.018272294812149047
+Dixon Technologies India Limited,Information Technology,Mumbai,Maharashtra,0.55,0.1,0.055,Tier 2,75%,54181250000.0,1.0151113161841043e-09
+Dr Reddys Laboratories Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,326439.0000006831,0.0022791394410546627
+EICHER MOTORS LIMITED,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,18451.460000007046,0.031217041903447207
+EIH Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,2743.1499999999182,0.22747571222864904
+ESAB India Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,137347.00000025396,0.005067456879281769
+Easy Trip Planners Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,4032814045.499505,1.3390153721633242e-07
+Electronics Mart India Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,69647424164.52441,7.236448526932274e-09
+Elgi Equipments Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,20809069827.364082,2.9410252600297174e-08
+Emami Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,31235130346.747658,2.113005429057613e-08
+Endurance Technologies Limited,Information Technology,Delhi,Delhi,0.62,0.1,0.062,Tier 2,75%,88461546281.18916,7.008695032632946e-10
+Engineers India Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,30283525470.70541,1.9020242559182556e-08
+Equitas Small Finance Bank Limited,Financial Services,Chennai,Tamil Nadu,0.52,0.01,0.0052,Tier 2,75%,631200039.749508,8.238275780311455e-09
+Eris Lifesciences Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,16636019816.336393,4.183693020830231e-08
+Escorts Kubota Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,110307894736.8421,4.895388505856813e-09
+Eureka Forbes Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,24360.620007069407,0.020689128595813247
+Exide Industries Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,165881170863.56525,3.689387992705699e-09
+FERTILIZERS AND CHEMICALS TRAVANCORE LIMITED,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,40509089277.64959,1.629263979440158e-08
+FINE ORGANIC INDUSTRIES LIMITED,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,22051926526.624332,3.3738548833895926e-08
+Finolex Cables Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,53189106114.311035,1.0829285206675464e-08
+Finolex Industries Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,41419686173.40705,1.506530004567323e-08
+Firstsource Solutions Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,23065820947.67114,3.0174516726675285e-08
+Five-Star Business Finance Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,28479810676.598385,1.8960800200954754e-08
+Force Motors Ltd,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,80069964664.31096,6.294495097044104e-09
+Fortis Healthcare Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,652803.000006444,0.0009374956916465743
+G R Infraprojects Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,65155698561.38938,1.0129582132837564e-08
+GAIL India Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,137287.99999998466,0.005419264611619975
+GALAXY SURFACTANTS LIMITED,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,30012701499.09051,1.9191874480791234e-08
+GLAND PHARMA LIMITED,Pharmaceuticals,Chennai,Tamil Nadu,0.52,0.5,0.26,Tier 2,75%,41161484539.96763,6.316584615589875e-09
+GLOBAL HEALTH LIMITED,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,369230.9999922848,0.0018849988219151238
+GODAWARI POWER AND ISPAT LIMITED,Power Generation,Hyderabad,Telangana,0.45,2.5,1.125,Tier 2,75%,46612446911.21709,2.4135184367016646e-08
+GODFREY PHILLIPS INDIA LIMITED,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,67349311583.43508,7.483372704940334e-09
+GODREJ AGROVET LIMITED,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,70090654326.27406,8.731549246938427e-09
+GRANULES INDIA LIMITED,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,30277663230.24055,2.1798247605211788e-08
+GRAPHITE INDIA LIMITED,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,24200028250.958622,3.074376576277461e-08
+GUJARAT GAS LIMITED,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,171851574161.6735,3.351729553888835e-09
+Garden Reach Shipbuilders  Engineers Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,50759179265.658745,1.2293342978107781e-08
+General Insurance Corporation of India,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,410413131313.13135,1.6958521716230748e-09
+Genus Power Infrastructures Limited,Power Generation,Hyderabad,Telangana,0.45,2.5,1.125,Tier 2,75%,24419877408.05604,4.60690273419991e-08
+Gillette India Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,22348076472.360798,2.2552276506809297e-08
+GlaxoSmithKline Pharmaceuticals Limited,Pharmaceuticals,Ahmedabad,Gujarat,0.51,0.5,0.255,Tier 2,75%,372361254739.74493,6.848188332006442e-10
+Glenmark Pharmaceuticals Limited,Pharmaceuticals,Mumbai,Maharashtra,0.55,0.5,0.275,Tier 2,75%,92263876310.00128,2.980581469133336e-09
+Go Digit General Insurance Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,102855564516.12903,7.233444330406952e-09
+Godrej Consumer Products Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,89101499621.36166,6.4645376615177275e-09
+Godrej Industries Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,41712186264.68196,1.4959657018226008e-08
+Godrej Properties Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,49228887124.52031,1.413804050129199e-08
+Grasim Industries Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,315632340610.3302,1.7108512991913813e-09
+Grindwell Norton Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,27373643021.84991,1.841187158018033e-08
+Gujarat Ambuja Exports Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,46125755640.71764,1.3268075319285507e-08
+Gujarat Fluorochemicals Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,45645456061.65676,1.4459270581248839e-08
+Gujarat Pipavav Port Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,9876749688.187113,7.532842518929544e-08
+Gujarat State Petronet Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,11107813639.192675,5.185538925208905e-08
+HCL Technologies Limited,Information Technology,Chennai,Tamil Nadu,0.52,0.1,0.052,Tier 2,75%,1170550.0000410574,4.4423561572061075e-05
+HDFC Asset Management Company Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,3498.029999983964,0.19896913405636618
+HDFC Bank Limited,Financial Services,Hyderabad,Telangana,0.45,0.01,0.0045,Tier 2,75%,3460043223750.4194,1.300561787526558e-12
+HDFC Life Insurance Company Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,710372093023.2559,7.094873305833825e-10
+HEG Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,21527084093.083237,2.842930316775409e-08
+HERO MOTOCORP LIMITED,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,407555534139.6425,1.6194112083234806e-09
+HFCL Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,37952409368.939285,1.960349849643271e-08
+HINDALCO INDUSTRIES LIMITED,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,932911220665.9106,6.174220946649694e-10
+HINDUSTAN AERONAUTICS LIMITED,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,309810500212.81714,2.014134445318534e-09
+HINDUSTAN COPPER LIMITED,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,20709682397.604866,3.360746855685698e-08
+HONEYWELL AUTOMATION INDIA LIMITED,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,41898052115.58308,1.2888427330948845e-08
+Happiest Minds Technologies Limited,Information Technology,Pune,Maharashtra,0.42,0.1,0.042,Tier 2,75%,14813692115.143929,2.835214858898256e-09
+Happy Forgings Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,14088943513.594864,4.3438317387635344e-08
+Hindustan Petroleum Corporation Limited,Oil & Gas,Mumbai,Maharashtra,0.55,2.0,1.1,Tier 2,75%,4642464923111.46,2.369430934251973e-10
+Hindustan Unilever Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,61516.99999998505,0.012094217858481084
+Hindustan Zinc Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,340833904742.8792,1.6899727168707793e-09
+Hitachi Energy India Limited,Power Generation,Chennai,Tamil Nadu,0.52,2.5,1.3,Tier 2,75%,63849728112.3227,2.0360305962667145e-08
+Home First Finance Company India Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,12900000000.0,5.395348837209302e-08
+Honasa Consumer Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,18659908536.58536,2.8939048599367704e-08
+ICICI Bank Limited,Financial Services,Pune,Maharashtra,0.42,0.01,0.0042,Tier 2,75%,1917286152931.8542,2.1905963246944075e-12
+ICICI Lombard General Insurance Company Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,282656866197.1831,2.1651694092336858e-09
+ICICI Prudential Life Insurance Company Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,709817905918.0576,9.298159351818203e-10
+IDBI Bank Limited,Financial Services,Delhi,Delhi,0.62,0.01,0.0062,Tier 2,75%,33828.32999984252,0.00018327833505315993
+IDFC FIRST Bank Limited,Financial Services,Bangalore,Karnataka,0.48,0.01,0.0048,Tier 2,75%,435239648012.65576,1.1028407044066967e-11
+IFCI Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,6799711991.621574,9.176859266522999e-08
+IIFL Finance Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,40660961357.21018,1.711715554105024e-08
+INDIAN OVERSEAS BANK,Financial Services,Hyderabad,Telangana,0.45,0.01,0.0045,Tier 2,75%,336750416371.3678,1.3363012430658458e-11
+INDIAN RAILWAY FINANCE CORPORATION LIMITED,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,275071428571.4286,1.8322513632822643e-09
+INOX India Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,12963020079.684435,4.721122055184676e-08
+INTELLECT DESIGN ARENA LIMITED,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,16280999583.452333,4.053805152546102e-08
+IRB Infrastructure Developers Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,80315314481.12886,9.263488598738073e-09
+ISGEC Heavy Engineering Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,50000000000.0,1.152e-08
+ITC Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,743256484149.856,8.395486797720134e-10
+Indegene Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,10935000000.0,6.364883401920439e-08
+Indian Energy Exchange Limited,Power Generation,Hyderabad,Telangana,0.45,2.5,1.125,Tier 2,75%,5353700999.989366,2.1013500754006148e-07
+Indian Oil Corporation Limited,Oil & Gas,Pune,Maharashtra,0.42,2.0,0.84,Tier 2,75%,8452401055408.971,9.938004532599128e-11
+Indian Renewable Energy Development Agency Limited,Power Generation,Ahmedabad,Gujarat,0.51,2.5,1.275,Tier 2,75%,67552914798.20628,1.8874093054439963e-08
+Indus Towers Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,301227774257.35614,2.1910330202025933e-09
+IndusInd Bank Limited,Financial Services,Delhi,Delhi,0.62,0.01,0.0062,Tier 2,75%,267218794584.3645,2.320196081134023e-11
+Infibeam Avenues Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,37256786500.366844,1.5460270573639743e-08
+Infosys Limited,Information Technology,Chennai,Tamil Nadu,0.52,0.1,0.052,Tier 2,75%,1629808355691.836,3.1905591733162124e-11
+Inox Wind Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,35617128463.47607,1.954115983026874e-08
+InterGlobe Aviation Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,808029916604.5837,6.682920878339874e-10
+Ion Exchange India Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,25400338447.65343,1.984225529272667e-08
+Ipca Laboratories Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,6749209856.738395,9.067728119151321e-08
+Ircon International Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,101931562151.75768,6.474932651550845e-09
+JAI BALAJI INDUSTRIES LIMITED,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,63508039780.02647,1.1715052182007215e-08
+JAIPRAKASH POWER VENTURES LIMITED,Power Generation,Bangalore,Karnataka,0.48,2.5,1.2,Tier 2,75%,54622012735.99906,2.19691648090648e-08
+JBM Auto Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,54723465754.29259,1.1402786563295337e-08
+JINDAL STEEL  POWER LIMITED,Steel & Iron,Kolkata,West Bengal,0.58,1.8,1.044,Tier 2,75%,479019999999.99994,2.1794497098242246e-09
+JK CEMENT LIMITED,Cement,Hyderabad,Telangana,0.45,1.0,0.45,Tier 2,75%,110929987345.77896,4.056612740766919e-09
+JK LAKSHMI CEMENT LIMITED,Cement,Pune,Maharashtra,0.42,1.0,0.42,Tier 2,75%,62456975697.58873,6.7246291596570995e-09
+JK Tyre  Industries Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,10176.329999998563,0.06013955915345576
+JM Financial Limited,Financial Services,Mumbai,Maharashtra,0.55,0.01,0.0055,Tier 2,75%,10372409028.09765,5.302529031685059e-10
+JSW Energy Limited,Steel & Iron,Delhi,Delhi,0.62,1.8,1.116,Tier 2,75%,126394938352.25972,8.829467497264283e-09
+JSW Infrastructure Limited,Steel & Iron,Bangalore,Karnataka,0.48,1.8,0.864,Tier 2,75%,44761530942.10773,1.930228885865082e-08
+JSW Steel Limited,Steel & Iron,Chennai,Tamil Nadu,0.52,1.8,0.936,Tier 2,75%,1256780084662.5432,7.447603693141943e-10
+JUBILANT INGREVIA LIMITED,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,41776151901.81807,1.6660222838037665e-08
+JYOTHY LABS LIMITED,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,28439200119.53438,1.8987875809808153e-08
+JYOTI CNC AUTOMATION LIMITED,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,16150324437.915215,3.120680342599108e-08
+Jindal Stainless Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,401819782181.84283,1.5230708569819502e-09
+Jio Financial Services Limited,Financial Services,Mumbai,Maharashtra,0.55,0.01,0.0055,Tier 2,75%,8056084070.79646,6.827138286624466e-10
+Jubilant FoodWorks Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,61046694982.06974,1.218739196640413e-08
+Jubilant Pharmova Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,72609009009.00902,7.932899895776464e-09
+Juniper Hotels Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,94427.25000069165,0.006608261915870994
+Jupiter Life Line Hospitals Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,10599884261.529709,6.566109429383125e-08
+Jupiter Wagons Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,38706395645.74654,1.3951182769438283e-08
+Just Dial Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,11419220060.268675,4.413611414264502e-08
+KARUR VYSYA BANK LIMITED,Financial Services,Ahmedabad,Gujarat,0.51,0.01,0.0051,Tier 2,75%,11507.589999990583,0.0004431857582694703
+KEC International Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,197716146795.91144,3.338118867354177e-09
+KEI INDUSTRIES LIMITED,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,97359160305.3435,7.641807896315289e-09
+KFin Technologies Limited,Information Technology,Bangalore,Karnataka,0.48,0.1,0.048,Tier 2,75%,10554681599.166557,4.547744955545631e-09
+KIOCL Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,5896516665.241037,1.0582519060420431e-07
+KNR Constructions Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,31762893847.92107,2.1912361113329548e-08
+KOTAK MAHINDRA BANK LIMITED,Financial Services,Hyderabad,Telangana,0.45,0.01,0.0045,Tier 2,75%,678806737082.5007,6.629280109005576e-12
+KPI GREEN ENERGY LIMITED,Power Generation,Pune,Maharashtra,0.42,2.5,1.05,Tier 2,75%,17354663249.099743,6.050247042704605e-08
+KPIT Technologies Limited,Information Technology,Ahmedabad,Gujarat,0.51,0.1,0.051,Tier 2,75%,25640367334.847435,1.9890510667796348e-09
+KPR MILL LIMITED,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,44008549222.79793,1.499708605840834e-08
+Kajaria Ceramics Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,46350009591.38626,1.6051776613618346e-08
+Kalpataru Projects International Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,188878912819.4,3.0495728263257893e-09
+Kalyan Jewellers India Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,216396437437.93448,2.8835964555977123e-09
+Kansai Nerolac Paints Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,,
+Kaynes Technology India Limited,Information Technology,Hyderabad,Telangana,0.45,0.1,0.045,Tier 2,75%,19154021851.7472,2.349376039575478e-09
+Keystone Realtors Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,5506364637.015513,9.153044399056932e-08
+Kirloskar Brothers Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,29013841331.082714,2.1093380673601483e-08
+Kirloskar Oil Engines Limited,Oil & Gas,Mumbai,Maharashtra,0.55,2.0,1.1,Tier 2,75%,83484.908,0.013176034164162943
+Krishna Institute of Medical Sciences Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,13840737171.765839,5.375436226891942e-08
+LAURUS LABS LIMITED,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,51269820824.190956,1.1234679402823703e-08
+LIC Housing Finance Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,280439055793.9914,2.2250823738986846e-09
+Latent View Analytics Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,3471471121.471122,2.0049136969488966e-07
+Lemon Tree Hotels Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,12860804048.699978,4.1988043512301656e-08
+Life Insurance Corporation of India,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,4887995296884.186,1.031097555108678e-10
+Linde India Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,24854486962.411106,2.4623320566848286e-08
+Lloyds Metals and Energy Limited,Power Generation,Mumbai,Maharashtra,0.55,2.5,1.375,Tier 2,75%,67727220762.32858,2.0302028999908502e-08
+Lupin Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,164585584899.91626,4.520444487604567e-09
+MACROTECH DEVELOPERS LIMITED,Information Technology,Bangalore,Karnataka,0.48,0.1,0.048,Tier 2,75%,137799989600.66556,3.483309406560954e-10
+MAHARASHTRA SCOOTERS LIMITED,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,29900025.706669297,2.0869547274697317e-05
+MANKIND PHARMA LIMITED,Pharmaceuticals,Kolkata,West Bengal,0.58,0.5,0.29,Tier 2,75%,9497.800000001122,0.030533386679016793
+MAX HEALTHCARE INSTITUTE LIMITED,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,7027999897.351673,7.683551620475771e-08
+MMTC LIMITED,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,,
+MOIL Limited,Oil & Gas,Ahmedabad,Gujarat,0.51,2.0,1.02,Tier 2,75%,15849409434.73797,6.435571017330231e-08
+MRF Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,27665.21999999961,0.02385666913185615
+MUTHOOT FINANCE LIMITED,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,170990887558.09796,4.351109059815889e-09
+Mahanagar Gas Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,75899723706.39742,7.5889604319001e-09
+Maharashtra Seamless Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,54631403189.007996,1.1422002064291672e-08
+Mahindra  Mahindra Financial Services Limited,Financial Services,Kolkata,West Bengal,0.58,0.01,0.0058,Tier 2,75%,160739576868.82935,3.608321057565716e-11
+Mahindra  Mahindra Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,1164826832820.8447,4.635882216863855e-10
+Mahindra Holidays  Resorts India Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,15449122023.55393,3.26232131011455e-08
+Mahindra Lifespace Developers Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,32983239014.647137,1.8554878728805988e-08
+Man Infraconstruction Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,3947270660.9368896,1.6720414096036378e-07
+Manappuram Finance Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,69063079096.04521,1.077276034804831e-08
+Marico Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,7581.000000011008,0.07597942223969972
+Maruti Suzuki India Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,1518998964123.2947,4.1079685683666534e-10
+Mastek Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,345523000760.1562,2.014337680758701e-09
+Max Financial Services Limited,Financial Services,Hyderabad,Telangana,0.45,0.01,0.0045,Tier 2,75%,3261372.9999916567,1.3797869792910873e-06
+Mazagon Dock Shipbuilders Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,114318771309.27782,4.4087247809590186e-09
+MedPlus Health Services Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,67299.00999924737,0.009093744469745457
+Metro Brands Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,24495883357.906807,2.6943302691183192e-08
+Metropolis Healthcare Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,121654.30000546707,0.006115690115076616
+Mishra Dhatu Nigam Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,10741014802.745632,5.3626217874009636e-08
+Motherson Sumi Wiring India Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,93193.9999987217,0.00669571002434233
+Motilal Oswal Financial Services Limited,Financial Services,Kolkata,West Bengal,0.58,0.01,0.0058,Tier 2,75%,9276.460410557183,0.0006252384792586667
+Mphasis Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,92710.47000022694,0.005824584860789491
+NATCO Pharma Limited,Pharmaceuticals,Pune,Maharashtra,0.42,0.5,0.21,Tier 2,75%,40945055199.77219,5.12882444474439e-09
+NAVA LIMITED,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,16120306810.471891,3.7964537970359195e-08
+NBCC India Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,87253696757.52272,7.564149423194462e-09
+NCC LIMITED,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,19392.309999992875,0.038365723320237424
+NETWEB TECHNOLOGIES INDIA LIMITED,Information Technology,Bangalore,Karnataka,0.48,0.1,0.048,Tier 2,75%,11490580919.156681,4.17733449141602e-09
+NHPC Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,89942812458.78163,6.937741693211589e-09
+NLC India Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,152825914634.14636,4.554201436753518e-09
+NMDC Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,236679301870.28784,2.281568332054432e-09
+NMDC Steel Limited,Steel & Iron,Pune,Maharashtra,0.42,1.8,0.756,Tier 2,75%,8503.049999999996,0.0889092737311906
+NTPC LIMITED,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,1700341356075.9553,3.599277273431568e-10
+NUVAMA WEALTH MANAGEMENT LIMITED,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,41693087996.98102,1.5829962032262768e-08
+Narayana Hrudayalaya Ltd,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,37323085131.610146,1.9934043431202903e-08
+Navin Fluorine International Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,23493791302.07997,2.4517115717674953e-08
+Nestle India Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,200774777975.13324,3.107960104815979e-09
+Neuland Laboratories Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,14759999691.991392,4.7154472528725164e-08
+Newgen Software Technologies Limited,Information Technology,Hyderabad,Telangana,0.45,0.1,0.045,Tier 2,75%,13544181908.05734,3.3224598063933125e-09
+Nippon Life India Asset Management Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,23483175709.308113,2.1462173866042642e-08
+Nuvoco Vistas Corporation Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,102441064761.17606,5.974166721390236e-09
+Oberoi Realty Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,52863393864.40555,1.2485009980496109e-08
+Oil India Limited,Oil & Gas,Delhi,Delhi,0.62,2.0,1.24,Tier 2,75%,221169909470.86578,5.606549294913657e-09
+Olectra Greentech Limited,Information Technology,Bangalore,Karnataka,0.48,0.1,0.048,Tier 2,75%,17630249794.12572,2.722593301882386e-09
+One 97 Communications Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,55043238993.71069,1.1336542169535099e-08
+Oracle Financial Services Software Limited,Financial Services,Kolkata,West Bengal,0.58,0.01,0.0058,Tier 2,75%,50989944936.55734,1.137479165199427e-10
+PATANJALI FOODS LIMITED,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,341569798024.1968,1.5809360286641809e-09
+PB FINTECH LIMITED,Information Technology,Pune,Maharashtra,0.42,0.1,0.042,Tier 2,75%,4977.210000005246,0.008438462512121396
+PI INDUSTRIES LIMITED,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,75712074414.22829,8.083254946254504e-09
+PNB Housing Finance Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,7661.219999979001,0.08614815917070767
+PNC Infratech Limited,Information Technology,Delhi,Delhi,0.62,0.1,0.062,Tier 2,75%,55131212311.430595,1.1245898176475481e-09
+POLY MEDICURE LIMITED,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,16018041310.541311,3.5959452771603244e-08
+PTC Industries Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,2411857265.0773807,2.5872177804020253e-07
+PUNJAB NATIONAL BANK,Financial Services,Kolkata,West Bengal,0.58,0.01,0.0058,Tier 2,75%,1380712803612.84,4.200728771996202e-12
+PVR INOX LIMITED,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,54424549934.1367,9.92199293615648e-09
+Page Industries Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,493500363141.17114,1.0212758442405144e-09
+Persistent Systems Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,119387.16998881244,0.005126178969292508
+Petronet LNG Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,509796680869.683,1.2946337721816452e-09
+Pfizer Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,22813618003.462204,3.2612100364225014e-08
+Pidilite Industries Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,120726667641.89584,4.7711082501552485e-09
+Piramal Enterprises Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,10269.560000037667,0.06076209691532171
+Piramal Pharma Limited,Pharmaceuticals,Kolkata,West Bengal,0.58,0.5,0.29,Tier 2,75%,52857074238.44545,5.486493609006252e-09
+Polycab India Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,21913.00000001536,0.024642906037494708
+Poonawalla Fincorp Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,4222.839999998249,0.11935095812301887
+Power Finance Corporation Limited,Power Generation,Ahmedabad,Gujarat,0.51,2.5,1.275,Tier 2,75%,530871171171.17114,2.401712636207356e-09
+Power Grid Corporation of India Limited,Power Generation,Mumbai,Maharashtra,0.55,2.5,1.375,Tier 2,75%,45792.32000004322,0.03002686913435926
+Power Mech Projects Limited,Power Generation,Delhi,Delhi,0.62,2.5,1.55,Tier 2,75%,44354231237.793205,3.4945933155511016e-08
+Praj Industries Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,32279484638.2557,1.7844151059256982e-08
+Prestige Estates Projects Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,73494142492.99542,8.490472557856869e-09
+Prism Johnson Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,67256894692.583916,1.0348381428867015e-08
+Procter  Gamble Health Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,9341706924.31562,5.7805281665862236e-08
+Punjab  Sind Bank,Financial Services,Pune,Maharashtra,0.42,0.01,0.0042,Tier 2,75%,130487145182.98294,3.218707861307191e-11
+Quess Corp Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,137919891008.17438,4.437358495039177e-09
+R R Kabel Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,7601.579999997614,0.08682405499911955
+RAJESH EXPORTS LIMITED,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,,
+RATTANINDIA ENTERPRISES LIMITED,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,68663456.40413548,8.388741699948978e-06
+RBL Bank Limited,Financial Services,Chennai,Tamil Nadu,0.52,0.01,0.0052,Tier 2,75%,102698105081.826,5.063384563772462e-11
+REC Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,563171521035.5988,1.235857947362372e-09
+RELIANCE POWER LIMITED,Oil & Gas,Hyderabad,Telangana,0.45,2.0,0.9,Tier 2,75%,75828899967.97752,1.1868825742956435e-08
+RHI Magnesita India Ltd,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,28918554153.71944,1.7428257212339803e-08
+RITES Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,2095.309999998036,0.29208088540625193
+Radico Khaitan Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,170985131541.13013,3.859984748681135e-09
+Rail Vikas Nigam Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,198554026845.63757,3.747090964709621e-09
+Railtel Corporation of India Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,34774912989.78332,1.6563664736392747e-08
+Ramkrishna Forgings Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,36342959991.206856,1.7169762731240828e-08
+RateGain Travel Technologies Limited,Information Technology,Kolkata,West Bengal,0.58,0.1,0.058,Tier 2,75%,2104067285.9653525,2.75656583736054e-08
+Ratnamani Metals  Tubes Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,48831958762.886604,1.1058331749952498e-08
+Raymond Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,181464.6099319382,0.0027774010601242572
+Redington Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,992281690140.8451,6.167603474706183e-10
+Redtape Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,20637440918.55428,3.1980709362400694e-08
+Relaxo Footwears Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,27761425701.761593,2.6799776351284068e-08
+Reliance Industries Limited,Oil & Gas,Bangalore,Karnataka,0.48,2.0,0.96,Tier 2,75%,5571625521282.195,1.7230160145060786e-10
+Reliance Infrastructure Limited,Oil & Gas,Chennai,Tamil Nadu,0.52,2.0,1.04,Tier 2,75%,304248242398.10223,3.4182613243799208e-09
+Responsive Industries Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,55573.889999998224,0.012523866873454822
+Route Mobile Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,8320733944.954128,6.489812119608363e-08
+SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,1136619302728.097,4.4342023647698627e-10
+SAPPHIRE FOODS INDIA LIMITED,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,24467741935.483868,2.5012524719841796e-08
+SARDA ENERGY  MINERALS LIMITED,Power Generation,Mumbai,Maharashtra,0.55,2.5,1.375,Tier 2,75%,34841700928.82273,3.946420419625765e-08
+SAREGAMA India Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,10092127865.907295,7.37208257649353e-08
+SBFC Finance Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,13050690318.801773,4.4135596350039233e-08
+SBI Cards and Payment Services Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,186504918032.7869,3.3457562759299622e-09
+SBI Life Insurance Company Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,849425025227.0435,8.193777900691889e-10
+SHIPPING CORPORATION OF INDIA LIMITED,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,559232.9999997006,0.0009656082527323837
+SJVN Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,28972972707.15515,1.7395522547658094e-08
+SKF INDIA LIMITED,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,49199040240.306244,1.2439267046892916e-08
+SRF LIMITED,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,116953405017.92116,5.6432730615997546e-09
+STATE BANK OF INDIA,Financial Services,Delhi,Delhi,0.62,0.01,0.0062,Tier 2,75%,4813519763070.965,1.2880387544195888e-12
+SUMITOMO CHEMICAL INDIA LIMITED,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,30608265521.315243,1.8818446265727805e-08
+SUNDARAM FINANCE LIMITED,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,65202602708.63282,9.570170117110716e-09
+SUPREME PETROCHEM LIMITED,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,60016343544.3,1.1596841108560034e-08
+SUZLON ENERGY LIMITED,Power Generation,Hyderabad,Telangana,0.45,2.5,1.125,Tier 2,75%,108068560157.79092,1.0410058192293736e-08
+Safari Industries India Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,17715679015.49774,2.8449375243201178e-08
+Sandur Manganese  Iron Ores Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,19385379764.288677,3.157018368695634e-08
+Schneider Electric Infrastructure Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,26366369780.809803,2.503188741896379e-08
+Sheela Foam Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,2587.5099999924782,0.28753512063805076
+Shoppers Stop Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,44355850065.12289,1.2985885720921177e-08
+Shree Renuka Sugars Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,102793985273.32652,6.070394083280265e-09
+Shriram Finance Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,418632991803.2786,1.6625541073625174e-09
+Shyam Metalics and Energy Limited,Power Generation,Hyderabad,Telangana,0.45,2.5,1.125,Tier 2,75%,151374887000.43402,7.431880031704166e-09
+Signatureglobal India Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,24980154658.9082,2.0176015996773185e-08
+Sobha Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,42025135276.09362,1.456271338519978e-08
+Solar Industries India Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,4456.600000000828,0.14809496028359678
+Sona BLW Precision Forgings Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,35460.20999993625,0.020981263224367188
+Sonata Software Limited,Information Technology,Bangalore,Karnataka,0.48,0.1,0.048,Tier 2,75%,101572474365.33269,4.725689740249421e-10
+Star Cement Limited,Cement,Chennai,Tamil Nadu,0.52,1.0,0.52,Tier 2,75%,31738009283.135635,1.638414039649009e-08
+Star Health and Allied Insurance Company Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,167813190436.93323,4.1474689694405605e-09
+Steel Authority of India Limited,Steel & Iron,Hyderabad,Telangana,0.45,1.8,0.81,Tier 2,75%,985697236.7018042,8.21753343562475e-07
+Sterling and Wilson Renewable Energy Limited,Power Generation,Pune,Maharashtra,0.42,2.5,1.05,Tier 2,75%,63019744048.760735,1.666144500979845e-08
+Sun Pharma Advanced Research Company Limited,Pharmaceuticals,Ahmedabad,Gujarat,0.51,0.5,0.255,Tier 2,75%,717659763.7901307,3.553215783664459e-07
+Sun Pharmaceutical Industries Limited,Pharmaceuticals,Mumbai,Maharashtra,0.55,0.5,0.275,Tier 2,75%,230033744709.46558,1.1954767781889009e-09
+Sun TV Network Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,38787021484.375,1.918167396018572e-08
+Sundram Fasteners Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,52097365948.91672,1.1056221164133097e-08
+Supreme Industries Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,104462677460.91524,5.9734252956848625e-09
+Syngene International Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,36424031199.40663,1.9108263887368354e-08
+Syrma SGS Technology Limited,Information Technology,Hyderabad,Telangana,0.45,0.1,0.045,Tier 2,75%,22777499815.55505,1.9756338651913375e-09
+TATA CHEMICALS LIMITED,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,148869999537.262,3.3855041416443976e-09
+TATA COMMUNICATIONS LIMITED,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,13046.21286641747,0.04691016513883213
+TBO Tek Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,5759422670.73457,1.145948192609073e-07
+TEGA INDUSTRIES LIMITED,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,8926470588.235294,8.334761120263591e-08
+THE NEW INDIA ASSURANCE COMPANY LIMITED,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,436198592071.13745,1.3204994478892381e-09
+THE PHOENIX MILLS LIMITED,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,4861204206.17409,1.2836325600300305e-07
+TITAGARH RAIL SYSTEMS LIMITED,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,3865.8200000001543,0.18003942242524798
+TRIDENT LIMITED,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,69658899772.67415,7.752060422462081e-09
+TTK PRESTIGE LIMITED,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,2530.3199999986214,0.19918429289586875
+TVS Holdings Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,,
+TVS Motor Company Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,36251.32595441931,0.018206230603257174
+TVS Supply Chain Solutions Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,18706250000.0,3.977280320748413e-08
+Tamilnad Mercantile Bank Limited,Financial Services,Bangalore,Karnataka,0.48,0.01,0.0048,Tier 2,75%,61418657026.94268,7.815214842444977e-11
+Tanla Platforms Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,40286090686.274506,1.5489216982093452e-08
+Tata Consultancy Services Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,2553239865353.2793,2.725948350738672e-10
+Tata Consumer Products Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,176182749061.8341,3.064999285545707e-09
+Tata Elxsi Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,3729.0399999874276,0.1351554287435102
+Tata Investment Corporation Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,8084000000.0,7.570509648688767e-08
+Tata Motors Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,680230265661.8711,9.702596801655293e-10
+Tata Steel Limited,Steel & Iron,Delhi,Delhi,0.62,1.8,1.116,Tier 2,75%,1325166642158.6152,8.421582346670788e-10
+Tata Technologies Limited,Information Technology,Bangalore,Karnataka,0.48,0.1,0.048,Tier 2,75%,51685144783.81595,9.287001168473099e-10
+Tata Teleservices Maharashtra Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,13080316536.292522,4.770526754980703e-08
+Tech Mahindra Limited,Information Technology,Kolkata,West Bengal,0.58,0.1,0.058,Tier 2,75%,529874324987.727,1.0945991769150809e-10
+Techno Electric  Engineering Company Limited,Information Technology,Hyderabad,Telangana,0.45,0.1,0.045,Tier 2,75%,2402.0000000043756,0.018734388009957543
+Tejas Networks Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,8915.730000000045,0.05652930270432118
+The Ramco Cements Limited,Cement,Ahmedabad,Gujarat,0.51,1.0,0.51,Tier 2,75%,84956751985.8782,6.003054355053192e-09
+Thermax Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,62541400266.58834,1.0553009641400588e-08
+Thomas Cook  India  Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,20737053965.081837,3.5877806039989434e-08
+Timken India Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,31478148965.35273,1.82984075916913e-08
+Titan Company Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,548466497812.57196,1.1377176226600447e-09
+Torrent Pharmaceuticals Limited,Pharmaceuticals,Kolkata,West Bengal,0.58,0.5,0.29,Tier 2,75%,96824200762.33282,2.995118965266147e-09
+Torrent Power Limited,Power Generation,Hyderabad,Telangana,0.45,2.5,1.125,Tier 2,75%,291652698347.2974,3.857327589886928e-09
+Triveni Engineering  Industries Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,66553990575.95521,7.57279910097662e-09
+Triveni Turbine Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,17928673944.57592,3.4135262981072416e-08
+Tube Investments of India Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,74314113108.08296,8.881220166620188e-09
+UNION BANK OF INDIA,Financial Services,Delhi,Delhi,0.62,0.01,0.0062,Tier 2,75%,1275431762065.0955,4.8610989504929424e-12
+UNITED BREWERIES LIMITED,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,194690476190.4762,2.9585422526598992e-09
+UPL LIMITED,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,114629157128.52698,5.443641178486075e-09
+UTI Asset Management Company Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,14492334352.701324,4.8025389358358805e-08
+Ujjivan Small Finance Bank Limited,Financial Services,Hyderabad,Telangana,0.45,0.01,0.0045,Tier 2,75%,72004944894.17732,6.249570785191855e-11
+UltraTech Cement Limited,Cement,Pune,Maharashtra,0.42,1.0,0.42,Tier 2,75%,75955.13000030053,0.0055295804246314655
+United Spirits Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,267802075293.71408,2.2852698184985464e-09
+Uno Minda Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,124556561027.22562,5.298797546728486e-09
+Usha Martin Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,21710622052.569912,3.426893979354829e-08
+V-GUARD INDUSTRIES LIMITED,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,53087786896.64765,1.0849953137458303e-08
+VALOR ESTATE LIMITED,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,11330779993.734991,5.5071230784202126e-08
+VIP INDUSTRIES LIMITED,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,21696257457.964203,3.2079265345577565e-08
+Varroc Engineering Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,73658285372.77289,7.3311508307198e-09
+Vedant Fashions Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,13863504092.149136,3.6354445214569806e-08
+Vedanta Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,1529679838165.1445,4.000837199593974e-10
+Vinati Organics Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,22480995026.91924,2.9358131132972608e-08
+Vodafone Idea Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,431571308278.67395,1.7239329532063907e-09
+Voltamp Transformers Limited,Chemicals & Fertilizers,Bangalore,Karnataka,0.48,1.2,0.576,Tier 2,75%,19341818181.81818,2.9780033840947548e-08
+Voltas Limited,Chemicals & Fertilizers,Chennai,Tamil Nadu,0.52,1.2,0.624,Tier 2,75%,112958025165.69014,5.52417589706175e-09
+Waaree Renewable Technologies Limited,Information Technology,Kolkata,West Bengal,0.58,0.1,0.058,Tier 2,75%,15975145828.04971,3.630639784092713e-09
+Welspun Corp Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,88351899529.22842,6.111922922736463e-09
+Welspun Living Limited,Chemicals & Fertilizers,Pune,Maharashtra,0.42,1.2,0.504,Tier 2,75%,86224543045.54973,5.845203490771213e-09
+Whirlpool of India Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,74206899617.67583,8.247211555166815e-09
+Wipro Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,890883951517.4735,7.40837231241846e-10
+Wockhardt Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,14023025305.33594,5.305559847466713e-08
+YES Bank Limited,Financial Services,Bangalore,Karnataka,0.48,0.01,0.0048,Tier 2,75%,367546564593.30145,1.3059569759035313e-11
+ZENSAR TECHNOLOGIES LIMITED,Information Technology,Chennai,Tamil Nadu,0.52,0.1,0.052,Tier 2,75%,52802220558.88224,9.848070677636056e-10
+ZF Commercial Vehicle Control Systems India Limited,Chemicals & Fertilizers,Kolkata,West Bengal,0.58,1.2,0.696,Tier 2,75%,38040920532.724594,1.829608722010993e-08
+Zee Entertainment Enterprises Limited,Chemicals & Fertilizers,Hyderabad,Telangana,0.45,1.2,0.54,Tier 2,75%,115333898592.50464,4.682057977662898e-09
+Zen Technologies Limited,Information Technology,Pune,Maharashtra,0.42,0.1,0.042,Tier 2,75%,9305682096.497673,4.51337146105682e-09
+Zydus Lifesciences Limited,Chemicals & Fertilizers,Ahmedabad,Gujarat,0.51,1.2,0.612,Tier 2,75%,232414.9999999914,0.0026332207473701037
+Zydus Wellness Limited,Chemicals & Fertilizers,Mumbai,Maharashtra,0.55,1.2,0.66,Tier 2,75%,27088984963.782116,2.4364146566673422e-08
+eClerx Services Limited,Chemicals & Fertilizers,Delhi,Delhi,0.62,1.2,0.744,Tier 2,75%,24843628045.993984,2.994731681792223e-08

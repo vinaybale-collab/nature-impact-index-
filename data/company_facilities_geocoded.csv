@@ -1,0 +1,475 @@
+Company_Name,Facility_Type,City,Latitude,Longitude,Data_Source,Data_Tier
+360 ONE WAM LIMITED,Headquarters,Mumbai,19.107522,72.876481,Estimated (city-level),Tier 3
+3M INDIA LIMITED,Headquarters,Delhi,28.669207,77.140579,Estimated (city-level),Tier 3
+ACC Limited,Headquarters,Bangalore,12.989094,77.575693,Estimated (city-level),Tier 3
+ADANI POWER LIMITED,Headquarters,Chennai,13.071779,80.252498,Estimated (city-level),Tier 3
+AIA ENGINEERING LIMITED,Headquarters,Kolkata,22.496764,88.322466,Estimated (city-level),Tier 3
+ALEMBIC PHARMACEUTICALS LIMITED,Headquarters,Hyderabad,17.468053,78.394291,Estimated (city-level),Tier 3
+ALKYL AMINES CHEMICALS LIMITED,Headquarters,Pune,18.462075,73.868379,Estimated (city-level),Tier 3
+ALOK INDUSTRIES LIMITED,Headquarters,Ahmedabad,22.982464,72.50119,Estimated (city-level),Tier 3
+APAR Industries Limited,Headquarters,Mumbai,19.033024,72.903269,Estimated (city-level),Tier 3
+APL Apollo Tubes Limited,Headquarters,Delhi,28.717993,77.145229,Estimated (city-level),Tier 3
+ARVIND LIMITED,Headquarters,Bangalore,12.980427,77.59724,Estimated (city-level),Tier 3
+AU Small Finance Bank Limited,Headquarters,Chennai,13.100399,80.28352,Estimated (city-level),Tier 3
+AUROBINDO PHARMA LIMITED,Headquarters,Kolkata,22.64827,88.371397,Estimated (city-level),Tier 3
+Aarti Industries Limited,Headquarters,Hyderabad,17.345062,78.500673,Estimated (city-level),Tier 3
+Aavas Financiers Limited,Headquarters,Pune,18.455685,73.776875,Estimated (city-level),Tier 3
+Adani Energy Solutions Limited,Headquarters,Ahmedabad,23.118941,72.546408,Estimated (city-level),Tier 3
+Adani Enterprises Limited,Headquarters,Mumbai,19.12934,72.960905,Estimated (city-level),Tier 3
+Adani Ports and Special Economic Zone Limited,Headquarters,Delhi,28.793205,77.159703,Estimated (city-level),Tier 3
+Adani Total Gas Limited,Headquarters,Bangalore,12.888265,77.675586,Estimated (city-level),Tier 3
+Aditya Birla Capital Limited,Headquarters,Chennai,13.084865,80.349514,Estimated (city-level),Tier 3
+Aditya Birla Fashion and Retail Limited,Headquarters,Kolkata,22.640563,88.457235,Estimated (city-level),Tier 3
+Aditya Birla Sun Life AMC Limited,Headquarters,Hyderabad,17.325048,78.545449,Estimated (city-level),Tier 3
+Aegis Logistics Limited,Headquarters,Pune,18.526393,73.92912,Estimated (city-level),Tier 3
+Aether Industries Limited,Headquarters,Ahmedabad,23.070679,72.512641,Estimated (city-level),Tier 3
+Ajanta Pharma Limited,Headquarters,Mumbai,19.053053,72.853532,Estimated (city-level),Tier 3
+Akzo Nobel India Limited,Headquarters,Delhi,28.717853,77.012433,Estimated (city-level),Tier 3
+Alkem Laboratories Limited,Headquarters,Bangalore,12.968073,77.635149,Estimated (city-level),Tier 3
+Amara Raja Energy  Mobility Limited,Headquarters,Chennai,13.109752,80.17798,Estimated (city-level),Tier 3
+Amber Enterprises India Limited,Headquarters,Kolkata,22.520152,88.335589,Estimated (city-level),Tier 3
+Ambuja Cements Limited,Headquarters,Hyderabad,17.346443,78.40512,Estimated (city-level),Tier 3
+Anand Rathi Wealth Limited,Headquarters,Pune,18.511583,73.877228,Estimated (city-level),Tier 3
+Anant Raj Limited,Headquarters,Ahmedabad,23.043707,72.480973,Estimated (city-level),Tier 3
+Anupam Rasayan India Limited,Headquarters,Mumbai,19.067937,72.904753,Estimated (city-level),Tier 3
+Apollo Tyres Limited,Headquarters,Delhi,28.674907,77.007367,Estimated (city-level),Tier 3
+Aptus Value Housing Finance India Limited,Headquarters,Bangalore,13.039586,77.549314,Estimated (city-level),Tier 3
+Asahi India Glass Limited,Headquarters,Chennai,13.003185,80.212185,Estimated (city-level),Tier 3
+Ashok Leyland Limited,Headquarters,Kolkata,22.571527,88.414867,Estimated (city-level),Tier 3
+Asian Paints Limited,Headquarters,Hyderabad,17.31678,78.492119,Estimated (city-level),Tier 3
+Aster DM Healthcare Limited,Headquarters,Pune,18.502823,73.764715,Estimated (city-level),Tier 3
+AstraZeneca Pharma India Limited,Headquarters,Ahmedabad,22.924785,72.640134,Estimated (city-level),Tier 3
+Astral Limited,Headquarters,Mumbai,19.16898,72.874681,Estimated (city-level),Tier 3
+Atul Limited,Headquarters,Delhi,28.668401,77.201246,Estimated (city-level),Tier 3
+Authum Investment  Infrastructure Limited,Headquarters,Bangalore,12.921276,77.538783,Estimated (city-level),Tier 3
+Avenue Supermarts Limited,Headquarters,Chennai,13.004613,80.224298,Estimated (city-level),Tier 3
+Axis Bank Limited,Headquarters,Kolkata,22.561024,88.353755,Estimated (city-level),Tier 3
+BAJAJ ELECTRICALS LIMITED,Headquarters,Hyderabad,17.426359,78.509309,Estimated (city-level),Tier 3
+BANK OF INDIA,Headquarters,Pune,18.563378,73.874959,Estimated (city-level),Tier 3
+BANK OF MAHARASHTRA,Headquarters,Ahmedabad,22.974003,72.572701,Estimated (city-level),Tier 3
+BASF India Limited,Headquarters,Mumbai,19.147383,72.795872,Estimated (city-level),Tier 3
+BATA INDIA LIMITED,Headquarters,Delhi,28.637794,77.029503,Estimated (city-level),Tier 3
+BEML Limited,Headquarters,Bangalore,13.028486,77.618091,Estimated (city-level),Tier 3
+BHARAT ELECTRONICS LIMITED,Headquarters,Chennai,13.172931,80.182834,Estimated (city-level),Tier 3
+BHARAT HEAVY ELECTRICALS LIMITED,Headquarters,Kolkata,22.631549,88.398227,Estimated (city-level),Tier 3
+BLS International Services Limited,Headquarters,Hyderabad,17.414634,78.506366,Estimated (city-level),Tier 3
+Bajaj Auto Limited,Headquarters,Pune,18.468896,73.936041,Estimated (city-level),Tier 3
+Bajaj Finance Limited,Headquarters,Ahmedabad,23.065264,72.536495,Estimated (city-level),Tier 3
+Bajaj Finserv Limited,Headquarters,Mumbai,19.03757,72.856599,Estimated (city-level),Tier 3
+Bajaj Holdings  Investment Limited,Headquarters,Delhi,28.621348,77.158087,Estimated (city-level),Tier 3
+Balkrishna Industries Limited,Headquarters,Bangalore,12.958765,77.669677,Estimated (city-level),Tier 3
+Balrampur Chini Mills Limited,Headquarters,Chennai,13.158887,80.198648,Estimated (city-level),Tier 3
+Bandhan Bank Limited,Headquarters,Kolkata,22.651884,88.437591,Estimated (city-level),Tier 3
+Bharat Dynamics Limited,Headquarters,Hyderabad,17.325069,78.57227,Estimated (city-level),Tier 3
+Bharat Forge Limited,Headquarters,Pune,18.49898,73.852989,Estimated (city-level),Tier 3
+Bharti Airtel Limited,Headquarters,Ahmedabad,22.97651,72.664536,Estimated (city-level),Tier 3
+Bharti Hexacom Limited,Headquarters,Mumbai,19.144758,72.929545,Estimated (city-level),Tier 3
+Bikaji Foods International Limited,Headquarters,Delhi,28.656936,77.102938,Estimated (city-level),Tier 3
+Biocon Limited,Headquarters,Bangalore,12.876946,77.495511,Estimated (city-level),Tier 3
+Birla Corporation Limited,Headquarters,Chennai,13.019366,80.266871,Estimated (city-level),Tier 3
+Birlasoft Limited,Headquarters,Kolkata,22.519636,88.306269,Estimated (city-level),Tier 3
+Blue Dart Express Limited,Headquarters,Hyderabad,17.329813,78.439609,Estimated (city-level),Tier 3
+Blue Star Limited,Headquarters,Pune,18.534024,73.899161,Estimated (city-level),Tier 3
+Bosch limited,Headquarters,Ahmedabad,23.008972,72.511254,Estimated (city-level),Tier 3
+Brigade Enterprises Limited,Headquarters,Mumbai,19.072031,72.904733,Estimated (city-level),Tier 3
+Britannia Industries Limited,Headquarters,Delhi,28.71806,77.12796,Estimated (city-level),Tier 3
+CCL Products India Limited,Headquarters,Bangalore,12.887837,77.631406,Estimated (city-level),Tier 3
+CE INFO SYSTEMS LIMITED,Headquarters,Chennai,13.04196,80.23216,Estimated (city-level),Tier 3
+CEAT Limited,Headquarters,Kolkata,22.627404,88.450012,Estimated (city-level),Tier 3
+CERA Sanitaryware Limited,Headquarters,Hyderabad,17.302201,78.426708,Estimated (city-level),Tier 3
+CESC Limited,Headquarters,Pune,18.476359,73.833763,Estimated (city-level),Tier 3
+CG Power and Industrial Solutions Limited,Headquarters,Ahmedabad,23.054921,72.67084,Estimated (city-level),Tier 3
+CHENNAI PETROLEUM CORPORATION LIMITED,Headquarters,Mumbai,18.991363,72.93592,Estimated (city-level),Tier 3
+CITY UNION BANK LIMITED,Headquarters,Delhi,28.735542,77.040393,Estimated (city-level),Tier 3
+COAL INDIA LIMITED,Headquarters,Bangalore,12.886375,77.572495,Estimated (city-level),Tier 3
+COROMANDEL INTERNATIONAL LIMITED,Headquarters,Chennai,13.066483,80.250069,Estimated (city-level),Tier 3
+Campus Activewear Limited,Headquarters,Kolkata,22.568916,88.431221,Estimated (city-level),Tier 3
+Can Fin Homes Limited,Headquarters,Hyderabad,17.29259,78.423026,Estimated (city-level),Tier 3
+Canara Bank,Headquarters,Pune,18.543301,73.928003,Estimated (city-level),Tier 3
+Caplin Point Laboratories Limited,Headquarters,Ahmedabad,22.953455,72.59576,Estimated (city-level),Tier 3
+Capri Global Capital Limited,Headquarters,Mumbai,19.154953,72.885999,Estimated (city-level),Tier 3
+Carborundum Universal Limited,Headquarters,Delhi,28.625787,77.150035,Estimated (city-level),Tier 3
+Cello World Limited,Headquarters,Bangalore,13.061746,77.58629,Estimated (city-level),Tier 3
+Central Bank of India,Headquarters,Chennai,13.01614,80.221844,Estimated (city-level),Tier 3
+Century Plyboards India Limited,Headquarters,Kolkata,22.653598,88.420767,Estimated (city-level),Tier 3
+Chalet Hotels Limited,Headquarters,Hyderabad,17.33701,78.410877,Estimated (city-level),Tier 3
+Chemplast Sanmar Limited,Headquarters,Pune,18.595968,73.856658,Estimated (city-level),Tier 3
+Cholamandalam Financial Holdings Limited,Headquarters,Ahmedabad,22.937086,72.531488,Estimated (city-level),Tier 3
+Cholamandalam Investment and Finance Company Limited,Headquarters,Mumbai,19.015119,72.845801,Estimated (city-level),Tier 3
+Cipla Limited,Headquarters,Delhi,28.654213,77.074363,Estimated (city-level),Tier 3
+Clean Science and Technology Limited,Headquarters,Bangalore,13.034164,77.537401,Estimated (city-level),Tier 3
+Cochin Shipyard Limited,Headquarters,Chennai,13.09069,80.19818,Estimated (city-level),Tier 3
+Coforge Limited,Headquarters,Kolkata,22.514753,88.402824,Estimated (city-level),Tier 3
+Computer Age Management Services Limited,Headquarters,Hyderabad,17.411608,78.551414,Estimated (city-level),Tier 3
+Concord Biotech Limited,Headquarters,Pune,18.546532,73.936052,Estimated (city-level),Tier 3
+Container Corporation of India Limited,Headquarters,Ahmedabad,23.076381,72.585635,Estimated (city-level),Tier 3
+Craftsman Automation Limited,Headquarters,Mumbai,19.106177,72.867346,Estimated (city-level),Tier 3
+CreditAccess Grameen Limited,Headquarters,Delhi,28.730576,77.012318,Estimated (city-level),Tier 3
+Crompton Greaves Consumer Electricals Limited,Headquarters,Bangalore,12.891953,77.519155,Estimated (city-level),Tier 3
+Cummins India Limited,Headquarters,Chennai,13.030427,80.370642,Estimated (city-level),Tier 3
+Cyient Limited,Headquarters,Kolkata,22.575679,88.392551,Estimated (city-level),Tier 3
+Cyient Limited,Headquarters,Hyderabad,17.326891,78.466425,Estimated (city-level),Tier 3
+DCM Shriram Limited,Headquarters,Pune,18.48207,73.876213,Estimated (city-level),Tier 3
+DIVIS LABORATORIES LIMITED,Headquarters,Ahmedabad,22.934333,72.604134,Estimated (city-level),Tier 3
+DLF Limited,Headquarters,Mumbai,19.121441,72.933765,Estimated (city-level),Tier 3
+DOMS Industries Limited,Headquarters,Delhi,28.78948,77.01012,Estimated (city-level),Tier 3
+Dabur India Limited,Headquarters,Bangalore,12.91056,77.585641,Estimated (city-level),Tier 3
+Dalmia Bharat Limited,Headquarters,Chennai,13.050352,80.245073,Estimated (city-level),Tier 3
+Data Patterns India Limited,Headquarters,Kolkata,22.625896,88.411381,Estimated (city-level),Tier 3
+Deepak Nitrite Limited,Headquarters,Hyderabad,17.454711,78.502604,Estimated (city-level),Tier 3
+Delhivery Limited,Headquarters,Pune,18.610017,73.794444,Estimated (city-level),Tier 3
+Devyani International Limited,Headquarters,Ahmedabad,23.107897,72.668452,Estimated (city-level),Tier 3
+Dixon Technologies India Limited,Headquarters,Mumbai,18.997937,72.963149,Estimated (city-level),Tier 3
+Dr Reddys Laboratories Limited,Headquarters,Delhi,28.60833,77.131102,Estimated (city-level),Tier 3
+EICHER MOTORS LIMITED,Headquarters,Bangalore,12.887634,77.577876,Estimated (city-level),Tier 3
+EIH Limited,Headquarters,Chennai,13.154961,80.277677,Estimated (city-level),Tier 3
+ESAB India Limited,Headquarters,Kolkata,22.633875,88.29348,Estimated (city-level),Tier 3
+Easy Trip Planners Limited,Headquarters,Hyderabad,17.310632,78.456031,Estimated (city-level),Tier 3
+Electronics Mart India Limited,Headquarters,Pune,18.544253,73.937658,Estimated (city-level),Tier 3
+Elgi Equipments Limited,Headquarters,Ahmedabad,22.950365,72.514217,Estimated (city-level),Tier 3
+Emami Limited,Headquarters,Mumbai,18.994344,72.805885,Estimated (city-level),Tier 3
+Endurance Technologies Limited,Headquarters,Delhi,28.79846,77.06469,Estimated (city-level),Tier 3
+Engineers India Limited,Headquarters,Bangalore,13.009187,77.599969,Estimated (city-level),Tier 3
+Equitas Small Finance Bank Limited,Headquarters,Chennai,13.123371,80.238578,Estimated (city-level),Tier 3
+Eris Lifesciences Limited,Headquarters,Kolkata,22.585993,88.295977,Estimated (city-level),Tier 3
+Escorts Kubota Limited,Headquarters,Hyderabad,17.301323,78.393383,Estimated (city-level),Tier 3
+Eureka Forbes Limited,Headquarters,Pune,18.55037,73.823752,Estimated (city-level),Tier 3
+Exide Industries Limited,Headquarters,Ahmedabad,22.995982,72.531245,Estimated (city-level),Tier 3
+FERTILIZERS AND CHEMICALS TRAVANCORE LIMITED,Headquarters,Mumbai,18.994709,72.826452,Estimated (city-level),Tier 3
+FINE ORGANIC INDUSTRIES LIMITED,Headquarters,Delhi,28.666479,77.035864,Estimated (city-level),Tier 3
+Finolex Cables Limited,Headquarters,Bangalore,12.985094,77.57968,Estimated (city-level),Tier 3
+Finolex Industries Limited,Headquarters,Chennai,13.0505,80.321807,Estimated (city-level),Tier 3
+Firstsource Solutions Limited,Headquarters,Kolkata,22.479736,88.367883,Estimated (city-level),Tier 3
+Five-Star Business Finance Limited,Headquarters,Hyderabad,17.413843,78.547651,Estimated (city-level),Tier 3
+Force Motors Ltd,Headquarters,Pune,18.505008,73.770341,Estimated (city-level),Tier 3
+Fortis Healthcare Limited,Headquarters,Ahmedabad,23.070948,72.516146,Estimated (city-level),Tier 3
+G R Infraprojects Limited,Headquarters,Mumbai,19.144968,72.859116,Estimated (city-level),Tier 3
+GAIL India Limited,Headquarters,Delhi,28.738943,77.003866,Estimated (city-level),Tier 3
+GALAXY SURFACTANTS LIMITED,Headquarters,Bangalore,12.950454,77.51794,Estimated (city-level),Tier 3
+GLAND PHARMA LIMITED,Headquarters,Chennai,13.109258,80.220013,Estimated (city-level),Tier 3
+GLOBAL HEALTH LIMITED,Headquarters,Kolkata,22.535669,88.433288,Estimated (city-level),Tier 3
+GODAWARI POWER AND ISPAT LIMITED,Headquarters,Hyderabad,17.436747,78.406447,Estimated (city-level),Tier 3
+GODFREY PHILLIPS INDIA LIMITED,Headquarters,Pune,18.479929,73.936829,Estimated (city-level),Tier 3
+GODREJ AGROVET LIMITED,Headquarters,Ahmedabad,22.945028,72.572992,Estimated (city-level),Tier 3
+GRANULES INDIA LIMITED,Headquarters,Mumbai,19.108168,72.818856,Estimated (city-level),Tier 3
+GRAPHITE INDIA LIMITED,Headquarters,Delhi,28.664134,77.197386,Estimated (city-level),Tier 3
+GUJARAT GAS LIMITED,Headquarters,Bangalore,13.011681,77.674282,Estimated (city-level),Tier 3
+Garden Reach Shipbuilders  Engineers Limited,Headquarters,Chennai,13.102292,80.210704,Estimated (city-level),Tier 3
+General Insurance Corporation of India,Headquarters,Kolkata,22.547432,88.270119,Estimated (city-level),Tier 3
+Genus Power Infrastructures Limited,Headquarters,Hyderabad,17.484903,78.553481,Estimated (city-level),Tier 3
+Gillette India Limited,Headquarters,Pune,18.577035,73.89026,Estimated (city-level),Tier 3
+GlaxoSmithKline Pharmaceuticals Limited,Headquarters,Ahmedabad,22.964098,72.659208,Estimated (city-level),Tier 3
+Glenmark Pharmaceuticals Limited,Headquarters,Mumbai,19.151005,72.930508,Estimated (city-level),Tier 3
+Go Digit General Insurance Limited,Headquarters,Delhi,28.786543,77.031591,Estimated (city-level),Tier 3
+Godrej Consumer Products Limited,Headquarters,Bangalore,12.973094,77.668817,Estimated (city-level),Tier 3
+Godrej Industries Limited,Headquarters,Chennai,13.002967,80.248286,Estimated (city-level),Tier 3
+Godrej Properties Limited,Headquarters,Kolkata,22.634415,88.346546,Estimated (city-level),Tier 3
+Grasim Industries Limited,Headquarters,Hyderabad,17.359299,78.554366,Estimated (city-level),Tier 3
+Grindwell Norton Limited,Headquarters,Pune,18.538246,73.852589,Estimated (city-level),Tier 3
+Gujarat Ambuja Exports Limited,Headquarters,Ahmedabad,23.005156,72.574916,Estimated (city-level),Tier 3
+Gujarat Fluorochemicals Limited,Headquarters,Mumbai,19.045697,72.933409,Estimated (city-level),Tier 3
+Gujarat Pipavav Port Limited,Headquarters,Delhi,28.638809,77.007052,Estimated (city-level),Tier 3
+Gujarat State Petronet Limited,Headquarters,Bangalore,13.034461,77.568687,Estimated (city-level),Tier 3
+HCL Technologies Limited,Headquarters,Chennai,13.150754,80.24014,Estimated (city-level),Tier 3
+HDFC Asset Management Company Limited,Headquarters,Kolkata,22.500965,88.461584,Estimated (city-level),Tier 3
+HDFC Bank Limited,Headquarters,Hyderabad,17.412643,78.500703,Estimated (city-level),Tier 3
+HDFC Life Insurance Company Limited,Headquarters,Pune,18.573407,73.920709,Estimated (city-level),Tier 3
+HEG Limited,Headquarters,Ahmedabad,23.033288,72.56064,Estimated (city-level),Tier 3
+HERO MOTOCORP LIMITED,Headquarters,Mumbai,19.039622,72.820012,Estimated (city-level),Tier 3
+HFCL Limited,Headquarters,Delhi,28.747563,77.149989,Estimated (city-level),Tier 3
+HINDALCO INDUSTRIES LIMITED,Headquarters,Bangalore,13.001057,77.682045,Estimated (city-level),Tier 3
+HINDUSTAN AERONAUTICS LIMITED,Headquarters,Chennai,13.073074,80.300978,Estimated (city-level),Tier 3
+HINDUSTAN COPPER LIMITED,Headquarters,Kolkata,22.659477,88.412925,Estimated (city-level),Tier 3
+HONEYWELL AUTOMATION INDIA LIMITED,Headquarters,Hyderabad,17.405504,78.585623,Estimated (city-level),Tier 3
+Happiest Minds Technologies Limited,Headquarters,Pune,18.438679,73.850662,Estimated (city-level),Tier 3
+Happy Forgings Limited,Headquarters,Ahmedabad,22.926603,72.594672,Estimated (city-level),Tier 3
+Hindustan Petroleum Corporation Limited,Headquarters,Mumbai,19.138351,72.788251,Estimated (city-level),Tier 3
+Hindustan Unilever Limited,Headquarters,Delhi,28.72626,77.056708,Estimated (city-level),Tier 3
+Hindustan Zinc Limited,Headquarters,Bangalore,13.009449,77.678484,Estimated (city-level),Tier 3
+Hitachi Energy India Limited,Headquarters,Chennai,13.142925,80.19609,Estimated (city-level),Tier 3
+Home First Finance Company India Limited,Headquarters,Kolkata,22.567051,88.361303,Estimated (city-level),Tier 3
+Honasa Consumer Limited,Headquarters,Hyderabad,17.453754,78.557744,Estimated (city-level),Tier 3
+ICICI Bank Limited,Headquarters,Pune,18.57389,73.847405,Estimated (city-level),Tier 3
+ICICI Lombard General Insurance Company Limited,Headquarters,Ahmedabad,23.007869,72.550707,Estimated (city-level),Tier 3
+ICICI Prudential Life Insurance Company Limited,Headquarters,Mumbai,19.127673,72.911364,Estimated (city-level),Tier 3
+IDBI Bank Limited,Headquarters,Delhi,28.627596,77.011722,Estimated (city-level),Tier 3
+IDFC FIRST Bank Limited,Headquarters,Bangalore,12.986428,77.603909,Estimated (city-level),Tier 3
+IFCI Limited,Headquarters,Chennai,13.040569,80.170976,Estimated (city-level),Tier 3
+IIFL Finance Limited,Headquarters,Kolkata,22.56374,88.265318,Estimated (city-level),Tier 3
+INDIAN OVERSEAS BANK,Headquarters,Hyderabad,17.29293,78.476155,Estimated (city-level),Tier 3
+INDIAN RAILWAY FINANCE CORPORATION LIMITED,Headquarters,Pune,18.463118,73.842976,Estimated (city-level),Tier 3
+INOX India Limited,Headquarters,Ahmedabad,22.950576,72.667999,Estimated (city-level),Tier 3
+INTELLECT DESIGN ARENA LIMITED,Headquarters,Mumbai,19.047079,72.943934,Estimated (city-level),Tier 3
+IRB Infrastructure Developers Limited,Headquarters,Delhi,28.668959,77.169987,Estimated (city-level),Tier 3
+ISGEC Heavy Engineering Limited,Headquarters,Bangalore,13.062571,77.623933,Estimated (city-level),Tier 3
+ITC Limited,Headquarters,Chennai,13.13569,80.205897,Estimated (city-level),Tier 3
+Indegene Limited,Headquarters,Kolkata,22.600881,88.405117,Estimated (city-level),Tier 3
+Indian Energy Exchange Limited,Headquarters,Hyderabad,17.305793,78.472566,Estimated (city-level),Tier 3
+Indian Oil Corporation Limited,Headquarters,Pune,18.608922,73.935141,Estimated (city-level),Tier 3
+Indian Renewable Energy Development Agency Limited,Headquarters,Ahmedabad,22.93242,72.539053,Estimated (city-level),Tier 3
+Indus Towers Limited,Headquarters,Mumbai,19.024758,72.955917,Estimated (city-level),Tier 3
+IndusInd Bank Limited,Headquarters,Delhi,28.701851,77.093958,Estimated (city-level),Tier 3
+Infibeam Avenues Limited,Headquarters,Bangalore,12.944798,77.592724,Estimated (city-level),Tier 3
+Infosys Limited,Headquarters,Chennai,13.086876,80.201388,Estimated (city-level),Tier 3
+Inox Wind Limited,Headquarters,Kolkata,22.492182,88.338046,Estimated (city-level),Tier 3
+InterGlobe Aviation Limited,Headquarters,Hyderabad,17.361381,78.432744,Estimated (city-level),Tier 3
+Ion Exchange India Limited,Headquarters,Pune,18.431299,73.79696,Estimated (city-level),Tier 3
+Ipca Laboratories Limited,Headquarters,Ahmedabad,22.979669,72.540473,Estimated (city-level),Tier 3
+Ircon International Limited,Headquarters,Mumbai,19.067728,72.906577,Estimated (city-level),Tier 3
+JAI BALAJI INDUSTRIES LIMITED,Headquarters,Delhi,28.709617,77.112813,Estimated (city-level),Tier 3
+JAIPRAKASH POWER VENTURES LIMITED,Headquarters,Bangalore,12.877765,77.682349,Estimated (city-level),Tier 3
+JBM Auto Limited,Headquarters,Chennai,13.070427,80.269721,Estimated (city-level),Tier 3
+JINDAL STEEL  POWER LIMITED,Headquarters,Kolkata,22.536305,88.402794,Estimated (city-level),Tier 3
+JK CEMENT LIMITED,Headquarters,Hyderabad,17.477717,78.517845,Estimated (city-level),Tier 3
+JK LAKSHMI CEMENT LIMITED,Headquarters,Pune,18.425754,73.769475,Estimated (city-level),Tier 3
+JK Tyre  Industries Limited,Headquarters,Ahmedabad,23.07022,72.495896,Estimated (city-level),Tier 3
+JM Financial Limited,Headquarters,Mumbai,19.01682,72.83427,Estimated (city-level),Tier 3
+JSW Energy Limited,Headquarters,Delhi,28.761129,77.201278,Estimated (city-level),Tier 3
+JSW Infrastructure Limited,Headquarters,Bangalore,13.063298,77.512357,Estimated (city-level),Tier 3
+JSW Steel Limited,Headquarters,Chennai,13.156412,80.309882,Estimated (city-level),Tier 3
+JUBILANT INGREVIA LIMITED,Headquarters,Kolkata,22.604608,88.315241,Estimated (city-level),Tier 3
+JYOTHY LABS LIMITED,Headquarters,Hyderabad,17.296308,78.469654,Estimated (city-level),Tier 3
+JYOTI CNC AUTOMATION LIMITED,Headquarters,Pune,18.589768,73.798374,Estimated (city-level),Tier 3
+Jindal Stainless Limited,Headquarters,Ahmedabad,23.045802,72.551456,Estimated (city-level),Tier 3
+Jio Financial Services Limited,Headquarters,Mumbai,19.067842,72.938282,Estimated (city-level),Tier 3
+Jubilant FoodWorks Limited,Headquarters,Delhi,28.76211,77.166652,Estimated (city-level),Tier 3
+Jubilant Pharmova Limited,Headquarters,Bangalore,12.913655,77.632471,Estimated (city-level),Tier 3
+Juniper Hotels Limited,Headquarters,Chennai,13.08192,80.195867,Estimated (city-level),Tier 3
+Jupiter Life Line Hospitals Limited,Headquarters,Kolkata,22.479314,88.317594,Estimated (city-level),Tier 3
+Jupiter Wagons Limited,Headquarters,Hyderabad,17.404812,78.462533,Estimated (city-level),Tier 3
+Just Dial Limited,Headquarters,Pune,18.455263,73.886405,Estimated (city-level),Tier 3
+KARUR VYSYA BANK LIMITED,Headquarters,Ahmedabad,23.050787,72.668318,Estimated (city-level),Tier 3
+KEC International Limited,Headquarters,Mumbai,19.037391,72.859202,Estimated (city-level),Tier 3
+KEI INDUSTRIES LIMITED,Headquarters,Delhi,28.63202,77.034606,Estimated (city-level),Tier 3
+KFin Technologies Limited,Headquarters,Bangalore,12.924308,77.549175,Estimated (city-level),Tier 3
+KIOCL Limited,Headquarters,Chennai,13.043976,80.359663,Estimated (city-level),Tier 3
+KNR Constructions Limited,Headquarters,Kolkata,22.506391,88.431967,Estimated (city-level),Tier 3
+KOTAK MAHINDRA BANK LIMITED,Headquarters,Hyderabad,17.412284,78.450792,Estimated (city-level),Tier 3
+KPI GREEN ENERGY LIMITED,Headquarters,Pune,18.454236,73.893558,Estimated (city-level),Tier 3
+KPIT Technologies Limited,Headquarters,Ahmedabad,23.109283,72.528874,Estimated (city-level),Tier 3
+KPR MILL LIMITED,Headquarters,Mumbai,19.118871,72.969459,Estimated (city-level),Tier 3
+Kajaria Ceramics Limited,Headquarters,Delhi,28.760564,77.187568,Estimated (city-level),Tier 3
+Kalpataru Projects International Limited,Headquarters,Bangalore,12.951661,77.536967,Estimated (city-level),Tier 3
+Kalyan Jewellers India Limited,Headquarters,Chennai,13.114794,80.35069,Estimated (city-level),Tier 3
+Kansai Nerolac Paints Limited,Headquarters,Kolkata,22.621616,88.385186,Estimated (city-level),Tier 3
+Kaynes Technology India Limited,Headquarters,Hyderabad,17.374231,78.44878,Estimated (city-level),Tier 3
+Keystone Realtors Limited,Headquarters,Pune,18.61039,73.828089,Estimated (city-level),Tier 3
+Kirloskar Brothers Limited,Headquarters,Ahmedabad,22.969791,72.512223,Estimated (city-level),Tier 3
+Kirloskar Oil Engines Limited,Headquarters,Mumbai,19.024285,72.914383,Estimated (city-level),Tier 3
+Krishna Institute of Medical Sciences Limited,Headquarters,Delhi,28.652866,77.037189,Estimated (city-level),Tier 3
+LAURUS LABS LIMITED,Headquarters,Bangalore,12.974359,77.689015,Estimated (city-level),Tier 3
+LIC Housing Finance Limited,Headquarters,Chennai,13.159738,80.319383,Estimated (city-level),Tier 3
+Latent View Analytics Limited,Headquarters,Kolkata,22.588784,88.27931,Estimated (city-level),Tier 3
+Lemon Tree Hotels Limited,Headquarters,Hyderabad,17.359702,78.430775,Estimated (city-level),Tier 3
+Life Insurance Corporation of India,Headquarters,Pune,18.523159,73.774327,Estimated (city-level),Tier 3
+Linde India Limited,Headquarters,Ahmedabad,23.04954,72.57233,Estimated (city-level),Tier 3
+Lloyds Metals and Energy Limited,Headquarters,Mumbai,19.101967,72.823496,Estimated (city-level),Tier 3
+Lupin Limited,Headquarters,Delhi,28.796325,77.08132,Estimated (city-level),Tier 3
+MACROTECH DEVELOPERS LIMITED,Headquarters,Bangalore,12.90903,77.645363,Estimated (city-level),Tier 3
+MAHARASHTRA SCOOTERS LIMITED,Headquarters,Chennai,13.178478,80.31674,Estimated (city-level),Tier 3
+MANKIND PHARMA LIMITED,Headquarters,Kolkata,22.613979,88.397023,Estimated (city-level),Tier 3
+MAX HEALTHCARE INSTITUTE LIMITED,Headquarters,Hyderabad,17.346472,78.479802,Estimated (city-level),Tier 3
+MMTC LIMITED,Headquarters,Pune,18.580323,73.856999,Estimated (city-level),Tier 3
+MOIL Limited,Headquarters,Ahmedabad,22.981696,72.647753,Estimated (city-level),Tier 3
+MRF Limited,Headquarters,Mumbai,19.125973,72.819542,Estimated (city-level),Tier 3
+MUTHOOT FINANCE LIMITED,Headquarters,Delhi,28.655183,77.053182,Estimated (city-level),Tier 3
+Mahanagar Gas Limited,Headquarters,Bangalore,13.03498,77.671233,Estimated (city-level),Tier 3
+Maharashtra Seamless Limited,Headquarters,Chennai,12.996535,80.264368,Estimated (city-level),Tier 3
+Mahindra  Mahindra Financial Services Limited,Headquarters,Kolkata,22.642236,88.312697,Estimated (city-level),Tier 3
+Mahindra  Mahindra Limited,Headquarters,Hyderabad,17.387402,78.470928,Estimated (city-level),Tier 3
+Mahindra Holidays  Resorts India Limited,Headquarters,Pune,18.531427,73.899353,Estimated (city-level),Tier 3
+Mahindra Lifespace Developers Limited,Headquarters,Ahmedabad,22.95819,72.566663,Estimated (city-level),Tier 3
+Man Infraconstruction Limited,Headquarters,Mumbai,19.110347,72.778989,Estimated (city-level),Tier 3
+Manappuram Finance Limited,Headquarters,Delhi,28.619486,77.007865,Estimated (city-level),Tier 3
+Marico Limited,Headquarters,Bangalore,13.06526,77.56445,Estimated (city-level),Tier 3
+Maruti Suzuki India Limited,Headquarters,Chennai,13.117192,80.272974,Estimated (city-level),Tier 3
+Mastek Limited,Headquarters,Kolkata,22.561141,88.265914,Estimated (city-level),Tier 3
+Max Financial Services Limited,Headquarters,Hyderabad,17.407622,78.522794,Estimated (city-level),Tier 3
+Mazagon Dock Shipbuilders Limited,Headquarters,Pune,18.550171,73.776608,Estimated (city-level),Tier 3
+MedPlus Health Services Limited,Headquarters,Ahmedabad,23.028842,72.66633,Estimated (city-level),Tier 3
+Metro Brands Limited,Headquarters,Mumbai,19.167862,72.835,Estimated (city-level),Tier 3
+Metropolis Healthcare Limited,Headquarters,Delhi,28.785516,77.050302,Estimated (city-level),Tier 3
+Mishra Dhatu Nigam Limited,Headquarters,Bangalore,12.927618,77.510337,Estimated (city-level),Tier 3
+Motherson Sumi Wiring India Limited,Headquarters,Chennai,13.004052,80.343337,Estimated (city-level),Tier 3
+Motilal Oswal Financial Services Limited,Headquarters,Kolkata,22.504235,88.287672,Estimated (city-level),Tier 3
+Mphasis Limited,Headquarters,Hyderabad,17.30997,78.445032,Estimated (city-level),Tier 3
+NATCO Pharma Limited,Headquarters,Pune,18.498501,73.878536,Estimated (city-level),Tier 3
+NAVA LIMITED,Headquarters,Ahmedabad,22.98269,72.550435,Estimated (city-level),Tier 3
+NBCC India Limited,Headquarters,Mumbai,19.07054,72.932199,Estimated (city-level),Tier 3
+NCC LIMITED,Headquarters,Delhi,28.646557,77.158994,Estimated (city-level),Tier 3
+NETWEB TECHNOLOGIES INDIA LIMITED,Headquarters,Bangalore,12.92267,77.65355,Estimated (city-level),Tier 3
+NHPC Limited,Headquarters,Chennai,13.057789,80.344534,Estimated (city-level),Tier 3
+NLC India Limited,Headquarters,Kolkata,22.645628,88.392158,Estimated (city-level),Tier 3
+NMDC Limited,Headquarters,Hyderabad,17.324051,78.529958,Estimated (city-level),Tier 3
+NMDC Steel Limited,Headquarters,Pune,18.455731,73.788691,Estimated (city-level),Tier 3
+NTPC LIMITED,Headquarters,Ahmedabad,22.935826,72.51781,Estimated (city-level),Tier 3
+NUVAMA WEALTH MANAGEMENT LIMITED,Headquarters,Mumbai,19.081354,72.913195,Estimated (city-level),Tier 3
+Narayana Hrudayalaya Ltd,Headquarters,Delhi,28.672921,77.038723,Estimated (city-level),Tier 3
+Navin Fluorine International Limited,Headquarters,Bangalore,12.959882,77.636238,Estimated (city-level),Tier 3
+Nestle India Limited,Headquarters,Chennai,13.094047,80.247024,Estimated (city-level),Tier 3
+Neuland Laboratories Limited,Headquarters,Kolkata,22.659381,88.27815,Estimated (city-level),Tier 3
+Newgen Software Technologies Limited,Headquarters,Hyderabad,17.364882,78.518552,Estimated (city-level),Tier 3
+Nippon Life India Asset Management Limited,Headquarters,Pune,18.518518,73.778227,Estimated (city-level),Tier 3
+Nuvoco Vistas Corporation Limited,Headquarters,Ahmedabad,23.015172,72.538368,Estimated (city-level),Tier 3
+Oberoi Realty Limited,Headquarters,Mumbai,19.150406,72.906346,Estimated (city-level),Tier 3
+Oil India Limited,Headquarters,Delhi,28.780489,77.180042,Estimated (city-level),Tier 3
+Olectra Greentech Limited,Headquarters,Bangalore,13.068127,77.627455,Estimated (city-level),Tier 3
+One 97 Communications Limited,Headquarters,Chennai,13.040328,80.342406,Estimated (city-level),Tier 3
+Oracle Financial Services Software Limited,Headquarters,Kolkata,22.653407,88.337613,Estimated (city-level),Tier 3
+PATANJALI FOODS LIMITED,Headquarters,Hyderabad,17.471864,78.438771,Estimated (city-level),Tier 3
+PB FINTECH LIMITED,Headquarters,Pune,18.421672,73.8745,Estimated (city-level),Tier 3
+PI INDUSTRIES LIMITED,Headquarters,Ahmedabad,23.027703,72.561866,Estimated (city-level),Tier 3
+PNB Housing Finance Limited,Headquarters,Mumbai,19.157249,72.953991,Estimated (city-level),Tier 3
+PNC Infratech Limited,Headquarters,Delhi,28.616502,77.011727,Estimated (city-level),Tier 3
+POLY MEDICURE LIMITED,Headquarters,Bangalore,13.069473,77.553379,Estimated (city-level),Tier 3
+PTC Industries Limited,Headquarters,Chennai,13.005373,80.186879,Estimated (city-level),Tier 3
+PUNJAB NATIONAL BANK,Headquarters,Kolkata,22.672557,88.357159,Estimated (city-level),Tier 3
+PVR INOX LIMITED,Headquarters,Hyderabad,17.452911,78.568744,Estimated (city-level),Tier 3
+Page Industries Limited,Headquarters,Pune,18.467701,73.853036,Estimated (city-level),Tier 3
+Persistent Systems Limited,Headquarters,Ahmedabad,22.932612,72.635601,Estimated (city-level),Tier 3
+Petronet LNG Limited,Headquarters,Mumbai,19.149148,72.942943,Estimated (city-level),Tier 3
+Pfizer Limited,Headquarters,Delhi,28.706884,77.160953,Estimated (city-level),Tier 3
+Pidilite Industries Limited,Headquarters,Bangalore,12.961486,77.499591,Estimated (city-level),Tier 3
+Piramal Enterprises Limited,Headquarters,Chennai,13.154674,80.24098,Estimated (city-level),Tier 3
+Piramal Pharma Limited,Headquarters,Kolkata,22.664025,88.276312,Estimated (city-level),Tier 3
+Polycab India Limited,Headquarters,Hyderabad,17.285037,78.492697,Estimated (city-level),Tier 3
+Poonawalla Fincorp Limited,Headquarters,Pune,18.472657,73.898568,Estimated (city-level),Tier 3
+Power Finance Corporation Limited,Headquarters,Ahmedabad,23.070112,72.55911,Estimated (city-level),Tier 3
+Power Grid Corporation of India Limited,Headquarters,Mumbai,19.125864,72.955867,Estimated (city-level),Tier 3
+Power Mech Projects Limited,Headquarters,Delhi,28.782271,77.044516,Estimated (city-level),Tier 3
+Praj Industries Limited,Headquarters,Bangalore,13.024954,77.690531,Estimated (city-level),Tier 3
+Prestige Estates Projects Limited,Headquarters,Chennai,13.100167,80.244714,Estimated (city-level),Tier 3
+Prism Johnson Limited,Headquarters,Kolkata,22.531045,88.415109,Estimated (city-level),Tier 3
+Procter  Gamble Health Limited,Headquarters,Hyderabad,17.440682,78.541088,Estimated (city-level),Tier 3
+Punjab  Sind Bank,Headquarters,Pune,18.527841,73.758308,Estimated (city-level),Tier 3
+Quess Corp Limited,Headquarters,Ahmedabad,22.923162,72.578384,Estimated (city-level),Tier 3
+R R Kabel Limited,Headquarters,Mumbai,19.041347,72.926597,Estimated (city-level),Tier 3
+RAJESH EXPORTS LIMITED,Headquarters,Delhi,28.716661,77.160208,Estimated (city-level),Tier 3
+RATTANINDIA ENTERPRISES LIMITED,Headquarters,Bangalore,12.93254,77.666425,Estimated (city-level),Tier 3
+RBL Bank Limited,Headquarters,Chennai,12.998911,80.21203,Estimated (city-level),Tier 3
+REC Limited,Headquarters,Kolkata,22.518705,88.321668,Estimated (city-level),Tier 3
+RELIANCE POWER LIMITED,Headquarters,Hyderabad,17.337423,78.421874,Estimated (city-level),Tier 3
+RHI Magnesita India Ltd,Headquarters,Pune,18.592989,73.815486,Estimated (city-level),Tier 3
+RITES Limited,Headquarters,Ahmedabad,22.959031,72.622014,Estimated (city-level),Tier 3
+Radico Khaitan Limited,Headquarters,Mumbai,19.109313,72.793865,Estimated (city-level),Tier 3
+Rail Vikas Nigam Limited,Headquarters,Delhi,28.719828,77.03138,Estimated (city-level),Tier 3
+Railtel Corporation of India Limited,Headquarters,Bangalore,12.933632,77.657551,Estimated (city-level),Tier 3
+Ramkrishna Forgings Limited,Headquarters,Chennai,13.098722,80.314158,Estimated (city-level),Tier 3
+RateGain Travel Technologies Limited,Headquarters,Kolkata,22.537285,88.44826,Estimated (city-level),Tier 3
+Ratnamani Metals  Tubes Limited,Headquarters,Hyderabad,17.426164,78.558943,Estimated (city-level),Tier 3
+Raymond Limited,Headquarters,Pune,18.480807,73.895587,Estimated (city-level),Tier 3
+Redington Limited,Headquarters,Ahmedabad,23.068489,72.545565,Estimated (city-level),Tier 3
+Redtape Limited,Headquarters,Mumbai,19.161156,72.884768,Estimated (city-level),Tier 3
+Relaxo Footwears Limited,Headquarters,Delhi,28.611081,77.170831,Estimated (city-level),Tier 3
+Reliance Industries Limited,Headquarters,Bangalore,12.98089,77.522188,Estimated (city-level),Tier 3
+Reliance Infrastructure Limited,Headquarters,Chennai,13.047834,80.19899,Estimated (city-level),Tier 3
+Responsive Industries Limited,Headquarters,Kolkata,22.494048,88.28746,Estimated (city-level),Tier 3
+Route Mobile Limited,Headquarters,Hyderabad,17.378074,78.543166,Estimated (city-level),Tier 3
+SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED,Headquarters,Pune,18.531347,73.766737,Estimated (city-level),Tier 3
+SAPPHIRE FOODS INDIA LIMITED,Headquarters,Ahmedabad,23.047399,72.652266,Estimated (city-level),Tier 3
+SARDA ENERGY  MINERALS LIMITED,Headquarters,Mumbai,19.047846,72.91694,Estimated (city-level),Tier 3
+SAREGAMA India Limited,Headquarters,Delhi,28.729911,77.125025,Estimated (city-level),Tier 3
+SBFC Finance Limited,Headquarters,Bangalore,12.922379,77.574292,Estimated (city-level),Tier 3
+SBI Cards and Payment Services Limited,Headquarters,Chennai,13.021601,80.36547,Estimated (city-level),Tier 3
+SBI Life Insurance Company Limited,Headquarters,Kolkata,22.671018,88.460851,Estimated (city-level),Tier 3
+SHIPPING CORPORATION OF INDIA LIMITED,Headquarters,Hyderabad,17.466766,78.389382,Estimated (city-level),Tier 3
+SJVN Limited,Headquarters,Pune,18.581614,73.849102,Estimated (city-level),Tier 3
+SKF INDIA LIMITED,Headquarters,Ahmedabad,22.958991,72.482487,Estimated (city-level),Tier 3
+SRF LIMITED,Headquarters,Mumbai,19.01795,72.855411,Estimated (city-level),Tier 3
+STATE BANK OF INDIA,Headquarters,Delhi,28.751472,77.012878,Estimated (city-level),Tier 3
+SUMITOMO CHEMICAL INDIA LIMITED,Headquarters,Bangalore,13.045971,77.525885,Estimated (city-level),Tier 3
+SUNDARAM FINANCE LIMITED,Headquarters,Chennai,12.983666,80.342348,Estimated (city-level),Tier 3
+SUPREME PETROCHEM LIMITED,Headquarters,Kolkata,22.579333,88.432027,Estimated (city-level),Tier 3
+SUZLON ENERGY LIMITED,Headquarters,Hyderabad,17.323446,78.387938,Estimated (city-level),Tier 3
+Safari Industries India Limited,Headquarters,Pune,18.513977,73.831167,Estimated (city-level),Tier 3
+Sandur Manganese  Iron Ores Limited,Headquarters,Ahmedabad,22.959432,72.597144,Estimated (city-level),Tier 3
+Schneider Electric Infrastructure Limited,Headquarters,Mumbai,19.100264,72.793793,Estimated (city-level),Tier 3
+Sheela Foam Limited,Headquarters,Delhi,28.708543,77.09228,Estimated (city-level),Tier 3
+Shoppers Stop Limited,Headquarters,Bangalore,12.951339,77.509453,Estimated (city-level),Tier 3
+Shree Renuka Sugars Limited,Headquarters,Chennai,13.155851,80.363681,Estimated (city-level),Tier 3
+Shriram Finance Limited,Headquarters,Kolkata,22.543663,88.442665,Estimated (city-level),Tier 3
+Shyam Metalics and Energy Limited,Headquarters,Hyderabad,17.417434,78.42336,Estimated (city-level),Tier 3
+Signatureglobal India Limited,Headquarters,Pune,18.454921,73.833389,Estimated (city-level),Tier 3
+Sobha Limited,Headquarters,Ahmedabad,23.03066,72.564205,Estimated (city-level),Tier 3
+Solar Industries India Limited,Headquarters,Mumbai,19.052746,72.78432,Estimated (city-level),Tier 3
+Sona BLW Precision Forgings Limited,Headquarters,Delhi,28.70599,77.113981,Estimated (city-level),Tier 3
+Sonata Software Limited,Headquarters,Bangalore,12.937894,77.563095,Estimated (city-level),Tier 3
+Star Cement Limited,Headquarters,Chennai,13.143903,80.258354,Estimated (city-level),Tier 3
+Star Health and Allied Insurance Company Limited,Headquarters,Kolkata,22.640249,88.319812,Estimated (city-level),Tier 3
+Steel Authority of India Limited,Headquarters,Hyderabad,17.337121,78.476625,Estimated (city-level),Tier 3
+Sterling and Wilson Renewable Energy Limited,Headquarters,Pune,18.594371,73.873672,Estimated (city-level),Tier 3
+Sun Pharma Advanced Research Company Limited,Headquarters,Ahmedabad,22.97884,72.588243,Estimated (city-level),Tier 3
+Sun Pharmaceutical Industries Limited,Headquarters,Mumbai,19.167312,72.815096,Estimated (city-level),Tier 3
+Sun TV Network Limited,Headquarters,Delhi,28.614617,77.020191,Estimated (city-level),Tier 3
+Sundram Fasteners Limited,Headquarters,Bangalore,12.874012,77.538143,Estimated (city-level),Tier 3
+Supreme Industries Limited,Headquarters,Chennai,13.140525,80.174831,Estimated (city-level),Tier 3
+Syngene International Limited,Headquarters,Kolkata,22.563729,88.439142,Estimated (city-level),Tier 3
+Syrma SGS Technology Limited,Headquarters,Hyderabad,17.444142,78.525365,Estimated (city-level),Tier 3
+TATA CHEMICALS LIMITED,Headquarters,Pune,18.491348,73.911805,Estimated (city-level),Tier 3
+TATA COMMUNICATIONS LIMITED,Headquarters,Ahmedabad,22.980357,72.652577,Estimated (city-level),Tier 3
+TBO Tek Limited,Headquarters,Mumbai,19.093215,72.95997,Estimated (city-level),Tier 3
+TEGA INDUSTRIES LIMITED,Headquarters,Delhi,28.633914,77.091037,Estimated (city-level),Tier 3
+THE NEW INDIA ASSURANCE COMPANY LIMITED,Headquarters,Bangalore,13.013965,77.668371,Estimated (city-level),Tier 3
+THE PHOENIX MILLS LIMITED,Headquarters,Chennai,13.028953,80.257788,Estimated (city-level),Tier 3
+TITAGARH RAIL SYSTEMS LIMITED,Headquarters,Kolkata,22.528727,88.444479,Estimated (city-level),Tier 3
+TRIDENT LIMITED,Headquarters,Hyderabad,17.330429,78.389513,Estimated (city-level),Tier 3
+TTK PRESTIGE LIMITED,Headquarters,Pune,18.590558,73.926139,Estimated (city-level),Tier 3
+TVS Holdings Limited,Headquarters,Ahmedabad,23.043543,72.596303,Estimated (city-level),Tier 3
+TVS Motor Company Limited,Headquarters,Mumbai,18.996325,72.957467,Estimated (city-level),Tier 3
+TVS Supply Chain Solutions Limited,Headquarters,Delhi,28.628845,77.026363,Estimated (city-level),Tier 3
+Tamilnad Mercantile Bank Limited,Headquarters,Bangalore,12.949791,77.658058,Estimated (city-level),Tier 3
+Tanla Platforms Limited,Headquarters,Chennai,13.007753,80.264393,Estimated (city-level),Tier 3
+Tata Consultancy Services Limited,Headquarters,Kolkata,22.567631,88.440408,Estimated (city-level),Tier 3
+Tata Consumer Products Limited,Headquarters,Hyderabad,17.391183,78.55273,Estimated (city-level),Tier 3
+Tata Elxsi Limited,Headquarters,Pune,18.569939,73.795034,Estimated (city-level),Tier 3
+Tata Investment Corporation Limited,Headquarters,Ahmedabad,23.07142,72.621241,Estimated (city-level),Tier 3
+Tata Motors Limited,Headquarters,Mumbai,19.046251,72.77801,Estimated (city-level),Tier 3
+Tata Steel Limited,Headquarters,Delhi,28.766956,77.159371,Estimated (city-level),Tier 3
+Tata Technologies Limited,Headquarters,Bangalore,12.963158,77.520895,Estimated (city-level),Tier 3
+Tata Teleservices Maharashtra Limited,Headquarters,Chennai,13.130432,80.222019,Estimated (city-level),Tier 3
+Tech Mahindra Limited,Headquarters,Kolkata,22.583999,88.437678,Estimated (city-level),Tier 3
+Techno Electric  Engineering Company Limited,Headquarters,Hyderabad,17.424615,78.423936,Estimated (city-level),Tier 3
+Tejas Networks Limited,Headquarters,Pune,18.49231,73.773524,Estimated (city-level),Tier 3
+The Ramco Cements Limited,Headquarters,Ahmedabad,23.096468,72.649365,Estimated (city-level),Tier 3
+Thermax Limited,Headquarters,Mumbai,19.155753,72.814609,Estimated (city-level),Tier 3
+Thomas Cook  India  Limited,Headquarters,Delhi,28.742456,77.042215,Estimated (city-level),Tier 3
+Timken India Limited,Headquarters,Bangalore,12.952811,77.519396,Estimated (city-level),Tier 3
+Titan Company Limited,Headquarters,Chennai,13.122442,80.290248,Estimated (city-level),Tier 3
+Torrent Pharmaceuticals Limited,Headquarters,Kolkata,22.592664,88.410244,Estimated (city-level),Tier 3
+Torrent Power Limited,Headquarters,Hyderabad,17.437314,78.446337,Estimated (city-level),Tier 3
+Triveni Engineering  Industries Limited,Headquarters,Pune,18.544968,73.8221,Estimated (city-level),Tier 3
+Triveni Turbine Limited,Headquarters,Ahmedabad,23.111856,72.663871,Estimated (city-level),Tier 3
+Tube Investments of India Limited,Headquarters,Mumbai,19.116755,72.77825,Estimated (city-level),Tier 3
+UNION BANK OF INDIA,Headquarters,Delhi,28.724021,77.077533,Estimated (city-level),Tier 3
+UNITED BREWERIES LIMITED,Headquarters,Bangalore,12.977397,77.561337,Estimated (city-level),Tier 3
+UPL LIMITED,Headquarters,Chennai,12.983873,80.312018,Estimated (city-level),Tier 3
+UTI Asset Management Company Limited,Headquarters,Kolkata,22.595355,88.285133,Estimated (city-level),Tier 3
+Ujjivan Small Finance Bank Limited,Headquarters,Hyderabad,17.422547,78.461885,Estimated (city-level),Tier 3
+UltraTech Cement Limited,Headquarters,Pune,18.436095,73.824222,Estimated (city-level),Tier 3
+United Spirits Limited,Headquarters,Ahmedabad,22.953105,72.533931,Estimated (city-level),Tier 3
+Uno Minda Limited,Headquarters,Mumbai,19.161407,72.854992,Estimated (city-level),Tier 3
+Usha Martin Limited,Headquarters,Delhi,28.791756,77.032093,Estimated (city-level),Tier 3
+V-GUARD INDUSTRIES LIMITED,Headquarters,Bangalore,13.045431,77.578748,Estimated (city-level),Tier 3
+VALOR ESTATE LIMITED,Headquarters,Chennai,12.987488,80.172572,Estimated (city-level),Tier 3
+VIP INDUSTRIES LIMITED,Headquarters,Kolkata,22.512019,88.333518,Estimated (city-level),Tier 3
+Varroc Engineering Limited,Headquarters,Hyderabad,17.36947,78.398019,Estimated (city-level),Tier 3
+Vedant Fashions Limited,Headquarters,Pune,18.531397,73.839625,Estimated (city-level),Tier 3
+Vedanta Limited,Headquarters,Ahmedabad,23.108139,72.613449,Estimated (city-level),Tier 3
+Vinati Organics Limited,Headquarters,Mumbai,19.11503,72.952683,Estimated (city-level),Tier 3
+Vodafone Idea Limited,Headquarters,Delhi,28.628805,77.125077,Estimated (city-level),Tier 3
+Voltamp Transformers Limited,Headquarters,Bangalore,13.024441,77.555202,Estimated (city-level),Tier 3
+Voltas Limited,Headquarters,Chennai,13.06465,80.262686,Estimated (city-level),Tier 3
+Waaree Renewable Technologies Limited,Headquarters,Kolkata,22.607874,88.378063,Estimated (city-level),Tier 3
+Welspun Corp Limited,Headquarters,Hyderabad,17.469332,78.552104,Estimated (city-level),Tier 3
+Welspun Living Limited,Headquarters,Pune,18.461886,73.787064,Estimated (city-level),Tier 3
+Whirlpool of India Limited,Headquarters,Ahmedabad,23.099346,72.527381,Estimated (city-level),Tier 3
+Wipro Limited,Headquarters,Mumbai,19.021346,72.957541,Estimated (city-level),Tier 3
+Wockhardt Limited,Headquarters,Delhi,28.75505,77.064879,Estimated (city-level),Tier 3
+YES Bank Limited,Headquarters,Bangalore,12.953913,77.578461,Estimated (city-level),Tier 3
+ZENSAR TECHNOLOGIES LIMITED,Headquarters,Chennai,13.062897,80.364947,Estimated (city-level),Tier 3
+ZF Commercial Vehicle Control Systems India Limited,Headquarters,Kolkata,22.584848,88.312083,Estimated (city-level),Tier 3
+Zee Entertainment Enterprises Limited,Headquarters,Hyderabad,17.288234,78.51359,Estimated (city-level),Tier 3
+Zen Technologies Limited,Headquarters,Pune,18.521144,73.784539,Estimated (city-level),Tier 3
+Zydus Lifesciences Limited,Headquarters,Ahmedabad,22.953044,72.49734,Estimated (city-level),Tier 3
+Zydus Wellness Limited,Headquarters,Mumbai,19.131219,72.837956,Estimated (city-level),Tier 3
+eClerx Services Limited,Headquarters,Delhi,28.761126,77.055317,Estimated (city-level),Tier 3

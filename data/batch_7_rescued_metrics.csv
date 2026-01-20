@@ -1,0 +1,20 @@
+Company_Name,Indicator_ID,Value,Unit,Source_URL,Data_Year,Confidence,Data_Tier,Extraction_Method
+Larsen & Toubro Limited,ghg_scope1,635646,tCO2e,https://www.larsentoubro.com/media/kskb1y5t/integrated-annual-report-2023-24.pdf,2023-24,0.95,Tier 1,Manual Search
+Larsen & Toubro Limited,ghg_scope2,349682,tCO2e,https://www.larsentoubro.com/media/kskb1y5t/integrated-annual-report-2023-24.pdf,2023-24,0.95,Tier 1,Manual Search
+Larsen & Toubro Limited,water_withdrawal,16125324,KL,https://www.larsentoubro.com/media/kskb1y5t/integrated-annual-report-2023-24.pdf,2023-24,0.95,Tier 1,Manual Search
+Larsen & Toubro Limited,waste_generated,240000,tonnes,https://www.larsentoubro.com/media/kskb1y5t/integrated-annual-report-2023-24.pdf,2023-24,0.9,Tier 1,Manual Search
+Larsen & Toubro Limited,waste_recycled_pct,50,%,https://www.larsentoubro.com/media/kskb1y5t/integrated-annual-report-2023-24.pdf,2023-24,0.85,Tier 1,Manual Search
+GVK Mumbai Airport,ghg_scope1,0,tCO2e,https://www.infrastructuretoday.co.in/news/mial-achieves-carbon-neutrality-for-fy23/,2022-23,0.9,Tier 2,Manual Search
+GVK Mumbai Airport,ghg_scope2,0,tCO2e,https://www.infrastructuretoday.co.in/news/mial-achieves-carbon-neutrality-for-fy23/,2022-23,0.9,Tier 2,Manual Search
+GVK Mumbai Airport,water_withdrawal,879811,KL,https://www.internationalairportreview.com/news/186523/mumbai-airport-sustainable-water-management/,2022-23,0.9,Tier 1,Manual Search
+GVK Mumbai Airport,waste_recycled_pct,98.7,%,https://www.infrastructuretoday.co.in/news/mial-achieves-carbon-neutrality-for-fy23/,2022-23,0.9,Tier 1,Manual Search
+Delhi International Airport Limited (DIAL),ghg_scope1,2738,tCO2e,https://www.gmraero.com/sustainability-report-fy-2022-23,2022-23,0.95,Tier 1,Manual Search
+Delhi International Airport Limited (DIAL),ghg_scope2,34697,tCO2e,https://www.gmraero.com/sustainability-report-fy-2022-23,2022-23,0.95,Tier 1,Manual Search
+Delhi International Airport Limited (DIAL),water_withdrawal,2002475,KL,https://www.gmraero.com/sustainability-report-fy-2022-23,2022-23,0.95,Tier 1,Manual Search
+Delhi International Airport Limited (DIAL),renewable_energy_pct,100,%,https://www.newdelhiairport.in/sustainability,2022-23,0.9,Tier 1,Manual Search
+IndiaMART InterMESH Limited,ghg_scope1,15.42,tCO2e,https://www.indiamart.com/investor-relations/annual-reports/,2022-23,0.95,Tier 1,Manual Search
+IndiaMART InterMESH Limited,ghg_scope2,347.53,tCO2e,https://www.indiamart.com/investor-relations/annual-reports/,2022-23,0.95,Tier 1,Manual Search
+IndiaMART InterMESH Limited,water_withdrawal,16252,KL,https://www.indiamart.com/investor-relations/annual-reports/,2022-23,0.95,Tier 1,Manual Search
+IndiaMART InterMESH Limited,waste_generated,0,tonnes,https://www.indiamart.com/investor-relations/annual-reports/,2022-23,0.9,Tier 1,Manual Search
+Punjab & Sind Bank,ghg_scope1,3563.46,tCO2e,https://punjabandsindbank.co.in/content/brsr,2023-24,0.9,Tier 1,Manual Search
+Punjab & Sind Bank,ghg_scope2,27316.10,tCO2e,https://punjabandsindbank.co.in/content/brsr,2023-24,0.9,Tier 1,Manual Search

@@ -1,0 +1,22 @@
+Company_Name,Sector,NaN_Count,Zero_Count,NaN_Metrics,Zero_Metrics,Total_Missing
+West Coast Paper Mills,Chemicals & Fertilizers,5,0,"Scope1, Scope2, Scope3, Water, Waste",None,5
+Prism Johnson (Cement),Cement Manufacturing,5,0,"Scope1, Scope2, Scope3, Water, Waste",None,5
+Punjab & Sind Bank,Financial Services,5,0,"Scope1, Scope2, Scope3, Water, Waste",None,5
+GAIL (India) Limited,Oil & Gas,4,0,"Scope1, Scope2, Water, Waste",None,4
+"Adani Airports (Mumbai, Ahmedabad, 6 others)",Transportation & Logistics,4,0,"Scope1, Scope2, Water, Waste",None,4
+L&T Finance Limited,Financial Services,4,0,"Scope1, Scope2, Water, Waste",None,4
+JSW Energy,Power Generation,4,0,"Scope1, Scope2, Water, Waste",None,4
+"GMR Airports (Delhi, Hyderabad)",Transportation & Logistics,4,0,"Scope1, Scope2, Water, Waste",None,4
+Tata Power,Power Generation,3,0,"Scope2, Water, Waste",None,3
+Aptus Value Housing Finance India Limited,Financial Services,2,2,"Scope1, Scope2","Water, Waste",2
+Reliance Industries Limited,Oil & Gas,1,0,Scope3,None,1
+Go Digit General Insurance Limited,Financial Services,1,0,Scope3,None,1
+Life Insurance Corporation of India,Financial Services,1,0,Scope3,None,1
+RBL Bank Limited,Financial Services,1,1,Scope3,Waste,1
+Canara Bank,Financial Services,1,0,Scope3,None,1
+INDIAN RAILWAY FINANCE CORPORATION LIMITED,Financial Services,1,0,Scope3,None,1
+Power Finance Corporation Limited,Financial Services,1,0,Scope3,None,1
+Bajaj Holdings  Investment Limited,Financial Services,1,2,Scope3,"Water, Waste",1
+Punjab  Sind Bank,Financial Services,1,0,Scope3,None,1
+BANK OF MAHARASHTRA,Financial Services,1,0,Scope3,None,1
+Power Grid Corporation of India Limited,Power Generation,1,0,Scope3,None,1
