@@ -12,6 +12,9 @@ export interface DimensionBreakdown {
     scope1_cost_cr?: number;
     scope2_cost_cr?: number;
     scope3_cost_cr?: number;
+    scope1_net_cr?: number;
+    scope2_net_cr?: number;
+    scope3_net_cr?: number;
     re_credit_cr?: number;
     // Water
     consumption_cost_cr?: number;
@@ -22,6 +25,7 @@ export interface DimensionBreakdown {
     restoration_credit_cr?: number;
     // Biodiversity
     direct_msa_cost_cr?: number;
+    scope3_bio_cost_cr?: number;
     habitat_cost_cr?: number;
     pa_proximity_cost_cr?: number;
     msa_loss_cost_cr?: number;
@@ -29,8 +33,13 @@ export interface DimensionBreakdown {
     air_cost_cr?: number;
     waste_cost_cr?: number;
     hazardous_cost_cr?: number;
+    overburden_cost_cr?: number;
+    plastic_cost_cr?: number;
+    ewaste_cost_cr?: number;
+    hap_cost_cr?: number;
     // Energy
     depletion_cost_cr?: number;
+    non_renewable_cost_cr?: number;
   };
 }
 
@@ -136,7 +145,7 @@ export interface RankingCompany {
 }
 
 export interface RankingsData {
-  generated_date: string;
+  generated_at: string;
   total_companies: number;
   companies: RankingCompany[];
 }
@@ -173,15 +182,17 @@ export interface SectorsData {
 
 export interface Statistics {
   total_taesc_cr: number;
-  total_taesc_formatted: string;
-  union_budget_comparison: string;
+  avg_taesc_cr?: number;
+  total_taesc_formatted?: string;
+  union_budget_comparison?: string;
   avg_nii_score: number;
   median_nii_score: number;
   avg_nir: number;
-  avg_nir_pct: number;
-  aggregate_nir_pct: number;
-  companies_above_100pct: number;
-  sectors_above_100pct: string[];
+  median_nir?: number;
+  avg_nir_pct?: number;
+  aggregate_nir_pct?: number;
+  companies_above_100pct?: number;
+  sectors_above_100pct?: string[];
 }
 
 export interface DimensionTotals {
@@ -213,11 +224,14 @@ export interface DimensionPercentages {
 export interface Metadata {
   total_companies: number;
   total_sectors: number;
-  generated_date: string;
+  generated_at: string;
+  database_version?: string;
+  source_version?: string;
   statistics: Statistics;
   dimension_totals_cr: DimensionTotals;
-  dimension_percentages: DimensionPercentages;
+  dimension_percentages?: DimensionPercentages;
   rating_distribution: RatingDistribution;
+  coefficients_used?: Record<string, number>;
 }
 
 // Dimension info for charts

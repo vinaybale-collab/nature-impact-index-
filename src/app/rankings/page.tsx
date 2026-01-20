@@ -246,8 +246,8 @@ export default function RankingsPage() {
               >
                 <option value="all">All Sectors</option>
                 {sectors.sectors.map((s) => (
-                  <option key={s.sector_name} value={s.sector_name}>
-                    {s.sector_name}
+                  <option key={s.sector} value={s.sector}>
+                    {s.sector}
                   </option>
                 ))}
               </select>

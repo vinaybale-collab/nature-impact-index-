@@ -1,92 +1,104 @@
-# Latest Handoff - Session 24 Complete
+# LATEST HANDOFF - Session 34
 
-**Date**: January 19, 2026
-**File**: `HANDOFF_2026_01_19_session24.md`
-
----
-
-## FOR NEXT SESSION - COPY THIS:
-
-```
-Read these files:
-1. .handoffs/HANDOFF_2026_01_19_session24.md
-2. .validation/CRITICAL_RULES_MEMORY.md
-
-Status: v3.0 complete. Need to build, commit, and deploy.
-```
+**Date**: 2026-01-20
+**Full Details**: See `HANDOFF_2026_01_20_session34.md`
 
 ---
 
-## Quick Status
+## Quick Summary
 
-| Item | Status |
+### COMPLETED THIS SESSION
+
+| Task | Status |
 |------|--------|
-| Website UI | DONE |
-| NC Calculations v3.0 | DONE |
-| Validation | DONE (3 minor issues) |
-| Documentation v5.0 | DONE |
-| **Build** | **NEEDS REBUILD** |
-| **Git Commit** | **NOT DONE** |
-| **Deploy** | **NOT DONE** |
+| Design Review 5 - All 8 Points | DONE |
+| TRUST Element (source tooltips) | DONE |
+| ACTION Element (enhanced restoration CTA) | DONE |
+| SHOCK Element | SKIPPED (per user request) |
 
----
+### Files Modified
 
-## v3.0 Changes Implemented
+1. `src/app/company/[slug]/CompanyClient.tsx` - Major changes (tooltips, layout, ACTION element)
+2. `src/components/layout/Header.tsx` - Larger header
+3. `src/app/page.tsx` - Wider landing page, 5/7 grid
+4. `src/app/rankings/page.tsx` - Wider layout, truncation
+5. `src/app/globals.css` - Responsive font sizes
+6. `src/app/layout.tsx` - font-sans class
 
-### New Coefficients (Tier 1)
-| Coefficient | Old | New | Change |
-|-------------|-----|-----|--------|
-| HAP | Rs 500/kg | Rs 3,000/kg | +500% |
-| E-Waste | Rs 70K/MT | Rs 150K/MT | +114% |
-| Plastic | Rs 50K/MT | Rs 80K/MT | +60% |
+### Key Changes Made
 
-### New Dimension: Energy Resource Depletion
-- **Rs 300/GJ** (non-renewable energy only)
-- **Impact**: +Rs 2.3 lakh Cr (7% of total TAESC)
-- **NOT double-counting**: Climate = GHG damage, This = resource scarcity
+1. **TRUST Tooltips**: Hover over calculation method cells in detailed data table to see coefficient sources (Rs 8,500/tCO2e, Rs 4L/ha, etc.)
+2. **Explainers**: 2-3 line explanations under TAESC and NIR boxes
+3. **Layout Reorganization**: Peer comparison moved from right to left side, waterfall charts expanded (380px hero, 500px detailed)
+4. **Header**: Larger (h-20), wider (max-w-1600px), gothic font on title
+5. **Landing**: Wider (max-w-1800px), 5/7 grid split so hero images fill more screen
+6. **Restoration Section**: Complete redesign with big numbers, gradient background, "Path to Nature Positive" heading, CTA
 
-### Results
-| Metric | v2.1 | v3.0 | Change |
-|--------|------|------|--------|
-| Total TAESC | Rs 30.6L Cr | Rs 33.0L Cr | +7.7% |
-| Aggregate NIR | 22.2% | 23.9% | +1.7pp |
-| Dimensions | 5 | 6 | +1 |
-
----
-
-## Next Session Commands
+### To Verify
 
 ```bash
 cd "C:\Users\Vinay Bale\Documents\nature-impact-index"
-
-# 1. Build
-npm run build
-
-# 2. Test
 npm run dev
-
-# 3. Commit
-git add .
-git commit -m "v3.0: Enhanced coefficients + Energy Depletion dimension"
+# Open http://localhost:3000
 ```
 
----
+### Critical Fix Applied
 
-## Known Issues (Low Priority)
-
-1. **3 service companies** with Bio > 80% (legitimate - their other impacts are near-zero)
-2. **13 NIR outliers** (legitimate high-impact companies like Coal India)
-3. **Punjab National Bank** NIR 31.2% may need investigation
+Fixed JSX syntax error in CompanyClient.tsx - had extra closing `</div>` tags around line 405-407 in restoration section. This was causing the whole app to fail to compile.
 
 ---
 
-## Key Files Modified
+## Design Review 5 Points - All Complete
 
-- `scripts/calculate_natural_capital.py` - v3.0
-- `NATURAL_CAPITAL_METHODOLOGY_v4.md` - Now v5.0
-- `data/company_biodiversity_scores_v7.9.0_NC_CALCULATED.csv`
-- `public/data/*.json` - 528 files regenerated
+| Point | Description | Status |
+|-------|-------------|--------|
+| 1 | Add 2-3 line explainers below TAESC and NIR boxes | DONE |
+| 2 | Expand hero waterfall chart vertically | DONE (250→380px) |
+| 3 | Move peer comparison to left, expand waterfall on right | DONE |
+| 4 | Fix detailed waterfall (remove expand/collapse, add dimension boxes) | DONE (350→500px) |
+| 5 | Fix column alignment in detailed data table | DONE (percentage widths) |
+| 6 | Expand header size for consistency | DONE |
+| 7 | Expand landing page, hero images fill more screen | DONE |
+| 8 | Confirm Inter font, increase font sizes | DONE |
 
 ---
 
-**Session 24 Complete** - Ready for build and deploy
+## Storytelling Elements Status
+
+| Element | Description | Status |
+|---------|-------------|--------|
+| SHOCK | "Equivalent to destroying X acres" under TAESC | SKIPPED (user said don't do this) |
+| TRUST | Source tooltips on coefficients | DONE |
+| ACTION | Enhanced restoration CTA section | DONE |
+
+---
+
+## Previous Sessions Context
+
+- **Session 33**: TrueWaterfall component created, layout expansion started
+- **Session 32**: Natural Capital calculations v3.1
+- **Earlier**: Data pipeline, methodology, 525 companies
+
+---
+
+## Next Session Instructions
+
+```
+Read .handoffs/LATEST_HANDOFF.md and .validation/CRITICAL_RULES_MEMORY.md then continue
+```
+
+**What to check:**
+1. Run `npm run dev` and open http://localhost:3000
+2. Verify landing page layout (wider, larger hero images)
+3. Verify company page (http://localhost:3000/company/reliance-industries-limited):
+   - Explainers visible under TAESC and NIR
+   - Peer comparison on LEFT side below ranks
+   - Waterfall charts are taller
+   - Hover over "Calculation Method" cells to see source tooltips
+   - Restoration section at bottom has big numbers and CTA
+4. Verify rankings page wider layout
+5. Check header size consistent across pages
+
+---
+
+**END OF HANDOFF**

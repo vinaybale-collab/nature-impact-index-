@@ -99,7 +99,7 @@ export default function HomePage() {
 
         // Transform sectors data for the chart
         const sectorsList = sectorsData.sectors.map((s: any) => ({
-          name: s.sector_name || s.sector,
+          name: s.sector,
           slug: s.slug,
           nir: s.avg_nir || s.median_nir || 0,
           companyCount: s.company_count,
