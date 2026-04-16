@@ -37,8 +37,11 @@ export default function Header() {
             <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-emerald-600 to-blue-600 flex items-center justify-center">
               <span className="text-white font-bold text-base">NII</span>
             </div>
-            <span className="font-gothic text-lg text-gray-900 uppercase tracking-wide hidden sm:block">
-              Nature Impact Index
+            <span className="font-gothic text-lg text-gray-900 uppercase tracking-wide hidden sm:flex sm:flex-col leading-tight">
+              <span>Nature Impact Index</span>
+              <span className="text-[11px] font-sans font-semibold tracking-wider text-amber-700 normal-case mt-0.5">
+                MVP preview
+              </span>
             </span>
           </Link>
 
