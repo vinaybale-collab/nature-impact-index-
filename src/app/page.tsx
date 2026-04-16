@@ -157,14 +157,25 @@ export default function HomePage() {
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-center">
             {/* LEFT: Message + CTAs (5 cols) */}
             <div className="lg:col-span-5 text-left animate-fade-in">
-              <h1 className="text-6xl lg:text-7xl xl:text-8xl font-gothic uppercase tracking-wide text-gray-900 mb-6 leading-tight">
+              <h1 className="text-6xl lg:text-7xl xl:text-8xl font-gothic uppercase tracking-wide text-gray-900 mb-3 leading-tight">
                 India Nature<br />
                 <span className="text-emerald-700">Impact Index</span>
               </h1>
 
-              <p className="text-xl text-gray-600 mb-8">
+              <p className="text-sm font-semibold uppercase tracking-[0.2em] text-amber-700 mb-6">
+                MVP Preview
+              </p>
+
+              <p className="text-xl text-gray-600 mb-4">
                 Measuring the true cost of business on nature.
               </p>
+
+              <div className="inline-flex items-center gap-2 px-4 py-2 mb-8 rounded-full bg-amber-50 border border-amber-200">
+                <span className="w-1.5 h-1.5 rounded-full bg-amber-500" />
+                <span className="text-sm font-medium text-amber-800">
+                  MVP preview. Data under construction and review.
+                </span>
+              </div>
 
               <div className="mb-8">
                 <p className="text-lg text-gray-500 mb-2">

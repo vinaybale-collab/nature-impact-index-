@@ -3,6 +3,7 @@ import { Inter, JetBrains_Mono } from 'next/font/google';
 import Script from 'next/script';
 import './globals.css';
 import { ToggleProvider } from '@/context/ToggleContext';
+import MVPWatermark from '@/components/ui/MVPWatermark';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -62,6 +63,7 @@ export default function RootLayout({
       <body className="font-sans antialiased text-base">
         <ToggleProvider>
           {children}
+          <MVPWatermark />
         </ToggleProvider>
       </body>
     </html>
